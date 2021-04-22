@@ -2,8 +2,8 @@
 
  
 All the original parallel corpora are from [OPUS](https://opus.nlpl.eu/).
-We chose EMEA, GNOME and JRC domains for German to English. 
 
+We chose **EMEA**, **GNOME** and **JRC-Acquis** domains for German to English. 
 
 
 ##
@@ -20,3 +20,4 @@ We chose EMEA, GNOME and JRC domains for German to English.
 3. `\original_documents` :
     - In order to simulate our scenario better, we obtain the datasets by documents.
     We also provide the documents used to consist of our datasets.
+
