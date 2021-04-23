@@ -1,0 +1,20 @@
+Find memory-management problems in your programs using the valgrind tool
+Enter the path to an executable and any arguments you wish to pass to it .
+Could not save to ' % s
+Could not save to ' % s
+Alleyoop is a Valgrind front-end for the GNOME environment .
+Add < dir > to the list of directories to search for source files
+Recursively add < dir > and all subdirectories to the list of directories to search for source files
+Specify the default Valgrind tool to use
+lines above and below the target line .
+Failed to create pipe to ' % s ' : % s
+Failed to create child process ' % s ' : % s
+Invalid syntax in settings ' % s ' . Please enter a value of the form " < integer > , < integer > , < integer > " .
+Stop showing errors if there are too many
+Trace any child processes forked off by the program being debugged
+Call _ _ libc _ freeres ( ) at exit before checking for memory leaks
+bytes in the queue after being free ( ) ' d
+Error saving to suppression file ' % s
+You have forgotten to name your suppression rule .
+Cannot save suppression rules : % s
+You have not set a suppressions file in your settings .

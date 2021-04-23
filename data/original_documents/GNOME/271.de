@@ -1,0 +1,86 @@
+Die Standard-Werkzeugleiste enthält einen Grundbestand an Werkzeugen :
+Werkzeuge in der Werkzeugleiste hinzufügen , entfernen und neu anordnen .
+So fügen Sie neue Einträge zur Werkzeugleiste hinzu :
+Ziehen Sie sie aus dem Werkzeugleisteneditor in die Werkzeugleiste .
+Sie entfernen Sie Einträge aus der Werkzeugleiste :
+Ziehen Sie sie aus der Werkzeugleiste in den Werkzeugleisteneditor .
+So ordnen Sie die Einträge in der Werkzeugleiste neu an :
+Ziehen Sie sie in der Werkzeugleiste an die gewünschte Position .
+Wenn Sie Text kopieren , so könnte der eingefügte Text nicht unbedingt derjenige sein , den Sie ausgewählt hatten .
+Warum ist der Text nicht richtig kopiert worden , den ich ausgewählt habe ?
+Dieses Problem besteht , weil einige Dokumentformate Text anders handhaben . Der eigentliche Text im Dokument wird anders gespeichert , als er dargestellt wird . Dies kann zu einer Textkopie führen , die nicht wie erwartet aussieht .
+So fügen Sie Unterstützung für SyncTex hinzu .
+Die folgenden Pakete müssen installiert werden , um Unterstützung für SyncTeX hinzuzufügen :
+Vorwärtssuche ermöglicht es , einen bestimmten Abschnitt im TeX-Quellcode auszuwählen und sofort zur entsprechenden Position im PDF-Dokument zu springen . So führen Sie eine Vorwärtssuche aus :
+Klicken Sie auf eine Zeile in der TeX-Datei .
+Wenn Sie ein komplexes Projekt mit mehreren TeX-Dateien haben , so können Sie
+entweder in den ersten oder letzten drei Zeilen jeder eingebundenen TeX-Datei angeben , damit die Vorwärtssuche funktioniert . Rückwärtssuche sollte immer funktionieren , selbst wenn Sie die Zeile nicht hinzufügen .
+Rückwärtssuche ermöglicht es , eine bestimmte Zeile in der PDF-Datei auszuwählen und sofort zur entsprechenden Zeile im TeX-Quellcode zu springen .
+SyncTeX ist eine Möglichkeit des Abgleichs einer TeX-Quelldatei mit der resultierenden PDF-Ausgabe .
+Welchen Editor können Sie zum Bearbeiten Ihrer TeX-Datei verwenden ?
+Kopieren Sie » evince_dbus.py « in einen beliebigen Ordner in Ihrem Suchpfad und machen Sie es ausführbar .
+Bearbeiten Sie die Datei ~/ .vimrc und fügen Sie die folgenden Zeilen hinzu .
+let g:Tex_ViewRule_pdf = 'evince_dbus.py ' let g:Tex_DefaultTargetFormat = 'pdf ' let g:Tex_CompileRule_pdf = 'pdflatex --synctex=1 -interaction=nonstopmode $* '
+Jetzt können Sie die Vorwärtssuche in vim-latex nutzen , indem Sie \\ls eingeben . Die Rückwärtssuche wird noch nicht unterstützt .
+So kompilieren Sie Ihr TeX-Dokument mit SyncTeX
+\\documentclass{article } \\synctex=1 \\usepackage{fullpage } \\begin{document } ... \\end{document }
+SyncTeX mit der Beamer-Klasse von LaTeX verwenden .
+Beamer ist eine LaTeX-Klasse für die Erstellung von Präsentationsfolien .
+bezugnehmend auf die von Ihnen angeklickte Folie .
+Eine Broschüre mit 20 Seiten drucken .
+Wenn die Zahl der Seiten in Ihrem PDF-Dokument kein Vielfaches von 4 ist , so sollten Sie eine entsprechende Anzahl Leerseiten ( 1 , 2 oder 3 ) einfügen , um ein Vielfaches von 4 zu erzielen . Dies können Sie u.a. so erreichen :
+n , 1 , 2 , n-1 , n-2 , 3 , 4 , n-3 , n-4 , 5 , 6 , n-5 , n-6 , 7 , 8 , n-7 , n-8 , 9 , 10 , n-9 , n-10 , 11 , 12 , n-11
+bis Sie n Seitennummern eingegeben haben .
+Sobald alle Seiten gedruckt wurden , drehen Sie den Papierstapel um und legen ihn wieder in den Drucker ein .
+Eine 9- , 10- , 11- oder 12-seitige Broschüre drucken .
+Wenn Sie ein 9- , 10- oder 11-seitiges PDF-Dokument haben , dann sollten Sie die passende Zahl Leerseiten hinzufügen , um es zu einem 12-seitigen zu machen . Um dies zu tun , können Sie :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 12 , 1 , 2 , 11 , 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Eine 5- , 6- , 7- oder 8-seitige Broschüre drucken .
+Wenn Sie ein 5- , 6- oder 7-seitiges PDF-Dokument haben , dann sollten Sie die passende Zahl Leerseiten hinzufügen , um es zu einem 8-seitigen zu machen . Um dies zu tun , können Sie :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 8 , 1 , 2 , 7 , 6 , 3 , 4 , 5
+Eine 3- oder 4-seitige Broschüre drucken .
+Wenn Sie ein 3-seitiges PDF-Dokument haben , dann sollten Sie eine Leerseite hinzufügen , um es zu einem 4-seitigen zu machen . Um dies zu tun , können Sie :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 4 , 1 , 2 , 3
+Eine 17- , 18- , 19- oder 20-seitige Broschüre drucken .
+Wenn Sie ein 17- , 18- oder 19-seitiges PDF-Dokument haben , dann sollten Sie die passende Zahl Leerseiten hinzufügen , um es zu einem 20-seitigen zu machen . Um dies zu tun , können Sie :
+20 , 1 , 2 , 19 , 18 , 3 , 4 , 17 , 16 , 5 , 6 , 15 , 14 , 7 , 8 , 13 , 12 , 9 , 10 , 11
+Eine 13- , 14- , 15- oder 16-seitige Broschüre drucken .
+Wenn Sie ein 13- , 14- oder 15-seitiges PDF-Dokument haben , dann sollten Sie die passende Zahl Leerseiten hinzufügen , um es zu einem 16-seitigen zu machen . Um dies zu tun , können Sie :
+16 , 1 , 2 , 15 , 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9
+Schauen Sie in die Liste aller Tastenkombinationen und lesen Sie , wie Sie ihre eigenen Kombinationen erstellen .
+Öffnen , Schließen , Speichern und Drucken
+Eine Kopie des aktuellen Dokuments öffnen .
+Eine Kopie des aktuellen Dokuments unter einem neuen Namen speichern .
+Das Dokument neu laden ( schließt und öffnet das Dokument tatsächlich erneut ) .
+Eine Seite nach oben/ unten gehen .
+Eine Seite mehrere Zeilen nach oben/ unten gehen .
+An den Anfang des Dokuments springen .
+An das Ende des Dokuments springen .
+Den gesamten Text in einem Dokument auswählen .
+Die Werkzeugleiste anzeigen , die eine Suche nach Wörtern im Dokument ermöglicht . Das Suchfeld wird automatisch hervorgehoben , wenn Sie dies drücken und die Suche beginnt , sobald Sie einige Buchstaben eintippen .
+Die Seiten um 90 Grad gegen den Uhrzeigersinn drehen .
+Die Seiten um 90 Grad im Uhrzeigersinn drehen .
+Aktivieren Sie den Schalter / desktop/ gnome/ interface/ can_change_accels in gconf :
+Geben Sie » gconf-editor « im Textfeld ein .
+Sie können wie folgt eine Tastenkombinationen hinzufügen oder ändern :
+Fahren Sie mit der Maus über den Menüpunkt , für den Sie die Tastenkombinationen ändern oder erstellen möchten .
+Beachten Sie , dass dies genauso für viele andere Gnome-Anwendungen auch funktioniert .
+Ihr Dokument wird automatisch neu geladen , wenn es von einem anderen Programm verändert wird , während Sie es betrachten .
+Warum wird das Dokument ständig neu geladen ?
+Nur bestimmte Seiten oder einen Seitenbereich drucken .
+So drucken Sie nur bestimmte Seiten eines Dokuments :
+Geben Sie die Nummern der Seiten im Textfeld durch Kommata getrennt ein , die Sie drucken möchten . Verwenden Sie einen Bindestrich , um zusammenhängende Bereiche anzugeben .
+Verwenden Sie die Optionen » Rückwärts « und » Zusammentragen « , um in gewünschter Reihenfolge zu drucken .
+Drucker drucken normalerweise die erste Seite zuerst und die letzte zuletzt , d.h. die Blätter sind in umgekehrter Reihenfolge , wenn Sie sie aufnehmen .
+Wenn Sie mehr als eine Ausgabe des Dokuments drucken , dann werden nach Voreinstellung die Seiten nach Seitennummer gruppiert ausgedruckt . ( z.B. erst n mal Seite eins , dann n mal Seite zwei etc. ) Zusammentragen bedeutet , dass alle Dokumentseiten jeweils gruppiert ( n mal ) ausgedruckt werden
+Drucken ist für die folgenden Dateiformate möglich :
+Device Independent file format ( .dvi )
+Tagged Image File Format ( .tiff , .tif )
+Ein Dokument auf Papier verschiedener Größe , Form und Ausrichtung drucken .
+Wenn Sie die Papiergröße Ihres Dokuments ändern möchten ( z.B. ein PDF in US-Letter auf A4-Papier drucken ) , so können Sie das Druckformat für das Dokument ändern .
+Wenn Sie eine Broschüre drucken ( die möglicherweise in der Mitte jeder Seite gebunden oder geheftet werden soll ) , wählen Sie den Druckertyp zum Ausdrucken aus der Liste unten . Wählen Sie dann die Anzahl der gedruckten Seiten , die Ihre Broschüre haben soll .
+Zweiseitig mit mehreren Seiten pro Blatt drucken .
+Beidseitiges Layout mit mehreren Seiten pro Blatt für den Druck
+Sie können auf beiden Seiten jedes Blattes drucken :
+Die Präsentation wird im Vollbildmodus angezeigt .
+Anmerkungen können nur zu PDF-Dateien hinzugefügt werden .

@@ -1,0 +1,2 @@
+This key determines the GTK + modules to load for accessibility support .
+In combination with / desktop / gnome / interface / accessibility , this key is needed to enable the CORBA-based AT-SPI infrastructure if the CORBA-based AT-SPI infrastructure has been relocated . It is ignored if the CORBA-based AT-SPI infrastructure has not been relocated .

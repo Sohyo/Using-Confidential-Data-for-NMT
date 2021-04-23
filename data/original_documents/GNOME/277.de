@@ -1,0 +1,109 @@
+So passen Sie Verfasser , Farbe , Stil und das Symbol einer Anmerkung an .
+Klicken Sie mit der rechten Maustaste auf das Symbol für Anmerkungen im Dokument .
+Die Eigenschaften für Anmerkungen werden nur auf die Notiz angewendet , für die Sie die Änderungen getätigt haben . Jede Notiz kann eigene Eigenschaften haben .
+Kann ich dauerhaft die voreingestellten Eigenschaften für Anmerkungen ändern ?
+Anmerkungen können nur zu PDF-Dateien hinzugefügt werden .
+Anmerkungen können nur zu PDF-Dateien hinzugefügt werden . Falls Ihre Datei in einem anderen als dem PDF-Format vorliegt , so wird die Option zum Hinzufügen ausgegraut ( deaktiviert ) sein._
+So erstellen Sie Anmerkungen und passen diese an .
+Klicken Sie auf das Symbol , um eine Anmerkung in Textform hinzuzufügen .
+Sie können die Notizgröße anpassen , indem Sie mit der linken Maustaste auf eine der beiden unteren Ecken klicken und bei gedrückter Taste den Zeiger bewegen .
+Eine Kopie eines PDF mit Anmerkungen speichern
+Sie können Anmerkungen wie Lesezeichen verwenden .
+Wechseln Sie im PDF-Dokument selbst zu der Seite , für die Sie ein Lesezeichen hinzufügen wollen .
+Das Lesezeichen ist nun in der Liste der Lesezeichen aufgeführt .
+Wählen Sie das Lesezeichen in der Seitenleiste .
+Wo Sie wie Probleme melden können .
+Die ist eine Fehlerdatenbank , in der Benutzer und Entwickler Details zu Fehlern , Abstürzen und Erweiterungswünschen hinterlegen .
+File a Bug Desktop evince Anweisungen zum Erstellen von Fehlerberichten suchen
+Ihr Bericht bekommt eine Kennung ( ID ) zugewiesen und der Status wird mit laufender Bearbeitung stets aktualisiert.sort
+Sie können mehrere Dateien öffnen , indem Sie die Dateinamen nach dem Befehl » evince « eingeben . Dateinamen werden durch Kommata getrennt :
+Ein Dokument auf einer bestimmten Seite öffnen
+Sie können ein Dokument in ein PDF umwandeln , indem Sie es in eine Datei » drucken « .
+Sie können Dokumente der folgenden Formate in PDF-Dateien umwandeln :
+Device Independent file format ( .dvi )
+Sie können ein Dokument in eine PostScript-Datei umwandeln .
+Sie können Dokumente der folgenden Formate in PostScript-Dateien umwandeln :
+Tagged Image File Format ( .tiff , .tif )
+Sie können ein Dokument in SVG umwandeln , indem Sie es in eine Datei » drucken « .
+Sie können Dokumente der folgenden Formate in SVG-Dateien umwandeln :
+Die aktuellen Einstellungen als Vorgabe für neue Dokumente speichern .
+Wenn ein Dokument zum ersten Mal geöffnet wird , werden Vorgabeeinstellungen wie Vergrößerung und Ansichtseinstellungen angewendet . Jede Änderung , die Sie an diesen Einstellungen vornehmen , werden für das Dokument gespeichert .
+Bearbeiten Momentane Einstellungen als Standard speichern Strg T
+Die neuen Vorgabeeinstellungen gelten nicht für Dokumente , die zuvor bereits einmal geöffnet waren , sondern werden nur für Dokumente angewendet , die zum ersten Mal geöffnet werden .
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7 , 2
+Beidseitig Layout Kurzer Rand ( Umdrehen )
+Sobald die Seiten gedruckt wurden , nehmen Sie bitte das Blatt mit Seite 2 und legen es zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , Seite 1 wird auf die andere Seite gedruckt .
+Es ist einfacher , eine 12-seitige Broschüre zu drucken . Es ist vermutlich besser , 2 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 12-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 11 , 2 , 1
+Beidseitig Layout Kurzer Rand ( Umdrehen )
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Es ist einfacher , eine 12-seitige Broschüre zu drucken . Es ist vermutlich besser , eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 12-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 12 , 1 , 2 , 11 , 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Sobald die Seite gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , Seite 2 wird auf die andere Seite gedruckt .
+Sobald Seite 3 gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , die Seiten 4 und 13 werden auf die andere Seite gedruckt .
+Es ist einfacher , eine 16-seitige Broschüre zu drucken . Es ist vermutlich besser , 3 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 16-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9 , 2
+Es ist einfacher , eine 16-seitige Broschüre zu drucken . Es ist vermutlich besser , 2 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 16-seitig zu machen . Dies können Sie so tun :
+Es ist einfacher , eine 16-seitige Broschüre zu drucken . Es ist vermutlich besser , eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 16-seitig zu machen . Dies können Sie so tun :
+16 , 1 , 2 , 15 , 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9
+Es ist einfacher , eine 4-seitige Broschüre zu drucken . Es ist vermutlich besser , eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 4-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 4 , 1 , 2 , 3sort
+Sobald Seite 3 gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , die Seiten 4 und 9 werden auf die andere Seite gedruckt .
+Es ist einfacher , eine 8-seitige Broschüre zu drucken . Es ist vermutlich besser , 3 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 8-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 6 , 3 , 4 , 5 , 2
+Es ist einfacher , eine 8-seitige Broschüre zu drucken . Es ist vermutlich besser , 2 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 8-seitig zu machen . Dies können Sie so tun:sort
+Geben Sie die Seitenzahl in dieser Reihenfolge ein : 7 , 2 , 1
+Geben Sie die Zahlen der verbleibenden Seiten in dieser Reihenfolge ein : 6 , 3 , 4 , 5
+Es ist einfacher , eine 8-seitige Broschüre zu drucken . Es ist vermutlich besser eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 8-seitig zu machen . Dies können Sie so tun:sort
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 8 , 1 , 2 , 7 , 6 , 3 , 4 , 5sort
+Sobald Seite 3 gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , die Seiten 4 und 9 werden auf die andere Seite gedruckt .
+Es ist einfacher , eine 12-seitige Broschüre zu drucken . Es ist vermutlich besser 3 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 12-seitig zu machen . Dies können Sie so tun :
+Eine Broschüre mit 16 Seiten drucken .
+Wenn die Zahl der Seiten in Ihrem PDF-Dokument kein Vielfaches von 4 ist , so sollten Sie eine entsprechende Anzahl Leerseiten ( 1,2 oder 3 ) einfügen , um ein Vielfaches von 4 zu erzielen . Dies können Sie u.a. so erreichen :
+n , 1 , 2 , n-1 , n-2 , 3 , 4 , n-3 , n-4 , 5 , 6 , n-5 , n-6 , 7 , 8 , n-7 , n-8 , 9 , 10 , n-9 , n-10 , 11 , 12 , n-11
+bis Sie n Seitennummern eingegeben haben .
+Kann ich Dokumente im Dokumentenbetrachter bearbeiten ?
+Ein Wort oder einen Ausdruck im Dokument suchen .
+Tippen Sie das Wort oder den Ausdruck ein , nach dem Sie suchen möchten . Die Suche startet automatisch .
+Sie können nur PDF-Dokumente durchsuchen . Einige PDF-Dokumente können nicht durchsucht werden , weil der Text tatsächlich als digitales Bild im Dokument hinterlegt ist .
+PDF , PostScript und viele andere .
+In einigen Linux-Distributionen werden nicht alle Formate von Haus aus unterstützt , d.h. Sie können eventuell nicht alle oben aufgeführten Formate anzeigen .
+Sie können in einem rollbaren Listenfeld eine Auswahl vornehmen , indem Sie in das Listenfeld klicken und mit der Maus zu Ihrer Auswahl rollen .
+Stellen Sie sicher , dass Sie das Formular speichern , andernfalls gehen alle eingegebenen Informationen unwiderruflich verloren .
+Sie möchten vermutlich Ihr Formular speichern , nachdem Sie es auf eine der beiden Weisen ausgefüllt haben :
+So speichern Sie eine Kopie , die zukünftig bearbeitet werden kann ( das Formular bleibt interaktiv ) :
+So speichern Sie eine Kopie , die zukünftig nicht mehr bearbeitet werden kann ( um zum Beispiel das Formular per E-Mail zu versenden oder online einzuschicken ) :
+Kopien von verschlüsselten Dateien können nicht gespeichert oder gedruckt werden.link
+Manche Texte sind nach einer Umkehrung der Farben besser lesbar .
+Dies kann die Lesbarkeit von Text verbessern , insbesondere im Fall von bestimmten Sehbehinderungen .
+Dieses Werk wird unter einer » CreativeCommons Attribution-Share Alike 3.0 Unported license « verbreitet .
+Das Werk bzw. den Inhalt zu vervielfältigen , zu verbreiten und öffentlich zugänglich zu machen .
+Sie dürfen das Werk nur unter gleichen Bedingungen weitergeben , wie Sie vom Autor oder Lizenzgeber festgelegt wurden ( aber nicht so , dass es wie Ihr Werk aussieht ) .
+Wenn Sie das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeiten , abwandeln oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwenden , dürfen Sie die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben , die mit denen dieses Lizenzvertrages identisch , vergleichbar oder kompatibel sind .
+Creative Commons Attribution-Share Alike 3.0 United States License
+Als besondere Ausnahme erteilen Ihnen die Urheberrechtsinhaber die Genehmigung , den in diesem Dokument enthaltenen Beispielcode ohne Einschränkung unter den Bedingungen Ihrer Wahl zu verbreiten .
+Sie können jede Seite eines Dokuments auf eine der folgenden Weisen durchsuchen :
+Die Seite mittels des mittleren Mausrads nach oben und unten verschieben . So bewegen Sie sich durch Verschieben der Maus in einer Seite :
+Bewegen Sie den Mauszeiger an den unteren Rand des Fensters , um das Bild nach unten laufen zu lassen ; die Geschwindigkeit hängt davon ab , wie tief der Zeiger bewegt wird .
+Klicken Sie auf eine beliebige Stelle im Dokument , um den automatischen Bildlauf zu stoppen .
+Die Pfeiltasten nach oben oder nach unten auf der Tastatur verwenden .
+Die Seite mit der Maus verschieben , als ob Sie sie mit der Hand anfassen würden . So führen Sie dies aus :
+Bewegen Sie den Mauszeiger über die Seite und halten Sie die mittlere Maustaste gedrückt , um es verschieben zu können .
+Wenn Sie keine mittlere Maustaste haben , halten Sie die linke und rechte Maustaste zugleich gedrückt , um verschieben zu können .
+Sie können zwischen Seiten des Dokuments mit Hilfe einer der folgenden Möglichkeiten wechseln :
+So gehen Sie zu einer bestimmten Seite :
+Wenn Sie zum Anfang oder das Ende des Dokuments springen möchten :
+Sie können zu Seiten wechseln , indem Sie auf die Vorschau in der Seitenleiste klicken .
+Die meisten Dokumente unterstützen nicht dieses Merkmal , d.h. der Inhalt kann nicht in der Seitenleiste dargestellt werden .
+Alternativ können Sie einen der folgenden Schritte ausführen :
+Wählen Sie die gewünschte Vergrößerung in der Auswahlliste über dem Fenster .
+Sie können den gesamten Bildschirm zum Betrachten eines Dokuments nutzen :
+Der Verfasser hat eventuell Druckbeschränkungen für das Dokument festgelegt .
+Ein Dokument kann eventuell nicht gedruckt werden , wegen :
+Es gibt viele Gründe , warum Ihr Drucker nicht funktionieren könnte . Zum Beispiel könnte das Papier oder die Tinte ausgegangen sein , oder der Drucker ist beschädigt oder nicht angeschlossen .
+So prüfen Sie , ob Ihr Drucker ordnungsgemäß drucken kann :
+Klicken Sie auf Ihren Drucker in der Liste .
+Warum kann ich eine Datei nicht öffnen ?
+Sie können ein Dokument auf folgende Arten öffnen :
+Diese Passwörter werden von der Person festgelegt , die das Dokument erstellt .
+Die Präsentation wird im Vollbildmodus angezeigt .

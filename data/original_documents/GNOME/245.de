@@ -1,0 +1,64 @@
+http:/ /www.google.de/ search ? q=%samp ; ie=UTF-8amp ; oe=UTF-8
+Um zu bestätigen , dass Sie den obigen Text signieren möchten , wählen Sie bitte ein Zertifikat aus und geben dessen Passwort ein .
+Zum Beispiel nicht von Werbekunden dieser Seite
+Epiphany kann im Moment nicht verwendet werden , da die Initialisierung gescheitert ist .
+Die zu verwendende Zertifikatdatei wurde nicht gefunden . Daher werden die Zertifikate aller SSL-Seiten als ungültig angesehen .
+Es war nicht möglich , diese Webseite zu laden
+Diese Seite könnte verursacht haben , dass Epiphany unerwartet beendet wurde
+Unbekannte Version der Desktop-Datei » %s «
+Die Anwendung unterstützt keine Dokumente über die Befehlszeile
+Dokumentadressen könne nicht an einem Desktop-Eintrag mit » Type=Link « übergeben werden
+Das gewählte Objekt auf der Werkzeugleiste verschieben
+Das gewählte Objekt aus der Werkzeugleiste entfernen
+Temporärer Ordner konnte nicht in » %s « angelegt werden .
+Die Datei » %s « existiert , bitte entfernen Sie sie von dort .
+Ordner » %s « konnte nicht angelegt werden .
+Ordner » %s « ist nicht beschreibbar
+Sie haben nicht die nötigen Zugriffsrechte um in diesem Ordner Dateien zu erstellen .
+Vorhandene Datei » %s « kann nicht überschrieben werden
+Eine Datei mit diesem Namen ist bereits vorhanden . Beim Überschreiben dieser Datei geht ihr Inhalt verloren .
+Hilfe konnte nicht angezeigt werden : %s
+Passwörter der vorhergehenden Version ( Gecko ) sind mit einem Master-Passwort gesperrt . Wenn Epiphany sie importieren soll , dann geben Sie bitte das Master-Passwort unten ein .
+%-d . %b %-H:%Mfriendly timeFeb 12 1997
+Ziehen Sie dieses Symbol und legen Sie es ab , um einen Link zu dieser Seite zu erstellen
+Führt das Script » %s « aus
+Soll das Lesezeichen » %s « aktualisiert werden ?
+Die gemerkte Seite befindet sich nun unter » %s « .
+Das gewählte Lesezeichen in einem neuen Fenster öffnen
+Das gewählte Lesezeichen in einem neuen Reiter öffnen
+Die Eigenschaften des gewählten Lesezeichens anzeigen / bearbeiten
+Lesezeichen aus einem anderen Browser oder einer Lesezeichendatei importieren
+Das gewählte Lesezeichen auf einer Werkzeugleiste anzeigen
+Soll das Thema » %s « gelöscht werden ?
+Das Löschen dieses Themas hat zur Folge , dass alle in ihm enthaltenen Lesezeichen unzugeordnet sein werden , sofern sie zu keinem anderen Thema gehören . Die Lesezeichen werden nicht gelöscht .
+Die Lesezeichen von » %s « konnten nicht importiert werden , da die Datei beschädigt ist oder ihr Format nicht unterstützt wird .
+Dieses Lesezeichen in einem neuen Reiter öffnen
+Dieses Lesezeichen in einem neuen Fenster öffnen
+Lesezeichen in diesem Thema in neuen Reitern öffnen
+Den gewählten Chronik-Link in einem neuen Fenster öffnen
+Den gewählten Chronik-Link in einem neuen Reiter öffnen
+Das Leeren der Browser-Chronik sorgt dafür , dass alle Links in der Chronik dauerhaft gelöscht werden .
+Einen neuen Reiter in einem bestehenden Fenster öffnen
+Der Webbrowser konnte nicht gestartet werden : %s
+Es werden noch Dateien heruntergeladen . Wenn Sie sich abmelden , werden diese Downloads abgebrochen und gehen verloren .
+Sollen vorherige Browser-Fenster und -Reiter wiederhergestellt werden ?
+Geben Sie eine zu öffnende Website oder einen Begriff ein , nach dem das Web durchsucht werden soll
+Einen Link auf die momentan geöffnete Seite verschicken
+Ein Wort oder eine Zeichenkette in der Seite finden
+Die nächste Stelle suchen , an der diese Zeichenkette vorkommt
+Die vorherige Stelle suchen , an der diese Zeichenkette vorkommt
+Ein Lesezeichen für die momentan geöffnete Seite hinzufügen
+Die aktiven Downloads für dieses Fenster zeigen
+Unangeforderte Popup-Fenster von dieser Seite anzeigen/ verbergen
+Einige Änderungen an Formularelementen wurden nicht übertragen
+Falls Sie das Dokument dennoch schließen , gehen diese Informationen verloren .
+In diesem Fenster gibt es aktive Downloads
+Falls Sie dieses Fenster schließen , werden die Downloads abgebrochen
+Bild » %s « als Hintergrundbild verwenden
+Wählen Sie die persönlichen Daten , die gelöscht werden sollen
+Sie sind im Begriff , persönliche Daten über Ihre besuchten Webseiten zu löschen . Überprüfen Sie die Art der zu löschenden Informationen , bevor Sie fortfahren :
+Der Webbrowser ist freie Software . Sie können ihn unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung des Webbrowsers erfolgt in der Hoffnung , dass er Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizierte Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit dem Webbrowser erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA .
+Lässt Sie Webseiten betrachten und Informationen im Internet finden . Verwendet WebKit
+Durch Drücken von F7 schalten Sie den Caret-Modus ein oder aus . Dieses Funktionsmerkmal platziert einen beweglichen Cursor in Webseiten , den Sie mit der Tastatur steuern können . Wollen Sie den Caret-Modus einschalten ?

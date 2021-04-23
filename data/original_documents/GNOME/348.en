@@ -1,0 +1,22 @@
+Frogr : a Flickr Remote Organizer for GNOME
+Enter a spaces separated list of tags :
+Please press the button to authorize % s and then come back to complete the process .
+Error uploading video : You can 't upload more videos with this account
+Error : Photo already in the maximum number of groups possible
+Error : Photo added to group 's queue
+Error : Photo already added to group 's queue
+Error : Content not allowed for this group
+Error % s is not properly authorized to upload pictures to Flickr . Please re-authorize it
+Unable to authenticate in Flickr Please try again .
+You have not properly authorized % s yet . Please try again .
+Invalid verification code . Please try again .
+An error happened : % s .
+Retrying Upload ( attempt % d / % d ) …
+You need to properly authorize % s before uploading any pictures to Flickr . Please re-authorize it .
+You need to be connected before uploading any pictures to Flickr .
+Default ( as specified in Flickr )
+An error happened trying to load the picture
+Unable to load picture % s : % s
+Unable to load video % s Please check that you have the right codec installed
+Can 't load file % s : Size of file is bigger than the maximum allowed for this account ( % s )
+_ Keep File Extensions in Titles when Loading

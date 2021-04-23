@@ -1,0 +1,14 @@
+Geben Sie den gewünschten Namen der neuen Gruppe ein .
+Geben Sie die E-Mail-Adresse der hinzuzufügenden Person ein .
+» { 0 } « löschen ?
+Dies entfernt die Gruppe , aber nicht die darin enthaltenen Kontakte .
+{ 0 } bittet um eine Audio-Unterhaltung
+{ 0 } bittet um eine Video-Unterhaltung
+Diese Person für Unterhaltungen mit Ihnen autorisieren
+Dieses Projekt ist in der Alpha-Phase , gegenwärtig wird nur dieses Sofortnachrichtenprotokoll unterstützt .
+Telepathy-Verbindungsverwaltung mit Sofortnachrichten- oder Textfähigkeiten für dieses Konto
+Liste der GUIDs der aktuell gespeicherten Gruppenfenster .
+Der Name des und der Pfad zum zu verwendenden Thema .
+Der Name des und der Pfad zum aktuell ausgewählten Anwendungsstils .
+Der Name des und der Pfad zum aktuell ausgewählten Kontaktstils .
+Der Name des und der Pfad zum aktuell ausgewählten Nachrichtenstils .

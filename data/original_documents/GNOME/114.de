@@ -1,0 +1,11 @@
+Zeichnen Sie auf , was auf Ihrem Desktop passiert
+Adresse des Dateinamens , den Byzanz am Beginn einer Aufzeichnung vorschlägt .
+Diese Methode als Standard-Aufnahmemethode benutzen . Muss einer der Werte » screen « zur Aufnahme des ganzen Bildschirms , » area « zur Auswahl eines Bereichs oder » window « zur Auswahl eines Fensters sein .
+Falls gewählt , zeichnet Byzanz den Ton des gewählten Audiogerätes auf , wenn das Format es unterstützt . Dies erlaubt Erläuterungen während der Aufzeichnung .
+Aufruf : %s [ OPTIONEN ] EINGABEDATEI AUSGABEDATEI
+Dauer der Animation ( Standard : 10 Sekunden )
+Pause vor Start ( Standard : 1 Sekunde )
+Aufruf : %s [ OPTIONEN ] Dateiname
+Aufzeichnung beginnt . Sie wird %d Sekunden dauern
+Aufzeichnung beginnt . Sie wird %d Sekunden dauern
+Angegebener Bereich befindet sich außerhalb der Arbeitsfläche .

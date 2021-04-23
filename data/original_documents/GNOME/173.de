@@ -1,0 +1,16 @@
+Legt fest , ob das Hauptfenster beim Start maximiert ist .
+Die Breite des Index- und Sucheabschnitts .
+Ausgewählter Reiter : » content « ( Inhalt ) oder » search « ( Suche )
+Welcher der Reiter aktuell ausgewählt ist , » content « ( Inhalt ) oder » search « ( Suche ) .
+Legt fest , ob Bücher in der Benutzeroberfläche nach Sprache gruppiert werden sollen
+Schrift für Text gleicher Schriftzeichenbreite wie z.B. Programmcode .
+F2 schlägt das Wort unter der Eingabemarke in Devhelp nach
+API-Dokumentation für das Wort an der Zeigerposition anzeigenDevhelp
+Fokus auf das Suchfeld im Devhelp-Fenster legen
+Suchen und jeden Treffer im Zusatzfenster anzeigen
+» %s « wurde erwartet , » %s « erhalten in Zeile %d , Spalte %d
+Ungültiger Namensraum » %s « - Zeile %d , Spalte %d
+» title«- , » name«- sowie » link«-Elemente erforderlich in Zeile %d , Spalte %d
+» name « sowie » link«-Elemente innerhalb
+» name « sowie » link«-Elemente innerhalb » %s « erforderlich - Zeile %d , Spalte %d
+Buch » %s « konnte nicht entpackt werden : %s

@@ -1,0 +1,45 @@
+Ein Menü , um schnell zwischen Benutzern zu wechseln
+Legt fest , wie das Applet im Panel angezeigt wird . Verwenden Sie » username « , um den Namen des aktuellen Benutzers , » Icon « , um das Benutzersymbol oder » text « , um das Wort » Benutzer « anzuzeigen .
+Legt fest , wann der Menüeintrag » Anmeldefenster « erscheint . Mögliche Werte sind : » always « , um den Eintrag immer anzuzeigen , » never « , um den Eintrag nie anzuzeigen und » auto « ( die Standardeinstellung ) , um den Eintrag anzuzeigen , wenn sich das Applet im Xnest-Modus befindet .
+Legt fest , wann der Menüeintrag » Andere « erscheint . Mögliche Werte sind : » always « , um den Eintrag immer anzuzeigen , » never « , um den Eintrag nie anzuzeigen und » auto « ( die Standardeinstellung ) , um den Eintrag anzuzeigen , wenn sich das Applet im Konsolen-Modus ( nicht im Xnest-Modus ) befindet .
+Legt fest , ob ein neues Xnest-Fenster anstatt einer vollständig neuen Konsole beim Benutzerwechsel angelegt wird .
+Legt fest , ob der Bildschirm nach dem Wechsel auf eine andere Konsole gesperrt wird .
+Legt fest , ob nur aktuell angemeldete Benutzer oder alle Benutzer angezeigt werden .
+Einige Einstellungen wurden vom Systemadministrator gesperrt .
+Der Benutzer zu dem Sie wechseln möchten , ist auf diesem Rechner mehrfach angemeldet . Zu welcher Anmeldung möchten Sie wechseln ?
+Den Namen des aktuellen Benutzers als Menütitel verwenden
+Wenn ein neuer Anmeldevorgang für einen Benutzerwechsel angelegt werden muss , wird dieser in einem Fenster anstatt in einem neuen Bildschirm gestartet
+Wenn zu einem anderen virtuellen Bildschirm gewechselt wird , wird für diesen virtuellen Bildschirm der Bildschirmschoner aktiviert .
+Das Benutzerwechsel-Applet ist freie Software . Sie können es unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung des Benutzerwechsel-Applets erfolgt in der Hoffnung , dass es Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizierte Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit dem Benutzerwechsel-Applet erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA , 02110-1301 USE .
+Ein Menü , um schnell zwischen Benutzern zu wechseln .
+%s ist ein verschachteltes Fenster auf Konsole %d
+Damit die Benutzerauswahl richtig funktioniert , muss der GNOME-Display-Manager aktiv sein . Dies ist jedoch nicht der Fall .
+Mehrere grafische Anmeldebildschirme werden von diesem System nicht unterstützt .
+Derzeit sind zu viele Sitzungen aktiv , um eine neue zu erzeugen . Irgendjemand muss sich abmelden oder die Systemeinstellungen müssen so abgeändert werden , dass mehr Sitzungen erlaubt sind .
+Die grafische Oberfläche ist nicht richtig gestartet , wodurch neue grafische Anmeldevorgänge nicht möglich sind . Eventuell ist das X-Window-System oder GDM nicht richtig konfiguriert .
+Die Interface-Datei der Benutzerauswahl » %s « konnte nicht geöffnet werden . Scheinbar ist die Anwendung nicht richtig installiert oder eingestellt .
+Bildschirm konnte nicht gesperrt werden : %s
+Der Bildschirmschoner konnte den Bildschirm vorübergehend nicht leeren : %s
+Der Manager , welchem dieses Objekt gehört .
+Der Name des X11-Bildschirms zu dem dieses Objekt gehört .
+Der Benutzer , welcher derzeit auf diesem virtuellen Terminal angemeldet ist .
+Die Nummer der virtuellen Konsole auf der dieser Bildschirm dargestellt wird oder %-1 .
+Gibt an , ob dieser Bildschirm ein Fenster ( Xnest ) ist .
+Aus unbekanntem Grund konnte der Display-Manager nicht kontaktiert werden .
+Der Display-Manager läuft nicht oder ist veraltet .
+Das voreingestellte Maximum an flexiblen X-Servern wurde erreicht .
+Beim Starten von X ist ein unbekannter Fehler aufgetreten .
+Der X-Server konnte den Start nicht abschließen .
+Es sind zu viele X-Sitzungen aktiv .
+Der verschachtelte X-Server ( Xnest ) konnte Ihren aktuellen X-Server nicht erreichen .
+Der X-Server aus der GDM-Konfiguration wurde nicht gefunden .
+Es wird versucht einen unbekannten Abmeldebefehl oder einen nicht verfügbaren Abmeldebefehl auszuführen .
+Es wird versucht , einen nicht unterstützten Konfigurationsschlüssel zu aktualisieren .
+Die ~/ .Xauthority-Datei ist falsch konfiguriert oder nicht vorhanden .
+Es wurden zu viele Nachrichten an den Display-Manager geschickt , so dass dieser die Annahme weiterer Nachrichten verweigert hat .
+Der Display-Manager hat eine unbekannte Fehlermeldung übergeben .
+Der Benutzer , welcher durch diesen Menüeintrag repräsentiert wird .
+Abstand zwischen dem Benutzername und dem Indikator
+Das Benutzerverwaltungsobjekt durch welches dieser Benutzer verwaltet wird .

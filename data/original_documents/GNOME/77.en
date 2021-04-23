@@ -1,0 +1,14 @@
+Enter the name of the new group you 'd like to create .
+Enter the email address of the person you 'd like to add .
+Delete " { 0 } " ?
+This will delete the group and not the contacts inside of the group .
+{ 0 } is requesting an audio chat
+{ 0 } is requesting a video chat
+Authorize this person to chat with you
+In this alpha-phase of the project , this is the only IM account type we support ( so stop your worryin ' ! ) .
+Telepathy connection manager with IM or Text capability for this account
+List containing the GUIDs of the currently saved group windows .
+The name and path of the theme that should be used .
+The name and path of the app style that is currently selected .
+The name and path of the contact style that is currently selected .
+The name and path of the message style that is currently selected .

@@ -1,0 +1,14 @@
+AT-SPI : Unbekannte Signatur » %s « für RemoveAccessible
+AT-SPI : Fehler beim Aufruf von getRoot für %s : %s
+AT-SPI : Fehler in GetItems , Sender=%s , Fehler=%s
+AT-SPI : _atspi_dbus_return_accessible_from_message wurde mit seltsamer Signatur %s aufgerufen
+AT-SPI : _atspi_dbus_return_hyperlink_from_message wurde mit seltsamer Signatur %s aufgerufen
+AT-SPI : Unbekannte Signatur » %s « für AddAccessible
+AT-SPI : Es wurde eine Variante beim Holen von %s vom Interface %s erwartet ; erhalten wurde %s
+atspi_dbus_get_property : Falcher Typ : erwartet wurde %s , erhalten wurde %c
+AT-SPI : 2 Werte wurden im Feld der Status erwartet ; erhalten wurden %d
+Ungültige Signatur %s wurde für Signal %s von Interface %s erhalten
+AT-SPI : Die Anzeige konnte nicht erlangt werden
+AT-SPI : Der Bus der Barrierefreiheit wurde nicht gefunden - Der Sitzungsbus wird verwendet .
+AT-SPI : Verbindung mit dem Bus konnte nicht hergestellt werden : %s
+AT-SPI : Es konnte nicht am Bus registriert werden : %s

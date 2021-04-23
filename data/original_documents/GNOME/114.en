@@ -1,0 +1,11 @@
+Record what 's happening on your desktop
+URI for the filename Byzanz will suggest when starting a recording .
+Use this method as the default method for recording . Must be one of " screen " for recording the whole screen , " area " for selecting an area or " window " to select a window .
+If set , Byzanz will record audio from the default audio device if the format supports it . This allows narrating along with the recording .
+usage : % s [ OPTIONS ] INFILE OUTFILE
+Duration of animation ( default : 10 seconds )
+Delay before start ( default : 1 second )
+usage : % s [ OPTIONS ] filename
+Recording starts . Will record until child exits ...
+Recording starts . Will record % d seconds ...
+Given area is not inside desktop .

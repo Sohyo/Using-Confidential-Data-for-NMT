@@ -1,0 +1,89 @@
+There are more users with similar user name on a server . Please select that you would like to use from the below list .
+Cannot authenticate MAPI accounts in offline mode
+Server , username and domain name cannot be empty . Please fill them with correct values .
+Realm name cannot be empty when kerberos is selected . Please fill them with correct values .
+Connecting to a server , please wait ...
+Searching remote MAPI folder structure , please wait ...
+Cannot create MAPI calendar in offline mode
+Cannot create MAPI task list in offline mode
+Cannot create MAPI memo list in offline mode
+Cannot create MAPI address book in offline mode
+Cannot create MAPI source in offline mode
+Failed to create folder ' % s ' : % s
+Failed to create folder ' % s '
+Failed to create address book ' % s ' : % s
+Failed to create address book ' % s '
+Creating address book on a server , please wait ...
+Failed to create calendar ' % s ' : % s
+Failed to create calendar ' % s '
+Failed to create task list ' % s ' : % s
+Failed to create task list ' % s '
+Failed to create memo list ' % s ' : % s
+Failed to create memo list ' % s '
+Creating calendar on a server , please wait ...
+Creating task list on a server , please wait ...
+Creating memo list on a server , please wait ...
+Cannot edit permissions of folder ' % s ' , choose other folder .
+Writing folder permissions , please wait ...
+Cannot add folder , folder already exists as ' % s '
+Cannot add folder , failed to add to store 's summary
+Folder ' % s ' not found . Either it does not exist or you do not have permission to access it .
+Cannot add folder , cannot determine folder 's type
+Testing availability of folder ' % s ' of user ' % s ' , please wait ...
+Failed to create item on a server
+Failed to modify item on a server
+Failed to fetch items from a server
+Failed to list items from a server
+Failed to transfer contacts from a server
+Failed to open folder : % s
+Failed to get folder properties : % s
+Failed to list objects : % s
+Failed to transfer objects : % s
+Failed to close folder : % s
+Support for modifying single instances of a recurring appointment is not yet implemented . No change was made to the appointment on the server .
+Downloading messages in folder ' % s '
+This message is not available in offline mode .
+Cannot append message to folder ' % s '
+Failed to empty Trash : % s
+Cannot get message % s : % s
+Could not get message : % s
+Could not load summary for % s
+C _ heck for new messages in all folders
+_ Apply filters to new messages in Inbox on this server
+Only check for Junk messag _ es in the Inbox folder
+For accessing Microsoft Exchange 2007 / OpenChange servers via MAPI
+This option will connect to the OpenChange server using a plaintext password .
+Cannot find folder in a local cache
+Cannot create MAPI folders in offline mode
+Cannot create new folder ' % s '
+MAPI folders can be created only within user 's mailbox
+Cannot find folder ' % s '
+Cannot create folder ' % s ' : % s
+Cannot create folder ' % s '
+Cannot delete MAPI folders in offline mode
+Cannot remove folder ' % s ' : % s
+Cannot remove folder ' % s '
+Cannot rename MAPI folders in offline mode
+Cannot rename MAPI folder ' % s ' . Folder does not exist
+Cannot rename MAPI default folder ' % s ' to ' % s '
+Cannot rename MAPI folder ' % s ' to ' % s '
+Cannot rename MAPI folder ' % s ' to ' % s ' : % s
+Cannot subscribe MAPI folders in offline mode
+Cannot unsubscribe MAPI folders in offline mode
+Cannot connect MAPI store in offline mode
+Mailbox ' % s ' is full , no new messages will be received or sent .
+Mailbox ' % s ' is near its size limit , message send will be disabled soon .
+Mailbox ' % s ' is full , no new messages will be received .
+Mailbox ' % s ' is near its size limit .
+Could not send message : % s
+Cannot create more sessions , session limit was reached
+MAPI error % s ( 0x % x ) occurred
+Folder name ' % s ' is not a known default folder name , nor folder ID .
+Failed to open store for user ' % s '
+Folder of user ' % s ' not found
+Recipient ' % s ' is ambiguous
+Search result exceeded allowed size limit . Use more specific search term , please
+User name ' % s ' is ambiguous
+Cannot add folder , unsupported folder type
+Cannot add folder , group of sources not found
+Cannot remove folder , unsupported folder type

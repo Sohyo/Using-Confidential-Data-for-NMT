@@ -1,0 +1,70 @@
+@@image : 'figures/ a-z.gif ' ; md5=0df765cb06d1873c4b77ccfa2aec273a
+@@image : 'figures/ aa-az.gif ' ; md5=499378b5a346d9a1fff3317ed7bca624
+@@image : 'figures/ ala-alz.gif ' ; md5=c1d38e5e5cd6234737ff5e80c8120416
+@@image : 'figures/ object.gif ' ; md5=f961ced3b16182985421dba58cbb130d
+@@image : 'figures/ exampleHad2.png ' ; md5=c3a7c8f985519a90d739117aa4e1e064
+@@image : 'figures/ exampleHad2a.png ' ; md5=1d124560d223498f876122bcd85afaac
+@@image : 'figures/ exampleHad3a.png ' ; md5=0bcd661209391842cf47f00b767146b3
+@@image : 'figures/ exampleHad4.png ' ; md5=9974616612b5c811cb2c161093c8523c
+Das vorliegende Handbuch darf wortwörtlich vervielfacht und verteilt werden , solange der Urheberrechtshinweis und diese Erlaubnis in alle Kopien übernommen werden .
+Das vorliegende Handbuch darf wortwörtlich vervielfacht und verteilt werden , solange der Urheberrechtshinweis und diese Erlaubnis in alle Kopien übernommen werden .
+UNIX ist ein eingetragenes Warenzeichen von X/ Open Group .
+Linux ist ein eingetragenes Warenzeichen von Linus Torvalds .
+X Window System ist ein eingetragenes Warenzeichen von X Consortium , Inc.
+Windows ist ein eingetragenes Warenzeichen der Microsoft Corp.
+Macintosh und Apple sind eingetragene Warenzeichen von Apple Computer , Inc.
+Alle anderen Warenzeichen gehören ihren jeweiligen Eigentümern .
+Dasher ist eine Hilfstechnologie zur Eingabe von Text. Dabei kommen Zeigegesten anstelle von Tastatureingaben zum Einsatz . Dasher wurde entworfen , um Geschwindigkeit und Spaß bei der Eingabe miteinander zu verbinden .
+Eine automatische Geschwindigkeitskontrolle sorgt dafür , dass Dasher beschleunigt , sobald erkannt wird , dass Sie in der Lage sind , schneller zu arbeiten .
+Eine Neue Socket-Schnittstelle ermöglicht Dasher » head-tracker « , » gaze-tracker « oder EEG-Schnitstellen zu lauschen , ohne die Maus zu verwenden .
+Wir werden Dasher einen Spielmodus einverleiben , der Neulingen beim Schreiben lernen helfen wird . Eine helfende Hand wird den Neuling davor bewahren , vom rechten Wege ab zu kommen , und wer schnell und ohne viel Hilfe schreiben kann , wird mit Punkten überhäuft .
+Neue Sprachmodelle werden hinzugefügt , die zuverlässige Voraussagen sowohl auf Wortebene wie auch auf Buchstabenebene ermöglichen .
+Japanisch und Chinesisch werden vollständig unterstützt .
+Das Team von Dasher hofft ebenso , einen freien , Web-Cam basierten Verfolger von Kopfbewegungen und eine Blickverfolgung » FreeVIM « zum Dezember 2006 zu entwickeln
+wenn der Computer einhändig bedient wird , zum Beispiel per Joystick , Berührungsbildschirm , Trackball oder Maus ,
+wenn der Computer freihändig bedient wird ( z.B. per Kopfmaus oder Eyetracker ) .
+Dasher kann für effizientes Schreiben in jeder Sprache verwendet werden .
+Der Umgang mit Dasher ist schnell und leicht zu erlernen .
+Dasher ist wie ein Arcade-Spiel : » Angriff der Killer-Alphabete « oder so ähnlich .
+Dasher ist eine Art Vergrößerungsschnittstelle . Sie peilen den gewünschten Punkt an , und die Anzeige vergrößert den entsprechenden Bereich . Die Welt , in die Sie eintauchen , ist mit Buchstaben gefüllt , so dass jeder von Ihnen gewählte Punkt mit einem Stück Text korrespondiert . Je weiter Sie hineingehen , umso länger wird der geschriebene Text. Wo Sie auch vergrößern , wählen Sie damit aus , was Sie schreiben .
+Um effektiv mit dieser Schnittstelle arbeiten zu können , verwenden wir die vorausschauende Logik eines Sprachmodells , um jedem Stück Text ein Stück dieser Welt zuzuweisen . Möglichen Textschnipseln wird mehr Platz gegönnt , um sie schneller und leichter auswählen zu können . Unnötiger Text , zum Beispiel Text , der mit Rechtschreibfehlern gespickt ist , erhält weniger Platz , um das Schreiben zu erschweren . Das Sprachmodell lernt fortwährend dazu : Wenn Sie ein neues Wort einmal benutzt haben , werden Sie es beim nächsten Mal viel leichter schreiben können .
+Ein weiterer Vorzug ist die leichte Erlernbarkeit dieses Modells mit jedem Schreibstil : Laden Sie einfach eine Beispieldatei , und legen Sie los !
+eine Bibliothek aller denkbaren Bücher a z links rechts a aaaaaaaaaaaa all good things must come to an end all good things must come to an enema
+a aa ab ac az al ala alb alz
+einem gesteuerten Nähertreten an eine alphabetische Bibliothek
+der PLATZ im Schrank für jedes Buch ändert sich proportional zur Wahrscheinlichkeit einer Übereinstimmung . x x
+Dasher kann auf Beispiele beliebiger Schreibstile geschult werden , und es lernt jederzeit durch Aufnahme der persönlichen Phrasenbildung .
+Das Bild unten zeigt den Zustand der Oberfläche von Dasher , während ein Benutzer das Wort » objection « schreibt ; alternative Worte , die zu diesem Zeitpunkt sehr einfach zu schreiben wären , sind u.a. » objective « , » objects_ « und » object_oriented « .
+zu Beginn vorsichtig fahren halten Sie einfach an Erfassen Sie die Dinge nicht und legen Sie sie irgendwo ab . Entscheiden Sie sich , was Sie wollen , und zeigen Sie einfach darauf .
+Das wichtigste Konzept innerhalb alle nicht a l a al innerhalb a all innerhalb al alle
+Meier M e M in diesem Me Me
+Das zweitwichtigste Konzept nur Sie dürfen Abkürzungen nehmen
+Übliche Fehler . machen Sie BITTE LANGSAM und dringen Sie nicht weiter in den Block des Buchstaben ein , bis Sie herausgefunden haben , wohin Sie danach steuern müssen ist können
+I once had a whim I once ha ... had d d d a b c
+d I once head ... d I once heard ... I once hedge ...
+Klicken Sie nicht . Ziehen Sie nicht mit der Maus . Und rasen Sie nicht .
+dienen die anderen Farben nur dem Zweck , die Quadrate untereinander unterscheiden zu können .
+In der japanischen Version von Dasher werden Farben verwendet , um die verschiedenen Hiragana-Gruppen voneinander zu unterscheiden ( ka , ki , ku , ke , ko sind zum Beispiel orange )
+In der koreanischen Version von Dasher werden drei verschiedene Farben verwendet , um Startkonsonanten , Vokale und Endkonsonanten zu unterscheiden .
+Starten Sie Dasher . Sobald sich das Fenster von Dasher öffnet , klicken Sie entweder mit der linken Maustaste oder drücken Sie die Leertaste , um zu beginnen . Beides ist möglich . Wiederholen Sie diese Aktion , wenn Sie fertig sind , um Dasher zu bremsen . Ihre Computermaus steuert Dasher .
+Passen Sie mit dem Geschwindigkeitsregler die höchste Geschwindigkeit an , bei der Dasher vergrößert . Eine Geschwindigkeit von 1 eignet sich gut für Anfänger , nach etwa 5 Minuten Übung kann man 2 verwenden , und die Einstellung 4 eignet sich für Experten .
+Dasher auf dem Pocket-PC starten ( Version 2 )
+Installieren und starten Sie Dasher ( warten Sie wenige Sekunden , während die Trainings-Datei geladen wird ) , und berühren Sie dann den Bildschirm mit dem Eingabestift , um Dasher in Bewegung zu setzen .
+Es gibt drei besonders farbige Quadrate in dieser Version von Dasher , die gelb , rot ( nur in einigen Freigaben ) und grün sind ; alle drei Quadrate erzeugen kein Zeichen . Sie zeigen Untergruppen des Alphabets an . ( Alphabet der Großbuchstaben , Ziffern ( nur in einigen Freigaben ) und Punktationszeichen . )
+Mit Dasher können Sie mit Hilfe Ihres Rechners kommunizieren und bis zu einem gewissen Grad auch ihren Rechner steuern . Offensichtlich ist die einfachste Art der Kommunikation mittels Dasher , wenn Sie eine Person , mit der Sie reden wollen , einfach vom Bildschirm ablesen lassen , was Sie schreiben . Aber das ist bei weitem nicht die einzige Möglichkeit .
+Dasher verbindet sich mit dem in Ihren Rechner integrierten System » Text-zu-Sprache « . Es gibt verschiedene Wege , um Dasher zum Sprechen zu verwenden .
+Sie können Dasher » jedes Wort sprechen « lassen : Jedes Mal , wenn Sie ein Wort ( z.B. durch ein Leerzeichen ) abschließen , wird das Wort sofort gesprochen .
+Sie können ebenfalls Dasher » beim Anhalten sprechen « lassen : Jedes Mal , wenn Sie Dasher anhalten , wird alles gesprochen , was sich im Textfeld befindet .
+Sie können den Inhalt des Textfeldes von Dasher in eine Klartext-Datei durch Klick auf das Symbol » Datei speichern « in der Symbolleiste speichern , oder durch Verwendung der Menüs im Fenster von Dasher ( wählen Sie Datei und dann Speichern ) .
+Die können auch den in Dasher geschriebenen Text direkt in ein anderes Fenster übergeben . Aktivieren Sie die Option » Text in anderes Fenster « im Menü » Optionen « . Dann wird das Fenster , das Sie wählen , die Ausgabe von Dasher übergeben bekommen .
+Wenn möglich sollten Sie Dasher einen Trainingstext Ihrer Wahl zur Verfügung stellen - eine Datei mit Klartext aus Dokumenten , die Sie geschrieben haben , und die Ihre eigenen Formulierungen usw. enthält . Hängen Sie entweder diese Datei an die Trainingsdatei an , oder ersetzen Sie die ursprüngliche Datei .
+Wenn Sie glauben , dass Ihre persönliche Trainingsdatei durch seltsamen Text beschädigt wurde , können Sie sie mit einem beliebigen Texteditor bearbeiten .
+Wenn Sie Dasher über mehrere Monate verwenden , kann die persönliche Trainingsdatei so groß werden , dass Dasher immer langsamer startet ; bearbeiten Sie einfach die Datei mit einem Texteditor .
+roten Linie lt ; colour r="255 " g="0 " b="0"/ gt ;
+Dasher arbeitet in Hunderten von Sprachen .
+Es gibt für jede Sprache eine Alphabet-Datei ( oder möglicherweise mehr als eine Alphabet-Datei ) . Auf der Web-Seite von Dasher versuchen wir zumindest eine Trainingsdatei für jede Sprache bereitzustellen . Falls wir keinen guten Trainingstext für Ihre Sprache haben , helfen Sie uns bitte und erstellen Sie eine und senden Sie uns die Datei zu .
+Die Web-Seite von Dasher führt eine Liste der von Dasher unterstützen Sprachen . Im Oktober 2005 waren alle großen Weltsprachen gut unterstützt , mit der Ausnahme von Japanisch und Chinesisch , für die Dasher Version 3 nur phonetische Unterstützung bietet ( Hiragana und Pinyin ) . In Dasher Version 4 ist die volle Unterstützung für Japanisch und Chinesisch fest geplant .
+Falls Sie alternativ einen Berührungsbildschirm haben , startet eine einzige Berührung des Bildschirms eine Vergrößerung auf diese Position .
+Wie viele verschiedene Schalter , Tasten oder Knöpfe kann man problemlos bedienen ?
+4 , 5 , 6 oder 7
+Dasher vergrößert fortlaufend in das Zentrum des Bildschirms , wobei die beiden Knöpfe zum Verschieben der Anzeige nach oben und unten verwendet werden . Die Knöpfe sollten gedrückt werden , sobald der gewünschte Text auf die beiden Markierungen ausgerichtet ist .

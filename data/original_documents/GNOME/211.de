@@ -1,0 +1,71 @@
+Das gewählte Objekt auf der Werkzeugleiste verschieben
+Das gewählte Objekt aus der Werkzeugleiste entfernen
+Datum des Bildes in der Statusleiste anzeigen
+Legt fest , ob das Bild automatisch auf Grund der EXIF-Information gedreht wird .
+Die Farbe , die zum Füllen der Hintergrundfläche hinter dem Bild verwendet wird . Falls der Schlüssel » background-color « nicht gesetzt ist , so wird die Farbe durch das aktuelle GTK+-Thema bestimmt .
+Wenn dieser Wert festgelegt ist , so wird die im Schlüssel » background-color « festgelegte Farbe verwendet , um die Bereiche hinter dem Bild zu füllen . Falls der Wert nicht gesetzt ist , dann wird das aktuelle GTK+-Thema die Füllfarbe bestimmen .
+Legt fest , ob das Bild beim Verkleinern interpoliert wird . Dies führt zu einer besseren Bildqualität , ist jedoch etwas langsamer als eine nicht interpolierte Darstellung .
+Legt fest , ob das Bild beim Vergrößern interpoliert wird . Dies führt zu einer leicht verschwommenen Bildqualität und ist etwas langsamer als eine nicht interpolierte Darstellung .
+Legt fest , wie Transparenz dargestellt werden soll . Zulässige Werte sind : » CHECK_PATTERN « , » COLOR « sowie » NONE « . Falls Sie » COLOR « wählen , legt der » trans_color«-Schlüssel fest , welcher Farbwert verwendet werden soll .
+Legt fest , ob das Mausrad zum Vergrößern verwendet wird .
+Der anzuwendende Faktor , wenn mit dem Mausrad vergrößert werden soll . Dieser Wert definiert den Vergrößerungsschritt , der bei jedem Weiterschalten des Rades verwendet wird . 0.05 vergrößert die Ansicht des Bildes um 5 % , 1.00 um 100 % .
+Falls der Transparenzschlüssel den Wert » COLOR « hat , legt dieser Schlüssel fest , welche Farbe zum Anzeigen der Transparenz verwendet werden soll .
+Legt fest , ob die Bilder in einer Endlosschleife angezeigt werden .
+Wenn dieser Wert auf FALSCH gesetzt ist , werden kleine Bilder anfangs nicht vergrößert , um auf den Bildschirm zu passen .
+Verzögerung in Sekunden , bis das nächste Bild angezeigt wird
+Ein Wert größer 0 legt die Sekunden fest , die ein Bild angezeigt wird , bevor automatisch auf das nächste weitergeschaltet wird . Null schaltet die automatische Weiterschaltung ab .
+Die Position der Bildersammlungsleiste . Gültige Werte sind : 0 ( unten ) , 1 ( links ) , 2 ( oben ) , 3 ( rechts )
+Legt fest , ob die Größe der Bildersammlungsleiste angepasst werden kann .
+Legt fest , ob Eye of GNOME nicht nach Bestätigung fragt , wenn Bilder in den Mülleimer verschoben werden . Es wird aber in jedem Fall nachgefragt , wenn das Bild nicht in den Müll verschoben werden kann und stattdessen gelöscht wird .
+Legt fest , ob die Dateiauswahl den Bilderordner des Benutzers anzeigen soll , wenn keine Bilder geladen sind .
+Wenn dieser Schlüssel auf » Wahr « gesetzt ist und kein Bild im aktiven Fenster geladen ist , zeigt die Dateiauswahl den Bilderordner des Benutzers unter Verwendung der speziellen XDG-Benutzerordner . Wenn dieser Schlüssel auf » Falsch « gesetzt ist oder der Bilderordner nicht eingerichtet ist , wird der aktuelle Arbeitsordner angezeigt .
+Legt fest , ob die Liste der Metadaten im Eigenschaften-Dialog auf einer eigenen Seite angezeigt wird .
+Wenn dieser Schlüssel auf » Wahr « gesetzt ist , wird die detaillierte Liste der Metadaten innerhalb des Eigenschaften-Dialogs als eigene Seite innerhalb des Dialogs angezeigt . Dies soll die Bedienbarkeit des Dialogs auf kleineren Bildschirmen verbessern , wie z.B. auf Netbooks . Wenn der Schlüssel auf » Falsch « gesetzt ist , wird das Dialogelement auf der Seite » Metadaten « eingebettet .
+Liste aktivierter Plugins . Sie enthält nicht den » Ort « aktiver Plugins . Sehen Sie in der » .eog-plugin«-Datei eines Plugins nach , um den » Ort « ( » Location « ) zu erfahren .
+Alle Änderungen werden verloren gehen , wenn Sie nicht speichern .
+Sollen die Änderungen am Bild » %s « vor dem Schließen gespeichert werden ?
+_Wählen Sie die Bilder , die Sie speichern möchten :
+Alle Änderungen werden verloren gehen , wenn Sie nicht speichern .
+Eye of GNOME konnte anhand des Dateinamens kein unterstütztes Dateiformat bestimmen .
+Bitte probieren Sie eine andere Dateierweiterung wie .png oder .jpg .
+EXIF wird für dieses Dateiformat nicht unterstützt .
+Temporäre Datei zum Speichern konnte nicht angelegt werden : %s
+Speicher zum Laden der JPEG Datei-konnte nicht reserviert werden
+%a , %d . %B %Y %X
+Bild » %s « konnte nicht geöffnet werden .
+In » %s « konnten keine Bilder gefunden werden .
+Der angegebene Ort enthält keine Bilder .
+Das Bild , dessen Druckoptionen eingestellt werden
+Wo soll das Bild auf der Seite gedruckt werden ?
+Die Hilfe für Eye of GNOME konnte nicht angezeigt werden .
+Das Bild » %s « wurde durch eine andere Anwendung verändert . Möchten Sie es neu laden ?
+Benutzen Sie » %s « , um das gewählte Bild zu öffnen
+Bild » %s « ( %u/ %u ) wird gespeichert
+Dieses Programm ist freie Software . Sie können es unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung , dass es Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit diesem Programm erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , 59 Temple Place - Suite 330 , Boston , MA 02110-1307 , USA .
+Das Bild » %s « wurde als Hintergrundbild festgelegt . Möchten Sie sein Erscheinungsbild verändern ?
+Soll » %s « wirklich in den Mülleimer verschoben werden ?
+Es konnte kein Müll für » %s « gefunden werden . Wollen Sie das Bild unwiderruflich löschen ?
+Einige der zu löschenden Bilder können nicht in den Müll verschoben werden und werden daher unwiderruflich gelöscht . Sind Sie sicher , dass Sie fortfahren wollen ?
+Während _der laufenden Sitzung nicht erneut fragen
+Ändert die Sichtbarkeit der Werkzeugleiste des aktuellen Fensters
+Ändert die Sichtbarkeit der Statusleiste des aktuellen Fensters
+Ändert die Sichtbarkeit der Bildersammlungsleiste des aktuellen Fensters
+Ändert die Sichtbarkeit der Seitenleiste des aktuellen Fensters
+Das gewählte Bild mit einer anderen Anwendung öffnen
+Die gewählten Bilder unter anderen Namen speichern
+Die Eigenschaften und Metadaten des gewählten Bilds anzeigen
+Die letzte Änderung am Bild rückgängig machen
+Das Bild um 90 Grad nach rechts drehen
+Das Bild um 90 Grad nach links drehen
+Legt das ausgewählte Bild als Hintergrund der Arbeitsfläche fest
+Das gewählte Bild in den Mülleimer verschieben
+Das Bild in seiner normalen Größe anzeigen
+Zum vorherigen Bild in der Sammlung gehen
+Zum nächsten Bild in der Sammlung gehen
+Zum ersten Bild in der Sammlung gehen
+Zum letzten Bild in der Sammlung gehen
+Zu einem zufälligen Bild in der Sammlung gehen
+Eine neue Instanz starten , anstatt eine vorhandene zu verwenden
+Führen Sie » %s --help « für eine vollständige Liste der verfügbaren Optionen aus .

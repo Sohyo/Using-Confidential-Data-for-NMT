@@ -1,0 +1,44 @@
+@ @ image : ' figures / evince _ start _ window.png ' ; md5 = 7f4da5e33bcac35738a268d93d497d47
+The Evince Document Viewer application enables you to view documents of various formats like Portable Document Format ( PDF ) files and PostScript files
+This manual is part of a collection of GNOME manuals distributed under the GFDL . If you want to distribute this manual separately from the collection , you can do so by adding a copy of the license to the manual , as described in section 6 of the license .
+Many of the names used by companies to distinguish their products and services are claimed as trademarks . Where those names appear in any GNOME documentation , and the members of the GNOME Documentation Project are made aware of those trademarks , then the names are in capital letters or initial capital letters .
+DOCUMENT IS PROVIDED ON AN " AS IS " BASIS , WITHOUT WARRANTY OF ANY KIND , EITHER EXPRESSED OR IMPLIED , INCLUDING , WITHOUT LIMITATION , WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE , FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING . THE ENTIRE RISK AS TO THE QUALITY , ACCURACY , AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU . SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT , YOU ( NOT THE INITIAL WRITER , AUTHOR OR ANY CONTRIBUTOR ) ASSUME THE COST OF ANY NECESSARY SERVICING , REPAIR OR CORRECTION . THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE . NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER ; AND
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY , WHETHER IN TORT ( INCLUDING NEGLIGENCE ) , CONTRACT , OR OTHERWISE , SHALL THE AUTHOR , INITIAL WRITER , ANY CONTRIBUTOR , OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT , OR ANY SUPPLIER OF ANY OF SUCH PARTIES , BE LIABLE TO ANY PERSON FOR ANY DIRECT , INDIRECT , SPECIAL , INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING , WITHOUT LIMITATION , DAMAGES FOR LOSS OF GOODWILL , WORK STOPPAGE , COMPUTER FAILURE OR MALFUNCTION , OR ANY AND ALL OTHER DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT , EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES .
+This manual describes version 0.2 of Evince Document Viewer
+Shows Evince Document Viewer main window . Contains titlebar , menubar , toolbar and display area . Menubar contains File , Edit , View , Go and Help menus .
+The toolbar contains a subset of the commands that you can access from the menubar .
+The display area displays the document .
+This manual documents functionality from the menubar .
+To open a document , perform the following steps :
+You can navigate through a file as follows :
+To display the page contents that are not currently displayed in the display area , use the following methods :
+Use the arrow keys or space key on the keyboard .
+Drag the display area by clicking with the middle mouse button somewhere in the document and then moving the mouse . For example , to scroll down the page , drag the display area upwards in the window .
+Use the scrollbars on the window .
+To view bookmarks or pages , perform the following steps :
+Use the drop-down list in the side-pane header to select whether to display document structure or pages in the side pane .
+Use the side-pane scrollbars to display the required item or page in the side pane .
+Click on an entry to navigate to that location in the document . Click on a page to navigate to that page in the document .
+Select one of the following options to determine how many pages to print :
+Select this option to print all of the pages in the document .
+Select this option to print the selected range of pages in the document . Use the spin boxes to specify the first page and last page of the range .
+Use this drop-down list to select the printer to which you want to print the document .
+Use this drop-down list to select the printer settings .
+Use this drop-down list to select one of the following print destinations :
+Print the document to a CUPS printer .
+Print the document to a printer .
+Print the document to a PostScript file .
+Use the specified command to print the document .
+Type the name of the command in the text box . Include all command-line arguments .
+Use this drop-down list to select the size of the paper to which you want to print the document .
+Use this spin box to specify the width of the paper . Use the adjacent drop-down list to change the measurement unit .
+Use this spin box to specify the height of the paper .
+Use this drop-down list to select the orientation of the paper in the printer .
+Use this drop-down list to select the page orientation .
+Use this drop-down list to select the paper tray .
+To copy a file , perform the following steps :
+If necessary , specify the location of the copied document . By default , copies are saved in your home directory .
+An author can use the following password levels to protect a document :
+User password that allows others only to read the document .
+Master password that allows others to perform additional actions , such as print the document .
+Go to page by number or label

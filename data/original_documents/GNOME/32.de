@@ -1,0 +1,184 @@
+Dies sind Befehlszeilenargumente , die von Ihrem Programm verwendet werden . Die Auswahlliste enthält eine Chronik der zuletzt verwendeten Argumente .
+Der Arbeitsordner ist der aktuelle Ordner bei der Ausführung Ihres Programms .
+Klicken Sie auf die Auswahlliste , um alle Umgebungsvariablen anzuzeigen , die durch Ihr Programm zugänglich sind . Dies sind normalerweise alle aktuellen Umgebungsvariablen . Sie werden in hellem Grau dargestellt .
+Wenn eine Variable nicht den gleichen Wert wie in der aktuellen Umgebung hat , so wird diese in schwarz dargestellt .
+Wählen Sie dies , um das Programm in einem Terminal auszuführen , so dass Sie Eingaben tätigen und Ausgaben lesen können , auch mit Hilfe von Unix-Streams . Es ist für Programme mit grafischer Oberfläche nicht erforderlich .
+Ein neues Projekt von Grund auf erstellen .
+Fahren Sie mit der Maus über eines der Projektsymbole . Eine kleine Meldung erscheint , in der weitere Informationen über den jeweiligen Projekttyp angezeigt werden .
+Fahren Sie mit der Maus über einen Knopf oder ein Eingabefeld . Eine kleine Meldung erscheint , in der weitere Informationen über die jeweilige Einstellung angezeigt werden .
+Ein Ziel aus einem Projekt entfernen .
+Bestätigen Sie das Entfernen . Alle Ziele und deren Eigenschaften werden von den Projektdateien entfernt . Alle Dateien des Ziels verbleiben unbeschadet auf Ihrem Datenträger .
+Ein Ziel zum Projekt hinzufügen , es bearbeiten oder aus dem Projekt entfernen .
+Ein Ziel zu einem Projekt hinzufügen .
+Geben Sie einen Zielnamen ein und wählen Sie den Zieltyp in der Auswahlliste darunter . Je nach Projekt-Backend sind verschiedene Zieltypen möglich .
+Zielnamen sind typischerweise auf Buchstaben , Ziffern und den Unterstrich beschränkt . Es ist ratsam , andere Zeichen zu vermeiden .
+Ein Bestätigungsdialog wird geöffnet , und die Datei wird nur aus dem Projekt entfernt , nicht von Ihrer Festplatte .
+Dateien zu einem Projekt hinzufügen oder daraus entfernen .
+Vorhandene Dateien zu einem Projekt hinzufügen .
+Die können Dateien in Unterordner des Projekts hinzufügen . Die meisten Projektformate erfordern die Dateien im Projektordner . Dateien , die außerhalb des Projektordners hinzugefügt wurden , werden automatisch in diesen kopiert , um die Bedingung zu erfüllen .
+Was auch immer das darunterliegende Backend ist , die grafische Benutzeroberfläche wird immer die gleiche sein . Allerdings könnten einige Funktionen deaktiviert sein .
+Eine Bibliothek aus einem Modul entfernen .
+Ein Bestätigungsdialog wird geöffnet , und das Paket wird aus der Projektdatei entfernt .
+Eine Bibliothek in einem Modul hinzufügen .
+Einen Satz Bibliotheken von einem Ziel entfernen .
+Ein Bestätigungsdialog wird geöffnet , und die Bibliothek wird aus dem Ziel entfernt .
+Ein Paket kann nicht direkt zu Ihrem Programm hinzugefügt werden . Zunächst müssen Sie ein Modul dafür erstellen , welches aus einer Gruppe von Paketen besteht .
+Projektansicht Kontextmenü des Projekts Bibliothek hinzufügen Neue Bibliothek
+Eine Liste aller auf Ihrem System installierten Bibliotheken wird angezeigt . Sie können eine oder mehrere Bibliotheken auswählen .
+So füen Sie einen Satz Bibliotheken einem Ziel hinzu .
+Eine benutzerdefinierte Bibliothek aus einem Ziel entfernen .
+Bibliotheken zu Projektzielen hinzufügen oder daraus entfernen .
+Eine benutzerdefinierte Bibliothek zu einem Ziel hinzufügen .
+Um eine Bibliothek in C nutzen zu können , müssen Sie dem Compiler mitteilen , wo sich die Header-Dateien befinden und dem Linker mitteilen , wo die erforderlichen Bibliotheken aufzufinden sind . Das Problem ist , dass Ihr Programm nicht auf einem anderen Rechner compilieren wird , wenn sich die Header- oder Bibliotheksdateien an einem anderen Ort befinden .
+Linker-flags Bibliotheks_Name gcc > Bibliotheks_Name lib .a .so
+Ein Bestätigungsdialog wird geöffnet , und der Ordner wird nur aus dem Projekt entfernt , nicht von Ihrer Festplatte .
+Dateien zu einem Projekt hinzufügen , bearbeiten oder aus einem Projekt entfernen .
+Einen Ordner zu einem Projekt hinzufügen .
+Ein Ordner ermöglicht es mehrere Ziele zu gruppieren mit gemeinsamen Eigenschaften für alle . Er entspricht oft einem Verzeichnis .
+Gruppennamen sind typischerweise auf Buchstaben , Ziffern und den Unterstrich beschränkt . Es ist ratsam , andere Zeichen zu vermeiden .
+Datei Neu Projekt aus vorhandenen Quellen Hauptmenü Projekt aus vorhandenen Quellen Neu oberen Werkzeugleiste
+Ein » makefile « ist vermutlich die meist genutzte Methode , Software auf verschiedensten Plattformen zu erstellen . Ein » makefile « enthält eine Liste oder Regeln , die beschreiben , welche Befehle ausgeführt werden müssen , um ein Ziel unter Berücksichtigung all seiner Abhängigkeiten zu erstellen . Bei der Erstellung eines Programms ist das Ziel eine Objektdatei , und die Abhängigkeiten sind die Quelldateien . Das Ziel einer Regel kann eine Abhängigkeit einer anderen sein . Regeln können demnach untereinander verkettet sein bei der Erstellung des endgültigen Ziels .
+Wenn das Projekt-Backend nicht in der Lage ist , alle Quelldateien zu finden , so können Sie probieren , dass Ordner-Backend statt dessen zu verwenden . Es erkennt keine Ziele , sollte aber alle Quelldateien finden .
+Das Ändern von Eigenschaften , Hinzufügen und Entfernen von Zielen und Quelldateien sind für dieses Backend deaktiviert , weil ein automatisches Bearbeiten nicht implementiert ist . Es muss von Hand mit einem Texteditor geändert werden . Nach jedem Speichern der makefile-Datei wird diese automatisch neu eingelesen .
+/ * vim : set noet ts=4 sw=4 : */
+Anjuta unterstützt nur die folgenden Variablen .
+Anzahl an Leerzeichen , die einem Tabulator-Sprung entsprechen .
+Anzahl an Leerzeichen , die zum Einrücken von C-Code verwendet werden .
+/ * -*- Mode : C ; indent-tabs-mode : t ; c-basic-offset : 4 ; tab-width : 4 -*- */
+Es ist nicht möglich , bei einem Projekt mit diesem Backend etwas zu ändern oder hinzuzufügen . Wenn Sie aber eine Quelldatei mit der passenden Erweiterung im Projektordner hinzufügen , so wird es automatisch hinzugefügt .
+Ähnlich lokalen Variablen werden alle überwachten Ausdrücke in einem Baum mit Unterelementen zur Darstellung von Strukturen oder Feldelementen angezeigt .
+Der Name der Variable oder des Ausdrucks .
+Der Typ der Variable oder des Ausdrucksergebnisses .
+Überwachte Ausdrücke können bei Programmstopp oder auf Anfrage automatisch aktualisiert werden .
+So stellen Sie einen überwachten Ausdruck so ein , dass dieser automatisch aktualisiert wird :
+So aktualisieren Sie die überwachten Ausdrücke manuell in einem Arbeitsgang :
+So fügen Sie einen Ausdruck zur Überwachungsliste hinzu :
+Fehlerdiagnose Ausdruck hinzufügen Hauptmenü Ausdruck hinzufügen Überwachte Ausdrücke
+Das Ergebnis eines Ausdrucks kann folgendermaßen zur Überwachung hinzugefügt werden :
+Fehlerdiagnose Inspizieren/ auswerten Hauptmenü Überwachte Ausdrücke Inspizieren/ auswerten
+Sie können einen Ausdruck aus der Überwachungsliste entfernen .
+Alle Überwachungen können gleichzeitig entfernt werden .
+Wenn ein überwachter Ausdruck einer Variablen entspricht , dann können Sie deren Wert ändern .
+Korrigieren von kritischen Fehlern in GLib/ GTK+
+Verwenden Sie das Programm , bis der kritische Fehler auftritt .
+Die oberste Funktion mit Frame-Nummer 0 ist in GLib , d.h. Sie müssen weiter unten im Stack schauen . Oft liegt der Fehler in der obersten Funktion , welche in Ihrem Programm liegt .
+Ähnlich wie in der Videobearbeitung kann das Programm in Zeitlupe ausgeführt werden , wobei Sie fortsetzen , pausieren und anhalten können usw. So können Sie das Verhalten des Programms besser nachvollziehen . Sie können es jedoch nicht rückwärts laufen lassen .
+Einzelschritte führen nur eine Programmanweisung aus ( ab Haltepunkt ) und geben dann die Kontrolle zurück . Wenn die ausgeführte Anweisung eine Funktion ausführt , so versucht die Fehlerdiagnose in die Funktion zu springen ( in der Reihenfolge , in der die Funktionen ausgeführt werden ) . Sobald die Anweisung ausgeführt und die Kontrolle zurück gegeben wurde , können Sie den Zustand Ihres Programms analysieren .
+Überspringen ist ähnlich wie Einzelschritt mit der Ausnahme , dass nicht innerhalb von Funktionen bei ausgeführten Anweisungen angehalten wird .
+Herausspringen führt die aktuelle Funktion aus , bis diese in die aufrufende Funktion zurückkehrt .
+Dieser Befehl startet das Programm neu und führt es aus , bis ein Haltepunkt angelaufen wird oder das Programm regulär beendet wird .
+Fehlerdiagnose Bis zum Cursor ausführen Hauptmenü F4 Bis zum Cursor ausführen
+Das Programm unterbrechen und Kontrolle zurück an die Fehlerdiagnose geben , so dass diagnostiziert werden kann , wie z.B. Inspizieren von Daten oder Hinzufügen von Haltepunkten .
+Ein Stack-Frame ist der Bereich des Stacks , der einem Funktionsaufruf zugeordnet ist . Es werden alle Funktionen und deren Aufrufargumente in der Aufrufreihenfolge aufgeführt . Jeder Stack-Frames ist beginnend mit 0 ab der aktuellen Funktion nummeriert . Die Stack-Frames werden nur angezeigt , während die Fehlerdiagnose läuft .
+Ein Programm kann aus mehreren Threads bestehen . Alle diese Threads werden unabhängig voneinander ausgeführt , mit eigenen Registern , Stacks und lokalen Variablen , aber mit gemeinsamen globalen Variablen .
+Die Stacks werden in einer Baumansicht dargestellt , jeweils mit dem zugehörigen Thread übergeordnet . Die folgenden Informationen werden angezeigt :
+Der gelbe Pfeil repräsentiert den aktiven Stack-Frame . Laut Vorgabe ist dies Frame 0 , d.h. die aktuelle Funktion . Alle Auswertungen und lokalen Variablen sind relativ zu diesem aktiven Frame . Wechseln Sie den aktuellen Stack-Frame , um lokale Variablen anderer Funktionen zu untersuchen .
+Eine Nummer , korrespondierend zu jedem Thread .
+Der Name der Datei , welche die Funktion des aktuellen Threads enthält .
+Die Zeilennummer der Funktion , die diesem Frame entspricht .
+Der Name der Funktion , welche diesem Frame entspricht .
+Die Adresse der Funktion , welche diesem Frame entspricht .
+Ein Programm in einem Debugger starten .
+Der Debugger kann in einer bereits laufenden Anwendung verwendet werden .
+Der Debugger kann zum Debuggen einer auf einem anderen Rechner laufenden Anwendung verwendet werden , sofern der Rechner über eine TCP- oder serielle Verbindung angeschlossen ist .
+Die Fehlerdiagnose und das Programm können jederzeit so beendet werden :
+Dadurch werden Befehlspfade in der Prozessliste verborgen , falls aktiviert .
+Dadurch werden Befehlszeilenargumente in der Prozessliste verborgen , falls aktiviert .
+Falls deaktiviert , werden die Prozesse in einer Liste dargestellt . Wenn aktiviert , werden die Prozesse in einer Baumansicht dargestellt .
+Alle lokalen Variablen werden in einer Baumansicht mit Unterelementen zur Darstellung von Strukturen oder Feldelementen angezeigt .
+Der Debugger kann verschiedene Informationen über das Programm liefern , während es läuft .
+Dadurch wird ein Fenster geöffnet , das alle vom Programm geladenen gemeinsamen Bibliotheken sowie deren Speicherbereiche auflistet . Es zeigt außerdem für jede der Bibliotheken , ob deren Symboltabelle geladen ist oder nicht .
+Dies listet alle verfügbaren Signale einschließlich einer Kurzbeschreibung und drei Spalten , welche angeben , was zu tun ist , wenn ein Signal empfangen wird :
+Der Debugger stoppt die Ausführung des Programms , sobald das Programm dieses Signal empfängt .
+Der Debugger zeigt das empfangene Signal an .
+Der Debugger übergibt das Signal an das Programm .
+Die Einträge des über einen Klick mit der rechten Maustaste erreichbare Kontextmenü sind derzeit deaktiviert , da die entsprechenden Funktionen noch nicht implementiert wurden .
+Einen Ausdruck inspizieren und eine Variable verändern
+Bei der Diagnose eines Programms wird der Wert eines Ausdrucks oder einer Variablen angezeigt , während das Programm angehalten ist . Manchmal ist es auch nützlich , den Wert einer Variablen abzuändern .
+Fehlerdiagnose Inspizieren/ auswerten Hauptmenü Editor Inspizieren/ auswerten
+Ein benutzerdefinierter Befehl kann folgendermaßen an die Fehlerdiagnose gesendet werden :
+Die Ausgabe des Befehls wird im Meldungsfenster des Debuggers angezeigt .
+Register , deren Wert seit dem letzten Stopp geändert wurden , werden rot dargestellt . Es ist möglich , den Wert eines beliebigen Registers zu ändern , indem Sie in die Wertspalte klicken und einen neuen Wert eingeben .
+Die erste Spalte zeigt die Speicheradressen hexadezimal an , die zweite Spalte den Speicherinhalt wiederum hexadezimal , und die letzte Spalte zeigt den Speicherinhalt im ASCII-Format an .
+Die erste Spalte zeigt die Adresse hexadezimal an . In der zweiten Spalte darf eine mit einem Doppelpunkt abgeschlossene Beschriftung zu Zeilenanfang stehen , oder eine Anweisung in Maschinensprache , welche mit 4 Leerzeichen eingerückt ist .
+Haltepunkte werden verwendet , um die Ausführung eines Programms an bestimmten Stellen zu unterbrechen , so dass der Zustand des Programms an diesen Stellen genauer untersucht werden kann .
+Die Ansicht gliedert sich in folgende Spalten :
+Die Position des Haltepunkts im der Quelldatei . Wenn der Haltepunkt durch die Fehlerdiagnose festgelegt ist , werden zusätzliche Informationen wie die Funktion angezeigt , welche den Haltepunkt enthält .
+Das Feld enthält die Adresse des Haltepunkts , wenn dieser durch die Fehlerdiagnose festgelegt ist .
+Dies ist die Bedingung des Haltepunkts . Falls leer , ist keine Bedingung festgelegt .
+Wenn der Debugger nicht läuft , zeigt diese Spalte die Nummer des Durchgangs des Haltepunkts an , oder 0 , falls nichts festgelegt ist .
+Wenn der Debugger läuft und die Durchgangsnummer 0 ist , dann zeigt diese Spalte die Anzahl an , wie oft dieser Haltepunkt ausgelöst wurde . Falls die Durchgangsnummer von 0 verschieden ist , werden beide Nummern angezeigt . Die Durchgangsnummer ist die zweite Zahl .
+Dies ist der Status des Haltepunkts . Folgende Zustände sind möglich :
+Der Haltepunkt ist in Ihrem Programm nicht festgelegt .
+Der Haltepunkt ist gesetzt ( Kennung ist in Klammern angegeben ) .
+Der Haltepunkt ist gesetzt , wird aber gelöscht , sobald er erreicht wurde .
+Alle Haltepunkte bleiben über Anjuta-Sitzungen erhalten , selbst wenn sie auf nicht vorhandene Orte verweisen , beispielsweise eine Quelldatei in einer Bibliothek , die noch nicht geladen wurde . In diesem Fall wird der Status auf » Ausstehend « gesetzt .
+Fehlerdiagnose Haltepunkt setzen Hauptmenü Haltepunkte Haltepunkt setzen
+Eine weitere Lösung ist es , Haltepunkte ein- und auszuschalten . Wenn für die aktuelle Zeile kein Haltepunkt gesetzt ist , so wird einer hinzugefügt . Andernfalls wird dieser entfernt .
+Fehlerdiagnose Haltepunkt an/ aus Hauptmenü Haltepunkte Haltepunkt an/ aus
+Der Ort eines Haltepunkts kann nicht geändert werden . Erstellen Sie stattdessen einen neuen . Die Haltebedingung oder der Durchgang können jedoch angepasst werden . So bearbeiten Sie einen Haltepunkt :
+Fehlerdiagnose Alle Haltepunkte entfernen Hauptmenü Haltepunkt Alle Haltepunkte entfernen
+Gelegentlich bietet es sich an , den Haltepunkt vorübergehend zu deaktivieren , anstatt diesen zu löschen . So deaktivieren oder reaktivieren Sie einen Haltepunkt :
+Aktivieren Haltepunkt Haltepunkt Haltepunkt aktivieren Haltepunkt deaktivieren
+Sie können alle Haltepunkte folgendermaßen deaktivieren :
+Fehlerdiagnose Alle Haltepunkte deaktivieren Hauptmenü Haltepunkt Alle Haltepunkte deaktivieren
+Wird zum Anlegen oder Bearbeiten von Haltepunkten verwendet
+Die Position des Haltepunkts . Sie kann für einen bestehenden Haltepunkt nicht geändert werden . Der Haltepunkt kann in einer bestimmten Zeilennummer oder an den Beginn einer Funktion festgelegt werden . Verwenden Sie eines der folgenden Formate :
+Die Fehlerdiagnose kann den Haltepunkt für eine bestimmte Anzahl an Durchgängen übergehen . Wenn die Durchgangszahl ungleich Null ist , so wird die Fehlerdiagnose den Haltepunkt eine bestimmte Anzahl Durchgänge durchlaufen , bevor angehalten wird .
+Die Durchgangszahl hat höhere Präferenz als die Bedingung . Nur wenn die Durchgangszahl erreicht wurde , wertet die Fehlerdiagnose die Bedingung aus und hält das Programm an , falls diese vorhanden ist .
+Der Dialog ermöglicht das Festlegen globaler Optionen zum Erstellen von Dateien .
+Fehlermeldungen und Warnungen während des Erstellungsvorgangs werden im Meldungsfenster angezeigt und hervorgehoben . Wenn Sie diese Option aktivieren , geschieht dies auch im Editorfenster .
+Dieses Plugin ist für autotools-Projekte ausgelegt , aber weil diese unter anderem auch » make « einbinden , ist es auch für andere Arten von Projekten geeignet , die auf » make « basieren .
+Nachfolgend finden Sie eine Liste der vom Plugin verwendeten Ziele . Sie sind in allen autotools-Projekten implementiert , aber Sie müssen diese selbst implementieren , wenn Sie ein eigenes » makefile « einsetzen .
+Verwenden Sie dies , um eine Quelldatei zu kompilieren . Der Name der Objektdatei wird gebildet , indem die Erweiterung der Quelldatei durch die korrespondierende Objektdatei-Erweiterung ersetzt wird .
+Verwenden Sie dies , um alle Ziele in einem Ordner zu erstellen .
+Verwenden Sie dies , um alle Ziele in einem Ordner zu installieren .
+Verwenden Sie dies , um alle in einem Ordner erstellten Dateien zu löschen .
+Verwenden Sie dies , um ein verteilbares Paket zu erstellen . Es wird nur im Projektordner aufgerufen .
+Da » make « über Standardregeln verfügt , ist es möglich , ein C-Programm ohne Makefile zu erstellen und zu linken . Sie können ein C-Programm aus einer einzelnen Quelldatei erstellen , ohne Makefile oder umgebendes Projekt .
+Es gibt mehrere Möglichkeiten , Ziele oder ein Projekt zu installieren .
+Ein autotools-Projekt konfigurieren und Konfigurationen verwalten .
+Vor dem Compilieren und Erstellen von Dateien muss ein autotools-Projekt konfiguriert werden . Dieser Schritt ist zum Einstellen globaler Optionen erforderlich , um zu prüfen , ob alle benötigten Bibliotheken und Programme auf dem System installiert sind , und um die passenden Erstellungsskripte zu generieren .
+Die Konfiguration könnte scheitern , wenn einige Bibliotheken oder Programme nicht oder nicht in der richtigen Version installiert sind . Die Fehlermeldung informiert Sie darüber , was genau fehlt .
+Wenn das Projekt noch nicht konfiguriert wurde , so wird es automatisch vor dem Erstellen einer Datei konfiguriert .
+Es ist vergleichbar mit dem Bereinigen eines Projekts , aber es werden noch mehr Dateien entfernt . Sie müssen Ihr Projekt danach neu konfigurieren , um es erstellen zu können .
+Mit diesem Eingabefeld bennenen Sie verschiedene Konfigurationen , jede mit eigenen Optionen und eigenem Erstellungsordner . Normalerweise gibt es bereits eine Vorgabe-Konfiguration , eine Fehlerdiagnose-Konfiguration für einfache Fehlerdiagnose ( zwischenläufige Variablen und Befehlsreihenfolge bleiben unberührt ) und eine optimierte Konfiguration , die schnellere Programme bei längerer Erstellungsdauer produziert . Es können zusätzliche eigene Konfigurationen definiert werden .
+Wählen Sie den Erstellungsordner . Dieser darf auch der Projektordner oder ein Unterordner sein . Das ist speziell für den Wechsel zwischen verschiedenen Konfigurationen nützlich , um ein erneutes Erstellen des gesamten Projekts zu vermeiden .
+Mit autotools ist es nicht möglich , eine Konfiguration für einen anderen Ordner zu verwenden , wenn bereits eine Konfiguration den Projektordner verwendet . Diese muss zuvor entfernt werden .
+Einige autotools-Projekte können nicht außerhalb der Projektordners erstellt werden . Es können zwar dennoch verschiedene Konfigurationen eingesetzt werden , aber alle müssen den Projektordner verwenden und alles muss bei Konfigurationswechsel neu compiliert werden .
+Dieses Textfeld führt alle vom Konfigurationsvorgang eingesetzten Befehlszeilenargumente auf . Alle Argumente werden durch Leerzeichen getrennt und müssen in Zitatzeichen gesetzt werden , wenn sie Leerzeichen enthalten . Jede Konfiguration schreibt Voreinstelllungen in dieses Feld , welche Sie ändern können .
+Die meisten Programmiersprachen ermöglichen das Compilieren von einzelnen Quelldateien . Die Datei wird gelesen , auf Syntaxfehler geprüft und in eine vorläufige Objektdatei umgewandelt . Die meisten Fehler passieren in diesem Schritt . Es ist daher sinnvoll , eine Datei nach Bearbeitung zu compilieren und auf Fehler prüfen zu lassen . Dazu gibt es mehrere Möglichkeiten .
+Kontextmenü der Dateiverwaltung Erstellen Compilieren Seitenleiste der Projektverwaltung
+Es kann nützlich sein , alle durch den Erstellungsprozess erstellten Dateien zu löschen . Zum Beispiel , wenn alle Abhängigkeiten nicht berücksichtigt werden und eine veränderte Datei keine erwartete erneute Compilierung auslöst . Das Löschen aller Dateien löst dies. Dies kann auf mehrere Weisen geschehen :
+Ein Ziel ist eine Datei , die aus Quelldateien erstellt wird . Üblicherweise ist es ein Programm oder eine Bibliothek , aber es kann auch eine Dokumentation sein , falls Weiterverarbeitung in irgendeiner Form notwendig ist .
+Der Befehl zur Erstellung compiliert alle erforderlichen Quelldateien und verlinkt diese gegebenenfalls mit anderen Dateien wie beispielsweise Bibliotheken , um das Ziel zu erstellen . Falls einige Quelldateien bereits compiliert oder nicht verändert worden sind , so werden diese nicht erneut compiliert , um Zeit zu sparen . Es gibt mehrere Wege , eine Erstellung anzustoßen .
+Es stehen verschiedene Typen von Zielen zur Verfügung .
+Es repräsentiert eine von mehreren Programmen gemeinsam verwendete Bibliothek , die zur Laufzeit gebunden wird . Dies ist die üblichste Variante einer Bibliothek under Linux . Sie wird unter Windows » dynamic link library « ( DLL ) genannt .
+Es verwendet das Libtool-Paket . Dessen Name muss mit » lib « beginnen und besitzt die Erweiterung » .la « .
+Es verwendet das Libtool-Paket . Dessen Name ist nicht auf das Präfix » lib « angewiesen , muss aber die Erweiterung » .la « besitzen .
+Es verwendet das Libtool-Paket . Dessen Name muss mit » lib « beginnen und besitzt die Erweiterung » .a « .
+Es repräsentiert ein in Python geschriebenes Programm .
+Es repräsentiert ein in Java geschriebenes Programm .
+Es repräsentiert ein in LISP geschriebenes Programm .
+Die Flags , die dem C-Compiler beim Übersetzen von Ziel-Quelldateien übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Diese Flags werden jeder Übersetzung übergeben , die den C-Präprozessor aufruft . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Die Flags , die dem C++-Compiler beim Übersetzen von Ziel-Quelldateien übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Die Flags , die dem Fortran 9x-Compiler beim Übersetzen von Ziel-Quelldateien übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Wenn ausgewählt , so wird das Ziel im Distributionspaket enthalten sein .
+Die Flags , die dem Java-Compiler beim Übersetzen von Ziel-Quelldateien übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Die Flags , die dem Linker beim Binden von Zielen übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Die Flags , die dem Objective C-Compiler beim Übersetzen von Ziel-Quelldateien übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Die Flags , die dem Vala-Compiler beim Übersetzen von Ziel-Quelldateien übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Die Flags , die dem Parser-Ersteller Bison oder Yacc beim Erzeugen von Ziel-Quelldateien übergeben werden . Dieser Wert überschreibt gegebenenfalls denjenigen aus dem übergeordneten Ordner .
+Der Name Ihres Projekts , der auch Leerzeichen enthalten darf .
+Dies ist die Homepage des Projekts . Sie ist optional .
+Die Flags , die dem C-Compiler übergeben werden , wenn ein Wert je Ziel ? ? nicht definiert ist .
+Die Flags , die dem C++-Compiler übergeben werden , wenn ein Wert je Ziel ? ? nicht definiert ist .
+Erste Schritte mit dem Editor für grafische Benutzeroberflächen
+Effiziente Möglichkeiten zum Navigieren durch den Quellcode
+Der Symbolbrowser gibt Ihnen eine Übersicht über die in Ihrem Projekt verwendeten Symbole . Symbole beziehen sich hier auf Variablen , Funktionen/ Methoden und Klassen . Die exakte Definitionen hängt von der verwendeten Programmiersprache ab .
+Der Symbolbrowser verfügt über drei Reiter :
+Ein Doppelklick auf ein Symbol führt Sie direkt zur Definition des Symbols im Editor .
+So finden Sie schnell gesuchte Informationen in der API-Dokumentation
+Mit Tastenkürzeln im Editor zur API-Referenz springen
+Die Funktionsmerkmale des integrierten Editors einrichten und verwenden

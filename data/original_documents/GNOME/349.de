@@ -1,0 +1,58 @@
+Dies ist das Benutzerhandbuch von F-Spot , einem GNOME-Programm zur Verwaltung von Fotos .
+Aaron Bockover , Gabriel Burt , Miguel de Icaza , Bengt Thuree
+~/ Fotos Einstellungen Bearbeiten Einstellungen Dateien in den Fotoordner kopieren
+Durch einen Doppelklick oder durch Drücken der Eingabetaste gelangen Sie in den Bearbeitungsmodus , wo Sie rote Augen entfernen , Zuschneiden und Farben oder Helligkeit anpassen können .
+Sobald Sie Ihre Auswahl zum Ausschneiden getroffen haben , müssen Sie den » Zuschneiden « Knopf anklicken , um den Zuschneide-Vorgang abzuschließen . Beim Bearbeiten des Original-Fotos wird dabei eine neue Version des Fotos angelegt .
+Das Begradigen-Werkzeug dient zum Anpassen von ohne Stativ aufgenommenen Landschaftsaufnahmen , bei denen die Horizontlinie schräg ( nicht 0° ) verläuft . Das Werkzeug dreht das Bild um den angegebenen Winkel und schneidet die Ränder automatisch zu , so dass sich immer ein Rechteck ergibt .
+Dieser Effekt ändert automatisch die Farbeinstellungen , so dass ein farblich gut ausgeglichenes Bild entsteht . Dieser Effekt ist am besten für Bilder geeignet , die mit automatischem Weißabgleich aufgenommen wurden , aber die Kamera diese Aufgabe nicht all zu gut erfüllen konnte .
+Um Ihre Auswahl zu treffen , klicken Sie auf eine Ecke des Rechtecks , das Ihre Auswahl begrenzen soll . Dann ziehen Sie die Auswahl mit der Maus in die diagonal gegenüberliegende Ecke und lassen Sie die Maus-Taste los . Sie können die Größe der Auswahl noch ändern , indem Sie an den Ecken ziehen , oder Sie durch Klicken in der Mitte verschieben .
+Sie können eine Beschreibung des Bildes einfügen , indem Sie in die Text-Box unter dem Bild klicken und Ihren Text eingeben .
+F-Spot erlaubt Ihnen , Ihre Fotos mit Hilfe benutzerdefinierter Markierungen zu organisieren . Markierungen sind wie Schlagworte . F-Spot wird bereits mit vorgegebenen Markierungen ausgeliefert , um Ihnen den Einstieg zu erleichtern . Sie können diese Markierungen jedoch gerne ändern und/ oder Neue hinzufügen . Falls Sie zum Beispiel eine Markierung für ein bestimmtes Ereignis anlegen möchten , können Sie diese Markierung unter der Markierung » Ereignisse « anlegen .
+Es gibt verschiedene Möglichkeiten , Fotos zu markieren :
+Indem Sie ein oder mehrere Fotos auf eine Markierung ziehen
+Indem Sie eine Markierung auf ein oder mehrere Fotos ziehen
+F-Spot kann Markierungen ( Tags ) als Metadaten-Felder in JPEG-Dateien schreiben . Tags für verschiedene andere Dateien , wie etwa PNG , TIFF , RAW-Dateien , werden in F-Spots Datenbank gespeichert . Sie müssen diese Dateien neu taggen , wenn Sie Ihre Sammlung neu importieren .
+F-Spot benutzt Suchfilter , um Ihnen das Festlegen von Suchkriterien zu erleichtern .
+Jedesmal wenn Sie die Filter-Einstellungen ändern , wird die Anzahl der gewählten Fotos im unteren Bereich des Dialogs angezeigt .
+Diese Funktion sucht auch nach dem eingegebenen Text in den Foto-Kommentaren und im Dateinamen .
+Im Diaschau-Modus können Sie sich zurücklehnen und sich Ihre Fotos in einer Präsentation anschauen . Die Diaschau starten Sie mit dem Knopf in der Werkzeugleiste .
+Es gibt verschiedene Möglichkeiten , Ihre Fotos mit Hilfe von F-Spot mit Anderen zu teilen . Nachfolgende Methoden übertragen , bei ihrer Verwendung , jeweils nur die ausgewählten Fotos .
+Falls sich manche per E-Mail zu versendende Fotos in einem Format befinden , das F-Spot nicht schreiben kann ( z.B. RAW-Bilder ) , wird die Größenauswahl ausgegraut und das Original verschickt .
+Das » Remote « Modul für Gallery sollte in der Version 1.0.8 oder neuer vorliegen .
+Wenn Sie ein Foto aufnehmen und es auf dem Bildschirm betrachten , sieht es anders aus als auf dem Vorschaubildschirm der Kamera oder jedem anderen Anzeigegerät . Wenn Sie es ausdrucken , wird es wiederum anders aussehen . Das liegt daran , dass die Farbdarstellung abhängig von den Fähigkeiten des jeweiligen Gerätes ist .
+Das Color Management System ( CMS ) ist ein Werkzeug , mit dem Sie zuverlässige Farbdarstellungen sowohl für die Anzeige als auch für die Ausgabe ( z.B. auf einem Drucker ) erzielen . Ein CMS benutzt Farbprofile , um die Originalfarben an die Farben des reproduzierenden Gerätes anzupassen , so dass die Farben überall gleich dargestellt werden , egal ob auf einem LCD-Bildschirm , einem Ausdruck Ihres örtlichen Fotolabors usw.
+Ein Farbprofil hat entweder die Endung .icc ( daher die häufig benutzte Bezeichnung ICC-Profil ) oder .icm . Es beschreibt die Beziehung der Farben eines Gerätes zu einer universellen Farbbeschreibung .
+Es gibt verschiedene Arten von Profilen :
+Bildschirm-Profil . Ein Profil für Ihren Monitor .
+Ausgabe-Profil . Das ist im Normalfall ein Profil für Ihren Drucker .
+Gegenwärtig erlaubt F-Spot nur das Festlegen von Anzeige- und Ausgabeprofilen . Alle Farboperationen finden im sRGB-Farbraum statt .
+Woher bekomme ich mein Bildschirm/ Drucker-Farbprofil ?
+Es gibt ein verschiedene Möglichkeiten , ein Farbprofil zu beziehen .
+Viele Gerätehersteller liefern Farbprofile auf einer CD mit . Falls Sie über eine solche CD verfügen ( vom Monitor oder Drucker ) , können Sie diese benutzen . Oder Sie laden sie aus dem Internet , üblicherweise aus dem Supportbereich der Webseite des Herstellers . Einige Kamerahersteller bieten ebenfalls ICC-Profile an .
+Die besten Ergebnisse erzielen Sie durch Kalibrierung und Profilierung von Geräten mit einem entsprechenden Messgerät . Das ist nicht besonders schwierig , aber Sie benötigen ein Spektrophotometer für die Messungen und die Erstellung eines ICC-Profils .
+Bitte ziehen Sie die Dokumentation zu Drittanbieter-Hardware und Software für weitere Details zu Rate .
+Die Bildformate selbst ( wie TIFF , JPEG , PNG ) können eingebettete Farbprofile enthalten . Falls die Farbverwaltung aktiviert ist , sucht F-Spot nach solchen eingebetteten Profilen und berücksichtigt sie .
+Die Farbverwaltung in F-Spot kann derzeit nur mit GB-Profilen umgehen ( und Sie werden keine weiteren Profile in F-Spot sehen ) .
+/ usr/ share/ color/ icc / usr/ local/ share/ color/ icc
+xicc Es wird versucht , das System-Anzeigeprofil zu verwenden
+F-Spot-Erweiterungen fügen neue Funktionalitäten zur Anwendung hinzu . F-Spot unterstützt zwei Arten von Erweiterungen : Exporter ( welche das Exportieren von Fotos zu Webdiensten oder Datenspeichern ermöglichen ) und Werkzeuge ( welche neue Möglichkeiten beispielsweise zur Farbkorrektur oder zum Finden von Duplikaten hinzufügen ) . Erweiterungen werden in Form von Erweiterungspaketen angeboten .
+Sie können eine Erweiterung nicht installieren , wenn die Erweiterung nicht installiert ist , von der diese abhängt .
+Sie können Erweiterungen nicht deinstallieren , falls andere Erweiterungen von dieser abhängen .
+Wählen Sie alle Softwarequellen ( Repositories ) , von denen Sie installieren möchten , oder nur eine verfügbare Quelle .
+Wählen Sie , welche Erweiterungs-Pakete Sie sehen möchten : Alle , nur Neue , nur Aktualisierungen .
+Möglicherweise möchten Sie vorübergehend ein bestimmtes Erweiterungspaket aktivieren oder deaktivieren . Beispielsweise dann , wenn eine Erweiterung nicht stabil genug ist , um mit einer großen Anzahl von Bildern umgehen zu können , oder wenn Menüs zu sehr mit Erweiterungen vollgestopft sind .
+Jedes Erweiterungspaket enthält Meta-Informationen , die folgende Informationen zur Verfügung stellen :
+Beschreibung , diese erklärt üblicherweise die Funktion der Erweiterung .
+Die ausgewählten Fotos gegen den Uhrzeigersinn drehen
+Ausgewählte Fotos dauerhaft von der Festplatte löschen . Falls möglich , werden diese in den Müll verschoben .
+Markierungen der ausgewählten Fotos zeigen oder bearbeiten
+Alt + eine Nummer zwischen 0 und 5 bewertet ausgewählte Fotos
+Den Fokus verschieben , ohne die Auswahl zu verändern
+Hinzufügen/ Entfernen aller Fotos in der Reihe , in die Richtung die gedrückt wurde , bis zur Auswahl
+Öffnet eine größere Vorschau des Bildes , auf das Sie mit der Maus zeigen .
+Öffnet eine größere Vorschau und ein Farb-Histogramm des Bildes , auf das Sie mit der Maus zeigen .
+Markierungen mit der Maus ziehen , um diese zu verschieben
+Geben Sie den Namen einer Markierung ein , um zu ihr zu springen ( funktioniert nur , wenn alle Markierungen angezeigt werden/ ausgeklappt sind )
+Zum vorherigen/ nächsten Foto gehen oder ein vergrößertes Foto in der Ansicht verschieben
+Vergrößerungsstufe auf 1,0 ( 1 Bilschirmpixel pro Bildpixel )
+Vergrößerungsstufe auf 2,0 ( 4 Bildschirmpixel pro Bildpixel )

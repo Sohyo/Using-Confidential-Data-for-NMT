@@ -1,0 +1,252 @@
+Der Inhalt des Ordners » %s « wurde automatisch erzeugt . Sie können darin enthaltene Lesezeichen weder manuell hinzufügen noch löschen .
+Dieser Assistent hilft Ihnen beim Export einer Datei mit Lesezeichen . Von allen überschriebenen Dateien werden Sicherungskopien angelegt .
+An diesen Speicherorten könnten typischerweise Lesezeichen gefunden werden
+Dies ist der zu verwendende Speicherort . Sie können einen aus der Liste wählen oder selbst einen eingeben .
+Der Export-Vorgang wurde abgeschlossen . Zur Sicherheit wurde unter %s eine Kopie Ihrer alten Lesezeichen-Sammlung abgelegt .
+Beim Exportieren Ihrer Lesezeichen ist ein Fehler aufgetreten .
+Assistent zum Import von Lesezeichen aus Epiphany ( RDF )
+Assistent zum Import von XBEL-Lesezeichen ( Galeon und Konqueror )
+Import von XBEL-Lesezeichen ( Galeon und Konqueror )
+Dieser Assistent hilft Ihnen beim Import einer Datei mit Lesezeichen und der Integration in Ihre aktuelle Lesezeichen-Sammlung .
+Dies sind die soeben importierten Lesezeichen .
+Dies sind die Lesezeichen Ihrer aktuellen Lesezeichen-Sammlung .
+Sie können die importierten Lesezeichen mittels Ziehen & Ablegen und Kopieren & Einfügen manuell in Ihre Sammlung integrieren . Alternativ dazu kann Galeon diesen Vorgang auch automatisch abwickeln .
+Dies ist die neu zusammengestellte Lesezeichen-Sammlung .
+Der Import-Vorgang wurde abgeschlossen . Zur Sicherheit wurde eine Kopie Ihrer alten Lesezeichen-Sammlung unter %s abgelegt .
+Beim Öffnen der Datei ist ein Fehler aufgetreten : %s
+Es konnten keine Anwendungen zum Öffnen der angegebenen Datei gefunden werden .
+Zeile %d , Spalte %d , Datei » %s « in » %s «
+Beim Drucken ist ein Problem aufgetreten . Es konnten keine Drucker gefunden werden
+Die Adresse der Startseite . Diese wird beim Programmstart und beim Öffnen eines neuen Fensters/ Reiters angezeigt . Einstellungen hierzu finden sich unter / apps/ galeon/ Browsing/ General/ startpage_type und / apps/ galeon/ Browsing/ General/ newpage_type
+Soll die laufende Sitzung beim Beenden des Programms automatisch gespeichert werden ?
+Die beim Öffnen eines neuen Fensters/ Reiters anzuzeigende Seite . Zulässige Werte : 0 ( Startseite ) , 1 ( letzte Seite ) sowie 2 ( leere Seite ) .
+Falls dieser Schlüssel wahr ist , werden Sie immer um Bestätigung gebeten , wenn Sie ein Fenster mit ausgefüllten Formularen schließen .
+Falls dieser Schlüssel wahr ist , wird Galeon im Offline-Modus ausgeführt . Seiten werden dann vom Browser-Cache und nicht per Netzwerk gelesen .
+Eine Chronik-Dropdown-Liste mit intelligenten Lesezeichen kombinieren .
+Ist dieser Wert WAHR , werden in den intelligenten Lesezeichen keine Pfeile angezeigt
+Soll beim Suchen im Dokument die Groß-/ Kleinschreibung berücksichtigt werden ?
+Beim Durchsuchen einer Seite nur nach Übereinstimmung von ganzen Wörter suchen ?
+Soll beim Durchsuchen eines Dokumentes auch innerhalb von Frames gesucht werden ?
+Soll beim Durchsuchen von Dokumenten die Suche am Anfang fortgesetzt werden , sobald das Seitenende erreicht wurde ?
+Aufgerufenen Seiten das Öffnen neuer Fenster mittels JavaScript erlauben ( falls JavaScript verarbeitet wird ) ?
+Das außer Kraft setzen des Kontextmenüs über JavaScript erlauben . Falls diese Option gesetzt ist , kann JavaScript das Kontextmenü für eine Seite abschalten oder ersetzen .
+Aufgerufenen Seiten das Ändern der Nachricht in der Statusleiste mittels JavaScript erlauben ( falls JavaScript verarbeitet wird ) ?
+Wenn dieser Wert wahr ist , werden Titel bei den Auswahlmöglichkeiten zur automatischen Vervollständigung mit angezeigt .
+Sollen die Auswahlmöglichkeiten zur automatischen Vervollständigung bei der Bearbeitung von Adresseinträgen automatisch angezeigt werden ?
+Einträge in der Adressleiste automatisch aus der Chronik vervollständigen ?
+Eigene anstelle der vom Dokument verlangten Farben verwenden ?
+Eigene anstelle der vom Dokument verlangten Schriften verwenden ?
+Die voreingestellte Hintergrundfarbe im Hexadezimal-Format #RRGGBB .
+Voreingestellte Farbe für bereits besuchte Links im Hexadezimal-Format #RRGGBB .
+Voreingestellte Farbe für noch nicht besuchte Links im Hexadezimal-Format #RRGGBB .
+Popup-Fenster in Reitern anstelle von neuen Fenstern öffnen
+Die Textfarbe ( im Hexadezimal-Format #RRGGBB ) neuer Reiter während des Ladevorgangs .
+Die Textfarbe ( im Hexadezimal-Format #RRGGBB ) neuer Reiter , die fertig geladen aber noch nicht betrachtet wurden .
+Soll immer eine Leiste mit Reitern angezeigt werden , auch wenn nur einer geöffnet ist ?
+Welche Fensterseite soll für die Reiterleiste verwendet werden ? Zulässige Werte : 0 ( links ) , 1 ( rechts ) , 2 ( oben ) sowie 3 ( unten ) .
+Favicons auf Reitern anzeiogen . Zulässige Werte : 0 ( nicht anzeigen ) , 1 ( Favicon oder Vorgabe-Symbol anzeigen ) sowie 2 ( ausschließlich Favicons anzeigen ) .
+Soll die Statusleiste im Vollbild-Modus angezeigt werden ?
+Soll die Seitenleiste im Vollbild-Modus angezeigt werden ?
+Verhalten beim Laden von Bildern . Zulässige Werte : 0 ( immer laden ) , 1 ( nur vom aktuellen Server laden ) , 2 ( nie laden ) .
+Welche Animationsart soll für Bilder verwendet werden ? Zulässige Werte : 0 ( fortlaufend ) , 1 ( einmal ) sowie 2 ( nie )
+Der voreingestellte Schrifttyp . Zulässige Werte : 0 ( Antiqua ) und 1 ( Grotesk ) .
+Optional können die Anzeigeeinstellungen bezüglich der Werkzeugleistenobjekte von den Desktop-Vorgaben abweichen . Zulässige Werte : » system « ( Desktop-Vorgaben verwenden ) , » icons_only « ( ausschließlich Symbole anzeigen « , » text_only « ( ausschließlich Text anzeigen ) , » text_below « ( Text unter Symbolen anzeigen ) sowie » text_beside « ( Text neben Symbolen anzeigen ) .
+Befehl zum Herunterladen mit einer externen Anwendung . %s wird durch die zu herunterladende Adresse ersetzt .
+Externe Anwendung zum Herunterladen in einem Terminal ausführen
+Soll die externe Anwendung zum Herunterladen in einem Terminal ausgeführt werden ?
+Den Dialog auch nach Fertigstellen aller Downloads offen halten .
+Zeigt an , ob die Einstellungen in GNOME 2.2-Einstellungen migriert wurden .
+Die Größe des Platten-Caches in kB .
+Verhalten beim Vergleich zwischen Internet und Cache . Zulässige Werte : 0 ( einmal pro Sitzung ) , 1 ( jedes Mal ) , 2 ( nie ) sowie 3 ( automatisch ) .
+Bevorzugte Sprachen , jeweils als 2-Buchstaben-Kürzel .
+Verhalten beim Akzeptieren von Cookies . Zulässige Werte : 0 ( immer akzeptieren ) , 1 ( nur vom aktuellen Server akzeptieren ) sowie 2 ( nie akzeptieren )
+Die für Cookies zu setzende Lebenszeit . Mögliche Angaben sind » 0 « ( Einstellung des Cookies ) , » 1 « ( bei jedem Cookie nachfragen ) , » 2 « ( alle Cookies gelten nur für die Sitzung ) , » 3 « ( höchste Lebenszeit erzwingen , Vorgabe ist 90 Tage )
+Nicht nach der Lebenszeit von Sitzungs-Cookies fragen , wenn die Lebenszeitregel besagt , dass nachgefragt werden soll .
+HTTP-Version . Zulässige Werte : 0 ( 1.0 ) und 1 ( 1.1 ) .
+Die voreingestellte Wiederherstellungsmethode für Sitzungen . 0 öffnet Fenster erneut , 1 fügt die Seiten zu Ihren Lesezeichen hinzu , 2 verwirft die Sitzung .
+Was soll passieren , wenn die mittlere Maustaste gedrückt wird und sich dabei nicht über einem Link befindet . Zulässige Werte : 0 ( Lesezeichen-Menü ) , 1 ( Adresse einfügen ) , 2 ( gehe zurück ) , 3 ( Maus-Gesten ) , 4 ( automatisch rollen ) 5 ( manuell rollen , wie GGV ) sowie 6 ( Im aktuellen Reiter einfügen )
+Was soll beim Drücken Maustaste der rechten Maustaste geschehen ? Zulässige Werte : 0 ( sofort das Kontext-Menü anzeigen ) und 1 ( Maus-Gesten interpretieren , erst beim Loslassen des Knopfes das Kontext-Menü anzeigen ) .
+Beim Betätigen des Mausrads bei keiner gedrückten Taste auszuführende Aktion . Zulässige Werte : 0 ( einen Schritt weiterrollen ) , 1 ( eine Seite weiterrollen ) , 2 ( in der Chronik wandern ) sowie 3 ( Ansicht verändern ) .
+Soll bei keinem gedrücktem Umschalter die voreingestellte Schrittweite verwendet werden ?
+Schrittweite für das Weiterrollen ohne zusätzlich gedrückte Taste in Zeilen
+Nach wie vielen Tagen soll ein Eintrag aus der Chronik gelöscht werden ?
+Sollen ausschließlich Chronik-Einträge eines bestimmten Zeitraums angezeigt werden ? Zulässige Werte : 0 ( alle ) , 1 ( heute ) , 2 ( gestern ) , 3 ( die letzten beiden Tage ) , 4 ( diese Woche ) sowie 5 ( dieser Monat ) .
+Titel einer Seite beim Drucken in der Kopfzeile ausgeben
+Adresse einer Seite beim Drucken in der Kopfzeile ausgeben
+Datum beim Drucken in der Fußzeile ausgeben
+Seitennummern ( x von gesamt ) beim Drucken in der Fußzeile ausgeben
+Legt fest , wie Seiten gedruckt werden sollen , die Frames enthalten .
+Was soll in der JavaScript-Konsole angezeigt werden ?
+Was soll in der JavaScript-Konsole angezeigt werden ?
+Soll im Lesezeichen-Editor das Bearbeiten-Feld angezeigt werden ?
+Die maximale Anzahl der gleichzeitig zu öffnenden Lesezeichen , bevor um Bestätigung gebeten wird .
+Layout-Benutzeroberflächendatei » %s « konnte nicht geladen werden
+Fehler beim Laden eines Layouts : Es ist nicht bekannt , wie ein Dock-Objekt namens » %s « angelegt werden soll
+Legen Sie ein Objekt auf einer Werkzeugleiste ab , um es hinzuzufügen . Ziehen Sie es von einer Werkzeugleiste und legen Sie es in der Objekttabelle ab , um es zu entfernen .
+Diese Datei mit » %s « öffnen ?
+Diese Datei mit einer anderen Anwendung öffnen ?
+Die Seite %s möchte ein vorhandenes Cookie verändern .
+Die Seite %s möchte ein Cookie setzen .
+Die Seite %s möchte ein zweites Cookie setzen .
+Galeon kann mit diesem Protokoll nicht umgehen und in GNOME wurde kein Handler festgelegt
+Das » %s«-Protokoll wird nicht unterstützt .
+Unterstützte Protokolle sind » http « , » https « , » ftp « , » file « , » smb « und » sftp«./ home/ user/ test.html
+Die Datei » %s « wurde nicht gefunden .
+Überprüfen Sie die Position der Datei und versuchen Sie es erneut.www.example.com
+» %s « konnte nicht gefunden werden .
+Überprüfen Sie , dass Sie mit dem Internet verbunden sind und dass die Adresse korrekt ist .
+Falls diese Seite existierte , könnten Sie eine archivierte Version finden :
+Eine Verbindung zu » %s « konnte nicht aufgebaut werden .
+Der Server könnte ausgelastet sein oder Sie könnten ein Netzwerkverbindungsproblem haben . Versuchen Sie es später noch einmal .
+Es könnte eine alte Version der Seite , die Sie wollten , geben :
+» %s « unterbrach die Verbindung .
+Die Verbindung brach ab , da der Server zu lange zum Reagieren brauchte .
+Die von Ihnen eingegebene Adresse ist nicht gültig .
+» %s « wurde zu oft umgeleitet .
+Die Umleitung wurde wegen Sicherheitsbedenken gestoppt .
+» %s « erfordert eine verschlüsselte Verbindung .
+Das Dokument konnte nicht geladen werden , da keine Unterstützung für Verschlüsselung installiert ist .
+» %s « hat die Verbindung fallengelassen .
+Der Server hat die Verbindung fallengelassen , bevor Daten gelesen werden konnten .
+Das Dokument kann im Offline-Modus nicht geladen werden .
+Dieses Dokument kann im Offline-Modus nicht betrachtet werden . Setzen Sie Galeon auf » online « und versuchen Sie es erneut .
+» %s « hat den Zugriff auf Port » %d « verweigert .
+Konnte keine Verbindung zum Proxy-Server aufbauen .
+Überprüfen Sie Ihre Proxy-Server-Einstellungen . Falls die Verbindung dennoch fehlschlägt , könnte es ein Problem mit Ihrem Proxy-Server oder Ihrer Netzwerkverbindung geben.|
+Wählen Sie ein Zertifikat , das %s zur Identifikation angezeigt werden soll .
+Wählen Sie ein Zertifikat zur Identifikation .
+Die Seite %s lieferte Sicherheitsinformationen für %s . Möglicherweise hat sich jemand in Ihre Verbindung eingeklinkt , um an Ihre vertraulichen Daten zu gelangen .
+Sie sollten die Sicherheitsinformationen ausschließlich akzeptieren , falls Sie %s und %s vertrauen .
+Es war nicht möglich , » %s « automatisch zu vertrauen . Möglicherweise hat sich jemand in Ihre Verbindung eingeklinkt , um an Ihre vertraulichen Daten zu gelangen .
+Sie sollten ausschließlich mit dieser Seite verbinden , falls Sie sicher sind , mit %s verbunden zu sein .
+Die Sicherheitsinformationen für %s sind am %s ausgelaufen .
+Die Sicherheitsinformationen für %s sind bis zum %s ungültig .
+Sie sollten sicherstellen , dass Ihre Systemzeit korrekt ist .
+Die Verbindung mit %s konnte nicht hergestellt werden .
+Die Liste zurückgezogener Zertifikate ( CRL ) von %s muss aufgefrischt werden .
+Bitten Sie Ihren Systemadministrator um Unterstützung .
+Vor dem Vertrauen einer Zertifikatverwaltungsstelle ( CA ) sollten Sie sicherstellen , dass das Zertifikat authentisch ist .
+Wählen Sie ein Passwort , um dieses Zertifikat zu schützen .
+Geben Sie das Passwort für dieses Zertifikat ein .
+Liste zurückgezogener Zertifikate ( CRL ) importiert :
+Dieses Zertifikat wurde für folgende Verwendungszwecke verifiziert :
+Dieses Zertifikat konnte nicht verifiziert werden , da es zurückgezogen wurde .
+Dieses Zertifikat konnte nicht verifiziert werden , da es ausgelaufen ist .
+Dieses Zertifikat konnte nicht verifiziert werden , da es nicht als vertrauenswürdig eingestuft wurde .
+Dieses Zertifikat konnte nicht verifiziert werden , da der Aussteller nicht als vertrauenswürdig eingestuft wurde .
+Dieses Zertifikat konnte nicht verifiziert werden , da der Aussteller unbekannt ist .
+Dieses Zertifikat konnte nicht verifiziert werden , da das CA-Zertifikat ungültig ist .
+Dieses Zertifikat konnte aus unbekannten Gründen nicht verifiziert werden .
+Bitte warten Sie , es wird ein neuer privater Schlüssel generiert . Dieser Vorgang kann einige Minuten in Anspruch nehmen .
+Diese Seite wird über eine sichere Verbindung geladen
+Sie können die Sicherheitsstufe einer Seite jederzeit an dem Schlosssymbol in der Statusleiste erkennen .
+Diese Seite wird über ein relativ unsichere Verbindung geladen
+Es ist möglich , dass Daten die Sie auf dieser Seite sehen oder eingeben von Dritten mitgelesen werden .
+Teile dieser Seite werden über ein unsichere Verbindung geladen
+Einige Daten die Sie auf dieser Seite sehen oder eingeben , werden über eine unsichere Verbindung übertragen und können daher von Dritten mitgelesen werden .
+Sollen Daten über eine unsichere Verbindung gesendet werden ?
+Die von Ihnen eingegebenen Daten werden über eine unsichere Verbindung gesendet und können daher von Dritten mitgelesen werden .
+Obwohl diese Seite über eine sichere Verbindung geladen wurde , werden von Ihnen eingegebene Daten über eine unsichere Verbindung gesendet und können daher von Dritten mitgelesen werden .
+Möglicherweise wurde die Website entfernt oder sie wurde umbenannt .
+%d von %d Seiten gedruckt , noch ca. %d Sekunden
+In neuem _Reiter zum angegebenen Ort gehen
+In neuem _Fenster zum angegebenen Ort gehen
+Laden aller Reiter in diesem _Fenster abbrechen
+Das mit dieser Aktion verknüpfte Fenster .
+Diese Seite anzeigen , ohne einen Stil zu verwenden
+Diese Seite unter Verwendung des Vorgabestils anzeigen
+Den Benutzerstil von » %s « auf die Seite anwenden
+Diese Seite unter Verwendung des Stils » %s « anzeigen
+Einen anderen Stil für diese Seite festlegen
+Diese Seite unter Verwendung der Zeichenkodierung » %s « anzeigen
+Einen neuen Reiter in einem bestehenden Galeon-Fenster öffnen
+Ein neues Fenster in einer bestehenden Galeon-Instanz öffnen
+Fenster nicht in den Vordergrund bringen , wenn eine Seite in einem bestehenden Galeon-Prozess geöffnet wird
+Es wurde versucht , die Adresse in einem bestehenden Galeon-Fenster zu laden .
+Keine Fenster öffnen , stattdessen als Server für schnellen Start von neuen Galeon-Instanzen fungieren
+Ein Lesezeichen hinzufügen ( kein Fenster öffnen )
+Das erste Fenster mit der angegebenen Geometrie öffnen . Weitere Informationen zum GEOMETRIE-Format finden Sie in der man-Seite X(1 ) .
+Wie --close , beendet aber auch den Server-Modus
+Der Start scheiterte wegen des folgenden Fehlers : %s
+Die Adresse der momentan geöffneten Seite in die Zwischenablage kopieren
+Den Quelltext der momentan geöffneten Seite anzeigen
+Diesen Frame in einem neuen Galeon-Fenster öffnen
+Diesen Frame in einem neuen Reiter in diesem Fenster öffnen
+Den Link im momentan angezeigten Reiter öffnen
+Den Link in einem neuen Fenster öffnen
+Diesen Link in einem neuen Reiter in diesem Fenster öffnen
+Die Adresse dieses Links in die Zwischenablage kopieren
+Eine E-Mail mit Hilfe Ihrer E-Mail-Anwendung verschicken
+Dieses Bild in einem neuen Galeon-Fenster öffnen
+Dieses Bild in einem neuen Reiter in diesem Fenster öffnen
+Die Adresse dieses Bildes in die Zwischenablage kopieren
+Bilder vom Rechner , auf dem sich dieses Bild befindet nicht übertragen
+Bilder vom Rechner übertragen , auf dem sich dieses Bild befindet
+Das Programm zum Konfigurieren des Netzwerk-Proxies konnte nicht gestartet werden .
+Vor dem Absturz am %s geöffnete Seiten
+» %s « zur Seitenleiste hinzufügen ?
+Die Quellseite der neuen Seitenleiste ist %s .
+Stellen Sie sicher , dass die Umgebungsvariable %s auf den richtigen Mozilla-Installationsordner gesetzt wurde .
+Es wurde eine Datei mit Lesezeichen gefunden , die möglicherweise durch Galeon 1 erstellt wurde . In Galeon 1 wurden Zeichen , die nicht dem ASCII-Standard entsprechen , fehlerhaft gespeichert . Soll versucht werden , die Lesezeichen zu korrigieren ?
+Datenübertragung von %s ( %d KB geladen )
+Datenübertragung von %s ( %d % % vollständig , %d KB von %d KB geladen )
+Einen neuen Reiter in diesem Fenster öffnen
+Die momentan geöffnete Seite unter einem anderen Namen speichern
+Den Inhalt der momentan geöffneten Seite per E-Mail verschicken
+Auf der momentan geöffnete Seite nach einer Zeichenkette suchen
+Von dieser Seite stammende Bilder nicht übertragen
+Ein Lesezeichen für die momentan geöffnete Seite hinzufügen
+Die Reiter des momentan geöffneten Fensters als Ordner hinzufügen
+Diesen Reiter in ein neues Fenster ausgliedern
+Die anderen Reiter in diesem Fenster schließen
+Informationen zu den momentan installierten Plugins anzeigen
+Nur vom aktuellen Server stammende Bilder übertragen
+Cookies nur von dem Server akzeptieren , auf dem sich eine Seite befindet
+Diese Seite enthält nicht übertragene Änderungen .
+Geben Sie die Argumente für diese intelligente Seite ein :
+Maximale Anzahl zu öffnender Lesezeichen , ohne dass dieser Dialog angezeigt wird :
+Reiter in Fenster » %s « verschieben
+Den momentan geöffneten Reiter in ein anderes Fenster verschieben
+Die Website %s unterstützt für die momentan angezeigte Website Legitimation . Die Identität dieser Website wurde von %s verifiziert , einer Zertifizierungsstelle , der Sie für diesen Verwendungszweck vertrauen .
+Verbindung verschlüsselt : Hochgradige Verschlüsselung ( %s %d Bit )
+Die angezeigte Seite wurde vor der Internet-Übertragung verschlüsselt .
+Die Verschlüsselung macht es nicht legitimierten Personen sehr schwer , Informationen beim Datenaustausch zwischen Computern auszuspähen . Daher ist es sehr unwahrscheinlich , dass jemand bei der Datenübertragung über das Netzwerk diese Seite liest .
+Verbindung verschlüsselt : Schwache Verschlüsselung ( %s %d Bit )
+Die Website %s verwendet für die angezeigte Seite eine schwache Verschlüsselung .
+Die schwache Verschlüsselung erlaubt es nicht legitimierten Personen möglicherweise , diese Informationen auszuspähen .
+Die Website %s unterstützt für die angezeigte Seite keine Verschlüsselung .
+Die angezeigte Website ist nicht verschlüsselt .
+Unverschlüsselte , per Internet übertragene Informationen können bei der Übertragung von dritten ausgespäht werden .
+Galeon ist im Moment online . Klicken Sie , um offline zu arbeiten .
+Galeon ist im Moment offline . Klicken Sie , um online zu arbeiten .
+Ein Popup-Fenster von %s wurde blockiert . Klicken Sie » Popup-Fenster erlauben « an , um Popup-Fenster von dieser Seite zu erlauben .
+Ein Popup-Fenster von %s wurde blockiert . Sie können das Anzeigen von Popup-Fenstern von dieser Seite zukünftig erlauben .
+UTF-8 ISO-8859-1 ISO-8859-2 ISO-8859-3 ISO-8859-4 ISO-8859-5 ISO-8859-6 ISO-8859-7 ISO-8859-8 ISO-8859-9 ISO-8859-10 ISO-8859-11 ISO-8859-12 ISO-8859-13 ISO-8859-14 ISO-8859-15 KOI8-R KOI8-U KOI8-T CP1255 EUC-JP EUC-KR EUC-TW BIG5 BIG5-HKSCS GBK GB18030 SHIFTJIS JOHAB TIS-620 VISCII TCVN5712-1 GEORGIAN-PS
+_Ordner , in denen sich dieses Lesezeichen befindet :
+Einen neuen automatischen Ordner aus der Chronik anlegen
+Die momentan geöffnete Datei unter einem anderen Namen speichern
+Die Datei auf eine gespeicherte Version zurücksetzen
+Eine Ebene des Lesezeichen-Ordners sortieren ( Ordner zuerst )
+Eine Ebene sortieren ( Ordner zuerst )
+Alle Ebenen des Lesezeichen-Ordners rekursiv sortieren ( Ordner zuerst )
+Die Lesezeichen aus Mozilla in Galeon importieren
+Die Lesezeichen aus Netscape in Galeon importieren
+Hilft Ihnen dabei , Ihre Galeon- und Konqueror-Lesezeichen in Galeon zu importieren
+Die Lesezeichen aus Epiphany in Galeon importieren
+Die Lesezeichen aus Galeon zu Mozilla exportieren
+Die Lesezeichen aus Galeon zu Netscape exportieren
+Die Lesezeichen aus Galeon zum Konqueror exportieren
+Aus _XBEL ( Galeon und Konqueror ) importieren FileRevert " verb= " " _label="_Revert
+Unbegrenzt Heute Letzte zwei Tage Letzte drei Tage Woche Monat
+Galeon scheint beim letzten Mal abgestürzt oder abgewürgt worden zu sein .
+Cookie(s ) entfernen und in sie Zukunft von der Ursprungsseite blockieren
+Diese Datei konnte nicht direkt im Browser angezeigt werden . Sie können sie mit einer anderen Anwendung öffnen oder speichern .
+Diese Datei konnte nicht direkt im Browser angezeigt werden . Sie können sie stattdessen speichern .
+Reiterleiste _immer anzeigen , auch wenn nur ein Reiter offen ist
+Ausschließlich von _besuchten Seiten stammende Bilder übertragen
+Das Programm zum Konfigurieren des Netzwerk-Proxies konnte nicht gefunden werden .
+Sie können die Proxy-Einstellungen im globalen Einstellungsdialog » Netzwerk-Proxy « festlegen .
+Sie besitzen nicht die erforderlichen Zugriffsrechte zum Erstellen von Dateien in %s .
+Die Datei » %s « ist schreibgeschützt
+Sie besitzen nicht die erforderlichen Zugriffsrechte zum Überschreiben von %s .
+Die Datei %s existiert bereits . Soll sie ersetzt werden ?

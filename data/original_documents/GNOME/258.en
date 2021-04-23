@@ -1,0 +1,52 @@
+Error launching the command % s “ ” in order to decompress the comic book : % s
+The command % “ s ” failed at decompressing the comic book .
+The command % “ s ” did not end normally .
+Failed to create a temporary directory .
+Can 't find an appropriate command to decompress this type of comic book
+No images found in archive % s
+There was an error deleting % s “ ” .
+The document is composed of several files . One or more of such files cannot be accessed .
+Failed to load document % s “ ”
+Failed to save document % s “ ”
+Couldn 't save attachment % s : % s “ ”
+Couldn 't open attachment % s : % s “ ”
+Couldn 't open attachment % s “ ”
+File type % s ( % s ) is not supported
+Unrecognized desktop file Version ' % s '
+Can 't pass document URIs to a ' Type = Link ' desktop entry
+Move the selected item on the toolbar
+Remove the selected item from the toolbar
+Override document restrictions , like restriction to copy or to print .
+The selected printer ' % s ' could not be found
+Make the current document fill the window
+Make the current document fill the window width
+Failed to create file % s : % s “ ”
+Failed to print page % d : % s
+Go to % s on file % s “ ”
+End of presentation . Press Escape to exit .
+Evince appears to have exited unexpectedly the last time it was run . You can recover the opened documents .
+This document is locked and can only be read by entering the correct password .
+The document % “ s ” is locked and requires a password before it can be opened .
+Loading document from “ % s ”
+Downloading document ( % d % % )
+Couldn 't create symlink % s “ ” :
+The file could not be saved as % s “ ” .
+Uploading document ( % d % % )
+Uploading attachment ( % d % % )
+Uploading image ( % d % % )
+Wait until print job % “ s finishes ” before closing ?
+There are % d print jobs active . Wait until print finishes before closing ?
+If you close the window , pending print jobs will not be printed .
+Document Viewer . Using poppler % s ( % s )
+Evince is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+Evince is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with Evince ; if not , write to the Free Software Foundation , Inc . , 59 Temple Place , Suite 330 , Boston , MA 02111-1307 USA
+Open a copy of the current document in a new window
+Save a copy of the current document
+Find a word or phrase in the document
+Couldn 't find appropriate format to save image
+The image could not be saved .
+The attachment could not be saved .
+The word or phrase to find in the document
+Boolean options available , true enables thumbnailing and false disables the creation of new thumbnails
+Valid command plus arguments for the PDF Document thumbnailer . See nautilus thumbnailer documentation for more information .

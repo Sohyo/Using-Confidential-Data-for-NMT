@@ -1,0 +1,25 @@
+Select _ devices to include in file system scan :
+Whether any change to the home directory should be monitored .
+A list of URIs for partitions to be excluded from scanning .
+Whether the toolbar should be visible in main window .
+Whether the status bar at the bottom of main window should be visible .
+Which type of chart should be displayed .
+Changes to your home folder will not be monitored .
+Too many arguments . Only one directory can be specified .
+Could not detect any mount point .
+Without mount points disk usage cannot be analyzed .
+The maximum depth drawn in the chart from the root
+Cannot scan location " % s "
+Cannot Connect to Server . You must enter a name for the server .
+Please enter a name and try again .
+The content of your home folder has changed . Select rescan to update the disk usage details .
+" % s " is not a valid folder
+Could not open folder " % s "
+There is no installed viewer capable of displaying the folder .
+Could not move " % s " to the Trash
+Could not move file to the Trash
+There was an error displaying help .
+This program is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+This program is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with this program ; if not , write to the Free Software Foundation , Inc . , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA
+A graphical tool to analyze disk usage .

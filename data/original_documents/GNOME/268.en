@@ -1,0 +1,66 @@
+Error launching the command % s “ ” in order to decompress the comic book : % s
+The command % “ s ” failed at decompressing the comic book .
+The command % “ s ” did not end normally .
+Can 't find an appropriate command to decompress this type of comic book
+No images found in archive % s
+There was an error deleting % s “ ” .
+The document is composed of several files . One or more of these files cannot be accessed .
+This document contains non-embedded fonts that are not from the PDF Standard 14 fonts . If the substitute fonts selected by fontconfig are not the same as the fonts used to create the PDF , the rendering may not be correct .
+All fonts are either standard or embedded .
+( One of the Standard 14 Fonts )
+Failed to load document % s “ ”
+Failed to save document % s “ ”
+pdf ; ps ; postscript ; dvi ; xps ; djvu ; tiff ; document ; presentation ;
+Override document restrictions , like restriction to copy or to print .
+The document is automatically reloaded on file change .
+The URI of the directory last used to open or save a document
+The URI of the directory last used to save a picture
+The maximum size that will be used to cache rendered pages , limits maximum zoom level .
+Show a dialog to confirm that the user wants to activate the caret navigation .
+Couldn 't save attachment % s : % s “ ”
+Couldn 't open attachment % s : % s “ ”
+Couldn 't open attachment % s “ ”
+File type % s ( % s ) is not supported
+Failed to create a temporary file : % s
+Failed to create a temporary directory : % s
+Failed to print page % d : % s
+Generating preview : page % d of % d
+PostScript is not supported by this printer .
+Scale document pages to fit the selected printer page . Select from one of the following : • " None " : No page scaling is performed . • " Shrink to Printable Area " : Document pages larger than the printable area are reduced to fit the printable area of the printer page . • " Fit to Printable Area " : Document pages are enlarged or reduced as required to fit the printable area of the printer page .
+Rotate printer page orientation of each page to match orientation of each document page . Document pages will be centered within the printer page .
+Select page size using document page size
+When enabled , each page will be printed on the same size paper as the document page .
+Go to % s on file % s “ ”
+End of presentation . Click to exit .
+The selected printer ' % s ' could not be found
+Make the current document fill the window
+Make the current document fill the window width
+This document is locked and can only be read by entering the correct password .
+The document % “ s ” is locked and requires a password before it can be opened .
+Unable to open document % s “ ” .
+Loading document from “ % s ”
+Downloading document ( % d % % )
+The file could not be saved as % s “ ” .
+Uploading document ( % d % % )
+Uploading attachment ( % d % % )
+Uploading image ( % d % % )
+Document contains form fields that have been filled out . If you don 't save a copy , changes will be permanently lost .
+Document contains new or modified annotations . If you don 't save a copy , changes will be permanently lost .
+Save a copy of document % s “ ” before closing ?
+Wait until print job % “ s finishes ” before closing ?
+If you close the window , pending print jobs will not be printed .
+Evince is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+Evince is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with Evince ; if not , write to the Free Software Foundation , Inc . , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 USA
+Pressing F7 turns the caret navigation on or off . This feature places a moveable cursor in text pages , allowing you to move around and select text with your keyboard . Do you want to enable the caret navigation on ?
+Open a copy of the current document in a new window
+Save a copy of the current document
+Send current document by mail , instant message …
+Show the folder which contains this file in the file manager
+Add a bookmark for the current page
+Show odd pages on the left in dual mode
+Find a word or phrase in the document
+Couldn 't find appropriate format to save image
+The image could not be saved .
+The attachment could not be saved .
+The word or phrase to find in the document

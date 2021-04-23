@@ -1,0 +1,54 @@
+Export the games for playing off-line .
+Change the challenge presentation time in memory games .
+To change the number of seconds you are given to memorize the challenge when playing memory games , proceed as follows :
+@ @ image : ' figures / all-games.png ' ; md5 = b9b2464dfdb280d8de79b921e03a4705
+@ @ image : ' figures / logic-games.png ' ; md5 = 2679be12956397b6337da869bdbee82d
+@ @ image : ' figures / math-games.png ' ; md5 = 208d189bcd6246b40e3dff184a5d5698
+@ @ image : ' figures / memory-games.png ' ; md5 = 2747c731e0a757a98a91c8e141748c75
+@ @ image : ' figures / verbal-games.png ' ; md5 = 6559e8d03907794b9983c5501df1aed2
+To start a new game , do one of the following :
+Click on one of the buttons in the toolbar .
+The toolbar buttons have the following meanings :
+Starts a new game playing all the available game types .
+Start a new game playing only logic games .
+Starts a new game playing only calculation games .
+Starts a new game playing only memory games .
+Starts a new game playing only verbal analogy games .
+When you play a game , always read the instructions carefully !
+The game session begins by showing you the problem and then asking for the answer . At the bottom of the window is the main set of controls that you can use to interact with the game .
+@ @ image : ' figures / gbrainy.png ' ; md5 = d3b523ab1c8d00d00560d3f036d681bb
+It features different game types like logic puzzles , mental calculation games , memory trainers and verbal analogies , designed to test different cognitive skills .
+How the player scores are calculated .
+If you answer a puzzle incorrectly , you will not get any score for it .
+If you answer a puzzle correctly , you will get a score which depends on the time taken to resolve the problem and whether you used the tip during the game .
+The following table summarizes the different game durations ( in seconds ) based on the difficulty level .
+With the expected time for the chosen difficulty level and the time you take to complete the game , the following logic is applied :
+If you take less than the time expected to complete the game , you score 10 points .
+If you take more than the time expected to complete the game , you score 8 points .
+If you take more than 2x the time expected to complete the game , you score 7 points .
+If you take more than 3x the time expected to complete the game , you score 6 points .
+If you use a tip , you score only the 80 % of the original score .
+This means that when playing at medium difficulty level , to get a score of 100 points you need to score 10 points on at least 20 games of every game type played .
+This may sound challenging , but it allows players to compare game scores from different sessions ( in the player 's game history ) and allows better tracking of the progression of the player through all of the games played .
+To select the results that will be shown in the graphic , use the different check boxes located under the graph .
+In order to change the number of sessions recorded or how many games will be stored in the history , proceed as follows :
+Use the first spin box to change how many game sessions need to be recorded before you can start to see the results in the history graphic .
+Use the second spin box to change how many game sessions will be shown in the history graphic .
+To change the difficulty level of the game , proceed as follows :
+Use the tips to solve a puzzle .
+With some of the games you can play , it is possible to get simple tips that can help you to solve the problem .
+This feature is not available for some of the games .
+How to pause or end a game .
+To pause a game so that you can resume it at the same point at a later time , perform one of the following :
+In order to resume the game after you paused it , perform one of the following :
+To end a game , perform one of the following :
+This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 Unported license .
+To copy , distribute and transmit the work .
+You must attribute the work in the manner specified by the author or licensor ( but not in any way that suggests that they endorse you or your use of the work ) .
+If you alter , transform , or build upon this work , you may distribute the resulting work only under the same , similar or a compatible license .
+What types of game you can play .
+Games designed to challenge your reasoning and thinking skills . These games are based on sequences of elements , visual and spatial reasoning or relationships between elements .
+Games based on arithmetical operations designed to improve your mental calculation skills . Games that require the player to use multiplication , division , addition and subtraction combined in different ways .
+Games designed to challenge your short-term memory . These games show collections of objects and ask the player to recall them , sometimes establishing relationships between figures , words , numbers or colors .
+Games that challenge your verbal aptitude . These games ask the player to identify cause and effect , use synonyms or antonyms , and use their vocabulary .
+To do so , proceed as follows :

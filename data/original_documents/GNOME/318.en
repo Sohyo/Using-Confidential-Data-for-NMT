@@ -1,0 +1,91 @@
+@ @ image : ' figures / file-roller _ main _ window.png ' ; md5 = 1ffe6686c623c5a279a1ad13fb8eb488
+@ @ image : ' figures / file-roller _ leftarrow.png ' ; md5 = 1878b2a4132b673aa79df7660398caa0
+@ @ image : ' figures / file-roller _ rightarrow.png ' ; md5 = 45a0479ca13140680220976ccb653bda
+@ @ image : ' figures / file-roller _ uparrow.png ' ; md5 = 097f01471c5575ceeb527ea8d50061bd
+@ @ image : ' figures / file-roller _ home.png ' ; md5 = 1cede2c4f8d21c357d0eb9979f39f18d
+Archive Manager , also known as File Roller , allows you to create , view , modify , or unpack an archive .
+This manual is part of a collection of GNOME manuals distributed under the GFDL . If you want to distribute this manual separately from the collection , you can do so by adding a copy of the license to the manual , as described in section 6 of the license .
+Many of the names used by companies to distinguish their products and services are claimed as trademarks . Where those names appear in any GNOME documentation , and the members of the GNOME Documentation Project are made aware of those trademarks , then the names are in capital letters or initial capital letters .
+DOCUMENT IS PROVIDED ON AN " AS IS " BASIS , WITHOUT WARRANTY OF ANY KIND , EITHER EXPRESSED OR IMPLIED , INCLUDING , WITHOUT LIMITATION , WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE , FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING . THE ENTIRE RISK AS TO THE QUALITY , ACCURACY , AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU . SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT , YOU ( NOT THE INITIAL WRITER , AUTHOR OR ANY CONTRIBUTOR ) ASSUME THE COST OF ANY NECESSARY SERVICING , REPAIR OR CORRECTION . THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE . NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER ; AND
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY , WHETHER IN TORT ( INCLUDING NEGLIGENCE ) , CONTRACT , OR OTHERWISE , SHALL THE AUTHOR , INITIAL WRITER , ANY CONTRIBUTOR , OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT , OR ANY SUPPLIER OF ANY OF SUCH PARTIES , BE LIABLE TO ANY PERSON FOR ANY DIRECT , INDIRECT , SPECIAL , INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING , WITHOUT LIMITATION , DAMAGES FOR LOSS OF GOODWILL , WORK STOPPAGE , COMPUTER FAILURE OR MALFUNCTION , OR ANY AND ALL OTHER DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT , EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES .
+This manual describes version 2.26.0 of Archive Manager .
+bzip2 gzip lzip lzop compress rzip file.txt.gz gzip file.txt
+The display area displays the contents of the archive .
+This manual documents functionality from the menubar .
+Select the archive that you want to open .
+The archive name in the window titlebar
+The number files and folders ( objects ) in the current location , and their size when uncompressed , in the statusbar
+Decide where in the archive you want to add the files , then open that location in the archive .
+Edit Add Files Add Files Add Files
+To Add a Folder to an Archive
+Select the folder that you want to add .
+To Convert an Archive to Another Format
+To convert an archive to another format and save as a new file , perform the following steps :
+You can modify the contents of an archive in several ways .
+For security , you might want to encrypt the files that you add to an archive .
+If the archive format supports encryption , you can specify a password to encrypt the files that you add to the archive .
+Currently , only 7-Zip , ZIP , RAR and ARJ archives support encryption .
+To specify a password for file encryption , perform the following steps :
+To Rename a File in an Archive
+To rename a file in an archive , perform the following steps :
+Select the file that you want to rename .
+To copy files in an archive , perform the following steps :
+Select the files that you want to copy .
+Open the location where you want to put the copied files .
+To move files in an archive , perform the following steps :
+Select the files that you want to move .
+Open the location where you want to put the moved files .
+To delete files from an archive , perform the following steps :
+Select the files that you want to delete .
+Select one of the following delete options :
+Delete all files from the archive .
+Delete the selected files from the archive .
+To Modify a File in an Archive
+Edit the file opened in step 1 , and then save your changes .
+To Modify a File in an Archive with a Custom Application
+The position of the archive in the file system .
+The date and time at which the archive was last modified .
+The size of the archive contents when uncompressed . This information is also available in the statusbar .
+The compression ratio is a value used to describe the reduction in size of the data . For example a compression ratio of 5 means that the compressed archive is 1 / 5th the size of the original data .
+The number of files in the archive .
+The name of a file or folder in the archive .
+To View a File in an Archive
+To Test the Integrity of an Archive
+A damaged archive can be impossible to extract , this can bring to a loss of data . For this reason you should test the archive integrity before deleting the original files .
+Not all the archive types support the integrity testing , the following is the list of archive types that can be tested for integrity : 7-Zip , RAR , ZIP , ACE , ARJ and Zoo .
+To test the integrity of an archive that doesn 't support the integrity testing , extract all the files from the archive and check that the operation is completed successfully .
+Shows icon to navigate backwards in location history list .
+Click on this button to navigate backwards in the location history list .
+Shows icon to navigate forwards in location history list .
+Click on this button to navigate forwards in the location history list .
+Shows icon to navigate up one level in folder tree .
+Click on this button to navigate up one level in the folder tree .
+Shows icon to open the top-level folder in the archive .
+Click on this button to open the top-level folder in the archive .
+This field shows the full pathname , within the archive , of the current folder .
+You can sort the file list by name , size , type , modification date , or location .
+To specify a sort order , click on the heading of the corresponding column .
+To reverse the sort order , click on the column heading again .
+You can use the file manager to add files to an archive , or to extract files from an archive .
+To Add Files to an Archive by Using the File Manager
+To use the file manager popup menu to add files to an archive , perform the following steps :
+Right-click on the files or folders in a file manager window .
+Choose the archive type from the drop-down list .
+To Extract Files From an Archive by Using the File Manager
+To use the file manager popup menu to extract files from an archive , perform the following steps :
+Right-click on the archive in a file manager window .
+Type the password that will be used to encrypt the archive . If no password is specified the archive will not be encrypted .
+If this option is selected , the password will be requested even to view the list of files contained in the archive , otherwise it will be requested only to extract the files from the archive . This option is available only if a password is specified .
+Select this option to split the archive in more files of the specified dimension .
+Only 7-Zip and RAR archives support this feature .
+Archive Manager Add only if newer backup.tar.gz
+Select this option to add all files that match the specified pattern , from the current folder and from subfolders .
+The filename , not the subfolder name , must match the specified pattern .
+Select this option to omit files from folders that are symbolic links . Symbolic links are pointers or shortcuts to other folders .
+Click on this button to reset the current selection of advanced add options to the default values .
+Select the files to be extracted :
+Select this option to reconstruct the folder structure when extracting the specified files .
+Re-create folders Archive Manager / tmp / doc
+Re-create folders Archive Manager Archive Manager / tmp
+Select this option to overwrite any files in the destination folder that have the same name as the specified files .
+Do not extract older files Overwrite existing files Archive Manager

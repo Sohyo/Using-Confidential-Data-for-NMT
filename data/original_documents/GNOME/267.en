@@ -1,0 +1,67 @@
+How to customize the author , color , style or icon of an annotation .
+Right click on the annotation icon in the document .
+The annotation properties will be applied to the note for which you made the changes only . Each note can have a different set of properties .
+Can I permanently change the default annotation properties ?
+Annotations can only be added to PDF files .
+Annotations can only be added to PDF files . If your file is of a format other than PDF , the option to add annotations will be greyed out ( disabled ) .
+How to create and customize annotations .
+Click on the icon to add a text annotation .
+You can resize the note by clicking and holding the left mouse button on one of the bottom corners of the note , and moving it around .
+Save a copy of an annotated PDF
+You can use annotations like bookmarks .
+In the PDF document itself , navigate to the page to which you would like to add the bookmark .
+The bookmark is now listed in the bookmarks list .
+Select the bookmark in the side pane .
+How and where to report problems .
+This is a bug tracking system where users and developers can file details about bugs , crashes and request enhancements .
+File a Bug Core evince bug writing guidelines browse
+Your report will be given an ID number , and its status will be updated as it is being dealt with .
+You can open multiple files by typing the filenames after the evince command , separating the filenames by a space :
+Opening a document at a specific page
+You can convert a document to PDF by " printing " it to a file .
+You can convert documents of the following format types into PDF format :
+Device Independent file format ( .dvi )
+You can convert a document to PostScript .
+You can convert documents of the following format types to PostScript files :
+Tagged Image File Format ( .tiff , .tif )
+You can convert a document to SVG by " printing " it to a file .
+You can convert documents of the following format types to SVG files :
+Save current settings as default for new documents .
+When a document is opened for the first time , default settings , such as zoom and page view preferences , are applied . Any changes you make to these settings are saved for the document .
+Edit Save Current Settings as Default Ctrl T
+The new default settings do not override settings of previously opened documents , they are applied only to documents opened for the first time .
+Type the numbers of the pages in this order : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7 , 2
+Layout Two-side Short Edge ( Flip )
+Once the pages have printed , take the paper with page 2 on it , place it back in the printer , taking care to orient it correctly ( page 1 will be printed on the other side ) .
+It is easier to print a 12-page booklet . You may wish to add 2 blank pages to your PDF document to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 11 , 2 , 1
+Layout Two-side Short Edge ( Flip )
+Type the numbers of the remaining pages in this order : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+It is easier to print a 12-page booklet . You may wish to add a blank page to your PDF document to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 12 , 1 , 2 , 11 , 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Once the page has printed , take the paper and place it back in the printer , taking care to orient it correctly ( page 2 will be printed on the other side ) .
+Once page 3 has printed , place the paper back in the printer taking care to orient it correctly ( pages 4 and 13 will be printed on the other side ) .
+It is easier to print a 16-page booklet . You may wish to add 3 blank pages to your PDF document to make it 16-pages . To do so , you can :
+Type the numbers of the pages in this order : 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9 , 2
+It is easier to print a 16-page booklet . You may wish to add 2 blank pages to your PDF document to make it 16-pages . To do so , you can :
+It is easier to print a 16-page booklet . You may wish to add a blank page to your PDF document to make it 16-pages . To do so , you can :
+16 , 1 , 2 , 15 , 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9
+It is easier to print a 4-page booklet . You may wish to add a blank page to your PDF document to make it 4-pages . To do so , you can :
+Type the numbers of the pages in this order : 4 , 1 , 2 , 3
+Once page 3 has printed , place the paper back in the printer ( taking care to orient it correctly ( pages 4 and 9 will be printed on the other side ) .
+It is easier to print a 8-page booklet . You may wish to add 3 blank pages to your PDF document to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 6 , 3 , 4 , 5 , 2
+It is easier to print a 8-page booklet . You may wish to add 2 blank pages to your PDF document to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 7 , 2 , 1
+Type the numbers of the remaining pages in this order : 6 , 3 , 4 , 5
+It is easier to print a 8-page booklet . You may wish to add a blank page to your PDF document to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 8 , 1 , 2 , 7 , 6 , 3 , 4 , 5
+Once page 3 has printed , place the paper back in the printer taking care to orient it correctly ( pages 4 and 9 will be printed on the other side ) .
+It is easier to print a 12-page booklet . You may wish to add 3 blank pages to your PDF document to make it 12-pages . To do so , you can :
+Print a booklet over 16 pages .
+If the number of pages in your PDF document is not a multiple of 4 , you should add the appropriate number of blank pages ( 1,2 or 3 ) to make it a multiple of 4 . To do so , you can :
+n , 1 , 2 , n-1 , n-2 , 3 , 4 , n-3 , n-4 , 5 , 6 , n-5 , n-6 , 7 , 8 , n-7 , n-8 , 9 , 10 , n-9 , n-10 , 11 , 12 , n-11 ...
+... until you have typed n-number of pages .
+Can I edit documents in the document viewer ?
+Search for a word or phrase in a document .
+Start typing into the search box and the search will start automatically .

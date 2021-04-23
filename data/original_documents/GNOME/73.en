@@ -1,0 +1,235 @@
+Support for most iPod / iPhone / iPad devices .
+Support for USB-drive based devices , including many iAudio devices and Android , Pre , and Galaxy phones .
+Support for MTP devices , including many Creative Zen devices .
+Browse , search , and purchase music from the Amazon MP3 store .
+Download and import music purchased from Amazon.com.
+Customize and extend Banshee with Boo-language scripts .
+Detect the beats per minute ( BPM ) of your music .
+Fetch cover art for all items in your library .
+Browse and listen to music shared over your local network .
+Browse , search , and purchase music and audiobooks from eMusic
+Download and import music purchased from eMusic .
+Preview files without importing to your library .
+Fix broken and missing metadata using bulk operations .
+Control Banshee through a small window with only playback controls and track information .
+Browse and subscribe to thousands of audio and video podcasts .
+Control playback via the multimedia keys on your keyboard .
+Display an icon in the notification area for controlling Banshee .
+Watch DVDs , listen to and rip Audio CDs .
+Importers for Amarok , Rhythmbox and iTunes
+Import your library from Amarok , Rhythmbox or iTunes .
+Queue tracks in an ad-hoc playlist , or let the Auto DJ take over .
+Subscribe to podcasts and stream or download episodes .
+Support downloading BitTorrent files from podcasts .
+This extension grants access to the Ubuntu One Music Store , powered by 7digital .
+Browse and play music and videos shared over your local network using UPnP .
+View artist information from Wikipedia in the context pane .
+Show related YouTube videos in the context pane .
+Designed to be the successor of the MP3 format , AAC generally achieves better sound quality than MP3 at many bit rates .
+Free Lossless Audio Codec ( FLAC ) is an open source codec that compresses but does not degrade audio quality .
+A proprietary and older , but also popular , lossy audio format that produces larger files at lower bitrates .
+Vorbis is an open source , lossy audio codec with high quality output at a lower file size than MP3 .
+A fast and efficient open source audio format offering lossless and high-quality lossy encoding with great dynamic range .
+WAV + PCM is a lossless format that holds uncompressed , raw pulse-code modulated ( PCM ) audio .
+A proprietary lossy audio format with high quality output at a lower file size than MP3 . A 96 kbps WMA is equivalent to a 128 kbps MP3 .
+Could not initialize element from cdda URI
+Could not get sink pad from encoder
+Write selected tracks to an audio CD
+Could not find an encoder for ripping .
+For tracks that have ReplayGain data , automatically scale ( normalize ) playback volume
+Eliminate the small playback gap on track change . Useful for concept albums and classical music
+Could not create encoder pipeline : { 0 }
+Could not create encoding pipeline : { 0 }
+We 're currently not able to check if there 's a new version available . Please try again later .
+You already have the latest version of Banshee installed .
+A new version of Banshee ( { 0 } ) is available . { 1 } Do you want to update ?
+{ 0 } MB / { 1 } MB ( { 2 } KB / s )
+The download failed . Please try again later .
+The update finished downloading . { 0 } Do you want to shutdown Banshee and run the installer ?
+Show options for querying the playing track
+Show options for querying the playing engine
+Play the next track , optionally restarting if the ' restart ' value is set
+Play the previous track , optionally restarting if the ' restart ' value is set
+If the current song has been played longer than 4 seconds then restart it , otherwise the same as --previous
+Automatically start playing any tracks enqueued on the command line
+Enable or disable playback stopping after the currently playing track ( value should be either ' true ' or ' false ' )
+Set the playback volume ( 0-100 ) , prefix with + / - for relative values
+Seek to a specific point ( seconds , float )
+Set the currently played track 's rating ( 0 to 5 )
+Query whether the player can be paused
+Present the user interface on the active workspace
+Do not present the user interface , regardless of any other options
+Specify an alternate key , default is / apps / banshee-1 /
+Optimize instance for running uninstalled ; most notably , this will create an alternate Mono.Addins database in the working directory
+Skip loading a custom gtkrc file ( { 0 } ) if it exists
+The following help arguments are invalid : { 0 }
+Codec for playing this media type not available
+File protected by Digital Rights Management ( DRM )
+{ 0 } ( { 1 } : { 2 : 00 } )
+All Album Artists ( { 0 } )
+All Albums ( { 0 } )
+All Artists ( { 0 } )
+File is empty so it could not be imported : { 0 }
+All Years ( { 0 } )
+Play all songs from an album , then randomly choose another album
+Play all songs by an artist , then randomly choose another artist
+Play songs randomly , prefer higher rated songs
+Play songs randomly , prefer higher scored songs
+Scanning ( { 0 } files ) ...
+The import process is currently running . Would you like to stop it ?
+Importing { 0 } of { 1 }
+Rescanning { 0 } of { 1 }
+Please wait while your old Banshee database is migrated to the new format .
+_ Sort an artist 's albums by year , not title
+Songs listened to often in the past week
+Songs that have not been played or skipped
+Favorites not played in over two months
+Songs rated one or two stars or that you have frequently skipped
+Videos that haven 't been played yet
+No player engines were found . Please ensure Banshee has been cleanly installed .
+Converting { 0 } of { 1 }
+Files are currently being converted to another format . Would you like to stop this ?
+Enable this option to have metadata in sync between your library and supported media files
+Enable this option to have rating metadata synced between your library and supported audio files
+Sync play counts between library and files
+Enable this option to have playcount metadata synced between your library and supported audio files
+Rename files and folders according to media metadata
+An available , working network connection will be assumed
+Some features require a broadband Internet connection such as Last.fm or cover art fetching
+MPEG Version 3.0 Extended ( * .m3u )
+XML Shareable Playlist Format version 1 ( * .xspf )
+Co _ py files to media folders when importing
+Improve Banshee by sending anonymous usage data
+Please file a bug with this error : { 0 }
+All Genres ( { 0 } )
+Adding { 0 } of { 1 } to { 2 }
+Deleting { 0 } of { 1 } From { 2 }
+{ 0 } could not be opened : { 1 } Check your ' Preferred Applications ' settings .
+Disable album grid and show the classic layout instead
+To put the playlist in manual sort mode , click the currently sorted column header until the sort arrow goes away .
+{ 0 } of { 1 }
+{ 0 } by { 1 }
+Bookmark the Position in the Current Track
+Copyright © 2005 – { 0 } Novell , Inc . Copyright © 2005 – { 1 } Others Copyright © 2005 Aaron Bockover
+Closing Banshee now will cancel any currently running tasks . They cannot be resumed automatically the next time Banshee is run .
+Currently another program is configured as the default media player . Would you prefer Banshee to be the default ?
+Enter the address of the file you would like to open :
+Import media from a variety of sources
+Learn advanced ways to search your media collection
+Seek to a specific location in current item
+Stop playback after the current item finishes playing
+Switch to a source by typing its name
+Are you sure you want to delete this { 0 } ?
+Append selected items to playlist or create new playlist from selection
+Remove selected track ( s ) from this source
+Remove selected track ( s ) from library
+Open the folder that contains the selected item
+Permanently delete selected item ( s ) from medium
+The folder could not be found .
+Please check that the track 's location is accessible by the system .
+If you delete the selection , it will be permanently lost .
+Remove selection from { 0 } ?
+Check this if this track is part of an album with tracks by various artists
+This value will affect how this album is sorted ; if you enter ' Various Artists ' then the album will located with other albums that start with ' V ' .
+Set all compilation album artists to these values
+Set all disc numbers and counts to these values
+Set all beats per minute to this value
+Advance to the next track and edit its title
+Set all sort track titles to this value
+Set all sort track artists to this value
+Set all sort album artists to this value
+Set all sort album titles to this value
+Apply the values of all common fields set for this track to all of the tracks selected in this editor
+Editing { 0 } of { 1 } items
+If you don 't save , changes from the last { 0 } will be permanently lost .
+{ 0 } from { 1 } { 2 } { 0 } published { 1 } { 3 }
+{ 0 } on { 1 } { 2 }
+{ 0 } by { 1 } { 2 } { 0 } from { 1 } { 3 }
+This operation is still performing work . Would you like to stop it ?
+The ' { 0 } ' operation is still performing work . Would you like to stop it ?
+Your media library is empty . You may import new music and videos into your library now , or choose to do so later .
+Reset location to default ( { 0 } )
+The preferences service could not be found .
+Show a list of artists to filter by
+Show only album artists , not artists with only single tracks
+Show a list of genres to filter by
+Show a list of years to filter by
+Show the artist / album browser to the left of the track list
+This page is blocked because it is probably not the one you are looking for !
+The security certificate for { 0 } is invalid .
+Adding track { 0 } of { 1 }
+Removing track { 0 } of { 1 }
+The { 0 } format is not supported by the device , and no converter was found to convert it
+Sync when first plugged in and when the libraries change
+Begin synchronizing the device as soon as the device is plugged in or the libraries change .
+Are you sure you want to continue ?
+Sync from “ { 0 } ”
+Could not disconnect { 0 } : { 1 }
+Loading { 0 } - { 1 } of { 2 }
+Which Amazon MP3 storefront to use by default .
+Germany , Switzerland , Austria ( amazon.de )
+This will ensure the disc numbers are all set properly , and then set the author and book title for all tracks on all these discs to the values below
+Have Banshee attempt to auto-detect the BPM of this song
+Tap this button to the beat to set the BPM for this song manually
+Detect beats per minute ( BPM ) for all songs that don 't already have a value set
+{ 0 } - { 1 }
+iTunes ® 7 introduced new compatibility issues and currently only works with other iTunes ® 7 clients . No third-party clients can connect to iTunes ® music shares anymore . This is an intentional limitation by Apple in iTunes ® 7 and newer , we apologize for the unfortunate inconvenience .
+Too many users are connected to this share
+You are no longer connected to this music share
+The music share is hosted by iTunes ® 7 or newer
+Enter server IP address and port :
+Displayed are albums that should likely be merged . For each row , click the desired title to make it bold , or uncheck it to take no action .
+Displayed are artists that should likely be merged . For each row , click the desired name to make it bold , or uncheck it to take no action .
+Displayed are genres that should likely be merged . For each row , click the desired genre to make it bold , or uncheck it to take no action .
+Getting item details from the Internet Archive
+Timed out getting item details from the Internet Archive
+Error getting item details from the Internet Archive
+{ 0 } by { 1 } on { 2 }
+The Internet Archive , a 501 ( c ) ( 3 ) non-profit , is building a digital library of Internet sites and other cultural artifacts in digital form . Like a paper library , we provide free access to researchers , historians , scholars , and the general public .
+Fetch more results from the Internet Archive ?
+Enter the Genre , Title and URL of the radio station you wish to add . A description is optional .
+http : / / last.fm / music / { 0 } / { 1 }
+http : / / last.fm / music / { 0 } / _ / { 1 }
+Open Last.fm in a browser , giving you the option to authorize Banshee to work with your account
+You need to allow Banshee to access your Last.fm account .
+Tuning Last.fm to { 0 } .
+Failed to tune in station . { 0 }
+Getting new songs for { 0 } .
+No new songs available for { 0 } .
+Failed to get new songs for { 0 } .
+Discover interesting podcasts in the Miro Guide podcast directory !
+{ 0 } by { 1 } { 2 } { 0 } from { 1 } { 3 }
+Hide / Show the source list , menu , toolbar , and status bar
+When an audio CD is inserted , automatically begin importing it if metadata can be found and it is not already in the library .
+When an audio CD has been imported , automatically eject it .
+Error correction tries to work around problem areas on a disc , such as surface scratches , but will slow down importing substantially .
+Automatic import off since this album is already in the Music Library .
+Could not eject { 0 } : { 1 }
+Unable to import track : { 0 }
+Locate your " { 0 } " file ...
+The iTunes library refers to your music directory as " { 0 } " but Banshee was not able to infer the location of this directory . Please locate it .
+Banshee is not familiar with this version of the iTunes library format . Importing may or may not work as expected , or at all . Would you like to attempt to import anyway ?
+Add selected songs after the currently playing track , album , or artist
+Add selected songs to the play queue after the currently playing song
+Add selected songs to the play queue after the currently playing album
+Add selected songs to the play queue after the currently playing artist
+Randomize the playback order of items in the play queue
+Number of _ played songs to show
+Number of _ upcoming songs to show
+All Podcasts ( { 0 } )
+If checked , Banshee will check every hour to see if this podcast has new episodes
+Please enter the URL of the podcast to which you would like to subscribe .
+Let me decide which episodes to download
+by ' { 0 } ' from ' { 1 } '
+{ 0 } Encountered a Fatal Error
+Last.fm username is invalid or Banshee is not authorized to access your account .
+Stations are only available to paying Last.fm subscribers .
+The request is missing a required parameter .
+Invalid authentication information , please re-authenticate .
+The API key used by this application is invalid .
+The streaming system is offline for maintenance , please try again later .
+There is not enough content to play this station .
+This group does not have enough members for radio .
+This artist does not have enough fans for radio .
+There are not enough neighbours for this station .
+Account details are needed before you can connect to Last.fm

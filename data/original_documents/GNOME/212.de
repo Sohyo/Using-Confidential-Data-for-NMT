@@ -1,0 +1,37 @@
+Das vorliegende Handbuch ist Teil einer Reihe von GNOME-Handbüchern , die unter der GFDL verteilt werden . Wenn Sie dieses Handbuch separat verteilen möchten , können Sie dies tun , indem Sie dem Handbuch eine Kopie der Lizenz , wie in Abschnitt 6 der Lizenz beschrieben , hinzufügen .
+Bei vielen der von Firmen zur Unterscheidung ihrer Produkte und Dienstleistungen verwendeten Namen handelt es sich um Marken . An den Stellen , an denen derartige Namen in einer GNOME-Dokumentation vorkommen und wenn die Mitglieder des GNOME Documentation Project über diese Marken informiert wurden , sind die Namen in Grossbuchstaben oder mit großen Anfangsbuchstaben geschrieben .
+DAS DOKUMENT WIRD » WIE VORLIEGEND « GELIEFERT , OHNE JEGLICHE GEWÄHRLEISTUNG , WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND , EINSCHLIESSLICH , ABER NICHT BESCHRÄNKT AUF , GEWÄHRLEISTUNGEN , DASS DAS DOKUMENT ODER EINE MODIFIZIERTE VERSION DES DOKUMENTS FREI VON HANDELSÜBLICHEN FEHLERN UND FÜR EINEN BESTIMMTEN ZWECK GEEIGNET IST UND KEINE RECHTE DRITTER VERLETZT . JEGLICHES RISIKO IN BEZUG AUF DIE QUALITÄT , GENAUIGKEIT UND LEISTUNG DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS TRAGEN SIE . SOLLTE SICH EIN DOKUMENT ODER EINE MODIFIZIERTE VERSION DAVON IN IRGENDEINER WEISE ALS FEHLERHAFT ERWEISEN , TRAGEN SIE ( NICHT DER URSPRÜNGLICHE VERFASSER , AUTOR ODER EIN MITWIRKENDER ) DIE KOSTEN FÜR JEGLICHE ERFORDERLICHE SERVICE- , REPARATUR- UND KORREKTURMASSNAHMEN : DIESE BESCHRÄNKUNG DER GEWÄHRLEISTUNG IST WESENTLICHER BESTANDTEIL DIESER LIZENZ . JEDE VERWENDUNG EINES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS UNTERLIEGT DIESER BESCHRÄNKUNG ; UND
+UNTER KEINEN UMSTÄNDEN UND GEMÄSS KEINER RECHTSLEHRE , WEDER AUFGRUND VON UNERLAUBTEN HANDLUNGEN ( EINSCHLIESSLICH FAHRLÄSSIGKEIT ) , VERTRÄGEN ODER SONSTIGEM , KANN DER AUTOR , DER URSPRÜNGLICHE VERFASSER , EIN MITWIRKENDER ODER EIN VERTEILER DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS ODER EIN LIEFERANT EINER DIESER PARTEIEN VON EINER PERSON FÜR DIREKTE , INDIREKTE , BESONDERE , ZUFÄLLIGE ODER ALS FOLGE AUFGETRETENE SCHÄDEN IRGENDEINER ART , EINSCHLIESSLICH , ABER NICHT BESCHRÄNKT AUF , SCHÄDEN DURCH GESCHÄFTSWERTVERLUSTE , ARBEITSAUSFÄLLE , COMPUTERAUSFÄLLE ODER -FUNKTIONSSTÖRUNGEN ODER JEGLICHE ANDERE SCHÄDEN ODER VERLUSTE , DIE DURCH ODER IM ZUSAMMENHANG MIT DER VERWENDUNG DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS ENTSTANDEN SIND , SELBST WENN DIESE PARTEI ÜBER MÖGLICHE SCHÄDEN INFORMIERT WORDEN SEIN SOLLTE , HAFTBAR GEMACHT WERDEN .
+In diesem Handbuch wird Version 2.18 des Bildbetrachters beschrieben .
+PNM - Portable Anymap from the PPM Toolkit
+Die Bildersammlung-Ansicht erlaubt das Betrachten und Bearbeiten von größeren Bildersammlungen . In dieser Ansicht können Bildoperationen auf alle ausgewählten Bilder gleichzeitig angewendet werden .
+Im Anzeigebereich wird die Bilddatei angezeigt .
+Doppelklicken Sie auf eine Bilddatei im Dateimanager oder in einer anderen Anwendung .
+Um ein Bild zu öffnen , führen Sie die folgenden Schritte aus :
+Um alle in einem Ordner enthaltenen Bilder zu betrachten , gehen Sie wie folgt vor :
+Ansicht Vollbild F11 Ansicht Diaschau F5 Esc
+Um sich in einem Bild zu bewegen , das größer als Ihr Bildfenster oder das Vollbild ist , stehen Ihnen die folgenden Methoden zur Verfügung :
+Bewegen Sie sich mit den Pfeiltasten der Tastatur durch das Bild .
+Ziehen Sie das Bild um es im Fenster zu bewegen . ( Ziehen Sie das Bild entgegen der Richtung , in die Sie auf dem Bild rollen möchten . Wenn Sie zum Beispiel das Bild nach unten rollen möchten , ziehen Sie es im Fenster nach oben .
+Verwenden Sie die Bildlaufleisten im Fenster .
+Sie können die Ansicht auf folgende Arten vergrößern oder verkleinern :
+Ansicht Vergrößern Ansicht Verkleinern Ansicht Normale Größe Ansicht Einpassen
+Wenn ein Bild an die Größe des Fensters angepasst wurde , dann führen Größenänderungen des Fensters auch zur Anpassung der Bildgröße , so dass das Bild das Fenster stets ausfüllt .
+Sie können das Bild mit Hilfe der Tastatur oder der Maus auf die gleiche Weise vergrößern , verkleinern oder innerhalb des Bildschirms verschieben , wie es innerhalb eines Fensters möglich ist .
+Bildbetrachter Ansicht Diaschau F5 P Esc F5 Strg W
+Speichern eines Bildes unter einem anderen Namen
+Im nächsten Abschnitt sehen Sie , wie Sie mehrere Bilder auf einmal speichern können .
+Das gleichzeitige Speichern mehrerer Bilder ermöglicht Ihnen die Umwandlung mehrerer Bilder in ein anderes Format , oder die Vergabe ähnlicher Dateinamen .
+Alles außer dieser speziellen Markierungen wird als gewöhnlicher Text betrachtet .
+Optionen Leerzeichen durch Unterstriche ersetzen Zähler starten bei :
+Um ein Bild zu drucken , führen Sie die folgenden Schritte aus :
+Bilder , die zu groß für die Seite sind , werden automatisch verkleinert , um auf die Seite zu passen . Bilder , die kleiner als die Seite sind , werden zentriert dargestellt .
+Die Standard-Werkzeugleiste des Bildbetrachters enthält lediglich eine Grundausstattung an Objekten , um diese einfach zu halten . Sie können die Werkzeugleiste anpassen , falls Sie eine andere Zusammenstellung bevorzugen .
+Zeigt das Fenster des Werkzeugleisteneditors von Eye of GNOME .
+Es enthält die Objekte , die nicht in der Werkzeugleiste vorhanden sind , sowie eine Trennlinie . Sie können jetzt die Werkzeugleiste bearbeiten :
+Um neue Objekte zur Werkzeugleiste hinzuzufügen , ziehen Sie sie aus dem Werkzeugleisteneditor in die Werkzeugleiste .
+Um Objekte aus der Werkzeugleiste zu entfernen , ziehen Sie sie aus der Werkzeugleiste in den Werkzeugleisteneditor .
+Um die Objekte in der Werkzeugleiste neu zu ordnen , ziehen Sie sie innerhalb der Werkzeugleiste an ihre neue Position .
+Um Ihre Änderungen rückgängig zu machen und zur Standardanordnung zurückzukehren , gehen Sie wie folgt vor :
+Zeigt die transparenten Teile des Bildes in einem Karo-Muster an .
+Stellt transparente Teile des Bildes in einer von Ihnen festgelegten Farbe dar . Klicken Sie auf die Farbauswahl-Schaltfläche , um eine Farbe auszuwählen .

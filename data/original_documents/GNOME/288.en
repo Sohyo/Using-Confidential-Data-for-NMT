@@ -1,0 +1,688 @@
+Back up and restore your Evolution data and settings .
+You can back up your Evolution data . The backup saves your settings , mail , contacts , tasks , memos and calendars . It will be stored in a gzip-compressed tar archive file .
+spam filtering ~ / .bogofilter / ~ / .spamassassin /
+Apart from the general settings you can also set up reminders in the appointment editor for certain appointments only :
+To add such a calendar to Evolution , perform the following steps :
+Enter a name that you prefer .
+Optionally choose a color that you prefer .
+Choose if you want to be able to view the content also when being offline .
+Enter your username and your email address .
+The calendar will be added to the list of calendars in Evolution .
+Classifying appointments and tasks on groupware servers .
+If you are using a calendar on a Novell GroupWise or Microsoft Exchange server , you can select a classification to determine who can view it .
+The different levels vary depending on your server settings ; check with your system administrator or adjust your delegation settings .
+Using the Free / Busy view on a groupware server to set up meetings .
+You can use the Free / Busy search for meetings to determine the availability of invitees .
+The Attendee List shows the people who have been invited to the appointment .
+You can publish Calendar and Free / Busy information to a WebDAV server , FTP server , a remote machine through SSH or to any other web server with HTTP PUT support .
+In corporate environments you can publish Calendar and Free / Busy information to an Exchange or Groupwise server . Note that you must use the top-level Exchange calendar if you want others to be able to access your Free / Busy information when inviting you to a meeting .
+Edit Preferences Calendar and Tasks Publishing Information Default Free / Busy Server
+If you have more than one Google calendar , define which of them to use .
+Define the displaying of appointments in the calendar .
+Sets the time increments shown as fine lines on the daily view in the calendar .
+Show appointment end times in week and month views :
+If there is space , Evolution shows the end times in the week and month views for each appointment .
+Select this option to display weekends in one box instead of two in the month view .
+Shows the week numbers next to the respective weeks in the calendar .
+Show recurring events in italic in bottom left calendar
+Choose between twelve-hour ( AM / PM ) and twenty-four-hour time formats .
+The city you are located in , and optionally a second city .
+Select the day to display as the first in each week .
+Define which week days are work days .
+Define at which time your work day begins .
+Define at which time your work day ends .
+If you want to be warned before you delete any appointment , select this option .
+Adjusting the display and views of the calendar .
+Using date ranges ( day , week , month ) to look at the calendar .
+Evolution offers five different views of your calendar data :
+You can also select an arbitrary range of days in the small calendar in the side bar . To do this , select the days that you want to view in your calendar .
+To add another local calendar to Evolution , perform the following steps :
+The red " Marcus Bains " line displays the current time .
+The red Marcus Bains Line in the Day view of the calendar is a marker to show the current date and time .
+Ask somebody else to run the meeting .
+Only attendees of a meeting can delegate a meeting , but not the organizer of a meeting .
+Right-click on the meeting that you want to delegate .
+Select the contacts you want to delegate the meeting to .
+Each contact receives a copy of the meeting invitation .
+Meeting requests are sent as attachments and displayed as the body of an email . All the details about the event are shown , including time and dates .
+After you have added the meeting to your calendar , you can make changes to the meeting , but if the original organizer sends out an update , your changes might be overwritten .
+Edit Preferences Calendar and Tasks Meeting Invitations Conflict Search
+When you create a meeting ( group appointment ) , you can specify the attendees in several categories , such as " chair " or " required " . When you save the meeting listing , each attendee is sent an email with the meeting information , which also gives them the option to respond .
+An email is sent out to all the recipients , inviting them to your event .
+In Evolution , a meeting can have only one organizer , and only the organizer can add participants to that meeting . Though it is possible to change the organizer of a meeting , this is not recommended as a means to invite additional participants to meetings . If you want to invite additional people to a meeting and are not that meeting 's organizer , it is recommended that you forward the invitation message you received from the original meeting organiser to additional participants .
+On using several calendars , searching , and categories .
+Post your calendar content in public .
+Edit Preferences Calendar and Tasks Publishing Information Locations Add
+You can specify the online location , the frequency of publishing , which calendar ( s ) to publish , and authentication information for uploading .
+In the Calendar view , you can quickly search for appointments and meetings either by summary or by category .
+Select the search condition from the list .
+Select the category from the list .
+To go through the results you can use the two arrow buttons next to the search field . This searches in currently enabled calendars . It searches from the currently selected day in the given direction , in a range of 10 years by default .
+If you want to set several search conditions , you should use an Advanced search , which is described below .
+Make your information ( appointments and free / busy times ) available to others .
+Evolution supports using multiple time zones .
+Edit Preferences Calendar and Tasks General Time Time zone
+Edit Preferences Calendar and Tasks General Time Second zone
+add a new or edit an existing appointment
+Deleting an appointment in your calendar .
+Delete Appointment Delete Ctrl D list view Edit Delete Appointment
+Editing in appointment in your calendar .
+If you want to change an appointment that already exists in your calendars ,
+Double-click on the appointment that you want to edit in the calendar .
+On adding , editing , and deleting appointments .
+Adding and using more than one calendar and different types .
+You can have multiple calendars and overlay them one over the other . For example , you might have a schedule of events for work , one for home , and one for your favorite sports team . The side bar lists those calendars , and you can select or deselect the boxes next to them to show and hide the appointments in your calendar view . By hiding and showing different sets of appointments , you can be sure to avoid conflicts , while keeping a minimum of clutter in your view .
+Appointments for each calendar appear in different color .
+You can also use calendars that are not on your computer , such as on the internet or in a local network .
+Calendars of this type are read-only .
+Choose a location by selecting continent , country and city .
+Using an online Webcal / WebDAV calendar .
+Changing the display of the window buttons in the lower left corner .
+Automatically add senders of mail that you have received to your contacts .
+Automatic Contacts Edit Plugins Automatic Contacts Edit Preferences Contacts Automatic Contacts Create address book entries when sending emails
+From now on , contacts will be automatically created for senders of received mail when you reply to that mail .
+Autocompletion of names and email addresses entered in the mail composer .
+You can enter the first three letters of names and email addresses in the recipients text field and Evolution will present you with a list of matches from your address books .
+To add such an address book to Evolution , perform the following steps :
+The address book will be added to the list of address books in Evolution .
+Use shared address books on a local network .
+The LDAP protocol was created to let users share contact information over a network by sharing access to a central directory . LDAP allows a company to maintain a shared set of contact information . Many companies keep a common LDAP address book for all their employees or for client contacts .
+Enter the address of the server , the port number ( the default number is 389 ) and whether you want to connect securely .
+Define the login method and your user name .
+Search Base : The search base is the starting point for a directory search . Contact your system administrator for information about the correct settings .
+Search Scope : The search scope is the breadth of a given search . The following options are available :
+One : Searches the Search Base and one entry below it .
+Sub : Searches the Search Base and all entries below it .
+Search Filter : The search filter can be set here for all the LDAP queries . For example :
+( amp ; ( mail = * ) ( ObjectClass = * ) )
+Timeout ( minutes ) : The maximum time Evolution attempts to download data from the server before giving up .
+Download Limit : The maximum number of results for a given search . Most servers refuse to send more than 500 contacts , but you can set the number lower if you want to shorten downloads for very broad searches .
+If you are unsure about some settings , ask your system administrator .
+LDAP address books work like local address books on your computer , with the following exceptions :
+Network folders are only available when you are connected to the network . If you use a laptop or have a modem connection , you might want to copy or cache some of the network directory . You do this by dragging and dropping your desired contacts into the local address books .
+You can also mark the network folder for offline usage . To mark the folder , right-click the folder , click Properties and select Copy Folder Content Locally for Offline Operation .
+To prevent excess network traffic , Evolution does not normally load data from the LDAP server upon opening .
+Depending on your server settings , you might not be able to edit all the fields in a contact stored on an LDAP server . Some servers prohibit some or all changes , and others use a smaller set of fields than Evolution allows . Check with your system administrator if you need different settings .
+Using data from Evolution address books in LibreOffice documents .
+You can use your Evolution address books in LibreOffice as a data source . The following steps refer to LibreOffice version 3.3.3 .
+/ home / username / .local / share / evolution / addressbook / system / addressbook.db Open
+To add another local address book to Evolution , perform the following steps :
+On address books , searching , contact lists , and categories .
+There are several ways how to organize your contacts . You can use several addressbooks and categories , and for conveniently sending messages to a group of people contact lists are available .
+In the Contacts view , you can quickly search for contacts either by category or by contact 's info .
+File New Contact New Contact ... Shift Ctrl C
+Enter the contact information . Note that there are several tabs .
+You can also add a contact directly from an email .
+Right-click on the email address in the message header .
+Deleting a contact from your address book .
+Delete Delete Ctrl D Edit Delete Contact
+Editing a contact in your address book .
+If you want to change a contact that already exists in your address books ,
+On adding , editing , and deleting contacts in address books .
+Using contact lists for grouping contacts .
+A contact list is a set of contacts with a single nickname that you create . When you send mail to this nickname it is actually sent to every member of the list . This differs from a " real " mailing list in that it exists only on your computer as a convenience to you , rather than as an actual email address managed by a mailing list application on a server .
+For example , you could create one contact for each family member , then add those contacts to a contact list called " Family " . Then , instead of entering each person 's email address individually , you can send emails to " Family " and the messages would go to all of them .
+Choose whether you want to hide the email addresses when you send a message to the list .
+The contact list will be added to the chosen address book in Evolution .
+Adding different types of address books and using more than one address book .
+You can have multiple address books . For example , you might have one address book for work related contacts and one for private contacts . The side bar lists those address books , and you can select which address book is shown .
+You can also use address books that are not on your computer , such as on the internet ( e.g. Google ) or in a local network ( e.g. LDAP ) .
+( Not applicable to the English version )
+Where does Evolution store my data on the harddisk ?
+This is only interesting for advanced users who want to debug problems .
+Opening links from an email in a browser and opening the mail composer from an email link on a website .
+Opening links in and from the web browser
+Change which web browser websites are opened in
+In case you use Evolution under a different environment from GNOME ,
+.desktop epiphany.desktop firefox.desktop google-chrome.desktop konqbrowser.desktop opera-browser.desktop .desktop / usr / share / applications /
+Evolution may need to be restarted for the settings to take effect .
+If the preferred browser is set as default application but still does not work correctly please contact your distribution via their forum or bug tracker .
+Change which mail application is used to write emails
+Deleting calendar entries to reduce the size of the mailbox .
+Deleting emails or attachments to reduce the size of the mailbox .
+Folder Expunge Ctrl E File Empty Trash
+Deleting emails and calendar entries to reduce the size of the files used by Evolution .
+Which additional package to install in order to connect to an Exchange server .
+Depending on the version of the Microsoft Exchange server that you would like to connect to it is required to make sure that an additional package is installed that provides this functionality .
+evolution-ews evolution-mapi evolution-mapi OpenChange Samba 4 evolution-ews
+If you are unsure which Microsoft Exchange server version is used , you may want to contact your system administrator for more information .
+File Save as iCalendar ... Save as iCalendar ...
+Contacts files are stored in a database , but can be saved as a vCard file .
+File Save as vCard Save as vCard
+mbox File Save as mbox ... Save as mbox ...
+The same steps apply to save a complete mail folder , but you have to mark all messages in it first .
+$ HOME / .thunderbird / 12345678 12345678 .thunderbird show hidden files
+Mail / Local Folders ImapMail / servername servername .msf
+Choose the destination ( e.g. the folder or calendar in Evolution ) for the imported data .
+Repeat the import steps until you have imported all your data .
+These steps refer to locally stored data such as POP accounts . For remote data ( like IMAP ) this is not necessary , since the data is still on the server and does not need to be manually transfered . You can set up the corresponding account in Evolution and the data will be downloaded .
+First , while using Microsoft Windows , prepare your messages for import :
+( Replace " username " by your username . )
+Copy the Outlook files to the system or partition that Evolution is installed on .
+As your Windows hard drive is probably in the NTFS format , some Linux systems cannot read it without additional software . You might find it simpler to copy the mail folders to a USB drive or to burn a CD .
+Depending on your last step , either plug in the disk or USB drive with the data and wait until the file manager window opens , or mount your Windows drive .
+Copy all the mail files into your home directory or another convenient place .
+Choose the Outlook personal folders ( .pst ) file that you would like to import .
+Choose the destination ( e.g. the folder in Evolution ) for the imported data .
+To import single files ( mail , calendar data or contacts ) :
+You can also import contacts that you have received as a vCard attachment of an email from its attachment menu .
+Supported file formats for importing data .
+Evolution can import the following types of files :
+Berkeley Mailbox ( .mbox or no extension ) :
+The email format used by Mozilla , Netscape , Evolution ( for local folders until version 2.32 ) , Eudora , and many other email clients .
+Outlook Express 5 / 6 Personal Folders ( .dbx ) :
+The email file format used by Microsoft Outlook Express 5 / 6 . For newer versions PST import is recommended .
+A format for storing calendar files , which is generally used by Evolution , Microsoft Outlook , Sunbird , and Korganizer .
+iCalendar or iCal ( .ics ) :
+A format for storing calendar files. iCalendar is used by Evolution , Microsoft Outlook , Palm OS handhelds , and others .
+vCard ( .vcf , .gcrd ) :
+The address book format used by the GNOME , KDE , and many other contact management applications . You should be able to export to vCard format from any address book application .
+Evolution / Mozilla / Outlook CSV / Tab ( .csv , .tab ) :
+CSV ( Comma-separated values ) or Tabulator files saved by using Evolution , Microsoft Outlook and Mozilla .
+Outlook Personal Folders ( .pst ) :
+A file format used to store local copies of messages , calendar events , and other items within Microsoft software such as Microsoft Exchange Client , Windows Messaging , and Microsoft Outlook . It is also called " Personal Storage Table " .
+Evolution is a stable and versatile personal information manager for the GNOME project . Evolution allows you to keep your calendars , mail , address books and tasks in one place .
+You will be asked whether to restore from a backup of a previous version . If you do not have a backup , go to the next page .
+If you are unsure about the type of server to choose , ask your system administrator or Internet Service Provider .
+Keeps the mail on the server so you can access your mail from multiple systems .
+Show how to configure this account type
+Downloads your email to your hard disk .
+Connects to a news server and downloads a list of available news digests .
+For connecting to a Microsoft Exchange 2007 / 2010 or OpenChange server .
+For downloading email using MH or another MH-style application .
+Maildir-Format Mail Directories : For downloading your email using Qmail or another Maildir-style application .
+Standard Unix mbox spool file : For reading and storing email in the mail spool file on your local system .
+Standard Unix mbox spool directory : For reading and storing email in the mail spool directory on your local system .
+If you do not plan to use Evolution for receiving email .
+Sends mail using an outbound mail server . This is the most common choice for sending mail .
+Give the account any name you prefer .
+An explanation of the areas shown in the Evolution window .
+Evolution provides functionality for E-Mail , Calendar , Contacts , Tasks , and Memos . You can switch to another functionality by using the " Switcher " buttons in the lower left corner . Depending on the displayed functionality also the displayed elements in the window differ .
+Corresponding elements in the mail main window :
+The folder list gives you a list of the available folders for each account . To see the contents of a folder , click the folder name and its contents are displayed in the message list .
+The message list displays all the read and unread messages that you have in the chosen folder . To view an email in the preview pane , click the message in the message list .
+The switcher at the bottom of the side bar lets you switch between the Evolution tools : Mail , Contacts , Calendars , Memos and Tasks .
+The preview pane displays the message that is currently chosen in the message list .
+The appointment list displays all your scheduled appointments in the time frame selected .
+The month pane is a small view of a calendar month . To display additional months , drag the column border to the right . You can also select a range of days in the month pane to display a custom range of days in the appointment list .
+How to set up a Gmail IMAP Account .
+How to set up a Gmail POP Account .
+Follow these steps to set up your Gmail POP Account in Evolution :
+Log in to your Gmail account .
+Enable the POP download feature by ticking the radio button that corresponds to either of these options :
+Enable POP for all mail ( even mail that 's already been downloaded )
+Enable POP for mail that arrives from now on
+Specify the other required settings for this Gmail feature .
+Provide the required information . For the account settings , refer to Step 5
+Add and edit an IMAP + mail account in Evolution .
+File New Mail Account Edit Preferences Mail Accounts Add First-Run Assistant
+The following settings are available when editing an existing account :
+Receiving Email and Receiving options ( IMAP + accounts )
+Add and edit a Local Delivery account in Evolution .
+Receiving Email and Receiving options ( Local Delivery accounts )
+Sending Email ( Local Delivery accounts )
+Add and edit a Maildir Format Mail Directories account in Evolution .
+Receiving Email and Receiving options ( Maildir Format Mail Directories accounts )
+Sending Email ( Maildir Format Mail Directories accounts )
+Defaults ( Maildir Format Mail Directories accounts )
+Security ( Maildir Format Mail Directories accounts )
+Adding , editing and managing mail accounts .
+Add and edit a MH Format Mail Directories account in Evolution .
+Receiving Email and Receiving options ( MH Format Mail Directories accounts )
+Sending Email ( MH Format Mail Directories accounts )
+Defaults ( MH Format Mail Directories accounts )
+Security ( MH Format Mail Directories accounts )
+Add and edit a Microsoft Exchange 2007 or 2010 account in Evolution .
+Receiving Email and Receiving options ( Exchange Web Services accounts )
+Defaults ( Exchange Web Services accounts )
+Security ( Exchange Web Services accounts )
+Add and edit a Microsoft Exchange MAPI account in Evolution .
+Receiving Email and Receiving options ( Exchange MAPI accounts )
+In this section you can view the size of all Exchange folders .
+Add and edit a Microsoft Exchange account in Evolution .
+Add and edit a POP mail account in Evolution .
+Add and edit a Standard Unix mbox Spool Directory account in Evolution .
+Receiving Email and Receiving options ( Standard Unix mbox Spool Directory accounts )
+Sending Email ( Standard Unix mbox Spool Directory accounts )
+Defaults ( Standard Unix mbox Spool Directory accounts )
+Security ( Standard Unix mbox Spool Directory accounts )
+Add and edit a Standard Unix mbox Spool File account in Evolution .
+Receiving Email and Receiving options ( Standard Unix mbox Spool File accounts )
+Sending Email ( Standard Unix mbox Spool File accounts )
+Defaults ( Standard Unix mbox Spool File accounts )
+Security ( Standard Unix mbox Spool File accounts )
+Add and edit a Usenet news account in Evolution .
+Receiving Email and Receiving options ( Usenet News accounts )
+Other settings ( Usenet News accounts )
+Handling of file attachments for writing and reading mail
+Saving and opening files that are attached to received emails .
+Evolution does not support saving all attachments of all messages in one folder at once .
+A list of attachments is also available at the bottom of the email .
+To open an attachment in another application , click the down-arrow next to the attachment icon and choose one of the available applications .
+Attaching files to emails you want to send .
+To attach a file to your email in the composer :
+Select the file you want to attach .
+You can also drag a file to the attachment bar of the composer window .
+When you send the message , a copy of the attached file goes with it . Be aware that large attachments can take a long time to send and receive .
+Evolution has an Attachment Reminder plugin you can use to remind yourself to attach a file to an email . If it determines that you have not attached the file , it displays a reminder window before the email is sent .
+Based on the keywords you have added , Evolution searches the text of every mail you are going to send . If it finds any of the keywords in your email and there is no actual attached file , the reminder window is displayed .
+Sending invitations for appointments to contacts via email .
+If you create an event in the calendar component , you can then send invitations to the attendee list through the Evolution email tool . The invitation card is sent as an attachment in iCal format .
+When you receive an invitation , you have several options :
+Indicates you will attend the meeting . When you click the OK button , the meeting is entered into your calendar .
+Indicates you will probably attend the meeting . When you click the OK button , the meeting is entered into your calendar , but is marked as tentative .
+Indicates you are unable to attend the meeting . The meeting is not entered into your calendar when you click OK , although your response is sent to the meeting host if you have selected the Send reply to sender option .
+Select this option if you want your response sent to the meeting organizers .
+If you received or sent an email , but you cannot find it anywhere .
+I cannot see some emails , where are they ?
+Check whether you are using filters on incoming ( or outgoing ) messages . These could be automatically moving your messages to another destination .
+Editing the columns displayed in the list of messages .
+Sent Edit Preferences Mail Preferences General Apply the same view settings to all folders Group by Threads Message Preview
+Changing the date and time format in the message list .
+Date Edit Preferences Mail Preferences Headers Date / Time format
+It is not possible to change the quotation introduction added when answering mail .
+Changing the " On date , person wrote : " string when replying
+Advanced users can change this string .
+Using custom fields in the header of composed messages
+You can add arbitrary header lines to outgoing emails .
+To set up the Custom Header plugin :
+You can add , edit , or remove the header fields . For every header field you add , you can specify the keys and values . The key is used as the title of the Custom Header . You can enter multiple values for the keys . You must use a semicolon to separate every value you enter .
+Set the values for the header fields by using the dropdown list .
+Edit Preferences Composer Preferences Default Behavior Format messages in HTML
+Forwarding a received email to somebody .
+When you receive an email , you can forward it to other individuals or groups that might be interested .
+Attachment forwarding is best if you want to send the full , unaltered message to someone else . Inline or Quoted forwarding is best if you want to send portions of a message , or if you have a large number of comments on different sections of the message you are forwarding .
+To forward a message that you are reading :
+Message Forward Forward Ctrl F Message Forward as Forward
+Select a recipient for the message . The subject is already entered , although you can alter it if you want .
+Add your comments on the message in the text field .
+Attachments to a message you are forwarding are forwarded only when you send the original message as an attachment . Inline messages do not forward any attachments .
+Edit Preferences Composer Preferences General Replies and Forwards Forward style
+You can insert an image into the email ( at the current position of the cursor ) :
+Browse to and select the file .
+Insert a link to a website in the mail composer .
+You can insert links into the email :
+Select the text that you want to turn into a link .
+If you do not want a special link text you can just enter the address of the link directly . It will be automatically recognized as a link .
+Changing fonts , using colors , and inserting images , tables and links .
+Formatting emails ( in Plain Text and HTML )
+The icons in the tool bar are explained in tooltips which appear when you hold your mouse pointer over the buttons .
+Normally , you cannot set text color or size or embed pictures in messages . However , most newer email applications can do this by using HTML format , which is the format that also web pages use .
+Insert a horizontal line in the mail composer .
+You can insert a horizontal line into the email ( at the current position of the cursor ) to help divide two sections :
+Select width , size , and alignment .
+You can insert a table into the email ( at the current position of the cursor ) :
+Select the number of rows and columns .
+Define the type of layout for the table .
+Optionally : Select a background color or image for the table .
+Change font sizes , styles and colors in the mail composer .
+Use these buttons in the lower tool bar to determine the way your email looks . If you have text selected , the style applies to the selected text . If you do not have text selected , the style applies to whatever you type next .
+Typewriter text , which is similar to a monospace font .
+Add , change , edit or delete email signatures .
+Using email signatures at the bottom of a message you send .
+Setting a default signature for an email account .
+signature Edit Preferences Mail Accounts Edit Identity Optional Information
+If you have a signature for your account defined but exceptionally do not want to use it for one message , or want to use a different signature , you can change it via the dropdown menu in the right upper corner in the email composer window .
+A message template is a standard message that you can use at any time to send mail with the same pattern .
+Use one of your templates for replying to a message
+Select the message template of your choice . Make changes if required in the email composer window that will open .
+When you select a message template for replying , the subject of the reply is preserved .
+Store an existing or new message as a template
+You can also edit an existing message and save it as a template :
+Edit the message body or the addresses according to your requirements .
+Configure variables in templates and reuse items from the message you reply to
+You can add , edit or remove the key-value pairs . You can specify any number of key-value pairs .
+In any template , the occurrence of every $ key is replaced by the value it has in the configuration . For example , if you set the key to Manager and the value to Harry , any occurrence of $ Manager is replaced by Harry in the message .
+Assume that you have 1000 message templates with your current manager 's name in them . When the current manager is replaced by a new one , it is not easy for you to manually replace the manager 's name in all the 1000 messages . If the messages have a $ Manager key value , you can reset the value in the Configuration tab of this plugin .
+By default , the entire environment variables are used as a key-value pair . An occurrence of $ env _ variable is replaced by the value it carries . For example , an occurrence of $ PATH in your template is replaced by its value when the template is used .
+The replacement process uses the following order of precedence :
+$ key is replaced by the value set for it in the Configuration tab of the Templates plugin .
+If the key is not found , it is then replaced with the value of its environment variable .
+If key is neither a configuration option nor an environment variable , no changes are made .
+Using Elements From a Message in a Template When Replying
+$ ORIG [ header _ name ] header _ name $ ORIG [ subject ] $ ORIG [ body ]
+Change font alignment and paragraph formatting in the mail composer .
+Located next to the Headers and Lists dropdown , the three paragraph icons should be familiar to users of most word processing software . The left-most button aligns your text to the left , the center button centers text , and the right button aligns the text to the right .
+The button with the arrow pointing left decreases a paragraph 's indentation , and the right arrow increases its indentation .
+Setting a priority for messages to be sent .
+Evolution will ignore the message priority of incoming messages because the recipient should decide whether the message is important or not . You can set the " Important " flag for any messages .
+Reply Reply to Sender To : Subject :
+Reply to All Reply Cc : To :
+Reply to List Reply Reply to All
+Edit Preferences Composer Preferences General Replies and Forwards Reply style
+Enter a word or phrase , and Evolution finds it in your message .
+Select this item to repeat the last search you performed .
+Find a word or phrase , and replace it with something else .
+For all of these menu items you can choose whether to search backwards in the document from the point where your cursor is . You can also determine whether the search is to be case sensitive in determining a match
+Sending to more than one person and using CC or BCC .
+To send a message to more than one person , enter the addresses in the composer by separating them with commas or semicolons .
+Checking spelling while I type Composer Preferences Edit Spell Checking F7
+Writing a new email to send to a recipient .
+File New Mail Message Shift Ctrl M New
+Make somebody always receive copies of your sent mail .
+Changing the location of Draft , Sent , Trash and Junk folders .
+Deleting , expunging , and undeleting mail .
+Edit Undelete message View Show Deleted Messages
+If you have marked a message for deletion , undeleting it unmarks it , and the message is not shown anymore in the Trash folder .
+When letters in an email are not shown correctly or missing .
+Edit Preferences Mail Preferences General Message Display Default character encoding
+Display less email recipients of a specific message .
+Evolution compresses the To , Cc and Bcc headers of received mail and shows only five addresses in the message preview .
+On embedded pictures in received HTML messages .
+When someone sends you HTML mail that includes an image in the body of the message ( for example , the welcome message in your Inbox ) , Evolution displays the image inside the message .
+Some images are links in a message , rather than being part of the message . Evolution can download those images from the Internet , but does not do so unless you request it . This is because remotely hosted images can be slow to load and display , and can even be used by spammers to track who reads the email . Not automatically loading images helps protect your privacy .
+Automatically download images in emails from people you know
+Edit Preferences Mail Preferences HTML Messages Loading Images Load images only in messages from contacts
+Edit Preferences Contacts Autocompletion Always show address of the autocompleted contact
+Rendering an email and handling its attachments .
+Display a picture of the sender in the message header area .
+Evolution automatically displays photographs of the sender of an email at the right side of the message header if the sender already embedded a photograph in the message .
+You can also manually enable displaying the photograph of the sender of an email if the sender is in one of your address books and has a photograph stored .
+Edit Preferences Mail Preferences Headers Show the photograph of sender in the message preview
+If there are multiple matches for a contact , the first one is always used .
+Displaying the raw source of a message or all header lines .
+Edit Select All Ctrl A Message Remove Duplicate Messages
+Downloading duplicate emails may be due to one of the following reasons :
+There are several copies of the same message in the mailbox
+Evolution is having a problem with the UIDL extension .
+Signing or encrypting messages via GPG / OpenPGP that you send .
+Before you can get or send GPG encrypted mail , you need to generate your public and private keys with GPG .
+Select an algorithm , then press Enter .
+Enter how long your key should be valid for .
+Type your real name , then press Enter .
+Type your email address , then press Enter .
+( Optional ) Type a comment , then press Enter .
+Review your selected user ID . If it is correct , press O.
+Type a passphrase , then press Enter .
+Move your mouse randomly to generate the keys .
+gpg --list-keys / home / you / .gnupg / pubring.gpg ---------------------------- pub 1024D / 32j38dk2 2001-06-20 you & lt ; you @ example.comgt ; sub 1024g / 289sklj3 2011-06-20 [ expires : 2012-11-14 ]
+If you want , you can upload your keys to a key server :
+Key servers store your public keys for you so that your friends can decrypt your messages . If you choose not to use a key server , you can manually send your public key , include it in your signature file , or put it on your own Web page . However , it is easier to publish a key once , and then let people download it from a central place when they want .
+If you don 't have a key to unlock or encrypt a message , you can set your encryption tool to look it up automatically . If it cannot find the key , an error message appears .
+Decrypting and checking the signature of received GPG messages .
+Receiving messages encrypted or signed via GPG
+If you receive an encrypted message , you need to decrypt it before you can read it .
+When you view the message , Evolution prompts you for your PGP password . Enter it , and the unencrypted message is displayed .
+Senders must have your GPG public key before they can send you an encrypted message .
+To send an encrypted message , you need to use the recipient 's public key in combination with your private key . Evolution handles the encryption , but you need to get the public key and add it to your keyring .
+Setting up GPG for your mail account to sign and / or encrypt and decrypt messages .
+Below the field you can choose whether to always sign outgoing messages when using this account , and other options .
+Signing or encrypting messages via GPG that you send .
+set up your GPG key Options PGP Sign PGP Encrypt
+The Subject line of the message will not be encrypted and should not be used for sensitive information .
+To have every message signed or encrypted :
+Select the mail account to encrypt the messages in .
+Always sign outgoing messages when using this account
+Evolution offers GPG Encryption and S / MIME Encryption for signing and encrypting email messages . S / MIME is used most often in corporate environments .
+Adding , editing , viewing and deleting S / MIME certificates .
+Certificates allow you to communicate with others securely over an encrypted connection , or sign a message confirming your identity to the contact . These settings only apply to S / MIME encryption .
+Authorities Trust this CA to identify email users
+Signing or encrypting messages via S / MIME that you send .
+added your certificate Options S / MIME Sign S / MIME Encrypt
+Secure MIME ( S / MIME ) Select Signing Certificate Select Encryption Certificate
+Moves the message into a folder you specify .
+Puts a copy of the message into a folder you specify .
+Marks the message for deletion . The message can be undeleted until you expunge or empty the trash .
+Select this if you want to all other filters ignore this message . Note that only filters listed after this particular rule will be ignored .
+Adds a label to a message .
+Marks the message with a color of your choice .
+Assigns the message a numeric score .
+Changes the numeric score by the amount you set .
+Sets the status of the message . The status can be Replied To , Draft , Important , Read , or Junk .
+If the message has a status value , unsets it . If a status value is not set , it does nothing .
+Select a sound file for Evolution to play .
+Sends the message to an application of your choice . No return value is expected . This feature can be used to create automatic Web postings from email messages or to perform additional message post processing not supported by Evolution .
+Forwards the message to another email address .
+Available conditions for setting up filtering .
+Filters messages according the server you got them from . This is most useful if you use multiple POP mail accounts .
+Evolution can use an external command to process a message , then process it based on the return value . Commands used in this way must return an integer . This is most commonly used to add an external junk mail filter .
+Applies an action always to any message , without further conditions . This could be useful at the end of the list of message filters to cover those emails that did not match any conditions for the preceding filters in the list .
+Fix problems with mail filters that do not sort and organize mail as expected .
+The order of filters is very important . They are applied to the original message in sequence , like a recipe .
+When you move a message to another folder , " moving " actually means appending a copy of the message to the destination folder and marking the original message for deletion . So any subsequent filter rules will be applied to the original message that is now marked for deletion . Therefore moving a message should usually appear last in a sequence of filter rules .
+Another thing you have to keep in mind is that filters depend on the " new " flag that is set on the server when a particular email message is initially fetched from the server . If you use another email client aside from Evolution , your filters may not work automatically .
+If it is still unclear why filters do not work as expected , you can enable logging filter actions .
+gsettings set org.gnome.evolution.mail filters-log-file " / home / myusername / my-filter-log " myusername my-filter-log ~ $ HOME
+Use filter rules to sort your mail automatically into folders .
+Message filters apply actions on messages based on conditions that you have defined . You can define filters for both incoming and outgoing emails .
+Edit Preferences Mail Accounts Edit Receiving Options Options Apply filters to new messages in Inbox on this server
+Define the conditions for the rule . For each condition , you first select which part of the message will be checked and then define the comparison .
+The order of filters is important . Filters are applied to the original message in sequence , like a recipe .
+Use folders to organize your mail .
+Evolution , like most mail systems , uses folders to store email messages . You start out with a few mail folders such as the Inbox , Outbox , and Drafts . You can , however , create more folders if required .
+Specify the name and the location of the folder .
+The new folder will be shown in the folder view . You can then move messages into the folder .
+The Inbox folders on most IMAP servers cannot contain both messages and subfolders . When creating additional folders on your IMAP mail server , branch the folders from the root of the IMAP account and not from the Inbox . Creating subfolders in your Inbox may prevent you from reading messages that exist in the Inbox . If this happens , move the folders to the IMAP account .
+You can move messages into folders by using one of the following methods :
+Drag and drop the messages into the folder .
+The steps for copying are similar .
+To make sure you do not forget about a message , you can use the follow-up feature .
+Message Mark as Follow Up ... Shift Ctrl G
+A window opens to allow you to set the type of flag and the due date .
+The flag itself is the action you want to remind yourself about , such as Call , Forward and Reply .
+When you read a flagged message , its flag status is displayed at the top , before the message headers . An overdue message might tell you " Overdue : Call by April 07 , 2012 , 5 : 00 PM . "
+Mark as Important Message Mark as Important
+If you have accounts on multiple servers , select the server where you want to manage your subscriptions .
+Evolution displays a list of files and folders available on the IMAP server .
+Select a file or folder by clicking it .
+You should select at least the Inbox folder . Depending upon the way your IMAP server is configured , the list of available files might include non-mail folders . If it does , you can ignore them .
+Click a folder 's checkbox to add a folder to your subscriptions .
+Use labels to categorize your mail while keeping it in their folders .
+Changing the display of the mail window ( message list columns and widescreen ) .
+Avoid long subject lines due to translated " Re : " prefixes .
+Handling localized " Re : " in subjects
+gsettings set org.gnome.evolution.mail.composer-localized-re ' AW : , SV : '
+Moving emails from one folder to another .
+Moved emails are still shown in the original folder
+Possible reasons why emails are not sent .
+There can be several reasons why emails are not sent :
+Invalid email address . Check if all the addresses listed as mail recipients are correct . If the message contains a wrong or invalid email address , the message will not be sent .
+Incorrect SMTP settings . Verify if the settings used for outgoing messages is correct . Using the incorrect server address or authentication method may prevent emails from being sent
+Send and Receive File Work online Send and Receive
+On folders , sorting , searching , filters , search folders , and labels .
+Evolution provides several options to organize your mail according to your needs .
+Keyboard shortcuts that can save you some time when reading mail .
+Navigating in a folder in the message list
+Navigate in the message list by using the arrow keys on the keyboard .
+Navigating in a folder 's unread mail in the message list
+. , gt ; lt ; ] [
+When you are in the Mail window , the Spacebar has the following behavior :
+When you press the Spacebar for the first time , it takes you to the next unread message .
+If you press the Spacebar after you reach the bottom of the page , it takes you to the next unread message .
+If there are no more unread messages in the mailbox , pressing the Spacebar takes you to the next unread message in the next folder .
+If new messages arrive in a number of folders , the Spacebar toggles between those folders . This feature allows you to switch to the next unread message in a different folder without clicking the folder .
+Read receipts are a way for people to acknowledge that they have received your email . The recipient can normally choose whether to acknowledge the receipt or not , so they are not a completely reliable way of checking if your emails have been received by someone .
+Options on notifications of newly received mail .
+Switcher layout when a new message has arrived
+Receiving Email Edit Preferences Mail Accounts Edit Receiving Email
+Enter your username for that server .
+If you are in an organizational environment , you may want to contact your system administrator for more information .
+Check for new messages every ... minutes
+You can also define if Evolution checks for new messages in all folders .
+Filters Apply filters to new messages in Inbox on this server
+Enter the Domain name for that server .
+Select if you want to use a secure connection ( SSL or TLS ) .
+You should enable this option if your server supports it .
+Free webmail providers often supply information about which of these options can be used . If you are in an organizational environment , you may want to contact your system administrator for more information .
+Select if you want Evolution to remember your password .
+You can also define if Evolution checks for new messages in all folders , or only in subscribed folders .
+Select if you want Evolution to use custom commands to connect to the IMAP server .
+Select if you want Evolution to override server-supplied folder namespaces .
+Receiving options for Local delivery accounts .
+Receiving options for Maildir-format mail directories accounts .
+Filters Apply filters to new messages in INBOX
+Receiving options for MH-format mail directories accounts .
+Available mail receiving options for several server types .
+Mail receiving options for common server types
+Leave messages on server Delete after ... days
+Select if you want to show folders in short notation .
+For example , comp.os.linux would appear as c.o.linux.
+If you select to show relative folder names , only the name of the folder is displayed . For example the folder evolution.mail would appear as evolution .
+Which thread-related headers are recognized by Evolution .
+Ways to update your Evolution folders .
+File Print Print to File the desktop help
+You can also export messages as PDF by dragging and dropping them to the file manager , instead of dropping them in mbox ( text ) format by default .
+Edit Search Folders Message Create Rule Search Create Search Folder From Search ...
+Uses all local folders for the search folder source in addition to individual folders that are selected .
+Remote folders are considered active if you are connected to the server ; you must be connected to your mail server for the search folder to include any messages from that source in addition to individual folders that are selected .
+All local and active remote folders :
+Uses all local and active remote folders for the search folder source in addition to individual folders that are selected .
+Available conditions for setting up search folders .
+Checks whether the message is located in a specific folder .
+Applies an action always to any message , without further conditions . This could be useful at the end of the list of search folders to cover those emails that did not match any conditions for the preceding search folders in the list .
+Use search folders to see messages in one folder while still keeping them in their original folders .
+Evolution automatically updates the search folder contents when new messages are received or message are deleted .
+It might happen that one of your Search folders has not updated since some new email arrived or since an email was deleted , for example . This will mean that the list of emails in the folder is not up-to-date .
+Searching for emails with a specific attachment type
+There currently is no way to do search for emails with a specific type of attachment ( for example searching for all emails that have a PDF attachment ) .
+In the mail view , you can quickly search for messages by defining conditions .
+Select the scope from the drop-down list right to the text box .
+If you start directly from the fourth step , text will be searched in mail 's subjects and addresses and scope will be " Current folder " .
+Check for new messages every ... minutes Receiving Options Edit Preferences Mail Accounts Edit Receiving Options
+On receiving mail and sending written emails .
+If the server requires authentication , you need to provide the following information :
+How to split and sort mail when using more than one local account .
+Separating POP mail for more than one account
+It is not possible to have separate accounts in the accounts and folder list pane . Evolution only has one unique inbox for incoming email .
+creating folders creating filters Edit Message Filters ... Add
+This feature , when enabled , groups replies with the original email and allows you to follow the flow of the conversation from one message to the next .
+When a new message arrives , it will be added below the parent message . Threads are sorted and displayed based on the date of the most recent message received .
+The message list displays columns that indicate whether a message has been read , whether it has attachments , how important the message is , the sender , date , and the subject . To change the columns used in the message list , you can do one of the following :
+Evolution allows you to sort your messages using these columns . Just click on the column label to sort the emails . The direction of the arrow next to the label indicates the direction of the sort .
+Evolution provides other ways for sorting email messages . You can use Sort By , Sort Ascending , Sort Descending , or Unsort .
+Right-click on the message list column headers .
+This brings up this list of criteria for sorting email messages :
+Select the option you wish to use in sorting email messages .
+The messages will be displayed with the most recent at the bottom .
+The messages will be displayed with the most recent at the top .
+This removes sorting from the column , reverting to the order of messages as they were added to the folder .
+How to automatically handle unwanted mail .
+How to set up handling unwanted junk / spam mail .
+You can modify how Evolution handles junk mail by changing the Junk Mail Preferences :
+Deleting junk messages upon exit , and how often junk messages are to be deleted .
+Marking messages as not junk if the sender is in the address book .
+How to have only one trash or junk folder per account .
+Two Trash or Junk folders shown for the same account
+If you use a remote mail account that also has Junk and / or Trash folders on the server you might face duplicated folders in Evolution .
+Use a Real Folder Edit Preferences Mail Accounts Edit Defaults
+When you create a newsgroup account , you are not subscribed to any groups . To subscribe to a newsgroup :
+Click a group 's checkbox to add a folder to your subscriptions .
+Changing the mail view for widescreen displays .
+Evolution provides a vertical view in addition to the classical view . In the vertical view , the message preview pane is located at the right side of the message list when compared to the classical view where the message preview pane is placed below the message list . Vertical view enables you to use the extra width of wide screen monitors .
+In vertical view , the message list contains double lines of compressed headers , which enables you to consume the extra width in the preview column . The compressed columns have Sender Name and Email , Attachment Icon , Date and Subject in the second line .
+Words are wrapped in outgoing mails at 72 characters .
+Words are wrapped in outgoing mails at 72 characters
+For better readability lines are wrapped after 72 characters . This value is hardcoded and cannot be changed .
+Work with your mail while not being connected to the network .
+Forced offline mode helps you communicate with remote mail storage systems like GroupWise , IMAP or Exchange , in situations where you are not connected to the network at all times . Evolution keeps a local copy of one or more folders to allow you to compose messages , storing them in your Outbox to be sent the next time you connect .
+Evolution 's forced offline mode only refers to mail and does not apply to contacts and calendars .
+POP mail downloads all messages to your local system , but other connections usually download just the headers , and get the rest only when you want to read the message . Before you force Evolution to be offline , Evolution downloads the unread messages from the folders you have chosen to store .
+To mark a mail folder for offline use ,
+Copy folder content locally for offline operation
+Evolution automatically understands the network state and acts accordingly . For instance , Evolution switches to offline mode when the network goes down and automatically switches on when the network is up again .
+In the Memos view , you can quickly search for memos either by summary or by category .
+Adding a memo to your memo list .
+If you just want to quickly add a memo by entering a summary you can directly enter it in the list of memos .
+Shared Memos are like mail messages except they are scheduled for a particular day and appear on the calendar for that date . You can use shared memos to show vacations , holidays , pay days , birthdays , and so on . Posted shared memos are placed in your Calendar on the date you specify . They are not placed in your Mailbox or in any other user 's Mailbox .
+File New Shared Memo Shift Ctrl H
+Select the Organizer 's account name from the drop-down list given next to the Organizer field .
+In the To field , type a username , then press Enter . Repeat this for additional users .
+Enter a brief summary in the Summary field .
+In the Start Date field , type the date this shared memo should appear in the recipients ' calendars .
+Deleting a memo from your memo list .
+Editing a memo in your memo list .
+If you want to change a memo that already exists in your memo lists ,
+On adding , editing , and deleting memos .
+On minimizing Evolution to the notification area .
+Make Evolution mail be online again .
+Why is Evolution 's mail offline when my net connection is working ?
+On organizing and finding your data in Evolution .
+How to provide good information when tracking down a problem .
+As a first hint , error messages will be either displayed in the statusbar or between the tool bar and the search bar .
+How to get help for problems .
+How to report mistakes in the application .
+GNOME bug tracking system bug writing guidelines
+Synchronize Evolution data with handheld devices and mobile phones .
+There are currently no " recommended instructions " for users .
+To synchronize with a Palm OS device like the PalmPilot ( TM ) and the Handspring Visor several steps are needed : First , you need to enable synchronization . Second , your computer needs to recognize and access your handheld . Third , you should decide what sort of synchronization behavior you want .
+Edit GNOME Pilot Synchronization ... / dev / pilot / dev / ttyS0 / dev / ttyUSB1 ttyUSB0 ttyUSB1
+Use the following procedure to synchronize the data on your Palm OS device with the data you store in Evolution .
+If you use Palm OS version 4.0 and have password protection turned on for your handheld device , you might encounter trouble synchronizing . If this happens , try turning off password protection on your handheld , synchronize it with your desktop computer , and then re-enable password protection on your handheld .
+Now your Palm OS device will synchronize data with Evolution .
+To add such a task list or memo list to Evolution , perform the following steps :
+Choose if you want to be able to view the content also while offline .
+The task list will be added to the list of task lists in Evolution .
+Options for displaying task completion and due dates .
+Select the color for tasks due today .
+Select the color for overdue tasks .
+Select this option to have completed tasks hidden after a period of time measured in days , hours , or minutes . If you do not select this option , completed tasks remain in your task list , marked as complete .
+Adding another local task or memo list .
+Adding another local task or memo list
+To add another local task list to Evolution , perform the following steps :
+On task and memo lists , searching , and categories .
+In the Tasks view , you can quickly search for tasks either by summary or by category .
+Adding a task to your task list .
+If you just want to quickly add a task by entering a summary you can directly enter it in the list of tasks .
+Evolution can be used to assign a task to multiple people .
+When you assign a task , you can specify the attendees in several categories , such as " chair " or " required " . When you save the task , each attendee is sent an email with the task information , which also gives them the option to respond .
+Deleting a task from your task list .
+Delete Delete Ctrl D Edit Delete Task
+Editing a task in your task list .
+If you want to change a task that already exists in your task lists ,
+On adding , editing , and deleting tasks .
+Adding and using more than one task list or memo list .
+You can have multiple task or memo lists and choose which of your lists get displayed . For example , you might have tasks for work , tasks for home , and tasks for the singing club of which you are a member . The side bar shows these lists , and you can select or deselect any of the boxes next to them to show and hide the corresponding tasks or memos in your view .
+Tasks and memos from each task or memo list appear as different colors .
+You can also use lists that are not on your computer , such as on the internet .
+Lists of this type are read-only .
+The list will be added in Evolution .
+Using and managing categories for appointments , contacts , memos and tasks .
+Another way to group contacts , appointments , tasks and memos ( summarized by the term " objects " in the following text ) is to mark them as belonging to different categories . You can mark an object as being in several categories or no category at all . For example in your address book , you put a friend in the " Business " category because he works with you and the " Friends " category because he is a friend .
+To mark an object as belonging to a category ,
+Double-click the object to bring up the corresponding editor .
+Select the category from the list . You can select as many or as few categories as you like .
+Double-click any object to bring up the corresponding editor .
+Enter the new category in the entry box at the top .
+The sender 's email address or the name of the sender .
+Only the CC recipients of the message .
+Only the BCC recipients of the message . Obviously this can only be applied to outgoing filters .
+The sender 's email address or the name of the sender or the recipients of the message .
+If a message uses a header more than once , Evolution pays attention only to the first instance , even if the message defines the header differently the second time . For example , if a message declares the Resent-From : header as " engineering @ example.com " and then restates it as " marketing @ example.com " , Evolution filters as though the second declaration did not occur . To filter on messages that use headers multiple times , use a regular expression .
+Filters messages according to the date on which they were sent . First , choose the conditions you want a message to meet , such as before a given time or after a given time . Then choose the time . The filter compares the message 's time stamp to the system clock when the filter is run , or to a specific time and date you choose from a calendar . You can also have it look for a message within a range of time relative to the filter , such as two to four days ago .
+This works the same way as the Date Sent option , except that it compares the time you received the message with the dates you specify .
+Sets the message score to any whole number greater than 0 . You can have one filter set or change a message score , and then set up another filter to move the messages you have scored . A message score is not based on anything in particular : it is simply a number you can assign to messages so other filters can process them .
+Sorts based on the size of the message in kilobytes .
+Filters according to the status of a message . The status can be Replied To , Draft , Important , Read , or Junk .
+Checks whether there is an attachment for the email .
+Filters based on the mailing list the message came from . This filter might miss messages from some list servers , because it checks for the X-BeenThere header , which is used to identify mailing lists or other redistributors of mail . Mail from list servers that do not set X-BeenThere properly are not be caught by these filters .
+Here you define your name and your email address .
+Optionally you can make this account your default account ( e.g. when writing emails ) , set a Reply-To email address ( if you want replies to messages sent to a different address ) , and set an organization ( the company where you work , or the organization you represent when you send email from this account ) .
+Select the condition from the dropdown list , and then type a search entry in the field .
+If you search for something rather often , you will prefer not to type it many times . In this case you can use saved searches .
+Edit the title or search conditions from the dialog box .
+What to do when using a small screen or netbook .
+Some windows are too large for small screens .
+This is a known problem and hard to solve for a complex application with many settings such as Evolution .
+Choose the Thunderbird files that you would like to import .
+The most common available server types for normal users are :
+IMAP + : Keeps the mail on the server so you can access your mail from multiple systems .
+Microsoft Exchange : For connecting to a Microsoft Exchange 2000 or 2003 server .
+Available local account server types for advanced users are :
+You need to provide the path to the directory you want to use .
+You need to provide the path to the mail spool file you want to use .
+When a received message looks weird or is hard to read .
+This will likely be fixed in version 3.6 .
+Search for sender photograph only in local address books
+Hover your mouse cursor over the menu bar item for which you want to add or change the keyboard shortcut .
+Type the shortcut that you want on the keyboard .
+Novell Groupwise : For connecting to a Novell GroupWise server .
+Add and edit an IMAP mail account in Evolution .
+Add and edit a Microsoft Exchange 2000 / 2003 account in Evolution .
+In this section you can define your " Out of Office " status , change the password for your Exchange account , and manage the delegation settings .
+You can also view the size of all Exchange folders .
+Add and edit a Microsoft Exchange 2007 account in Evolution .
+Add and edit a Novell Groupwise account in Evolution .
+Settings for having somebody else handle your account .
+What to do when this error is shown .
+Error message " Failed to append to ... " after sending message
+Edit Preferences Mail Accounts Edit Defaults Folder for sent messages

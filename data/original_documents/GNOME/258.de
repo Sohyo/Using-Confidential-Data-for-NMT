@@ -1,0 +1,52 @@
+Fehler beim Aufruf des Befehls » %s « zum Entpacken des Comicbuchs : %s
+Mit dem Befehl » %s « konnte das Comicbuch nicht entpackt werden .
+Der Befehl » %s « wurde nicht normal beendet .
+Erstellung eines temporären Ordners ist gescheitert .
+Der entsprechende Befehl zum Entpacken eines Comicbuchs dieses Typs konnte nicht gefunden werden
+Im Archiv » %s « konnten keine Bilder gefunden werden
+Beim Löschen von » %s « ist ein Fehler aufgetreten .
+Das Dokument besteht aus mehreren Dateien . Auf eine oder mehrere Dateien kann nicht zugegriffen werden .
+Dokument » %s « konnte nicht geladen werden
+Dokument » %s « konnte nicht gespeichert werden
+Anlage » %s « konnte nicht gespeichert werden : %s
+Anlage » %s « konnte nicht geöffnet werden : %s
+Anlage » %s « konnte nicht geöffnet werden
+Der Dateityp %s ( %s ) wird nicht unterstützt .
+Version der Desktop-Datei » %s « wurde nicht erkannt
+URIs können nicht an » Type=Link«-Desktop-Dateien weitergegeben werden
+Das gewählte Objekt auf der Werkzeugleiste verschieben
+Das gewählte Objekt aus der Werkzeugleise entfernen
+Restriktionen des Dokuments , wie das Verbot zum Kopieren oder Drucken , übergehen .
+Der gewählte Drucker » %s « konnte nicht gefunden werden
+Das momentan angezeigte Dokument in das Fenster einpassen
+Die Seitenbreite des momentan angezeigten Dokuments an die Fensterbreite anpassen
+Datei » %s « konnte nicht erstellt werden : %s
+Fehler beim Drucken der Seite %d : %s
+Zu %s in Datei » %s « gehen
+Ende der Präsentation . Drücken Sie » Esc « um diese zu schließen .
+Evince scheint beim letzten Mal abgestürzt oder abgewürgt worden zu sein . Sie können die geöffneten Dokumente wiederherstellen .
+Dieses Dokument ist gesperrt und kann nur nach Eingabe des korrekten Passworts gelesen werden .
+Das Dokument » %s « ist gesperrt und benötigt ein Passwort , bevor es geöffnet werden kann .
+Dokument wird von » %s « geladen
+Dokument wird heruntergeladen ( %d % % )
+Verknüpfung » %s « konnte nicht erstellt werden :
+Die Datei konnte nicht als » %s « gespeichert werden .
+Dokument wird hochgeladen ( %d % % )
+Anlage wird hochgeladen ( %d % % )
+Bild wird hochgeladen ( %d % % )
+Soll vor dem Schließen auf das Beenden des Druckauftrages » %s « gewartet werden ?
+%d Druckaufträge sind aktiv . Soll vor dem Schließen auf das Beenden des Druckens gewartet werden ?
+Wenn Sie das Fenster schließen , werden ausstehende Druckaufträge nicht ausgeführt .
+Dokumentenbetrachter . Verwendet poppler %s ( %s )
+Evince ist freie Software . Sie können es unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung von Evince erfolgt in der Hoffnung , dass es Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit Evince erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 59 Temple Place , Suite 330 , Boston , MA 02111-1307 , USA .
+Eine Kopie des momentan angezeigten Dokuments in einem neuen Fenster öffnen
+Eine Kopie des momentan angezeigten Dokuments speichern
+Ein Wort oder einen Ausdruck im Dokument suchen
+Es wurde kein geeignetes Format zum Speichern des Bildes gefunden
+Das Bild konnte nicht gespeichert werden .
+Die Anlage konnte nicht gespeichert werden .
+Das Schlagwort welches im Dokument gesucht werden soll
+Wahr ( true ) aktiviert die Erstellung von Vorschaubildern , während unwahr ( false ) das Erzeugen neuer Vorschaubilder deaktiviert .
+Zulässiges Kommando plus Argumente für die PDF-Dokumentenvorschau . Bitte schauen Sie für weiterführende Informationen in der Dokumentation der Nautilus-Dokumentvorschau nach .

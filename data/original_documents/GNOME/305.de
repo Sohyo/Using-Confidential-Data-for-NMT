@@ -1,0 +1,77 @@
+Fehler beim Erstellen des Objekts auf dem Server
+Bearbeiten eines Objekts auf einem Server ist fehlgeschlagen
+Fehler beim Abrufen der Objekte vom Server
+Fehler beim Auflisten der Objekte vom Server
+Fehler beim Übertragen der Kontakte vom Server
+Ordner konnte nicht geöffnet werden : %s
+Ordnereigenschaften konnten nicht abgerufen werden : %s
+Objekte konnten nicht aufgelistet werden : %s
+Objekte konnten nicht übertragen werden : %s
+Ordner konnte nicht geschlossen werden : %s
+Das Verändern einzelner Instanzen eines wiederkehrenden Termins wird noch nicht unterstützt . Der auf dem Server gespeicherte Termin wurde daher nicht verändert .
+Nachrichten im Ordner » %s « werden geladen
+Diese Nachricht ist im Offline-Modus nicht verfügbar .
+Nachricht konnte nicht an Ordner » %s « angehängt werden
+Leeren des Mülleimers ist fehlgeschlagen : %s
+Nachricht » %s « kann nicht abgerufen werden : %s
+Nachricht konnte nicht abgerufen werden : %s
+Zusammenfassung für » %s « konnte nicht geladen werden
+In _allen Ordnern nach neuen E-Mails schauen
+Filter auf neue Nachrichten im Eingang dieses Servers an_wenden
+Ausschließlich den _Eingang auf unerwünschte Nachrichten prüfen
+Für den Zugriff auf Microsoft Exchange 2007-/ OpenChange-Server über MAPI
+Diese Option erzeugt eine Verbindung zum OpenChange-Server über ein Klartext-Passwort .
+Diese Option erstellt eine Verbindung zum Server über einen Kerberos-Schlüssel .
+Ordner konnte nicht in einem lokalen Zwischenspeicher gefunden werden
+MAPI-Ordner können im Offline-Modus nicht erstellt werden
+Neuer Ordner » %s « konnte nicht angelegt werden .
+MAPI-Ordner können nur innerhalb des Postfachs des angemeldeten Benutzers angelegt werden
+Ordner » %s « konnte nicht gefunden werden
+Ordner » %s « konnte nicht angelegt werden : %s
+Ordner » %s « konnte nicht angelegt werden
+MAPI-Ordner können im Offline-Modus nicht gelöscht werden
+Ordner » %s « konnte nicht entfernt werden : %s
+Ordner » %s « konnte nicht entfernt werden
+MAPI-Ordner können im Offline-Modus nicht umbenannt werden
+MAPI-Ordner » %s « konnte nicht umbenannt werden . Der Ordner existiert nicht
+MAPI-Vorgabeordner » %s « konnte nicht in » %s « umbenannt werden .
+MAPI-Ordner » %s « konnte nicht in » %s « umbenannt werden .
+MAPI-Ordner » %s « konnte nicht in » %s « umbenannt werden : %s
+MAPI-Ordner können im Offline-Modus nicht abonniert werden
+MAPI-Ordner können im Offline-Modus nicht abbestellt werden
+Verbindung zum MAPI-Speicherbereich konnte im Offline-Modus nicht erstellt werden
+Postfach » %s « ist voll , es können keine neuen Nachrichten empfangen oder gesendet werden .
+Postfach » %s « ist nahe der Speicherplatzbegrenzung , das Senden von Nachrichten wird in Kürze deaktiviert .
+Postfach » %s « ist voll , es können keine neuen Nachrichten empfangen werden .
+Postfach » %s « ist nahe der Speicherplatzbegrenzung .
+Nachricht konnte nicht gesendet werden : %s
+Datenquelle » %s « repräsentiert keinen MAPI-Ordner
+Es gibt weitere Benutzer mit ähnlichen Benutzernamen auf dem Server . Bitte wählen Sie den gewünschten Namen aus der nachfolgenden Liste aus .
+MAPI-Konten konnten im Offline-Modus nicht erstellt werden
+Server , Benutzername und Domain-Name dürfen nicht leer sein . Bitte geben Sie die korrekten Werte ein .
+Realm-Name darf nicht leer sein , wenn Kerberos ausgewählt ist . Bitte geben Sie die korrekten Werte ein .
+Verbindung zum Server wird aufgebaut , bitte warten
+Zugriffsrechte für Ordner » %s « können nicht bearbeitet werden , bitte wählen Sie einen anderen Ordner .
+Nach entfernter MAPI-Ordnerstruktur wird gesucht , bitte warten
+MAPI-Kalender kann im Offline-Modus nicht erstellt werden
+MAPI-Aufgabenliste kann im Offline-Modus nicht erstellt werden
+MAPI-Notizliste kann im Offline-Modus nicht erstellt werden
+MAPI-Adressbuch kann im Offline-Modus nicht erstellt werden
+MAPI-Quelle kann im Offline-Modus nicht erstellt werden
+Ordner-Zugriffsrechte werden gelesen , bitte warten User
+Ordner konnte nicht hinzugefügt werden , der Ordner existiert bereits als » %s«Mailbox - John SmithForeignFolder
+Ordner kann nicht hinzugefügt werden , Hinzufügen zur Zusammenfassung des Speicherbereichs ist gescheitert
+Ordner » %s « wurde nicht gefunden . Entweder existiert dieser Ordner nicht oder Sie haben keine Berechtigung , darauf zuzugreifen .
+Ordner konnte nicht hinzugefügt werden , der Ordnertyp konnte nicht bestimmt werdenJohn Smith - CalendarForeignFolder
+Fähigkeiten des Ordners » %s « des Benutzers » %s « werden überprüft , bitte warten
+Weitere Sitzungen können nicht erstellt werden , maximale Anzahl wurde erreicht
+MAPI-Fehler %s ( 0x%x ) ist aufgetretenEXCHANGEMAPI_ERROR
+Server » %s « ist nicht erreichbar
+Ordnername » %s « ist weder ein ein bekannter Name eines Vorgabeordners noch eine Ordnerkennung .
+Speicherbereich für Benutzer » %s « konnte nicht geöffnet werden
+Ordner des Benutzers » %s « nicht gefunden
+Empfänger » %s « ist nicht eindeutig
+Das Suchergebnis überschreitet die erlaubte Speicherplatzbegrenzung . Bitte verwenden Sie einen spezifischeren Suchbegriff
+Benutzername » %s « ist nicht eindeutig
+Ordner konnte nicht hinzugefügt werden , der Ordnertyp wird nicht unterstützt
+Ordner kann nicht hinzugefügt werden , Hauptquelle wurde nicht gefunden

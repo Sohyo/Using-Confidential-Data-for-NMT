@@ -1,0 +1,122 @@
+Whether to use fixed positioning for the actor
+Forced minimum width request for the actor
+Forced minimum height request for the actor
+The actor 's position on the Z axis
+Flags controlling when to flatten the actor into a single image
+Whether the actor is visible or not
+Whether the actor is reactive to events
+Whether the actor has a clip set
+The point around which the scaling and rotation occur
+Whether the actor is shown when parented
+Sets the clip region to track the actor 's allocation
+Whether the actor contains the pointer of an input device
+Add an effect to be applied on the actor
+The object controlling the layout of an actor 's children
+Whether extra horizontal space should be assigned to the actor
+Whether extra vertical space should be assigned to the actor
+The alignment of the actor on the X axis within its allocation
+The alignment of the actor on the Y axis within its allocation
+Delegate object for painting the actor 's content
+The filter used when reducing the size of the content
+The filter used when increasing the size of the content
+The repeat policy for the actor 's content
+The axis to align the position to
+The alignment factor , between 0.0 and 1.0
+The backend of type ' % s ' does not support creating multiple stages
+The offset in pixels to apply to the binding
+Horizontal alignment for the actor inside the layout manager
+Vertical alignment for the actor inside the layout manager
+Default horizontal alignment for the actors inside the layout manager
+Default vertical alignment for the actors inside the layout manager
+Whether the child should receive priority when the container is allocating spare space on the horizontal axis
+Whether the child should receive priority when the container is allocating spare space on the vertical axis
+Horizontal alignment of the actor within the cell
+Vertical alignment of the actor within the cell
+Whether the layout should be vertical , rather than horizontal
+Whether the layout should be homogeneous , i.e. all childs get the same size
+Whether to pack items at the start of the box
+Whether the clickable should be in pressed state
+The minimum duration of a long press to recognize the gesture
+The maximum threshold before a long press is cancelled
+The material to be used when painting the back of the actor
+The horizontal amount of pixels required to start dragging
+The vertical amount of pixels required to start dragging
+Whether each item should receive the same allocation
+The column number to attach the left side of the child to
+The row number to attach the top side of a child widget to
+The number of columns that a child spans
+The number of rows that a child spans
+The amount of space between two consecutive rows
+The amount of space between two consecutive columns
+If TRUE , the rows are all the same height
+If TRUE , the columns are all the same width
+Whether interpolated events emission is enabled .
+Rate at which the interpolated panning will decelerate in
+Factor applied to the momentum when starting the interpolated phase
+The offset along the path , between -1.0 and 2.0
+Whether the : filename property is set
+The time between clicks necessary to detect a multiple click
+The distance between clicks necessary to detect a multiple click
+The distance the cursor should travel before starting to drag
+The description of the default font , as one that could be parsed by Pango
+Whether to use antialiasing ( 1 to enable , 0 to disable , and -1 to use the default )
+The resolution of the font , in 1024 * dots / inch , or -1 to use the default
+Whether to use hinting ( 1 to enable , 0 to disable and -1 to use the default )
+The style of hinting ( hintnone , hintslight , hintmedium , hintfull )
+The type of subpixel antialiasing ( none , rgb , bgr , vrgb , vbgr )
+The minimum duration for a long press gesture to be recognized
+The scaling factor to be applied to windows
+How long to show the last input character in hidden entries
+The edge of the actor that should be snapped
+The edge of the source that should be snapped
+The offset in pixels to apply to the constraint
+Whether the main stage should be rendered offscreen
+Whether the mouse pointer is visible on the main stage
+Whether the stage is able to be resized via user interaction
+Whether to honour the alpha component of the stage color
+Whether the stage should clear its contents
+Whether the stage should accept focus on show
+Maximum number of characters for this entry . Zero if no maximum
+Whether pressing return causes the activate signal to be emitted
+Whether the cursor color has been set
+The cursor position of the other end of the selection
+Whether the selection color has been set
+A list of style attributes to apply to the contents of the actor
+Whether or not the text includes Pango markup
+If set , wrap the lines if the text becomes too wide
+The preferred place to ellipsize the string
+The preferred alignment for the string , for multi-line text
+If non-zero , use this character to display the actor 's contents
+Whether the text should be a single line
+Whether the selected text color has been set
+Whether the direction should be reversed when reaching the end
+How many times the timeline should repeat
+How the timeline should compute the progress
+The ClutterPath object representing the path to animate along
+Whether the surface should match the allocation
+Whether the rectangle should have a border
+Whether the shader is compiled and linked
+Currently set state , ( transition to this state might not be complete )
+The number of columns the widget should span
+The number of rows the widget should span
+Allocate extra space for the child in horizontal axis
+Allocate extra space for the child in vertical axis
+Auto sync size of actor to underlying pixbuf dimensions
+Forces the underlying texture to be singular and not made of smaller space saving individual textures
+Repeat the contents rather than scaling them horizontally
+Repeat the contents rather than scaling them vertically
+The underlying Cogl texture handle used to draw this actor
+The underlying Cogl material handle used to draw this actor
+The path of the file containing the image data
+Keep the aspect ratio of the texture when requesting the preferred width or height
+Load files inside a thread to avoid blocking when loading images from disk
+Decode image data files inside a thread to reduce blocking when loading images from disk
+Shape actor with alpha channel when picking
+Could not find a suitable CoglWinsys for a GdkDisplay of type % s
+The width of the pixmap bound to this texture
+The height of the pixmap bound to this texture
+The depth ( in number of bits ) of the pixmap bound to this texture
+If the texture should be kept in sync with any pixmap changes .
+If composite window redirects are set to Automatic ( or Manual if false )
+X position of window on screen according to X11
+Y position of window on screen according to X11

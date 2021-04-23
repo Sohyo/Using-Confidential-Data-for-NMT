@@ -1,0 +1,394 @@
+Out of [ people ] people , [ brothers ] have brothers , [ sisters ] have sisters and [ both ] have both . How many people have neither brothers nor sisters ?
+It is calculated by taking the total number of people minus [ brothers _ only ] people that have brothers only , minus [ sisters _ only ] that have sisters only and minus [ both ] that have sisters and brothers .
+John 's son age is nowadays half of John 's age minus [ difference ] , that is , ( [ father ] / 2 ) - [ difference ] .
+Every digit has 10 possibilities . The total number of possibilities is 10 at the power of [ digits ] .
+Every digit has 8 possibilities . The total number of possibilities is 8 at the power of [ digits ] .
+Every game is an independent event with 2 possible results . The total number of possibilities is 2 at the power of [ games ] .
+In every match you eliminate one player . Therefore , the result is the total number of player minus one .
+Compound interest is paid on the principal plus any past interest accumulated .
+What number plus [ num _ a ] equals [ num _ b ] ?
+x + [ num _ a ] = [ num _ b ]
+It is the result of the operation [ num _ b ] - [ num _ a ] .
+What number minus [ num _ a ] equals [ num _ b ] ?
+x - [ num _ a ] = [ num _ b ]
+It is the result of the operation [ num _ a ] + [ num _ b ] .
+What number multiplied by [ num _ a ] equals [ num _ b ] ?
+x * [ num _ a ] = [ num _ b ]
+It is the result of the operation [ num _ b ] / [ num _ a ] .
+What number divided by [ num _ a ] equals [ num _ b ] ?
+x / [ num _ a ] = [ num _ b ]
+It is the result of the operation [ num _ a ] * [ num _ b ] .
+How many boxes measuring 1 x 1 x 0.5 can be fit into a container measuring 6 x 5 x [ z ] ?
+You can fit 6 * 5 * [ z ] * 2 boxes .
+[ year _ start ] is a palindromic year as [ year _ end ] is , a gap of 11 years . What are the next two consecutive palindromic years after [ year _ end ] with the same gap ? Answer using two numbers ( e.g. : [ year _ start ] and [ year _ end ] ) .
+A palindromic number remains the same when its digits are reversed ( e.g. : 2112 ) .
+[ rslt _ a ] and [ rslt _ b ]
+From year 1000 to year 10000 , palindrome years occur at 110 year intervals except for the end of each millennium that occur at a 11 years interval .
+On the dartboard below , where would you need to throw the darts to add 120 points in 5 throws ? Answer using a list of numbers ( e.g. : 4 , 5 , 6 , 3 , 2 )
+Only 3 of the 4 numbers in the dartboard are used to add 120 points .
+Every person has two legs and every horse four ( 2 * [ men ] + [ horses ] * 4 ) . Every person and every horse have also two eyes ( 2 * [ men ] + 2 * [ horses ] ) .
+How much weight is needed at the point indicated by the question mark to balance the lever ?
+Consider the sentence attributed to Archimedes : ' Give me a lever long enough and a place to stand and I can move the Earth ' .
+A lever is in equilibrium when the objects placed on it are at a distances reciprocally proportional to their weights .
+Which two numbers of the list below are both multiple of [ num _ x ] and [ num _ y ] ? [ option _ answers ]
+A multiple is a number that may be divided by another number with no remainder . For example , 10 , 15 and 25 are multiples of 5 .
+[ option _ prefix ] [ option _ a ] and [ option _ c ]
+[ option _ prefix ] [ option _ a ] and [ option _ b ]
+[ option _ prefix ] [ option _ b ] and [ option _ c ]
+[ option _ prefix ] [ option _ c ] and [ option _ d ]
+[ option _ a ] and [ option _ b ]
+[ option _ a ] and [ option _ b ] are both multiples of [ num _ x ] and [ num _ y ] .
+In a small town , [ all _ cars ] % of the inhabitants have a car and [ males _ cars ] % have a car and are males . What percentage of the population are females and have a car ? [ option _ answers ]
+[ option _ prefix ] [ option _ a ] %
+[ option _ prefix ] [ option _ b ] %
+[ option _ prefix ] [ option _ c ] %
+[ option _ prefix ] [ option _ d ] %
+[ females _ cars ] % ( [ all _ cars ] - [ males _ cars ] ) of the inhabitants are women and have a car .
+If p & lt ; x & lt ; q and r & lt ; y & lt ; s and you know that x & lt ; y is true , which of the following options is correct ? [ option _ answers ]
+If x & lt ; y , then p & lt ; x & lt ; y & lt ; s so s & gt ; p is true .
+If p & lt ; x & lt ; q and r & lt ; y & lt ; s and you know that x & gt ; y is true , which of the following options is correct ? [ option _ answers ]
+If x & gt ; y , then r & lt ; y & lt ; x & lt ; q , so r & lt ; q is true .
+Given two integer numbers x and y , if x is even and y odd , which of the following expressions gives always an odd result ? [ option _ answers ]
+[ option _ prefix ] x * y * 2
+[ option _ prefix ] ( x - y ) * 2
+Multiplication of two even numbers always produces an even number , so x multiplied by 2 is even . Adding an odd number ( y ) to that even number always produces an odd number .
+The heavier truck weights [ heavier ] and the lighter [ lighter ] .
+John 's father 's sister 's sister-in-law is also ? Do not assume that John has any relative that has not been mentioned . [ option _ answers ]
+[ option _ prefix ] Has no relation
+The sister 's sister-in-law is John 's father 's wife , that is , John 's mother .
+John 's mother 's brother 's brother-in-law is also ? Do not assume that John has any relative that has not been mentioned . [ option _ answers ]
+[ option _ prefix ] His father
+The brother 's brother-in-law is John 's mother 's husband , that is , John 's father .
+The average of three numbers is [ three ] . The average of two of these numbers is [ two ] . What is the third number ? [ option _ answers ]
+It is the result of the operation : ( [ three ] * 3 ) - ( [ two ] * 2 ) .
+gbrainy is a game to train memory , arithmetical and logical capabilities with many sorts of exercises of different difficulty levels .
+It should have something for all ages and purposes : kids whose parents want them to develop their capabilities , adults that want to keep their mind in form or just try it out for fun , older people that might need to do some memory exercises , etc .
+Play games that challenge your logic , verbal , calculation and memory abilities
+Which of the following sports does not belong in this group ?
+Think of the items used in the game .
+It is the only one that does not use a ball in the game .
+A terrier is to a dog like a ?
+Dog and horse are species and terrier and pony are breeds .
+The word ' taxidermist ' is used to define a person that ?
+A car engine that is poorly designed and lacking of sophistication is ?
+Which of the following words is the closest in meaning to ' censure ' ?
+An artist whose work has become the defining style of a genre is ?
+Which of the following sentences defines better an ' ostracized ' person ?
+Which of the following words means fear of people ?
+A person with excessive preoccupation for his health has ?
+Which of the following words does not belong in this group ?
+It is the only one that is not a woodwind instrument .
+What is a ' halberd ' ?
+It is the only one that is not related to architecture .
+It is the only unit that does not belong to the metric system .
+It is the only one that is not a fruit .
+It is the only one that is not a reptile and also does not have a tail .
+It is the only one that is not a carnivore .
+Which of the following words is closest to the meaning of ' hedonism ' ?
+The ethical doctrine holding that only what is pleasant is an intrinsic good .
+Which of the following words is closest to the meaning of ' asceticism ' ?
+The practice of austere self-discipline in order to achieve a higher or spiritual idea .
+Which of the following words is closest to the meaning of ' oxymoron ' ?
+A figure of speech that combines contradicting terms .
+It is the only one that is not a cereal .
+It is the only one that is not a metal .
+It is the only one that is not a medical specialty .
+Which of the following words is closest to the meaning of ' negligent ' ?
+It is the failure to take such care as may be rightfully or reasonably expected .
+The other words have the connotation of not occurring frequently .
+Which of the following words is closest to the meaning of ' perplexing ' ?
+Which of the following words is closest to the meaning of ' unhappy ' ?
+The other words have the meaning of distinguished .
+Which of the following words is closest to the meaning of ' specific ' ?
+It is the only one that is not used to storage liquids .
+It is the only one that is not a nut .
+Which of the following words is closest to the meaning of ' acclaim ' ?
+Which of the following words is closest to the meaning of ' grief ' ?
+Which of the following words is closest to the meaning of ' phlegmatic ' ?
+It is the only one that is not related to literature .
+It is the only one that is not related with triangles .
+It is the only one that does not produce light .
+It is the only one that is not used for protection .
+It is the only one that is not related to rocks .
+It is the only one that does not have roots .
+It is the only instrument that does not have keys .
+The radius of a circle is half the diameter .
+A pen is used to write and a fork is used to eat .
+An oasis is an isolated area of vegetation in a desert and an island is a piece of isolated land that is surrounded by water .
+A turtle is inside a shell and a letter is inside an envelope .
+Parallel and longitude traverse from east to west while meridian and latitude traverse from north to south .
+Both relate to an action that breaks the related item .
+button / push | key ( used in a lock )
+To make both objects work , a button needs to be pushed and a key needs to be turned .
+The relation between the two words is that they are synonymous .
+The first word is the instrument and the second what it measures .
+A fish in an aquarium lives in captivity .
+Grab and bite are finite actions .
+track | railway | rails | railroad
+( built on { 0 } )
+--customgame [ game1 , gameN ] \ tSpecifies a list of games to play during a custom game .
+--norandom \ t \ t \ tThe custom game list provided will not be randomized .
+--versions \ t \ t \ tShow dependencies .
+This program is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+This program is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with this program ; if not , write to the Free Software Foundation , Inc . , 59 Temple Place - Suite 330 , Boston , MA 02111-1307 , USA .
+A brain teaser game for fun and to keep your brain trained .
+The PDF file has been exported correctly .
+There was a problem generating the PDF file . The file has not been created .
+The graph below shows the player 's game score evolution .
+You need more than one game session recorded to see the score evolution .
+You are about to delete the player 's game session history .
+If you proceed , you will lose the history of the previous game sessions . Do you want to continue ?
+This option allows to export a set of games in a PDF file . You can complete the puzzles without a computer .
+Skip games that use colors ( for colorblind users )
+Force gbrainy to always use English language ( ignore translations )
+Time in seconds to memorize the challenge :
+Minimum number of played games to store the game session :
+Maximum number of records in the player 's game session history :
+Once you have an answer type it in the " Answer : " entry box and press the " OK " button .
+The level of translation of gbrainy for your language is low .
+You may be exposed to partially translated games making it more difficult to play . If you prefer to play in English , there is an option for doing so in gbrainy 's Preferences .
+All Games ( Logic , Mental Calculation , Memory and Verbal Analogies )
+Additional extensions are required to perform this operation .
+The following add-ins are currently installed :
+Select the add-ins to install and click on Next
+Select the location of the repository you want to register :
+Play games that challenge your reasoning and thinking
+Play games that challenge your verbal aptitude
+{ 0 } or { 1 }
+{ 0 } , { 1 } or { 2 }
+{ 0 } , { 1 } , { 2 } or { 3 }
+{ 0 } games registered : { 1 } logic puzzles , { 2 } calculation trainers , { 3 } memory trainers , { 4 } verbal analogies
+Games played : { 0 } ( Score : { 1 } )
+{ 0 } - { 1 } - { 2 }
+{ 0 } - { 1 }
+Read the instructions carefully and identify the data and given clues .
+To score the player gbrainy uses the time and tips needed to complete each game .
+In logic games , elements that may seem irrelevant can be very important .
+Try to approach a problem from different angles .
+Do not be afraid of making mistakes , they are part of the learning process .
+Do all the problems , even the difficult ones . Improvement comes from challeging yourself .
+Play on a daily basis , you will notice progress soon .
+Use the ' Custom Game Selection ' to choose exactly which games you want to play .
+Use the Settings to adjust the difficulty level of the game .
+Association of elements is a common technique for remembering things .
+Grouping elements into categories is a common technique for remembering things .
+Build acronyms using the first letter of each fact to be remembered .
+The enjoyment obtained from a puzzle is proportional to the time spent on it .
+Think of breaking down every problem into simpler components .
+When answering verbal analogies pay attention to the verb tense .
+When you go shopping , try to perform calculations without the use of a calculator .
+Memorize the objects below in the given time
+Game # { 0 } . { 1 }
+{ 0 } Answer { 1 } .
+{ 0 } ) { 1 }
+Given the relationship between the two words below , which word has the same relationship to ' { 0 } ' ?
+Time played { 0 } ( average per game { 1 } )
+For details on how gbrainy 's scoring works refer to the help .
+By scoring { 0 } in logic puzzle games you have established a new personal record . Your previous record was { 1 } .
+By scoring { 0 } in calculation games you have established a new personal record . Your previous record was { 1 } .
+By scoring { 0 } in memory games you have established a new personal record . Your previous record was { 1 } .
+By scoring { 0 } in verbal analogies you have established a new personal record . Your previous record was { 1 } .
+Logic puzzles . Challenge your reasoning and thinking skills .
+Mental calculation . Arithmetical operations that test your mental calculation abilities .
+Memory trainers . To prove your short term memory .
+Verbal analogies . Challenge your verbal aptitude .
+gbrainy is a brain teaser game and trainer to have fun and to keep your brain trained . It includes :
+What is the result of the following operation ?
+Given the numbers : { 0 } . Which of the following numbers is closest to the average ? Answer { 1 } , { 2 } , { 3 } or { 4 } .
+The average of a list of numbers is their sum divided by the number of numbers in the list .
+The result of the operation is { 0 } .
+Which of the following numbers is closer to { 0 } ? Answer { 1 } , { 2 } , { 3 } or { 4 } .
+The result of the operation { 0 } / { 1 } is ' { 2 } ' .
+In the list of single-digit numbers below , there are 5 consecutive numbers whose sum is { 0 } . Which numbers are these ?
+What is the result of the given operation ? Answer using either a fraction or a number .
+Which of the possible divisors is the greatest that divides all numbers ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+The first operator is { 0 } .
+Which operators make { 0 } , { 1 } , and { 2 } equal { 3 } ? Answer using ' + - / * ' .
+{ 0 } and { 1 }
+Which of the following numbers is a prime ? A prime number is a positive integer that has exactly two different positive divisors , 1 and itself . Answer { 0 } , { 1 } , { 2 } or { 3 } .
+If the sum of all digits in a given number is divisible by 3 , then so is the number . For example 15 = 1 + 5 = 6 , which is divisible by 3 .
+The number { 0 } is a prime number .
+What is { 0 } % of { 1 } / { 2 } ? Answer { 3 } , { 4 } , { 5 } or { 6 } .
+Which two numbers have a sum of { 0 } and have a ratio of { 1 } to { 2 } ? Answer using two numbers ( e.g. : 1 and 2 ) .
+The second number can be calculated by multiplying the first number by { 0 } and dividing it by { 1 } .
+A ratio specifies a proportion between two numbers . A ratio of a : b means that for every ' a ' parts you have ' b ' parts .
+x + y = { 0 }
+have a ratio of { 0 } : { 1 }
+In the list of numbers below , what is the sum of all the numbers with a value greater than { 0 } ? Answer { 1 } , { 2 } , { 3 } or { 4 } .
+In the list of numbers below , what is the product of all the numbers with a value greater than { 0 } ? Answer { 1 } , { 2 } , { 3 } or { 4 } .
+Which two numbers when added are { 0 } and when multiplied are { 1 } ? Answer using two numbers ( e.g. : 1 and 2 ) .
+Which two numbers when subtracted are { 0 } and when multiplied are { 1 } ? Answer using two numbers ( e.g. : 1 and 2 ) .
+x - y = { 0 }
+x * y = { 0 }
+How many small cubes does it take to build the large cube below ? Answer using a number .
+A cube is a regular solid object having six congruent square faces .
+Using triangles only , how many triangles are needed in the right part of the last figure to keep it balanced ?
+Every circle is equivalent to two triangles and every square to three triangles .
+Every circle is equivalent two triangles .
+Which three pieces can you use together to build a triangle ? Answer using the three figure names , e.g. : { 0 } { 1 } { 2 } .
+What is the maximum number of circles ( as shown ) that fit in the square below ?
+You can fit more than 64 circles .
+Using the above layout { 0 } units of height are gained per row leaving enough space for an additional row .
+To what number should the large handle of the ' { 0 } ' clock point ? Answer using numbers .
+Starting from the first clock , add { 1 } to the number obtained by appending the values to which the hands point . For example , the values of the hands for ' { 0 } ' are { 3 } ( { 2 } + { 1 } ) .
+The clocks do not follow the time logic .
+How many circles do you count ?
+It is an easy exercise if you systematically count the circles .
+How many numbers ' 9' are required to represent the numbers between 10 to 100 ?
+How many two digit numbers occur where the first digit is larger than the second ( e.g. : 20 and 21 ) ?
+How many two digit numbers occur where the first digit is smaller than the second ( e.g. : 12 and 13 ) ?
+{ 0 } , { 1 }
+The numbers are : { 0 } .
+Notice that 99 contains two numbers ' 9' .
+What percentage of the figure is colored ?
+When you fold the figure below as a cube , which face on the figure is opposite the face with a { 0 } drawn on it ? Answer the number written on the face .
+What is the probability of getting a ' 2' or a ' 6' in a single throw of an unmodified 6 sided die ? Answer using a fraction ( e.g. : 1 / 2 ) .
+There are 2 of 6 possibilities .
+What is the probability of not getting a ' 5' in a single throw of an unmodified 6 sided die ? Answer using a fraction ( e.g. : 1 / 2 ) .
+There are 5 of 6 possibilities .
+Two unmodified 6 sided dice are thrown simultaneously . What is the probability of getting two even numbers ? Answer using a fraction ( e.g. : 1 / 2 ) .
+There are 9 of 36 possibilities of getting two even numbers .
+Two unmodified 6 sided dice are thrown simultaneously . What is the probability of getting two ' 6' ? Answer using a fraction ( e.g. : 1 / 2 ) .
+There is 1 of 6 possibilities of getting a ' 6' on the first die and the same for the second die .
+In the last figure , in how many regions is the circle divided into when all dots are connected ?
+What is the result of the equation below ?
+The order of arithmetical operations is always as follows : exponents and roots , multiplication and division , addition and subtraction .
+Which circle does not belong to the group ? It is not a sequence of elements . Answer { 0 } , { 1 } , { 2 } or { 3 } .
+All circles share a common property except for one .
+In all circles the color slices follow the same order except for this one .
+The figures and the texts are related . What text should go under the last figure ?
+Every character of the text represents a property of the figure .
+' A ' indicates that the figures overlap , ' B ' that are squares , ' C ' that are circles , ' D ' that the figures are separated , ' E ' that there are three figures and ' F ' that there are two figures .
+What figure should replace the question mark ? Answer { 0 } , { 1 } or { 2 } .
+The third figure of every row involves somehow combining the first two figures .
+Superpose the first and second figures and remove the lines that they have in common , then rotate the resulting figure 45 degrees .
+What is the next logical sequence of objects in the last column ? Answer { 0 } , { 1 } or { 2 } .
+It is the only combination that you can build with the given elements without repeating them .
+The number is located at row { 0 } , column { 1 } .
+How many four sided figures do you count in the figure below ?
+A four sided figure can be embedded inside another figure .
+The four sided figures are made by connecting the following points : { 0 }
+One of the numbers in the grid must be circled . Which one ?
+All circled numbers share an arithmetical property .
+Every circled number can be divided by { 0 } .
+Which is the next logical figure in the sequence ? Answer { 0 } , { 1 } or { 2 } .
+From the top-left figure , the top-left circle moves down , the bottom-left circle moves up , the bottom-right moves diagonally up-left and the top-right moves diagonally down-left .
+From the top-left figure , the figure is rotated counterclockwise 90 degrees .
+The numbers in the grid below follow a pattern . Which number should replace the question mark ?
+The pattern is arithmetical and works vertically .
+The pattern is arithmetical and works horizontally .
+The fourth row is calculated by multiplying the first two rows and adding the third .
+The fourth column is calculated by multiplying the first two columns and adding the third .
+The fourth row is calculated by multiplying the first two rows and subtracting the third .
+The fourth column is calculated by multiplying the first two columns and subtracting the third .
+The fourth row is calculated by adding the first two rows and subtracting the third .
+The fourth column is calculated by adding the first two columns and subtracting the third .
+All attendees to a party are introduced to one another . { 0 } handshakes are made in total . How many people are attending the party ?
+Try to imagine a situation in which you are meeting a small number of people .
+Using n as the total number of people , the first person handshakes n-1 people , the second n-2 people , etc . The result is the sum of the first n-1 consecutive numbers : 1 + 2 + 3 + ... + ( n-1 ) .
+Which larger shape can you make combining the first two figures ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+Which of the following figures has the largest area ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+If the circles represented by the arcs below were completed , which circle would have the largest diameter ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+Less curved is the arc , the larger the circle is .
+How many line segments in total are in the figures below ? A line segment is a line between two points with no crossing lines .
+It is an easy exercise if you systematically count the lines .
+Which square completes the figure below ? Answer { 0 } , { 1 } or { 2 } .
+The logic works at row level .
+In every row the third square is made by flipping the first square and superimposing it on the second square , followed by removing the matching lines .
+The slices below have some kind of relation . Which is the missing slice in the circle below ? Answer { 0 } , { 1 } or { 2 } .
+Each slice is related to the opposite one .
+All numbers of each slice , when added to the ones of the opposite slice , add always { 0 } .
+Which of the possible answers have the most in common with the four given figures ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+Think of the common elements that the given figures have inside them .
+It has the same number of elements inside the figure as the given figures .
+It is the figure with the most elements in common compared to the given figures .
+What is the minimum number of circles to be moved in order to convert the left figure into the right figure ?
+Move the circle from the first line to the second and move two circles from the fourth line to the second and the fifth lines .
+Move the first line to the seventh ; move the two circles of the second line to third ; and move first and last circles of the fifth line to the sixth .
+From first figure , the top circle advances by two positions clockwise , while the left circle goes backwards one position .
+What number should replace the question mark ?
+Every group of { 0 } numbers sums exactly { 1 } .
+Divide the sequence in groups of three numbers . Every third number is calculated by multiplying by the two previous ones .
+Divide the sequence in groups of three numbers . Every third number is calculated by subtracting the second number from the first .
+The next sequence follows a logic . What number should replace the question mark ?
+Every number in the sequence is related to the previous one .
+Every number in the sequence is the result of subtracting 1 from the previous number and multiplying it by 2 .
+Every number in the sequence is the result of adding 1 to the previous number and multiplying it by 3 .
+Every number in the sequence is the result of subtracting 2 from the previous number and multiplying it by -2 .
+Which element does not belong to the group ? It is not related to any arithmetical of the numbers . Answer { 0 } , { 1 } , { 2 } , { 3 } or { 4 } .
+The criteria for deciding if an equation belongs to the group is not arithmetical .
+Consider that every number that belongs to the group has two parts that are related .
+In all the other equations the digits from the left side also appear on the right side .
+In all the other numbers the last three digits are the square of the first two digits .
+Which of the following figures cannot be drawn without crossing any previous lines nor lifting the pencil ? Answer { 0 } , { 1 } , { 2 } , { 3 } or { 4 } .
+A group of people , spaced out evenly , are sitting at a round table . How many people are there if the { 0 } person sits directly across from the { 1 } ?
+Subtracting the two positions you find out how many people are seated half way around the table . Doubling this number leaves you with the total amount of people .
+Two people in the table sitting across from each other
+The amount of water in a bucket decreases by { 0 } % . By what percentage must the amount of water increase to reach its original value ?
+The objective is to obtain the same total amount .
+If all painters are artists and some citizens of Barcelona are artists . Which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+No citizen of Barcelona is a painter
+If no ill artist is happy and some artists are happy . Which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+People that travel always buy a map . You are not going to travel . Which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+If you whistle if you are happy and you always smile when you whistle , which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+You are only happy if you whistle
+You whistle if you are not happy
+If your course is always honest and your course is always the best policy , which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+Honesty is not always the best policy
+If no old misers are cheerful and some old misers are thin , which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+If all pigs are fat and nothing that is fed on barley-water is fat , which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+All animals fed on barley-water are non pigs
+If some pictures are first attempts and no first attempts are really good , which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+Some bad pictures are not first attempts
+If you have been out for a walk and you are feeling better , which of the following conclusions is correct ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+To feel better , you must go out for a walk
+If you go out for a walk , you will feel better
+Some who go out for a walk feel better
+No one feels better who does not go out for a walk
+Which of the following figures does not belong to the group ? Answer { 0 } , { 1 } , { 2 } , { 3 } , { 4 } or { 5 } .
+It is the only figure with all lines of equal length .
+In the grid below , which number should replace the question mark ?
+The number in the middle of every row is half of the sum of the other numbers in the row .
+The number in the middle of every row is the sum of the other numbers in the row .
+The number in the middle of every row is the double of the sum of the other numbers in the row .
+The letters around the squares follow a pattern . Which letter should replace the question mark in the last square ?
+Every letter is calculated by taking the alphabetical position of the previous character and adding { 0 } to it in order to get the position of the next letter .
+How many squares of any size do you count in the figure below ?
+A square is a rectangle with sides of equal length . A square can also be built from other squares .
+There are 16 single squares , 9 squares made by 4 single squares , 4 squares made by 9 single squares and 1 square made by 16 single squares .
+There are 9 single squares , 4 squares made by 4 single squares and 1 square made by 9 single squares .
+What is the minimum number of square sheets of paper of any size required to create the figure ? Lines indicate frontiers between different sheets .
+A full sized square of paper ( yellow ) , a 3 / 4 of the whole size square of paper ( blue ) in the bottom right corner , another 3 / 4 square of paper ( green ) in the top left corner and a 1 / 4 square of paper ( red ) in the top left corner .
+What figure completes the set below ? Answer { 0 } , { 1 } or { 2 } .
+It is the figure that completes all possible combinations with four blocks without taking into account rotations .
+The distance formula is ' distance = rate x time ' .
+You can calculate the answer by multiplying the speed of the first train by the time and dividing it by the difference of speeds .
+You can calculate the answer by dividing the distance by the sum of both speeds .
+How many triangles of any size do you count in the figure below ?
+A triangle can be embedded inside another triangle .
+The triangles are made by connecting the following points : { 0 }
+Which number should replace the question mark below ?
+All the triangles share a property and are independent of the rest .
+The result of multiplying the two numbers inside every triangle is { 0 } .
+Which of these figures was previously shown ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+What was the color of the text that said ' { 0 } ' ?
+How many dots of { 0 } color were in the previous image ? Answer using numbers .
+In which cell is the other face like the one shown below ? Answer the cell number .
+How many days did Shiny Cars halt its production for ?
+In what year did Shiny Cars last halt its production ?
+Shiny Cars sales fell { 0 } % this past December , the worst decline since { 1 } .
+By how much did company sales fall last December ?
+Shiny Cars sales fell { 0 } % this past December . This is the worst decline since which year ?
+About { 0 } % of Shiny Cars produced worldwide are sold in Europe .
+What percentage of all Shiny Cars produced worldwide are sold in Europe ?
+About { 0 } % of Shiny Cars use diesel , { 1 } % use gasoline and the remainder use electricity .
+What percentage of Shiny Cars use diesel ?
+What percentage of Shiny Cars use gasoline ?
+The list below enumerates the figures shown in the previous image except for one . Which is the missing figure ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+Which one of these squares was previously shown ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+Which of the following graphics represents the indications previously given ? Answer { 0 } , { 1 } , { 2 } or { 3 } .
+How many odd numbers were in the previous image ? Answer using numbers .
+How many even numbers were in the previous image ? Answer using numbers .
+How many numbers with more than one digit were in the previous image ? Answer using numbers .
+There is a missing word from the previous list . Which one is the missing word ?

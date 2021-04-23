@@ -1,0 +1,49 @@
+Failed sending command to IMAP server % s : % s
+Unexpected response from server % s : % s
+Could not retrieve free-busy information : bad command
+Could not store free-busy information : bad command
+New password does not follow password rules
+Failed to send command to IMAP server % s : % s
+Server % s unexpectedly disconnected : % s
+Enable mailing-list detection required for some filter and search folder rules
+Expire cached messages that haven 't been read in X seconds
+Expire cached messages older than X seconds
+Cannot get message % s : % s
+This message is not available in offline mode .
+Cannot get message % s from folder '
+Cannot get message % s from folder '
+Cannot append message to folder ' % s ' : Folder is read-only
+Error while moving message to trash : % s
+Cannot move messages from folder ' % s '
+Cannot copy messages from folder ' % s '
+Cannot move messages from folder ' % s '
+Cannot copy messages from folder ' % s '
+Cannot append message in offline mode : cache unavailable
+Cannot append message in offline mode : % s
+C _ heck for new messages in all folders
+_ Apply filters to new messages in INBOX on this server
+This option will connect to the IMAPv4rev1 server using a plaintext password .
+Could not connect to % s : % s
+Failed to connect to IMAP server % s in secure mode : % s
+SSL is not available in this build
+Cannot authenticate to IMAP server % s using the % s authentication mechanism
+% sPlease enter the IMAP password for % s on host % s
+Cannot authenticate to IMAP server % s using % s
+Cannot create IMAP folders in offline mode .
+" % s " is not a valid foldername
+Cannot create folders in offline mode .
+Cannot delete IMAP folders in offline mode .
+Cannot rename folder ' % s '
+Cannot rename IMAP folders in offline mode .
+Cannot rename folder ' % s '
+Cannot get % s information for pattern ' % s
+Cannot subscribe to IMAP folders in offline mode .
+Cannot unsubscribe from IMAP folders in offline mode .
+IMAP server % s is in an inconsistent state .
+Unexpected token in response from IMAP server % s :
+IMAP server % s unexpectedly disconnected : % s
+Authentication failed . Check for correct hostname , username and password .
+Initial loading complete . Please click Forward .
+Move it to Deleted Items Mark it as deleted Delete it immediately
+We will now connect to the Scalix server to synchronize data with it . Please enter your password and press " Connect " to proceed .
+We will now try to connect to the Scalix server to synchronize data with it .

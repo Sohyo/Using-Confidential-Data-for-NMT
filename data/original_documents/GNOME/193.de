@@ -1,0 +1,14 @@
+Werkzeugleiste im Fenster anzeigen oder verbergen .
+Rufen Sie » %s --help « auf , um eine vollständige Liste der Befehlszeilenoptionen zu erhalten .
+Dieses Programm ist freie Software , Sie können sie weitergeben und/ oder verändern solange Sie sich an die Regeln der GNU General Public License halten , so wie sie von der Free Software Foundation festgelegt wurden ; entweder in Version 2 der Lizenz oder ( nach Ihrem Ermessen ) in jeder folgenden Lizenz .
+Dieses Programm wurde mit dem Ziel veröffentlicht , dass Sie es nützlich finden , jedoch OHNE JEDWEDE GARANTIE , sogar ohne eine implizite Garantie der VERKAUFBARKEIT oder der NUTZBARKEIT FÜR EINEN SPEZIELLEN ZWECK . Schauen Sie für weitere Informationen bitten in der GNU General Public License ( GNU GPL ) nach .
+Mit diesem Programm sollten Sie außerdem eine Kopie der GNU General Public License erhalten haben . Wenn dem nicht so ist , so schreiben Sie bitte an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA .
+Die Werkzeugleiste im aktuellen Fenster anzeigen oder verbergen
+Statusleiste im aktuellen Fenster anzeigen oder verbergen
+Seitenleiste im aktuellen Fenster anzeigen oder verbergen
+Karte für den öffentlichen Verkehr basierend auf » Öpnvkarte « anzeigen
+Geländekarte basierend auf den Karten von mapsforfree.com anzeigen
+Stellt einen Verweis in der aktuellen Ansicht auf bedeutende Online-Karten bereit
+Den Link zu diesem Webdienst in die Zwischenablage kopieren
+In der Statusleiste die Koordinaten der Kartenmitte anzeigen
+Sie sind dabei , das Lesezeichen %s zu entfernen ! Wollen Sie wirklich fortsetzen ?

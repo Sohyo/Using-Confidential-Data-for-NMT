@@ -1,0 +1,58 @@
+This is the user manual for F-Spot , a GNOME personal photo manager .
+Aaron Bockover , Gabriel Burt , Miguel de Icaza , Bengt Thuree
+~ / Photos Preferences Edit Preferences Copy files to the Photos folder
+If you double click or press enter on an image , you enter Edit mode , where you can remove red-eye , crop , and adjust brightness and colors .
+Once you have made your crop selection , you must click the crop button beneath the image to finalize the crop . If you are working with the original photo , cropping creates a new version your photo .
+Straighten effect is a tool to level a photo , quite helpful for landscapes taken without a tripod , when ( imaginary ) line of horizon is not at 0 ° . This tool rotates an image by a specified angle and automagically crops the resulted image , so that you always see a perfect rectangle .
+This effect automatically adjusts color levels to make a pretty balanced picture color-wise . It serves best for pictures taken with automatical white balance , when camera didn 't manage to do the job well .
+To make your selection , click one corner of the rectangle that will be your selection , and drag your mouse to the diagonal corner and release it . You can resize your selection by dragging its edges , and you can move it by clicking in the middle of it and dragging it to where you want it .
+You can also enter a description of the image by clicking on the text entry box below the image and typing .
+F-Spot enables you to organize and enjoy your photos by associating them with various user-customizable tags . A tag is a merely a label . F-Spot comes with default tags to get you started ; you are free to change them and add new ones . For example , if you want to create a tag for specific event , you can create a new tag named after that event under the Events tag .
+There are many ways to tag photos :
+drag and drop the photo ( s ) onto the tag
+drag and drop the tag onto the photo ( s )
+F-Spot can write tags as metadata fields into JPEG files . Tags for various RAW files , PNG , TIFF , and others are written to F-Spot 's database . You will have to re-tag these files if you re-import your collection .
+F-Spot uses search filters to help you better define search criteria .
+Every time you change settings of the filter , the amount of selected photos will appear in the bottom part of the dialog .
+This function will also search for the typed text into photos comments and filename .
+In slideshow mode , you can sit back and view your photos as they are presented to you . You can start a slideshow by pressing the button on the toolbar .
+There are many ways to share your photos using F-Spot . All of the following methods will only share the photos you have selected when you run them .
+If some of the photos you 'd like to send by email are in a format that F-Spot can 't write ( e.g. RAW images ) , the size selection dialog will become insensitive and the originals will be sent .
+The Remote plugin for Gallery should be 1.0.8 or newer .
+When you capture a photo and look at it on a display , it looks different than on a camera 's preview display or on any other display . It will also look different when you print it . This is because every device has unique color reproduction capabilities .
+Color management system ( CMS ) is a tool to achieve reliable color reproduction for both display and output ( e.g. a printer ) . A CMS relies on color profiles to map original colors to the color that a device can reproduce so that colors will appear the same way everywhere — on a computer LCD monitor , on a print from your local photolab etc .
+A color profile is a file with either .icc ( thus its is often called an ICC profile ) or .icm extension that describes how device 's colors correspond to a universal description of colors .
+There are several types of profiles :
+Display profile . It 's a profile for a monitor .
+Output profile . This is usually a profile for you printer .
+Currently F-Spot allows setting only display and output profiles . All color operations are done in sRGB color space .
+How to get my screen / printer color profile
+There are few ways to get a color profile .
+Many hardware manufacturers put color profiles into CD in the bundle . If you have one ( from monitor or printer ) , you can use it . Or you can download it from the Internet ( usually , from support section of the manufacturer 's web site ) . Some camera manufacturers ( Nikon , Canon ) also provide ICC profiles .
+Best results can be achieved by calibrating and profiling devices with a measurement device . It is not so difficult , but it means that you need a spectrophotometer to do all measurements and create an ICC profile .
+Please refer to documentation of third party hardware and software vendors for details .
+Image formats themselves ( such as TIFF , JPEG , PNG ... ) may contain embedded color profiles . If color management is enabled , F-Spot looks for such embedded profiles and takes them into consideration .
+Color management in F-Spot can use only RGB profiles at this time ( and you can 't see other profiles in the F-Spot ) .
+/ usr / share / color / icc / usr / local / share / color / icc
+xicc Try to use the system display profile
+F-Spot extensions are means to add new functionality to the application . F-Spot supports two types of extension : exporters ( which allow exporting photos to new web services or data storages ) and tools ( which allow new ways of color correction , duplicate photos finders etc . ) . Extensions are distributed in form of extension packages .
+you cannot install an extension , if the extension it depends on , is not present in the system
+you cannot remove an extension on which some other extension depends
+Choose repository to install from all known repositories or just one of available repositories .
+Choose , what extension packages you want to see : All , Only new , Only updates .
+You might want to temporarily enable or disable a particular extension package , for example , if the extension is not stable enough to handle a large amount of photos or if menus get crowded with extensions .
+Every extension package contains metadata that provides the following information about the extension :
+Description , which usually covers puprose of the extension
+Rotate the selected photos to the left
+Delete selected photos permanently from the drive . If possible , they will moved to trash .
+View or edit tags for selected photos
+Alt plus a number from 0 to 5 rate the selected picture ( s )
+Move the focus without changing the selection
+Add / Remove all photos in the row , in the direction pressed , to the selection
+Pops up a larger preview of the picture pointed by the mouse
+Pops up a larger preview and a color histogram of the picture pointed by the mouse
+Drag and drop tags to move them
+Type a tag 's name to jump to it ( only works if tag is shown / expanded )
+Go to Previous / Next photo or move around a zoomed photo
+Zoom Factor to 1.0 ( 1 screen pixel per image pixel )
+Zoom Factor to 2.0 ( 4 screen pixels per image pixel )

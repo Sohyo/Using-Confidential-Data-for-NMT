@@ -1,0 +1,47 @@
+Naba Kumar , Andy Piper , Biswapesh Chattopadhyay
+Bei vielen der von Firmen zur Unterscheidung ihrer Produkte und Dienstleistungen verwendeten Namen handelt es sich um Marken . An den Stellen , an denen derartige Namen in einer GNOME-Dokumentation vorkommen und wenn die Mitglieder des GNOME-Dokumentationsprojekts über diese Marken informiert wurden , sind die Namen in Großbuchstaben oder mit großen Anfangsbuchstaben geschrieben .
+Anjuta DevStudio wurde entwickelt , um einfach aber doch mächtig genug zu sein , um allen Bedürfnissen eines Programmierers nachzukommen . Wir haben Anjuta im Verlauf der Entwicklung viele neue Funktionen hinzugefügt . Unser Fokus liegt auf der gleichzeitigen Bereitstellung von Funktionalität und Nutzbarkeit und darauf , Software-Entwicklung genießbar zu machen , ohne Ihre Sinne zu überlasten . Wir planen Anjuta weiterhin zu verbessern und stabiler zu machen , um Ihnen das bestmögliche Entwicklungserlebnis zu vermitteln . Wir hoffen , Sie haben haben eine gute Zeit mit Anjuta . Falls nicht , so helfen Sie uns bitte es besser zu machen , und melden Sie Fehler und Verbesserungsvorschläge .
+Im folgenden Bildschirmfoto sehen Sie einiges von dem , was Ihnen in Anjuta begegnen werden .
+Anjuta hat ein flexibles und fortgeschrittenes Docking-System , das es Ihnen erlaubt alle Ansichten so anzuordnen , wie Sie es wollen . Sie können die Ansichten ziehen und ablegen , um das Layout neu anzuordnen . Die Layouts sind den Projekten zugeordnet , damit verschiedene Layouts für verschiedene Projekte gepflegt werden können . Alle Ansichten können minimiert werden , um die Übersicht zu verbessern . Minimierte Ansichten erscheinen als Symbole am linken Rand des Hauptfensters . Sie können alle Menüaktionen konfigurieren , indem Sie entweder tippen , während der Mauszeiger über einem Menüpunkt ist ( der übliche Weg unter GNOME ) , oder direkt durch einen Dialog zur Zuordnung der Tastenkombinationen .
+Tastenkombinationen sind für viele Menüpunkte verfügbar . Alle Tastenkombinationen werden neben dem zugeordneten Menüpunkt angezeigt . Einige weitere hilfreiche Tastenkombinationen sind hier aufgeführt .
+Editorseite wechseln : Strg Alt Bild Strg Alt Bild
+Kontexthilfe : Umschalt F1 Devhelp Devhelp Devhelp
+Das Hauptfenster enthält mehrere Ansichtsfenster , die sich durch Ziehen ihrer jeweiligen Titelleiste neu anordnen lassen . Sie können auch durch den Knopf links auf ihrer Titelleiste minimiert werden .
+Wenn Sie zum Beispiel eine Datei kompilieren , die Fehler enthält , so werden rote Nachrichten die Probleme erläutern und auf die Fehlerstelle hinweisen . Ein Doppelklick auf eine solche Nachricht öffnet die Datei und hebt die Zeile mit dem Fehler hervor .
+Anlegen einer neuen Datei und Einfügen von Text
+Datei Neu Neue Datei Neue Datei 1 Neue Datei 2 Neue Datei 3
+Sie sollten neue Dokumente so bald wie möglich speichern , um Datenverluste in Folge von Abstürzen zu vermeiden .
+Es gibt zwei Arten Makros : Anjuta-Makros und Benutzer-Makros ( sie werden als » Meine Makros « angezeigt ) . Anjuta-Makros können nicht verändert werden , aber Sie können Benutzer-Makros erstellen und bearbeiten .
+Makro-Schlüsselwörter stehen zur Verfügung . Sie können in Makro-Definitionen eingebunden werden . Makro-Schlüsselwörter beginnen und enden jeweils mit dem Zeichen » @ « .
+Eine Datei öffnen : Datei Öffnen Öffnen Strg O Datei öffnen Öffnen Strg Öffnen Abbrechen
+Der Dialog » Datei öffnen « im Modus für mehrere Dateien
+Speichern einer Datei : Datei Speichern Speichern Strg S Speichern unter Speichern
+Eine Datei unter anderem Namen speichern : Datei Speichern unter Datei speichern unter Speichern
+Eine Datei schließen : Datei Schließen Schließen Anjuta
+Editorränder : Zeilennummernrand Markierungsrand Rand für Textfaltungen Anjuta Ansicht Editor
+Rand für Zeilennummern Rand für Zeilennummern Ansicht Editor Rand für Zeilennummern
+Markierungsrand Ansicht Editor Markierungsrand Gehe zu Lesezeichen Lesezeichen an/ aus
+$prefix/ share/ anjuta/ properties/ anjuta.properties $prefix/ share/ anjuta/ properties/ styles.properties $home/ .config/ anjuta/ scintilla/ editor-style.properties
+Code-Faltung ist besonders nützlich beim Bearbeiten von sehr großen Quelldateien mit tausenden Zeilen . Sobald Teile eingeklappt sind , scheint ein Dokument kleiner zu sein , und einfaches Durchsuchen und Bearbeiten werden möglich .
+Bitte beachten Sie , dass Code-Faltung und Bearbeitungshilfen nur im Scintilla-Editor verfügbar sind .
+Suchen und Ersetzen von Text in Dateien
+Zeichenkette regulären Ausdruck Bearbeiten Suchen Finden Strg Alt F Finden
+Suchen Strg G Umschalt Strg G Suchausdruck
+Sie können die maximale Anzahl der auszuführenden Aktionen festlegen .
+Sie können wählen , nach welchem Text gesucht werden soll .
+Suchausdruck Groß-/ Kleinschreibung berücksichtigen Nur vollständige Wörter berücksichtigen Suchen
+Sie können auswählen welche Aktion bei erfolgreicher Suche ausgeführt werden soll .
+Das in rot hervorgehobene Objekt ist das aktive . Das vorausgewählte Objekt gibt Sucheinstellungen vor , die beim Start von Anjuta geladen werden .
+Sie können auch Hoch- oder Querformat , Papiergröße , Seitenorientierung und Papiertyp festlegen . Vergessen Sie nicht die richtigen Einstellungen für Ihren Drucker zu treffen , da andernfalls der Ausdruck nicht wie erwartet sein kann .
+Das vorteilhafte ist , dass Anjuta nichts zusätzlich zu den in der Projektstruktur hinterlegten Projektinformationen speichert . Das heißt , es gibt keine separaten Projektdaten von Anjuta , und alle Projektarbeiten geschehen direkt in der Projektstruktur . So ist es möglich , das Projekt ohne Anjuta zu verwalten und zu entwickeln , ohne den Zwang , zu einem Anjuta-eigenen Format umwandeln zu müssen . Technisch betrachtet sind Anjuta-Projekte automake-Projekte , und so ist gemischte Entwicklung ( mit und ohne Anjuta-Anwender ) als auch der Wechsel zwischen Entwicklungsplattformen ohne Hindernisse möglich .
+Sobald das Projekt erstellt wurde , können Sie es testen und es erstellen oder ausführen .
+Das Projekt wird beim Schließen automatisch gespeichert , weil alle Änderungen direkt in der Projektstruktur vorgenommen werden .
+Wählen Sie die Gruppe , innerhalb der die neue Gruppe hinzugefügt werden soll .
+In Automake-Projekten wird ein neuer Ordner mit dem angegebenen Namen im Ordner der übergeordneten Gruppe erstellt .
+Ein Bestätigungsdialog wird geöffnet , und die Datei wird aus dem Projekt entfernt .
+Die Datei wird nicht aus dem Dateisystem entfernt . Sie ist noch vorhanden , und Sie können Sie später wieder hinzufügen , falls gewünscht . Die Datei wird nur aus der Projektliste entfernt und wird für Projektoperationen wie Kompilieren , Erstellen oder Veröffentlichen von Distributionspaketen nicht mehr berücksichtigt .
+Aktuelle Umgebungsvariablen werden hier in Hellgrau dargestellt . Sie können hier Umgebungsvariablen hinzufügen , ändern oder löschen .
+Das Werkzeug-Plugin muss aktiviert sein , um diese Funktion nutzen zu können .
+Das ist ein einfaches Beispiel , wie man das Werkzeug-Plugin verwenden kann , um das Generierungsskript für GNOME-Änderungsprotokolle einzubauen .
+http:/ /anjuta.org Anjuta http:/ /www.sourceforge.net/ projects/ anjuta
+GNU General Public License GNOME Benutzerhandbuchs GNU General Public License ihre Internetseite 51 Franklin Street , Fifth Floor Boston MA 02111-1301 USA

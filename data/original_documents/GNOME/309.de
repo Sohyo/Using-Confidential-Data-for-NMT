@@ -1,0 +1,33 @@
+Plugin für Evolution , welches die Anzeige von RSS-Nachrichtenquellen ermöglicht .
+Evolution wird anstelle der Webseite die Artikelzusammenfassung anzeigen , welche auch in HTML vorliegen kann .
+Enthält eine Liste der derzeit eingerichteten Nachrichtenquellen .
+Rechnername des Proxy-Servers , der für Nachrichtenquellen und Inhalte verwendet wird .
+Der HTML-Darsteller zur Anzeige von HTML-Seiten .
+Eine eigene Schrift anstelle der Systemvorgabe verwenden .
+Die Größe der Schrift in der Volltextansicht .
+Zeitspanne in Sekunden , bevor eine Verbindung abgebrochen wird .
+Evolution wird Cookies von Artikeln auf den von Ihnen besuchten Webseiten akzeptieren .
+Evolution RSS passt die Größe von Bildern automatisch an , die größer als der Anzeigebereich sind .
+Evolution wird alle Einbettungen herunterladen , die ein Artikel der Nachrichtenquelle enthalten kann .
+Die Größe der von Evolution heruntergeladenen Einbettungen begrenzen .
+Bei neu eintreffenden Artikeln Statussymbol blinken lassen
+Falls der Proxy-Server Legitimierung erfordert , ist dies das Passwort-Feld .
+Die Portnummer des für Nachrichtenquellen und Inhalte verwendeten Proxy-Servers .
+Das Löschen des Nachrichtenquellen-Eintrages wird auch den Ordner für Quellen entfernen .
+Zeitspanne zum Prüfen auf neue Artikel ( in Minuten ) .
+Bei jedem Start von Evolution auf neue Artikel prüfen .
+Falls ein Artikel aus einer Nachrichtenquelle Kommentare enthält , werden diese angezeigt .
+Einen Proxy-Server zum Holen von Artikeln und Inhalten verwenden .
+Der Benutzername zur Legitimierung am Proxy-Server .
+Auf » wahr « setzen , wenn ein Programm als Befehl zum Öffnen von RSS-Adressen festgelegt ist
+Auf » wahr « setzen , falls das Programm zum Öffnen dieser Adresse im Terminal ausgeführt werden soll
+Nachrichtenquellen werden geholt ( %d aktiviert )
+» { 0 } « löschen ?
+Nachrichtenquelle » { 0 } « wirklich löschen ?
+Geben Sie Benutzername und Passwort ein für :
+Fehler bei der Verarbeitung der Nachrichtenquelle : %s
+Ungültige Datei oder keine Datei , welche Nachrichtenquellen enthält .
+Keine RSS-Nachrichtenquellen konfiguriert ! Export nicht möglich .
+Achtung : Um hier Mozilla ( Firefox ) oder Apple Webkit nutzen zu können , müssen die Entwicklungspakete zu Firefox bzw. Webkit installiert werden . Danach muss evolution-rss neu kompiliert werden , damit diese Pakete nutzbar sind .
+Die gleichen Schriften wie andere Anwendungen verwenden
+Artikel löschen , die nicht mehr in der Nachrichtenquelle verfügbar sind

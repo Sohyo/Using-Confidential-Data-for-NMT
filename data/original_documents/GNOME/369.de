@@ -1,0 +1,89 @@
+Datei » %s « konnte nicht geöffnet werden : %s
+Bilddatei » %s « enthält keine Daten
+Bild » %s « konnte nicht geladen werden : Grund unbekannt , vermutlich eine defekte Bilddatei
+Animation » %s « konnte nicht geladen werden : Grund unbekannt , vermutlich eine defekte Animationsdatei
+Bildlader-Modul konnte nicht geladen werden : %s : %s
+Bildlader-Modul %s exportiert nicht die richtige Schnittstelle ; vielleicht stammt es aus einer anderen Version von gdk-pixbuf ?
+Bildtyp » %s « wird nicht unterstützt
+Das Format der Bilddatei » %s « konnte nicht erkannt werden
+Bild » %s « konnte nicht geladen werden : %s
+Fehler beim Schreiben einer Bilddatei ( %s )
+Diese Fassung von gdk-pixbuf unterstützt das Speichern in diesem Bildformat nicht : %s
+Nicht genug Speicher , um Bild in Callback zu speichern
+» %s « konnte nicht zum Schreiben geöffnet werden : %s
+» %s « konnte nach dem Schreiben des Bildes nicht geschlossen werden , evtl. wurden nicht alle Daten gespeichert : %s
+Nicht genug Speicher , um Bild in einen Puffer zu speichern
+Interner Fehler : Bildlader-Modul » %s « schaffte es nicht , eine Operation abzuschließen , gab aber keinen Grund für den Fehler an
+Schrittweises Laden des Bildtyps » %s « wird nicht unterstützt
+Nicht genug Speicher , um Bitmap-Bild zu laden
+Speicher zum Sichern von BMP-Datei konnte nicht bereit gestellt werden
+Daten in der GIF-Datei unvollständig ( vielleicht wurden sie irgendwie verstümmelt ? )
+Interner Fehler im GIF-Lader ( %s )
+Der GIF-Bildlader konnte dieses Bild nicht verstehen .
+Nicht genug Speicher , um GIF-Bild zu laden
+Nicht genug Speicher , um ein Einzelbild in GIF-Datei einzufügen
+Das GIF-Bild ist defekt ( fehlerhafte LZW-Kompression )
+Version %s des GIF-Dateiformats wird nicht unterstützt
+Das GIF-Bild hat keine globale Farbtabelle , und ein Einzelbild darin hat keine lokale Farbtabelle .
+GIF-Bild wurde verstümmelt oder ist unvollständig .
+Nicht genug Speicher , um ICO-Bild zu laden
+Bild zu groß , um als ICO gespeichert zu werden
+Nicht unterstützte Farbtiefe der ICO-Datei : %d
+Fehler beim Lesen einer ICNS-Bilddatei : %s
+Höhe oder Breite des transformierten JPEG2000 beträgt null
+Speicher zum Laden des Farbprofils konnte nicht bereit gestellt werden
+Nicht genug Speicher , um JPEG2000-Datei zu öffnen
+Speicher für Bilddatenpuffer konnte nicht bereitgestellt werden
+Fehler beim Lesen einer JPEG-Bilddatei ( %s )
+Nicht genug Speicher , um das Bild zu laden . Versuchen Sie , einige Anwendungen zu beenden , um Speicher frei zu machen
+Speicher zum Laden von JPEG-Datei konnte nicht bereit gestellt werden
+Höhe oder Breite des transformierten JPEGs beträgt null .
+JPEG-Qualität muss ein Wert zwischen 0 und 100 sein ; Wert » %s « konnte nicht verarbeitet werden .
+JPEG-Qualität muss ein Wert zwischen 0 und 100 sein ; Wert » %d « ist nicht erlaubt .
+Speicher für Kontextpuffer konnte nicht bereitgestellt werden
+Bild hat eine nicht unterstützte Anzahl von %d-Bit-Flächen
+Speicher für Zeilendaten konnte nicht bereitgestellt werden
+Speicher für PCX-Bild konnte nicht bereitgestellt werden
+Es wurden nicht alle Zeilen des PCX-Bilds abgerufen
+Keine Palette am Ende der PCX-Daten gefunden
+Die Bitanzahl pro Kanal des PNG-Bildes ist ungültig .
+Höhe oder Breite des transformierten PNGs beträgt null .
+Bits pro Kanal des transformierten PNGs sind nicht 8.
+Das transformierte PNG ist weder RGB noch RGBA .
+Die Anzahl der Kanäle des transformierten PNGs werden nicht unterstützt , muss 3 oder 4 sein .
+Nicht genug Speicher , um ein %ldx%ld-Bild zu speichern ; versuchen Sie , einige Anwendungen zu beenden , um den Speicherverbrauch zu reduzieren
+Schwerer Fehler beim Lesen einer PNG-Bilddatei : %s
+Schlüssel für PNG-Text-Chunks müssen mindestens eines und dürfen maximal 79 Zeichen lang sein .
+Schlüssel für PNG-Text-Chunks müssen ASCII-Zeichen sein .
+Farbprofil hat die ungültige Länge %d .
+Die PNG-Kompressionsstufe muss ein Wert zwischen 0 und 9 sein ; Wert » %s « konnte nicht verarbeitet werden .
+Die PNG-Kompressionsstufe muss ein Wert zwischen 0 und 9 sein ; Wert » %d « ist nicht erlaubt .
+Wert für PNG-Text-Chunk %s konnte nicht in ISO-8859-1-Zeichenkodierung umgewandelt werden .
+PNM-Lader erwartete eine Ganzzahl und fand keine
+PNM-Datei liegt nicht in einem unterstützten PNM-Unterformat vor
+Maximaler Farbwert in der PNM-Datei ist 0
+Maximaler Farbwert in der PNM-Datei zu groß
+Rohe PNM-Formate verlangen genau einen Leerraum vor den Sample-Daten
+Speicher zum Laden eines PNM-Bildes konnte nicht bereitgestellt werden
+Nicht genug Speicher , um PNM-Kontextstruktur zu laden
+QTIF-Elemente sind zu groß ( %d Bytes )
+Anforderung von %d Bytes für den Bildlesepuffer ist fehlgeschlagen
+Fehler beim Lesen des QTIF-Elements : %s
+Überspringen der nächsten %d Bytes mit seek( ) ist fehlgeschlagen .
+Nicht genug Speicher , um das RAS-Bild zu laden
+Speicher für TGA-Kontextstruktur konnte nicht bereitgestellt werden
+Bildbreite konnte nicht ermittelt werden ( ungültige TIFF-Datei )
+Bildhöhe konnte nicht ermittelt werden ( ungültige TIFF-Datei )
+Breite oder Höhe des TIFF-Bildes beträgt null
+RGB-Daten konnten nicht aus TIFF-Datei geladen werden
+TIFF-Kompression bezieht sich nicht auf einen gültigen Codec .
+Nicht genug Speicher , um XBM-Bilddatei zu laden
+Beim Laden eines XBM-Bildes konnte nicht in eine temporäre Datei geschrieben werden
+XPM hat eine ungültige Anzahl von Zeichen pro Pixel
+Der zum Laden eines XPM-Bildes verwendete Speicher konnte nicht zugewiesen werden
+Beim Laden eines XPM-Bildes konnte nicht in eine temporäre Datei geschrieben werden
+Speicher konnte nicht bereitgestellt werden : %s
+Datenstrom konnte nicht angelegt werden : %s
+Im Datenstrom konnte nicht gesucht werden : %s
+Datenstrom konnte nicht gelesen werden : %s
+Speicher für Palettendaten konnte nicht bereitgestellt werden

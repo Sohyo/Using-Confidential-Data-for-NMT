@@ -1,0 +1,56 @@
+Sie können ein Medium nach dem Brennen auf Unversehrtheit prüfen .
+Zur Überprüfung der CD/ DVD eine MD5-Datei verwenden
+Eine MD5-Prüfsumme ( Message-Digest-Algorithmus 5 ) ist eine kryptografische Prüfsummenfunktion , die zur Prüfung der Datenintegrität verwendet wird .
+Wenn Sie diese Option wählen , müssen Sie die MD5-Datei auswählen , indem Sie auf das darunter abgebildete Ordnersymbol klicken .
+Leeren Sie eine wiederbeschreibbare CD oder DVD , indem Sie sie löschen .
+Sie können eine Daten enthaltende wiederbeschreibbare CD oder DVD vorbereiten , indem Sie sie löschen .
+Falls beim Schreiben auf schnell gelöschte CDs Probleme auftreten , versuchen Sie das schnelle Löschen zu deaktivieren und versuchen Sie es erneut .
+Die CD/ DVD kann ausgeworfen werden , wenn der Löschvorgang abgeschlossen ist .
+Eine Audiospur eines Projekts in mehrere Abschnitte teilen
+Sie können eine einzelne Audiodatei in mehrere Titel aufteilen , wenn Sie ein Audio-Projekt zusammenstellen .
+Starten Sie ein Audio-Projekt und fügen Sie die gewünschten Titel hinzu .
+Wählen Sie Ihre bevorzugte Methode zum Teilen der Titel :
+Diese Einstellung ermöglicht es Ihnen , die genaue Länge für jeden neuen Abschnitt des Titels manuell zu wählen .
+Titel in Teile mit fester Länge teilen
+Verwenden Sie diese Methode , um den Titel in mehrere Abschnitte gleicher Länge aufzuteilen .
+Titel in feste Anzahl von Teilen teilen
+Diese Methode erlaubt es Ihnen , den Titel in eine festgelegte Anzahl von Abschnitten aufzuteilen , die alle gleich lang sein werden .
+Wenn Sie einen Titel so teilen , dass ein Abschnitt weniger als sechs Sekunden lang ist , wird der neue Abschnitt aufgefüllt , so dass er mindestens sechs Sekunden erreicht .
+Ein Video auf eine DVD oder SVCD schreiben
+Sie können einen Titel für die CD/ DVD im Texteingabefeld unterhalb des Projektbereichs hinzufügen .
+Wählen Sie die leere CD/ DVD in der Auswahlliste aus .
+Speichern Sie das Projekt , um es später bearbeiten oder brennen zu können .
+Erstellen Sie das Projekt und fügen Sie die gewünschten Dateien hinzu .
+durch Öffnen des Projekts in einer Dateiverwaltung
+Ein vorhandenes Medienabbild auf eine CD oder DVD schreiben .
+Medienabbilder sind Archivdateien , die alle Daten einer CD oder DVD enthalten . Auf einer CD können sich nicht mehrere Medienabbilder befinden , aber jedes Archiv kann so wenig oder so viel Daten enthalten , wie Sie wollen , solange diese auf die CD/ DVD passen .
+Um ein CD/ DVD-Abbild auf eine CD oder DVD zu brennen , gehen Sie wie folgt vor :
+Abbild brennen Projekt Neues Projekt Abbild brennen
+Hier klicken , um ein Abbild auszuwählen
+Wenn Sie eine wiederbeschreibbare CD/ DVD verwenden , die bereits Daten enthält , werden Sie gefragt , ob Sie die CD/ DVD löschen oder eine andere CD/ DVD einlegen wollen .
+Eine identische Kopie einer CD/ DVD erstellen .
+CD/ DVD kopieren Projekt Neues Projekt CD/ DVD kopieren
+Wählen Sie , ob Sie eine Kopie auf einer anderen CD/ DVD oder ein Abbild für die spätere Verwendung erstellen wollen .
+Wenn Sie eine CD/ DVD kopieren und nur über ein Laufwerk verfügen , werden Sie darum gebeten , die CD/ DVD zu ersetzen , sobald deren Inhalt temporär auf Ihre Festplatte kopiert wurde .
+Daten auf eine CD oder DVD schreiben .
+Ein Datenprojekt wird zum Schreiben von Daten , beispielsweise Dateien , Fotos oder Musik , auf eine CD/ DVD verwendet , ohne die Daten in irgendeiner Weise zu ändern . Dies kann für die Übertragung von Daten zwischen Rechnern von Nutzen sein .
+Wenn Sie eine wiederbeschreibbare CD/ DVD verwenden , die bereits Daten enthält , werden Sie gefragt , ob Sie die CD/ DVD löschen oder eine andere CD/ DVD einlegen wollen .
+Wenn Sie eine wiederbeschreibbare CD/ DVD verwenden und die Daten nicht korrekt darauf gebrannt sind , müssen Sie die CD/ DVD vollständig ( nicht schnell ) löschen , bevor Sie es erneut versuchen .
+Sie können einen Titel für die CD im Texteingabefeld unterhalb des Projektbereichs hinzufügen .
+Wählen Sie die leere CD in der Auswahlliste aus .
+Ich kann nicht auf eine DVD-R oder DVD-RW schreiben .
+Einige Typen von DVD-Rs und DVD-RWs sind nicht mit allen Brennern kompatibel . Prüfen Sie Folgendes , um herauszufinden , ob diese DVDs in Ihrem Brenner verwendet werden können .
+Überprüfen Sie , ob Ihr DVD-Laufwerk DVD+- oder DVD-Medien akzeptiert . Falls es mit » multi « beschriftet ist , ist das üblicherweise ein Anzeichen dafür , dass beide Typen unterstützt werden . Schauen Sie auf Ihrer DVD nach , ob es sich um das gleiche System wie Ihr Laufwerk handelt .
+Überprüfen Sie , ob Ihre DVD einschichtig oder zweischichtig ist . Einige DVD-Laufwerke können mit zweischichtigen DVDs nicht umgehen .
+Wenn Sie eine DVD-R verwenden , stellen Sie sicher , dass diese vorher noch nicht beschrieben wurde . Bei einer DVD-RW versuchen Sie zunächst , sie vor dem Brennvorgang zu löschen .
+Meine MP3-Titel werden in einem DVD- oder CD-Spieler nicht wiedergegeben .
+Die CD wird im CD-Spieler nicht wiedergegeben
+Falls sich Ihre CD nicht in Ihrem CD-Spieler wiedergeben lässt , wurde die Musik wahrscheinlich nicht korrekt auf die CD gebrannt oder Sie haben versehentlich ein Daten-Projekt anstelle eines Audio-Projekts zum Schreiben der Musik auf die CD verwendet .
+Viele neuere CD-Spieler können Musik-CDs wiedergeben , die eigentlich als Daten-Projekt erstellt wurden , aber die meisten älteren Geräte können das nicht .
+Ältere CD-Spieler könnten nicht in der Lage sein , CD-RWs wiederzugeben .
+Falls Sie eine CD-RW verwenden , löschen Sie sie .
+Erstellen Sie die CD neu als Audio-Projekt .
+Audio-CDs aus digitalen Audio-Dateien erstellen ( wie ogg , flac oder mp3 )
+Die Unversehrtheit von CDs/ DVDs oder Abbildern überprüfen
+Einen Einleger für eine Box erzeugen .
+Wählen Sie die gewünschte Formatierung aus und geben Sie den Text ein . Rollen Sie nach unten , um die Seite und die Rückseite des Einlegers zu sehen .

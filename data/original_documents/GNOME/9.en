@@ -1,0 +1,4 @@
+Authentication is required to change your own user data
+Authentication is required to change user data
+Authentication is required to change the login screen configuration
+Provides D-Bus interfaces for querying and manipulating user account information .

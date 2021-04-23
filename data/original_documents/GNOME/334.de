@@ -1,0 +1,29 @@
+Dateien oder Ordner zu einem neuen Archiv hinzufügen .
+Nicht alle Archivformate unterstützen Ordner . Falls das für das von Ihnen verwendete Dateiformat zutrifft , werden Sie gewarnt .
+Sobald Sie mit dem Hinzufügen von Dateien fertig sind , ist Ihr Archiv fertig , ein Speichern ist nicht notwendig .
+Dateien oder Ordner aus einem Archiv entpacken .
+Die Anwendung zeigt einen Fortschrittsbalken in einem neuen Fenster an . Sobald das Entpacken erfolgreich abgeschlossen ist , können Sie zwischen folgenden Optionen wählen :
+Alle Dateien und Ordner im Archiv werden entpackt .
+Im Dateiwählerdialog können Sie Folgendes angeben :
+Aktivieren Sie diese Option , wenn Sie die Ordnerstruktur erhalten wollen , so wie sie in Ihrem Archiv vorhanden ist .
+Diese Option sorgt dafür , dass keine vorhandenen Dateien gleichen Namens überschrieben werden , die laut Änderungszeitpunkt neuer sind als jene im Archiv .
+Ein bestehendes Archiv und dessen Inhalt einsehen .
+Es gibt zwei Möglichkeiten , ein Archiv anzusehen :
+Verwenden Sie die zuvor genannten Spaltenbeschriftungen ( Name , Größe usw. ) , um die Dateien in Ihrem Archiv zu sortieren . Klicken Sie dazu auf die Beschriftung . Ein weiterer Mausklick sortiert in umgekehrter Reihenfolge .
+Öffnen Sie die Datei mit einer anderen Anwendung wie folgt :
+Lernen Sie komprimierte Archive aus Dateien und Ordnern zu verwenden und zu verwalten .
+Ein Archiv besteht aus einer oder mehreren Dateien sowie Metadaten . Es kann teilweise oder als Ganzes verschlüsselt werden . Durch Zusammenfassen von mehreren Dateien in einer einzigen Datei können solche Archivdateien die Datenspeicherung und -übertragung zwischen Rechnern vereinfachen .
+Dateien oder Ordner in einem Archiv umbenennen
+Dateien oder Ordner aus einem Archiv löschen
+In der Seitenleiste die Ordner in einer Baumansicht anzeigen
+Den Inhalt eines Archivs als Dateiliste anzeigen
+Den Inhalt eines Archivs als Ordnerstruktur anzeigen
+Ein Passwort für Ihr Archiv festlegen .
+Gehen Sie wie folgt vor , um die Daten in einem Archiv zu verschlüsseln :
+Möglicherweise können Sie kein Passwort eingeben , weil nicht alle Archivtypen dafür geeignet sind . Daher ist es besser , wenn Sie vor dem Festlegen eines Passworts zunächst ein entsprechendes Dateiformat wählen .
+So schützen Sie ein vorhandenes Archiv mit einem Passwort :
+Die Integritätsprüfung untersucht , ob Ihre Daten beschädigt sind .
+Ich habe ein Passwort festgelegt , aber es schützt nicht das ganze Archiv .
+Dateien zum Archiv hinzufügen Bearbeiten Dateien hinzufügen Archivmanager Einen Ordner zum Archiv hinzufügen Bearbeiten Einen Ordner hinzufügen
+Wählen Sie den Ort im Dateiwählerdialog , wo die Dateien entpackt werden sollen . Dies wird der Zielordner sein._
+Archivmanager Die Datei ist nicht vorhanden Öffnen

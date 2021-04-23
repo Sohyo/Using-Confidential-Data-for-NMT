@@ -1,0 +1,89 @@
+Failed to open file ' % s ' : % s
+Image file ' % s ' contains no data
+Failed to load image ' % s ' : reason not known , probably a corrupt image file
+Failed to load animation ' % s ' : reason not known , probably a corrupt animation file
+Unable to load image-loading module : % s : % s
+Image-loading module % s does not export the proper interface ; perhaps it 's from a different gdk-pixbuf version ?
+Image type ' % s ' is not supported
+Couldn 't recognize the image file format for file ' % s '
+Failed to load image ' % s ' : % s
+Error writing to image file : % s
+This build of gdk-pixbuf does not support saving the image format : % s
+Insufficient memory to save image to callback
+Failed to open ' % s ' for writing : % s
+Failed to close ' % s ' while writing image , all data may not have been saved : % s
+Insufficient memory to save image into a buffer
+Internal error : Image loader module ' % s ' failed to complete an operation , but didn 't give a reason for the failure
+Incremental loading of image type ' % s ' is not supported
+Not enough memory to load bitmap image
+Couldn 't allocate memory for saving BMP file
+GIF file was missing some data ( perhaps it was truncated somehow ? )
+Internal error in the GIF loader ( % s )
+GIF image loader cannot understand this image .
+Not enough memory to load GIF file
+Not enough memory to composite a frame in GIF file
+GIF image is corrupt ( incorrect LZW compression )
+Version % s of the GIF file format is not supported
+GIF image has no global colormap , and a frame inside it has no local colormap .
+GIF image was truncated or incomplete .
+Not enough memory to load ICO file
+Image too large to be saved as ICO
+Unsupported depth for ICO file : % d
+Error reading ICNS image : % s
+Transformed JPEG2000 has zero width or height
+Couldn 't allocate memory for color profile
+Insufficient memory to open JPEG 2000 file
+Couldn 't allocate memory to buffer image data
+Error interpreting JPEG image file ( % s )
+Insufficient memory to load image , try exiting some applications to free memory
+Couldn 't allocate memory for loading JPEG file
+Transformed JPEG has zero width or height .
+JPEG quality must be a value between 0 and 100 ; value ' % s ' could not be parsed .
+JPEG quality must be a value between 0 and 100 ; value ' % d ' is not allowed .
+Couldn 't allocate memory for context buffer
+Image has unsupported number of % d-bit planes
+Couldn 't allocate memory for line data
+Couldn 't allocate memory for PCX image
+Didn 't get all lines of PCX image
+No palette found at end of PCX data
+Bits per channel of PNG image is invalid .
+Transformed PNG has zero width or height .
+Bits per channel of transformed PNG is not 8 .
+Transformed PNG not RGB or RGBA .
+Transformed PNG has unsupported number of channels , must be 3 or 4 .
+Insufficient memory to store a % ld by % ld image ; try exiting some applications to reduce memory usage
+Fatal error reading PNG image file : % s
+Keys for PNG text chunks must have at least 1 and at most 79 characters .
+Keys for PNG text chunks must be ASCII characters .
+Color profile has invalid length % d .
+PNG compression level must be a value between 0 and 9 ; value ' % s ' could not be parsed .
+PNG compression level must be a value between 0 and 9 ; value ' % d ' is not allowed .
+Value for PNG text chunk % s cannot be converted to ISO-8859-1 encoding .
+PNM loader expected to find an integer , but didn 't
+PNM file is not in a recognized PNM subformat
+Maximum color value in PNM file is 0
+Maximum color value in PNM file is too large
+Raw PNM formats require exactly one whitespace before sample data
+Cannot allocate memory for loading PNM image
+Insufficient memory to load PNM context struct
+QTIF atom size too large ( % d bytes )
+Failed to allocate % d bytes for file read buffer
+File error when reading QTIF atom : % s
+Failed to skip the next % d bytes with seek ( ) .
+Not enough memory to load RAS image
+Cannot allocate memory for TGA context struct
+Could not get image width ( bad TIFF file )
+Could not get image height ( bad TIFF file )
+Width or height of TIFF image is zero
+Failed to load RGB data from TIFF file
+TIFF compression doesn 't refer to a valid codec .
+Insufficient memory to load XBM image file
+Failed to write to temporary file when loading XBM image
+XPM has invalid number of chars per pixel
+Cannot allocate memory for loading XPM image
+Failed to write to temporary file when loading XPM image
+Could not allocate memory : % s
+Could not create stream : % s
+Could not seek stream : % s
+Could not read from stream : % s
+Couldn 't allocate memory for paletted data

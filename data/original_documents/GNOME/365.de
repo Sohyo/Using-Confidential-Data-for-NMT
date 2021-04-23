@@ -1,0 +1,21 @@
+Fehler beim Laden des PKCS#11-Moduls : %s
+PKCS#11-Modul konnte nicht initialisiert werden : %s
+PKCS#11-Modul konnte nicht registriert werden : %s
+Die Adresse entspricht nicht dem Schema » PKCS11 « .
+Die Adresse hat eine falsche Versionsnummer .
+Dieser Schlüssel kann nicht genutzt werden , um die Anfrage zu unterzeichnen .
+Gnupg-Prozess wurde mit Signal beendet : %d
+Ungültige oder defekte Daten konnten nicht verarbeitet werden .
+Es konnte kein Ort für die Hinterlegung des importierten Zertifikats gefunden werden
+» %s « kann nicht angezeigt werden
+Eine Datei dieses Typs kann nicht angezeigt werden .
+Die Informationen in diesem Schlüssel wurde noch nicht verifiziert .
+Importieren nicht möglich , da keine kompatiblen Importierer verfügbar sind
+Um den Import zu starten , geben Sie bitte das Passwort ein .
+Den Zugang zu Passwörtern und anderen Geheimnissen entsperren
+Eine Datei dieses Namens existiert bereits .
+Wollen Sie sie durch eine neue Datei ersetzen ?
+Diesen Schlüsselbund beim Anmelden automatisch entsperren .
+Diesen Schlüsselbund beim Abmelden automatisch sperren .
+Der Inhalt von » %s « ist gesperrt . Um den Inhalt anzeigen zu können , geben Sie das korrekte Passwort ein .
+Der Inhalt ist gesperrt . Um den Inhalt anzeigen zu können , geben Sie das korrekte Passwort ein .

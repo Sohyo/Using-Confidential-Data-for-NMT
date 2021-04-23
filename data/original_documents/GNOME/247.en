@@ -1,0 +1,65 @@
+Fullscreen screenshot of Web with the Web wiki page open in the first tab and showing the GNOME website open in the second tab .
+Use bookmarks to save your favorite pages for later .
+Use bookmarks to save websites which you want to visit again .
+How do I add a bookmark ?
+Bookmark a page to store it permanently and access it quickly .
+Go to the webpage that you wish to bookmark .
+How do I remove an unwanted bookmark ?
+You can delete old and unwanted bookmarks .
+How do I edit an existing bookmark ?
+You can update your existing bookmarks by editing their properties .
+You can now update the bookmark title , its URL and the topics that contain it .
+What are smart bookmarks and how do I add one ?
+A smart bookmark is used to add a search to the address bar . This can be useful if you prefer to use a specific search engine regularly .
+Perform a search using the search engine that you want to add .
+add the " bookmark " epiphany % s Address https : / / help.gnome.org / search ? q = % s Title Search GNOME help
+Apart from search engines , you can also use smart bookmarks for other queries , such as searching an online show for a product .
+What are topics and how can I use them to sort bookmarks ?
+How do I view files which are on my computer in a web browser ?
+You can view some types of file that are on your computer in the web browser . This can be useful if you have saved a website for reading later or want to preview a web page that you are creating .
+Select and open the file that you want to view .
+End the private browsing session by closing the incognito window .
+You can distinguish private browsing from normal browsing by the watermark for the incognito window :
+Fullscreen screenshot showing a normal session in a window on the left side of the screen and a private browsing session in a different window on the right side of the screen .
+A screenshot showing a normal session with some history in the left window and a private browsing session in the right window
+Web browsers can be used to view pages on the Internet when you have an Internet connection . To start browsing the web :
+Press return to go to the web page or to search .
+Web Tabs open a new tab New Tab
+open a link in a new tab Open Link in New Tab
+Open the webpage which you want to save .
+You can now launch the Web Application from the Activities overview . To search for your application , start typing the name and it will be shown with the other search results .
+How do I delete a cookie if I don 't want a website to track me anymore ?
+If you no longer want a specific website to track you , you can check if it left a cookie and delete it .
+Select the cookies that you want to delete .
+How do I remove and update stored passwords ?
+You can save all of your passwords so that you do not have to reenter them every time that you want to log into a website .
+You can remove a stored password at any time .
+Enter the address of the website at the top of the window .
+Click on the username for the password which you want to delete .
+You can view the saved passwords by pressing on the key button at the bottom-right of the password list .
+When you have finished changing your password :
+Visit the same webpage for which the password was stored and has now been changed .
+Type your new password in the password field .
+Why do I see a list of web pages when I start typing in the address bar ?
+Your browsing history , the web pages that you have visited , is automatically saved so that it is quicker for you to return to those pages .
+How do I delete one or more web pages from my browsing history ?
+You may sometimes wish to delete your browsing history , for example to remove items that you do not want to see in your search results . You can choose to delete one result , all results from a single website or all of your history .
+Select the web pages that you wish to delete from your history .
+How do I choose which websites I allow to set cookies ?
+You can specify whether you want to accept cookies and from which websites .
+Select whether you want to accept cookies from all websites , accept cookies only from websites which you have visited or to not accept any cookies .
+Override the theme which is used to display web pages .
+Epiphany allows you to set a custom CSS to change the look and feel of every web page that you visit . You may want to do this to set a preferred font size or color scheme .
+Your default text editor will open . Add your custom CSS and save the file .
+body { / * Make everything upside-down * / -webkit-transform : rotate ( 180deg ) ; }
+Your custom CSS will override the style sheet on pages which you visit after you enable it .
+Where are my files downloaded to and how can I change this setting ?
+How do I tell websites that I do not want them to monitor my online activites ?
+Tell web sites I do no want to be tracked
+Websites do not have to honor this preference .
+Use a custom font for displaying web pages .
+Click on the font to open the font chooser dialog , where you can select a different font type or size .
+How do I enable or disable storing passwords ?
+I want to reopen a web page that I closed by mistake .
+How can I restore a tab ?
+Repeat the step as many times as you need to until the tab that you want is restored . Tabs will be restored in reverse order to how you closed them . Once you have restored all the closed tabs , you will not be able to restore any more tabs .

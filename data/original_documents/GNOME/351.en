@@ -1,0 +1,150 @@
+Convert to B / W with control . Requires Mono 2.2 .
+This extension allows you to burn your photos to CD .
+This extension allows you to export your photos to Flickr and 23hq .
+This extension allows you to export your photos to HTML galleries , Original galleries or just to a folder .
+This extension allows you to export your photos to PHP Gallery ( http : / / gallery.menalto.com ) .
+This extension allows you to export your photos to PicasaWeb .
+This extension allows you to export your photos to SmugMug .
+This extension allows you to export your photos to Tabblo .
+UNSTABLE - Please ensure you have a backup of your photos.db before you test this extension . This extension will allow you to change the base path to the your photos . It is very handy if you move your photos from ~ / Photos to / OurPhotos for instance . Just ensure you let SqLite continue to process the changes for up to a few hours after f-spot reports finished . It will only change the path to photos which are located under the Photo directory .
+Develop the image in UFRaw , saves the result as a new version \ \ Note : Require ufraw 0.13 or CVS version newer than 2007-09-06 ! ! !
+Share photos with other people on the same network via Web Browser
+Merge another db back to the main one
+Create photomosaics using MetaPixel ( http : / / www.complang.tuwien.ac.at / schani / metapixel / )
+Create photo wall using PictureTile by Jamie Zawinski ( http : / / www.jwz.org / picturetile / )
+Merge RAW + Jpeg as multiple versions of the same photo
+Path to custom gtkrc for theming F-Spot .
+The width dimension to use for the main window .
+The height dimension to use for the main window .
+Size of the tag icons shown in the sidebar .
+The orientation of the filmstrip , if shown .
+The size of the sidebar in the main window .
+The size ( width ) of the sidebar in the main window .
+The width dimension to use for the import dialog .
+The height dimension to use for the import dialog .
+The width dimension to use for the photo viewer window .
+The height dimension to use for the photo viewer window .
+The X position to use for the photo viewer window .
+The Y position to use for the photo viewer window .
+Show the toolbar in the photo viewer window .
+Use the current photo 's filename as the viewer window 's title .
+You can choose how to display transparent parts in images . This option has no effect on photos but setting this value to CHECK _ PATTERN or CUSTOM _ COLOR could be useful when viewing icons or other artwork with transparent parts .
+The color to use for transparent parts .
+If the ' transparency ' option is set , the color specified in this option will be used as the transparent color when viewing images .
+Uploading photo " { 0 } "
+No photos matching { 0 } found
+The tag " { 0 } " is not applied to any photos . Try adding the tag to some photos or selecting a different tag in the F-Spot preference dialog .
+The tag F-Spot is looking for does not exist . Try selecting a different tag in the F-Spot preference dialog .
+Please wait while your F-Spot gallery 's database is updated . This may take some time .
+5 x 7 ( L , 2L )
+Select the area that needs cropping .
+Select the eyes you wish to fix .
+{ 0 } of { 1 }
+This operation will merge the selected tags and any sub-tags into a single tag .
+No permission to delete the file : { 1 } { 0 }
+An error of type { 0 } occurred while deleting the file : { 2 } { 1 }
+If you remove photos from the F-Spot catalog all tag information will be lost . The photos remain on your computer and can be imported into F-Spot again .
+Delete tag " { 0 } " ?
+Delete the { 0 } selected tags ?
+Can not delete tags that have tags within them . Please delete tags under " { 0 } " first
+Modified in { 1 } ( { 0 } )
+Unable to rotate this type of photo
+Rotating photo " { 0 } "
+Received error " { 0 } " while attempting to rotate { 1 }
+Exporting picture " { 0 } "
+An error occured while processing " { 0 } " : { 1 }
+Include Photos Tagged " { 0 } "
+Exclude Photos Tagged " { 0 } "
+Drag tags here to search for them
+Shift all photos by { 0 }
+Received exception " { 0 } " . Unable to save photo { 1 }
+Edit Icon for Tag { 0 }
+Unable to load " { 0 } " as icon for the tag
+Photo { 0 } of { 1 }
+Use this option at your own risk !
+Importing Photos : { 0 } of { 1 } ...
+Searching for photos ... ( You can already click Import to continue )
+Some files could not be imported , they might be corrupt or there might be something wrong with the storage on which they reside .
+F-Spot encountered an error while loading the photo database . The old database has be moved to { 0 } and a new database has been created .
+Create _ icon for this tag when first used
+Cancel , do not change the current timeline .
+Only photos taken within these dates will be displayed .
+Number of photos in selected rolls :
+Display only those photos that were imported in specified Rolls .
+Store tags and descriptions for photos :
+Write XMP files next to the images instead .
+This tool requires an active selection . Please select a region of the photo and try the operation again
+Received exception " { 0 } " . Note that you have to develop RAW files into JPEG before you can edit them .
+On { 0 } between { 1 } and { 2 }
+Between { 0 } and { 1 }
+The photo " { 0 } " does not exist
+Really delete version " { 0 } " ?
+This removes the version and deletes the corresponding file from disk .
+Really detach version " { 0 } " from " { 1 } " ?
+This makes the version appear as a separate photo in the library . To undo , drag the new photo back to its parent .
+This makes the photos appear as a single one in the library . The versions can be detached using the Photo menu .
+Received exception " { 0 } " .
+Updating picture " { 0 } "
+Original size ( possible very large file size )
+Create a mail with the selected photos ( possibly resized ) attached
+Enable this to allow interpolation on zoomed images . You shouldn 't disable this for viewing photos , but disabling the interpolation could be usefull in icon design .
+You can choose how to display transparent parts in images . This option has no effect on photos , but setting this as check pattern or custom color could be usefull when viewing icons or other artworks with transparent parts .
+Paper Size : { 0 } x { 1 } mm
+Select the area that you want blacked out .
+Select the area that you want pixelated .
+Transferring picture " { 0 } " To CD
+There are some previously scheduled items to write
+F-Spot will now launch your browser so that you can enable the permission you just selected . Once you are directed by Facebook to return to this application , click " Ok " below .
+Facebook only permits { 0 } photographs per album . Please refine your selection and try again .
+Please name your album or choose an existing album .
+An error occurred creating a new album . { 0 }
+Uploading picture " { 0 } " ( { 1 } of { 2 } )
+Error Uploading To Facebook : { 0 }
+F-Spot will now launch your browser so that you can log into Facebook . Once you are directed by Facebook to return to this application , click " Ok " below . F-Spot will cache your session in gnome-keyring , if possible , and re-use it on future Facebook exports .
+There was a problem logging into Facebook . Check your credentials and try again .
+Session established , fetching user info ...
+Session established , fetching friend list ...
+Session established , fetching friend details ...
+Session established , fetching photo albums ...
+{ 0 } { 1 } is logged into Facebook
+There was an error when downloading your information from Facebook . Facebook said : { 0 }
+Return to this window after you have finished the authorization process on { 0 } and click the " Complete Authorization " button below
+Welcome , { 0 } . You are connected to { 1 } .
+Used { 0 } of your allowed { 1 } monthly quota
+Waiting for response { 0 } of { 1 }
+Uploading picture " { 0 } "
+Error Uploading To { 0 } : { 1 }
+F-Spot was unable to log on to { 0 } . Make sure you have given the authentication using { 0 } web browser interface .
+F-Spot needs your authorization in order to upload photos to your { 0 } account . Press the " Authorize " button to open a web browser and give F-Spot the authorization .
+_ View photos in browser when done uploading
+Exporting " { 0 } " ...
+Error Copying " { 0 } " to Gallery : { 2 } { 1 }
+Transferring to " { 0 } "
+Create _ gallery using " Original "
+The following error was encountered while attempting to log in : { 0 }
+A Gallery with this name already exists
+There is already a Gallery with the same name in your registered Galleries . Please choose a unique name .
+Cannot connect to a Gallery for which the version is unknown . Please check that you have Remote plugin 1.0.8 or later
+The gallery name contains invalid characters . Only letters , numbers , - and _ are allowed
+The following error was encountered while attempting to perform the requested operation : { 0 } ( { 1 } )
+Error uploading picture " { 0 } " to Gallery : { 1 }
+Please verify that the settings for this gallery are correct .
+Open _ album in browser when done uploading
+The following error was encountered while attempting to create an album : { 0 }
+{ 0 } of approx . { 1 }
+Error Uploading To Gallery : { 0 }
+Available space : { 0 } , { 1 } % used out of { 2 }
+The selected album has a limit of { 0 } pictures , which would be passed with the current selection of { 1 } images
+F-Spot tags can help you track the export status of photos . Example : Use one tag for the photos that you plan to export , and another one for those already exported . Here , you can tell F-Spot to automatically replace these tags as appropriate .
+This tool requires an active selection . Please select one or more pictures and try again
+Preparing photo " { 0 } "
+Change base path ( URI ) to
+The web gallery seems to be offline now
+Gallery : { 0 } , Photos : { 1 } , Last client : { 3 }
+When the gallery is active , above is the URL you need to open on another computer to access the shared photos .
+The gallery stays active until you either deactivate it or close F-Spot . Make sure local viewers access it bypassing HTTP proxy .
+The file you selected is not a valid or supported database . Received exception " { 0 } " .
+Copy the images locally or keep them where they are . If you chose the later , be sure that this location will stay accessible from f-spot .
+Keep the images at their original location
+Choose what to import from the selected db . " New Rolls Only " is the smart option that will avoid re-importing photos you could have imported during a previous operation . " A Single Import Roll " let you choose which roll you want to merge back . " Everything " will import everything , creating duplicates if you already imported from that database .
+Choose the location of the database you want to import from

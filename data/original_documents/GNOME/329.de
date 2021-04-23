@@ -1,0 +1,67 @@
+Nicht erkannte Version der Desktop-Datei » %s «
+Anwendung akzeptiert keine Dokumente auf der Befehlszeile
+Dokumente können nicht an dieses Desktop-Element übergeben werden
+Welches Kriterium zum Sortieren der Dateien benutzt werden soll . Mögliche Werte sind : » name « , » size « , » type « , » time « , » path « .
+Ob aufsteigend oder absteigend sortiert werden soll . Mögliche Werte sind : » ascending « , » descending « .
+Verwenden Sie » all-files « , um alle Dateien in einer einzigen Liste anzuzeigen , und verwenden Sie » as-folder « , um das Archiv wie einen Ordner zu durchsuchen .
+Eine Spalte mit dem Dateityp im Hauptfenster anzeigen .
+Eine Spalte mit der Dateigröße im Hauptfenster anzeigen .
+Eine Spalte mit dem Änderungsdatum im Hauptfenster anzeigen .
+Eine Spalte mit dem Pfad im Hauptfenster anzeigen .
+Wenn aktiviert werden Symbole abhängig vom Dateityp dargestellt ( langsamer ) , sonst wird immer das gleiche Symbol verwendet ( schneller ) .
+Standardbreite der Namensspalte in der Dateiliste .
+Maximale Anzahl an Einträgen im » Zuletzt geöffnet « Menü .
+Ob die Ordnerleiste angezeigt werden soll .
+Liste von Anwendungen , die im » Datei öffnen « Dialog angegeben sind und keinem Dateityp zugeordnet sind .
+Kompressionsgrad beim Hinzufügen von Dateien zu einem Archiv . Mögliche Werte sind : » very-fast « , » fast « , » normal « , » maximum « .
+Ob der Archivkopf verschlüsselt wird . Wenn der Kopf verschlüsselt wird , ist das Passwort auch notwendig um eine Auflistung des Archivinhalts zu erhalten .
+_Wählen Sie die Dateien aus , die aktualisiert werden sollen :
+Das ausgewählte Archiv im aktuellen Ort entpacken
+Ein komprimiertes Archiv mit den ausgewählten Objekten erstellen
+Sie müssen einen Namen für das Archiv angeben
+Sie haben nicht die erforderlichen Zugriffsrechte , um in diesem Ordner Archive anzulegen
+Das alte Archiv konnte nicht gelöscht werden .
+Copyright © 2001-2010 Free Software Foundation , Inc.
+Die Dateien konnten nicht zum Archiv hinzugefügt werden
+Sie haben nicht die erforderlichen Zugriffsrechte , um Dateien im Ordner » %s « zu lesen
+Ordner ausschließen , die symbolische Ver_knüpfungen sind
+Geben Sie das Passwort für das Archiv » %s « ein .
+Der Name » %s « ist ungültig , da er folgende Zeichen nicht enthalten darf : %s %s
+Sie haben nicht die erforderlichen Zugriffsrechte , um im Zielordner Archive anzulegen .
+Der Zielordner » %s « existiert nicht . Soll er angelegt werden ?
+Der Zielordner konnte nicht angelegt werden : %s .
+Das Archiv existiert bereits . Soll es überschrieben werden ?
+Sie haben nicht die erforderlichen Zugriffsrechte , um Archive im Ordner » %s « zu entpacken
+Ein interner Fehler ist bei der Suche nach Anwendungen aufgetreten :
+Für %s-Dateien ist kein Befehl installiert . Wollen Sie nach einem Befehl zum Öffnen dieser Datei suchen ?
+Soll die Datei » %s « im Archiv » %s « aktualisiert werden ?
+Sollen die Dateien im Archiv » %s « aktualisiert werden ?
+Das für » %s « zu verwendende Dateiformat konnte nicht ermittelt werden . Bitte stellen Sie sicher , dass Sie für diese Datei eine bekannte Erweiterung verwenden oder wählen Sie ein Dateiformat aus der nachstehenden Liste .
+Sie haben nicht die erforderlichen Zugriffsrechte .
+Ein Archiv kann nicht zu sich selbst hinzugefügt werden
+Das Teilarchiv » %s « konnte nicht gefunden werden
+Tar , compress-komprimiert ( .tar . Z )
+Der Ordner » %s « konnte nicht angezeigt werden
+Beim Entpacken der Dateien ist ein Fehler aufgetreten .
+» %s « konnte nicht geöffnet werden
+Beim Laden des Archivs ist ein Fehler aufgetreten .
+Beim Löschen von Dateien aus dem Archiv ist ein Fehler aufgetreten .
+Beim Hinzufügen von Dateien zum Archiv ist ein Fehler aufgetreten .
+Beim Testen des Archivs ist ein Fehler aufgetreten .
+Beim Speichern des Archivs ist ein Fehler aufgetreten .
+Soll diese Datei zum momentan geöffneten Archiv hinzugefügt oder als neues Archiv geöffnet werden ?
+Soll ein neues Archiv mit diesen Dateien erstellt werden ?
+Das Archiv » %s « konnte nicht gespeichert werden
+Eine Datei gleichen Namens existiert bereits in » %s « .
+Der neue Name ist leer . Bitte geben Sie einen Namen an .
+Der neue Name ist der selbe wie der alte . Bitte wählen Sie einen anderen Namen .
+Der Name » %s « ist ungültig , da er eines der folgenden Zeichen enthält : %s . Bitte wählen Sie einen anderen Namen .
+Es existiert bereits ein Ordner namens » %s « . %s
+Es existiert bereits eine Datei namens » %s « . %s
+Dateien zum angegebenen Archiv hinzufügen und das Programm beenden
+Dateien zu einem anzugebenden Archiv hinzufügen und das Programm beenden
+Archive im angegebenen Ordner entpacken und das Programm beenden
+Archive in einem anzugebenden Zielordner entpacken und das Programm beenden
+Inhalt der Archive im Archivordner entpacken und das Programm beenden
+Der Vorgabeordner für die » --add « und » --extract«-Befehle
+Das momentan geöffnete Archiv unter einem anderen Namen speichern

@@ -1,0 +1,30 @@
+Den Vollbildschirmmodus verlassen und zum Fensterbetrieb zurückkehren
+Cheese nutzt Ihre Kamera , um Fotos und Videos aufzunehmen , originelle Effekte anzuwenden und den Spaß mit anderen zu teilen .
+Mehrere Fotos in schneller Abfolge aufnehmen mit der Serienaufnahme . Verwenden Sie den Countdown , um sich in Position zu bringen und auf den Blitz zu warten !
+Unter der Haube nutzt Cheese GStreamer , um originelle Effekte auf die Fotos und Videos anzuwenden . Mit Cheese ist es einfach , Fotos von Ihnen , ihren Freunden , Haustieren oder was immer Sie möchten aufzunehmen und diese mit anderen zu teilen .
+Ein Programm , um Bilder und Videos mit einer Webcam aufzunehmen und lustige graphische Effekte hinzuzufügen
+Auf » wahr « setzen , um vor der Aufnahme eines Bildes rückwärts zu zählen
+Die Dauer des Countdowns vor der Aufnahme eines Fotos in Sekunden
+Auf » wahr « setzen , um bei der Aufnahme eines Bildes einen Blitz auszulösen
+Der Pfad zum Geräteknoten , der auf die Kamera verweist , zum Beispiel / dev/ video0
+Name des installierten Effekts , der zuletzt ausgewählt wurde
+Die Breite des von der Kamera aufgenommenen Bildes in Pixel
+Die Höhe des von der Kamera aufgenommenen Bildes in Pixel
+Die Breite des von der Kamera aufgenommenen Videos in Pixel
+Die Höhe des von der Kamera aufgenommenen Videos in Pixel
+Passt die Helligkeit des von der Kamera kommenden Bildes an
+Passt den Kontrast des von der Kamera kommenden Bildes an
+Passt die Sättigung des von der Kamera kommenden Bildes an
+Passt den Farbton des von der Kamera kommenden Bildes an
+Legt den Pfad fest , wo die Videos gespeichert werden . Falls leer , wird » XDG_VIDEO/ Webcam « stattdessen verwendet .
+Legt den Pfad fest , wo die Fotos gespeichert werden . Falls leer , wird » XDG_PHOTO/ Webcam « stattdessen verwendet .
+Die Verzögerung in Millisekunden zwischen den Aufnahmen der Fotos im Serienaufnahmemodus . Falls das Verzögerungsintervall kleiner ist als die Dauer des Countdowns , wird stattdessen die Dauer des Countdowns verwendet .
+Die Anzahl der Fotos in jedem Ablauf einer Serienaufnahme .
+Gerät %s konnte zur Feststellung dessen Fähigkeiten nicht initialisiert werden
+%s konnte nicht in den Papierkorb verschoben werden
+Ein Fehler ist beim Abspielen des Videosignals von der Webcam aufgetreten
+Ein Programm , um Bilder und Videos mit einer Webcam aufzunehmen
+Bitte geben Sie » %s --help « ein , um alle verfügbaren Optionen anzusehen .
+Falls auf » wahr « gesetzt , startet Cheese im breiten Modus mit der Bildersammlung auf der rechten Seite . Dies ist bei kleinen Bildschirmen sinnvoll .
+Falls auf » wahr « gesetzt , startet Cheese im Vollbildmodus .
+Eine weitere Instanz von Cheese läuft bereits

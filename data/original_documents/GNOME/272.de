@@ -1,0 +1,59 @@
+Fehler beim Aufruf des Befehls » %s « zum Entpacken des Comicbuchs : %s
+Mit dem Befehl » %s « konnte das Comicbuch nicht entpackt werden .
+Der Befehl » %s « wurde nicht normal beendet .
+Der entsprechende Befehl zum Entpacken eines Comicbuchs dieses Typs konnte nicht gefunden werden
+Im Archiv » %s « konnten keine Bilder gefunden werden
+Beim Löschen von » %s « ist ein Fehler aufgetreten .
+Das Dokument besteht aus mehreren Dateien . Auf eine oder mehrere Dateien kann nicht zugegriffen werden .
+Dokument » %s « konnte nicht geladen werden
+Dokument » %s « konnte nicht gespeichert werden
+Anlage » %s « konnte nicht gespeichert werden : %s
+Anlage » %s « konnte nicht geöffnet werden : %s
+Anlage » %s « konnte nicht geöffnet werden
+Der Dateityp %s ( %s ) wird nicht unterstützt .
+Erstellung einer temporären Datei ist gescheitert : %s
+Erstellung eines temporären Ordners ist gescheitert : %s
+Version der Desktop-Datei » %s « wurde nicht erkannt
+Adressen ( URIs ) können nicht an » Type=Link«-Desktop-Dateien weitergegeben werden
+Das gewählte Objekt auf der Werkzeugleiste verschieben
+Das gewählte Objekt aus der Werkzeugleiste entfernen
+Restriktionen des Dokuments , wie das Verbot zum Kopieren oder Drucken , übergehen .
+Das Dokument wird automatisch aktualisiert , wenn sich die Datei verändert .
+Der gewählte Drucker » %s « konnte nicht gefunden werden
+Das momentan angezeigte Dokument in das Fenster einpassen
+Die Seitenbreite des momentan angezeigten Dokuments an die Fensterbreite anpassen
+Die Dokumentseiten skalieren , so dass sie auf die gewählte Druckseite passen . Wählen Sie eine der folgenden Optionen : » Kein « : Es wird keine Skalierung durchgeführt . » Auf Druckbereich verkleinern « : Dokumentseiten werden auf den Druckbereich der Seite verkleinert , wenn sie größer als dieser sind . » Auf Druckbereich anpassen « : Dokumentseiten werden bei Bedarf vergrößert oder verkleinert , um in den Druckbereich der Seite zu passen .
+Druckseiten auf das Hoch-/ Querformat jeder Dokumentseite anpassen . Die Dokumentseiten werden in der Druckseite zentriert .
+Die Seitengröße anhand der Größe der Dokumentseite wählen
+Legt fest , ob jede Seite auf der gleichen Papiergröße wie die Dokumentseite gedruckt werden soll .
+Fehler beim Drucken der Seite %d : %s
+Ende der Präsentation . Klicken Sie zum Schließen .
+Zu %s in Datei » %s « gehen
+Dieses Dokument ist gesperrt und kann nur nach Eingabe des korrekten Passworts gelesen werden .
+Das Dokument » %s « ist gesperrt und benötigt ein Passwort , bevor es geöffnet werden kann .
+Dokument wird von » %s « geladen
+Dokument wird heruntergeladen ( %d % % )
+Die Datei konnte nicht als » %s « gespeichert werden .
+Dokument wird hochgeladen ( %d % % )
+Anlage wird hochgeladen ( %d % % )
+Bild wird hochgeladen ( %d % % )
+Das Dokument enthält Formularfelder , die ausgefüllt wurden . Wenn keine Kopie gespeichert wird , gehen die Einträge dauerhaft verloren .
+Das Dokument enthält neue oder geänderte Anmerkungen . Wenn keine Kopie gespeichert wird , gehen die Einträge dauerhaft verloren .
+Soll vor dem Schließen eine Kopie von » %s « gespeichert werden ?
+Soll vor dem Schließen auf das Beenden des Druckauftrages » %s « gewartet werden ?
+Wenn Sie das Fenster schließen , werden ausstehende Druckaufträge nicht ausgeführt .
+Evince ist freie Software . Sie können es unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung von Evince erfolgt in der Hoffnung , dass es Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit Evince erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 USA
+Eine Kopie des momentan angezeigten Dokuments in einem neuen Fenster öffnen
+Eine Kopie des momentan angezeigten Dokuments speichern
+Das momentan angezeigte Dokument per E-Mail , Sofortnachricht , versenden
+Den Ordner im Dateimanager anzeigen , der diese Datei beinhaltet .
+Ein Wort oder einen Ausdruck im Dokument suchen
+Ein Lesezeichen für die momentan geöffnete Seite hinzufügen
+Zwei Seiten gleichzeitig anzeigen , mit geraden Seitenzahlen links
+Zwei Seiten gleichzeitig anzeigen , mit ungeraden Seitenzahlen links
+Es wurde kein geeignetes Format zum Speichern des Bildes gefunden
+Das Bild konnte nicht gespeichert werden .
+Die Anlage konnte nicht gespeichert werden .
+Das Schlagwort welches im Dokument gesucht werden soll

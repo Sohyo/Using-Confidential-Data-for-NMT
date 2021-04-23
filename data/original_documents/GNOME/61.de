@@ -1,0 +1,2 @@
+Legt fest , welche GTK+-Module für Barrierefreiheits-Unterstützung geladen werden sollen .
+Dieser Schlüssel wird in Verbindung mit / desktop/ gnome/ interface/ accessibility zur Aktivierung der CORBA-basierten AT-SPI-Infrastruktur benötigt , falls jene Infrastruktur verschoben wurde . Der Schlüssel wird ignoriert , wenn die auf CORBA basierte AT-SPI-Infrastruktur nicht verschoben wurde .

@@ -1,0 +1,19 @@
+Dies ist ein Fehlererfassungssystem , in dem Benutzer und Entwickler Details über Fehler , Abstürze und Verbesserungswünsche hinterlassen können .
+File a Bug Applications five-or-more bug writing guidelines schauen Sie bitte nach
+Ihr Bericht bekommt eine Kennung ( ID ) zugewiesen und der Status wird mit laufender Bearbeitung stets aktualisiert._
+Zwar gibt Ihnen ein größeres Spielfeld mehr Raum , aber jeder Zug bringt auch mehr Objekte ins Spiel .
+Für die drei verschiedenen Spielfeldgrößen stehen die folgenden Parameter zur Verfügung :
+So ändern Sie die Darstellung der Kugeln und des Spielfelds :
+Dieses Werk wird unter einer » CreativeCommons Attribution-Share Alike 3.0 Unported license « verbreitet .
+Das Werk bzw. den Inhalt zu vervielfältigen , zu verbreiten und öffentlich zugänglich zu machen .
+Sie dürfen das Werk nur unter gleichen Bedingungen weitergeben , wie Sie vom Autor oder Lizenzgeber festgelegt wurden ( aber nicht so , dass es wie Ihr Werk aussieht ) .
+Wenn Sie das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeiten , abwandeln oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwenden , dürfen Sie die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben , die mit denen dieses Lizenzvertrages identisch , vergleichbar oder kompatibel sind .
+Klicken Sie auf das Objekt , welches Sie bewegen wollen . Das ausgewählte Objekt beginnt sich zu drehen .
+Drücken Sie eine der Pfeiltasten . Eine der Zellen auf dem Spielfeld wird daraufhin umrandet .
+Mit den Pfeiltasten können Sie sich nun zu dem Objekt bewegen , welches Sie verschieben wollen .
+Der Weg von der ursprünglichen Position zur Zielposition muss frei sein , das bedeutet , dass Sie nicht über andere Objekte springen können .
+Eine gerade horizontale , vertikale oder diagonale Linie aus fünf oder mehr Objekten wird vom Spielfeld entfernt . In diesem Fall erhalten Sie außerdem einen zusätzlichen Zug , bei dem keine weiteren Objekte zum Spielfeld hinzugefügt werden .
+Das Spiel ist vorbei , sobald das Spielfeld vollständig gefüllt ist , da dann kein Objekt mehr bewegt werden kann .
+Sie erzielen Punkte , indem Sie Reihen aus fünf oder mehr Objekten bilden . Die erzielbaren Punkte hängen von der Anzahl der Objekte ab , die dadurch entfernt werden .
+Versuchen Sie , mit jedem Zug mindestens drei gleiche Objekte in eine Linie zu bringen .
+Versuchen Sie , mehr als fünf Objekte zusammenzufügen . Bei sechs Objekten beispielsweise können Sie zwei hintereinander liegende Linien mit zwei beziehungsweise drei Objekten und einem Leerfeld dazwischen bilden . Im nächsten Zug fügen Sie das sechste Objekt ein .

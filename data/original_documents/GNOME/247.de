@@ -1,0 +1,65 @@
+Vollbild-Bildschirmfoto von Internet mit der Wiki-Seite von Internet im ersten Reiter und der Internetseite von GNOME im zweiten Reiter .
+Nutzen Sie Lesezeichen , um Ihre wichtigsten Seiten für später zu speichern .
+Nutzen Sie Lesezeichen , um die Internet-Seiten zu speichern , die Sie später erneut besuchen wollen .
+Wie legt man ein Lesezeichen an ?
+Lesezeichen für eine Seite anlegen , um diese dauerhaft zu speichern und schnell darauf zuzugreifen .
+Öffnen Sie die Internetseite , für welche Sie ein Lesezeichen anlegen wollen .
+Wie entfernt man ein ungewünschtes Lesezeichen ?
+Sie können alte und unerwünschte Lesezeichen löschen .
+Wie bearbeitet man ein bestehendes Lesezeichen ?
+Sie können bestehende Lesezeichen aktualisieren , indem Sie die Eigenschaften bearbeiten .
+Aktualisieren Sie nun Titel und Adresse des Lesezeichens und die Themen , welche es enthalten .
+Was sind intelligente Lesezeichen und wie legt man eines an ?
+Ein intelligentes Lesezeichen wird verwendet , um eine Suche zur Adressleiste hinzuzufügen . Dies ist nützlich , wenn Sie eine bestimmte Suchmaschine regelmäßig verwenden .
+Führen sie eine Suche mit der Suchmaschine durch , die Sie hinzufügen wollen .
+Lesezeichen hinzuzufügen epiphany %s Adresse https:/ /help.gnome.org/ search ? q=%s Titel GNOME-Hilfe durchsuchen
+Neben Suchmaschinen könne intelligente Lesezeichen für andere Anfragen wie die Suche in einem Online-Katalog genutzt werden .
+Was sind Themen und wie kann man sie zum Sortieren von Lesezeichen einsetzen ?
+Wie schaut man sich Dateien auf dem eigenen Rechner in einem Internet-Browser an ?
+Sie können sich einige Dateitypen auf Ihrem Rechner im Webbrowser anschauen . Dies kann nützlich sein , wenn Sie eine Internetseite zum späteren Lesen gespeichert haben oder wenn Sie die Voransicht einer Webseite ansehen wollen , die Sie erstellen .
+Wählen und öffnen Sie die Datei zum Ansehen._
+Beenden Sie die Sitzung zum privaten Surfen , indem Sie das Inkognito-Fenster schließen .
+Man kann privates Surfen von normalem Surfen durch das Wasserzeichen im Inkognito-Fensters unterscheiden :
+Vollbild-Bildschirmfoto mit einer normalen Sitzung in einem Fenster links und einer Sitzung mit privatem surfen in einem anderen Fenster rechts auf dem Bildschirm .
+Ein Bildschirmfoto mit einer normalen Sitzung mit einer Chronik im linken Fenster und einer Sitzung mit privatem Surfen im rechten Fenster . Web-
+Internet-Browser können zum Anschauen von Internetseiten eingesetzt werden , sofern Sie eine Internetanbindung haben . So schauen Sie ins Internet :
+Drücken Sie die Eingabetaste , um die Internet-Seite aufzurufen oder die Suche zu starten .
+Webbrowser Reiter Einen neuen Reiter öffnen Neuer Reiter
+einen Verweis in einem neuen Reiter öffnen Verweis in neuem Reiter öffnen
+Öffnen Sie die Internet-Seite , die Sie speichern wollen .
+Nun können Sie die Internet-Anwendung in der Aktivitäten-Übersicht starten . Tippen Sie zur Suche nach der Anwendung den Namen ein und sie wird zusammen mit anderen Suchergebnissen angezeigt .
+Wie löscht man ein Cookie , damit mich die Internetseite nicht weiter verfolgen kann ?
+Wenn Sie nicht wollen , dass eine spezifische Internetseite Sie weiterhin verfolgt , prüfen Sie , ob diese einen Cookie hinterlassen hat und löschen Sie es .
+Wählen Sie die Cookies aus , die Sie löschen wollen .
+Wie entfernt und aktualisiert man gespeicherte Passwörter ?
+Sie können alle Ihre Passwörter speichern lassen , um diese nicht jedes mal neu eingeben zu müssen , wenn Sie sich bei einer Internet-Seite anmelden wollen .
+Sie können ein gespeichertes Passwort jederzeit entfernen .
+Geben Sie oben im Fenster die Adresse der Internet-Seite ein .
+Klicken Sie auf den Benutzernamen des Passworts , das Sie löschen wollen .
+Sie können die gespeicherten Passwörter ansehen , indem Sie unten rechts in der Passwortliste auf den Knopf mit dem Schlüsselsymbol klicken .
+Sobald Sie das Ändern Ihres Passworts abgeschlossen haben :
+Besuchen Sie die selbe Internet-Seite , für welche das Passwort gespeichert wurde und soeben geändert wurde .
+Geben Sie Ihr neues Passwort in das Passwort-Feld ein .
+Warum erscheint eine Liste mit Internet-Seiten , sobald man beginnt , in die Adressleiste zu tippen ?
+Ihre Chronik , d.h. die Liste der besuchten Internet-Seiten , wird automatisch gespeichert . Somit ist es einfacher für Sie zu diesen Seiten zurückzukehren .
+Wie löscht man eine oder mehrere Internetseiten aus der Chronik ?
+Eventuell möchten Sie gelegentlich Ihre Chronik löschen , zum Beispiel um Einträge zu entfernen , die nicht in den Suchergebnissen erscheinen sollen . Sie können ein Ergebnis , alle Ergebnisse einer einzigen Internet-Seite oder die vollständige Chronik löschen .
+Wählen Sie die Internet-Seiten , die Sie aus Ihrer Chronik löschen wollen .
+Wie wählt man , welche Internetseiten Cookies setzen dürfen ?
+Sie können festlegen , ob Sie Cookies annehmen und von welchen Internetseiten .
+Wählen Sie , ob Sie Cookies von allen Internetseiten akzeptieren , nur Cookies von besuchten Internetseiten oder gar keine Cookies akzeptieren wollen .
+Das Thema überschreiben , mit dem Internetseiten dargestellt werden .
+Epiphany ermöglicht es Ihnen , dass ein eigenes CSS das Aussehen einer jeden Internet-Seite ändert , die Sie aufrufen . So können Sie eine bevorzugte Schriftgröße oder ein bevorzugtes Farbschema festlegen .
+Ihr bevorzugter Texteditor öffnet sich . Fügen Sie ihr eigenes CSS hinzu und speichern Sie die Datei .
+body{ / *Alles auf den Kopf stellen*/ -webkit-transform : rotate(180deg ) ; }
+Ihr eigenes CSS wird die Stilvorlage der Seiten überschreiben , die Sie nach der Aktivierung besuchen .
+Wo werden heruntergeladene Dateien gespeichert und wie ändert man diese Einstellung ?
+Wie gebe ich Internet-Seiten bekannt , dass diese nicht meine Aktivitäten überwachen sollen ?
+Internetseiten mitteilen , dass Sie nicht verfolgt werden möchten
+Internet-Seiten müssen diesem Wunsch nicht zwingend Folge leisten .
+Eine angepasste Schrift zum Darstellen von Internetseiten verwenden
+Klicken Sie auf die Schrift , um den Schriftwähler zu öffnen , wo Sie eine andere Schriftart oder -größe wählen .
+Wie schaltet man das Speichern von Passwörtern ein oder aus ?
+Ich möchte gerne eine Internet-Seite erneut öffnen , die ich aus Versehen geschlossen habe .
+Wie kann ich einen Reiter wieder herstellen ?
+Wiederholen Sie den Schritt so oft wie notwendig , bis der gesuchte Reiter wieder hergestellt ist . Reiter werden in der umgekehrten Reihenfolge ihrer Schließung wieder hergestellt . Sobald Sie alle geschlossenen Reiter wieder hergestellt haben können keine weiteren wieder hergestellt werden .

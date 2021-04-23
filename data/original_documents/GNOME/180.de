@@ -1,0 +1,12 @@
+Text kann nicht aus dem Dokument entpackt werden .
+Stellen Sie sicher , dass es sich um ein gültiges Dokument handelt und Text enthält
+Zeile , die die ASCII-Darstellung der aktuell ausgewählten Zeile zeigt
+Die gewählte Tabelle kann von liblouisxml nicht verwendet werden . Bitte stellen Sie sicher , dass Sie die » include«-Anweisung verwenden , deren Dateien sich im gleichen Ordner wie die Tabelle befinden .
+Fehler in Tabelle in Zeile %(line)s : %(error)s
+Vorgegebene Semantik für den Typ der Eingabedatei verwenden
+Zusätzliche Semantikdateien hinzufügen , durch Kommata getrennt
+TABELLE als Übersetzungstabelle für wortwörtlichen Text verwenden
+Position der Seitennummern festlegen , wobei POS entweder oben oder unten ist
+Seitenposition kann nur oben oder unten sein
+In %s kann nicht geschrieben werden : %s
+PDF- , HTML- und ODT-Dokumente in Braille übersetzen

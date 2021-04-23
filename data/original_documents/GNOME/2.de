@@ -1,0 +1,17 @@
+Dieses Handbuch beschreibt Version 0.1.5 von Accerciser .
+Die Menüleiste enthält Befehle zum Verwalten von Plugins , zum Verwalten und Benutzen von Lesezeichen , zum Aktualisieren der Barrierefreiheits-Baumansicht und für den Zugriff auf vorliegendes Hilfesystem .
+Die Barrierefreiheits-Baumansicht ermöglicht Ihnen die Ansicht aller Accesibles , beginnend auf Desktop-Ebene . Die Auswahl eines Accessibles aktiviert es für die weitere Inspektion unter Verwendung der geladenen Plugins .
+Sie können Plugins aus diesem oder in diesen Bereich ziehen , wie beispielsweise in die rechte Plugin-Ansicht .
+Accerciser Ansicht Einzelne Plugin-Ansicht Strg t Accerciser
+Wählen Sie ein Accessible in der Baumansicht aus .
+Verwenden Sie die Baumansicht , um sich durch die Hierarchie der Accessible-Objekte zu bewegen , beginnend auf Desktop-Ebene . Ausklappen eines Knotens macht die direkten Kind-Objekte sichtbar , während Einklappen diese wieder verbirgt . Jeder Knoten zeigt ein Symbol für die zugehörige Anwendung oder die zugehörige Widget-Funktion sowie den Accessible-Namen , falls verfügbar . Die zweite Spalte zeigt an , wie viele Knoten angezeigt werden , wenn das Objekt ausgeklappt wird .
+Lesezeichen für Accessibles in Accerciser sind durch einen Anwendungsnamen und einen » Pfad « zum Accessible-Lesezeichen in der internen Accessible-Hierarchie der Anwendung definiert . Wenn die Zielanwendung mehrere Zustände hat , zum Beispiel bei mehreren Frames in der obersten Ebene , könnte dieser Pfad inkorrekt sein .
+Dieses Plugin zeigt Informationen über die verfügbaren Schnittstellen für das in der Baumansicht ausgewählte Accessible an . Nicht unterstützte Schnittstellen werden ausgegraut dargestellt . Verschiedene Werkzeuge für die Ansicht und Steuerung einer Schnittstelle sind durch Ausklappen des jeweiligen Expanders verfügbar .
+Schnittstellen , die von dem ausgewählten Accessible unterstütz werden , sind anklickbar dargestellt .
+Dieses Plugin überwacht die ausgewählten Ereignistypen aus dem in der Baumansicht gewählten Accessible , der in der Baumansicht gewählten Anwendung oder dem gesamten Desktop .
+Der untere Teil der Ereignisüberwachung ermöglicht Ihnen die Auswahl des Typs und der Quelle von Ereignissen .
+IPython Tab Eingabetaste acc t = acc.queryText( )
+Dieses Plugin zeigt die von dem in der Baumansicht gewählten Accessible unterstützten Schnittstellen , Methoden und Attribute .
+Strg Alt a Accerciser Strg Alt t
+Dieses Plugin überprüft Anwendungen auf Barrierefreiheits-Probleme und erzeugt einen Report , der die Wichtigkeit und die Beschreibung der Probleme enthält . Der Report verknüpft Fehler , um zu dokumentieren , wie häufige Probleme behoben werden können . Dieses Plugin ist mit Test-Schemata erweiterbar , welche Regeln für die Überprüfung definieren .
+Weiterverbreitung und Benutzung im Binär- oder Quellcodeformat , mit oder ohne Änderungen , sind unter den Bedingungen der BSD-Lizenzt erlaubt .

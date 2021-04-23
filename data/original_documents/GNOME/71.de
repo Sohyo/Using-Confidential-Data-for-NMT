@@ -1,0 +1,231 @@
+Unterstützung für die meisten iPod/ iPhone/ iPad-Geräte .
+Unterstützung für USB-basierte Geräte , wie z.B. viele iAudio-Geräte sowie Android- , Pre- und Galaxy-Telefone .
+Unterstützung für MTP-Geräte , wie viele Creative-Zen-Geräte .
+Musik aus dem Amazon MP3-Laden durchsuchen und kaufen .
+Herunterladen und Importieren von bei Amazon.com gekaufter Musik .
+Anpassen und Erweitern von Banshee mit Skripten in Boo-Sprache .
+Lassen Sie die Schläge pro Minute ( BPM ) Ihrer Musik feststellen .
+Albencover für alle Objekte in Ihrer Bibliothek holen .
+Durchstöbern und hören Sie Musik über Ihr lokales Netzwerk .
+Musik und Hörbücher aus eMusic durchsuchen und kaufen .
+Herunterladen und Importieren von bei eMusic gekaufter Musik .
+Vorschau auf Dateien , ohne sie in die Bibliothek zu importieren .
+Ungültige oder fehlende Metadaten durch Stapelverarbeitung korrigieren .
+Banshee in einem kleinen Fenster steuern , nur mit Wiedergabefunktionen und Titelinformationen .
+Durchsuchen und Abonnieren Tausender Audio- und Video-Podcasts .
+Wiedergabe über die Multimediatasten Ihrer Tastatur steuern .
+Ein Symbol im Benachrichtigungsfeld zur Steuerung von Banshee anzeigen .
+Import von Amarok , Rhythmbox und iTunes
+Importieren Sie Ihre Medienbibliothek aus Amarok , Rhythmbox oder iTunes .
+Warteschlange für Titel in einer Ad-hoc-Wiedergabeliste , Übernahme durch den Auto DJ .
+Abonnieren Sie Podcasts und streamen Sie Episoden oder laden Sie sie herunter .
+Unterstützung für Herunterladen von BitTorrent-Dateien für Podcasts .
+Diese Erweiterung ermöglicht den Zugriff auf den Ubuntu One Music Store , bereitgestellt von 7digital .
+Anzeigen von Informationen über den Künstler aus Wikipedia in einem Kontextfenster .
+Ähnliche YouTube-Videos in der Kontextleiste anzeigen .
+Wird als Nachfolger des MP3-Formats angesehen . AAC erreicht generell bessere Klangqualität als MP3 bei niedrigeren Bitraten .
+Free Lossless Audio Codec ( FLAC ) ist ein quelloffener Codec , der komprimiert , aber die Audioqualität nicht verschlechtert .
+Ein proprietäres und älteres , aber verbreitetes , verlustbehaftetes Audioformat , das größere Dateien bei niedrigeren Bitraten erzeugt .
+Vorbis ist ein verlustbehafteter Open Source Audio-Codec mit hochqualitativer Ausgabe bei kleineren Dateigrößen als MP3 .
+Ein schnelles und effizientes Open Source Audioformat , das ein verlustfreies und hochqualitatives Encoding mit einer großen dynamischen Bandbreite anbietet .
+WAV+PCM ist ein verlustfreies Format , das unkomprimierte , roh kodiert modulierte Audioinformation ( PCM ) speichert .
+Ein verlustbehaftetes Audioformat mit hochqualitativer Ausgabe bei kleineren Dateigrößen als MP3 . Eine WMA-Kodierung mit 96 kbps ist mit einer MP3-Kodierung mit 128 kbps gleichwertig .
+Element der CDDA-Adresse konnte nicht initialisiert werden
+Das Plugin » decodebin2 « konnte nicht erzeugt werden
+Das Plugin » sinkben « konnte nicht erzeugt werden
+Das Plugin » audioconvert « konnte nicht erzeugt werden
+Das Plugin » audioresample « konnte nicht erzeugt werden
+Der Zielanschluss des Encoders konnte nicht ermittelt werden
+Die gewählten Stücke auf eine Audio-CD brennen
+Es konnte kein Encoder für das Auslesen gefunden werden .
+Beseitigt die kurze Wiedergabe-Pause zwischen zwei Tracks . Nützlich für Konzeptalben und klassische Musik
+Für Titel mit Daten zur Lautstärkeanpassung die Wiedergabelautstärke automatisch anpassen ( normalisieren ) .
+Beseitigt die kurze Wiedergabe-Pause zwischen zwei Titeln . Nützlich für Konzeptalben und klassische Musik .
+Encoder-Pipeline konnte nicht erzeugt werden : { 0 }
+Die Encoding-Pipeline konnte nicht erzeugt werden : { 0 }
+Das Plugin » sinkbin « konnte nicht erzeugt werden
+Es ist derzeit nicht feststellbar , ob eine neue Version verfügbar ist . Bitte versuchen Sie es später noch einmal .
+Sie haben bereits die neueste Version von Banshee installiert .
+Eine neue Version von Banshee ( { 0 } ) ist verfügbar.{1}Wollen Sie aktualisieren ?
+Das Herunterladen ist fehlgeschlagen . Bitte versuchen Sie es später noch einmal .
+Das Herunterladen der Aktualisierung wurde abgeschlossen.{0}Wollen Sie Banshee nun beenden und das Installationsprogramm ausführen ?
+Optionen für das Abfragen des aktuellen Titels anzeigen
+Optionen für das Abfragen des Wiedergabeprogrammes anzeigen
+Den nächsten Titel abspielen , optional neu starten , falls das » restart«-Feld gesetzt ist
+Den vorherigen Titel abspielen , optional neu starten , falls das » restart«-Feld gesetzt ist
+Falls der aktuelle Titel länger als 4 Sekunden gespielt wird , dann neu starten , ansonsten wie bei --previous
+Automatisch damit beginnen , alle auf der Befehlszeile angegebenen Titel in die Warteschlange aufzunehmen
+Stopp nach dem aktuellen Titel aktivieren bzw. deaktivieren ( der Wert sollte entweder » true « oder » false « sein )
+Die Wiedergabelautstärke einstellen ( 0-100 ) , +/ - vorangestellt für relative Werte
+Zu einer bestimmten Position springen ( in Sekunden , als Fließkommazahl )
+Die Bewertung des laufenden Titels festlegen ( 0 bis 5 )
+Abfragen , ob das Wiedergabeprogramm pausiert werden kann
+Die Benutzeroberfläche auf der aktuellen Arbeitsfläche anzeigen
+Die Benutzeroberfläche nicht anzeigen , alle gegenteiligen Optionen ignorieren
+Einen alternativen Schlüssel eingeben , Standard ist / apps/ banshee-1/
+Instanz auf die nicht-installierte Benutzung optimieren ; dies wird hauptsächlich eine alternative Mono . Addins-Datenbank im Arbeitsordner erstellen
+Das Laden einer benutzerdefinierten gtkrc-Datei ( { 0 } ) überspringen , falls diese existiert
+Die folgenden Hilfeoptionen sind ungültig : { 0 }
+Codec zum Abspielen dieses Medientyps ist nicht verfügbar
+Datei ist durch Digital Rights Management ( DRM ) geschützt
+{ 0 } ( { 1}:{2:00 } )
+Alle Alben ( { 0 } )
+Alle Künstler ( { 0 } )
+Alle Titel eines Albums wiedergeben , dann ein zufälliges anderes wählen
+Alle Titel eines Künstlers wiedergeben , dann einen zufälligen anderen wählen
+Titel zufällig wiedergeben , wobei besser bewertete Titel bevorzugt werden
+Titel zufällig wiedergeben , wobei Titel mit höherer Punktzahl bevorzugt werden
+Suche läuft ( { 0 } ) Dateien )
+Der Import-Vorgang läuft momentan . Möchten Sie diesen stoppen ?
+{ 0 } von { 1 } werden importiert
+{ 0 } von { 1 } werden neu eingelesen
+Bitte warten Sie , während Ihre alte Banshee-Datenbank in das neue Format konvertiert wird .
+Alben eines Künstlers nach Jahr _sortieren , nicht nach Titel
+Titel , die Sie in der letzten Woche oft gehört haben
+Titel , die noch nicht gespielt oder übersprungen wurden
+Favoriten , die in den letzten zwei Wochen nicht gespielt wurden
+Titel , die mit einem oder zwei Sternen bewertet wurden oder die Sie oft übersprungen haben
+Videos , die noch nicht abgespielt wurden
+Keine Wiedergabe-Engines wurden gefunden . Bitte stellen Sie sicher , dass Banshee korrekt installiert wurde .
+{ 0 } von { 1 } konvertieren
+Dateien werden momentan in ein anderes Format umgewandelt . Möchten Sie diesen Vorgang stoppen ?
+Diese Option aktivieren , um Tags und andere Metadaten innerhalb unterstützter Audio-Dateien zu speichern .
+Diese Option aktivieren , um Metadaten zu Bewertung und Anzahl der Wiedergaben innerhalb unterstützter Audio-Dateien zu speichern .
+Dateien und Ordner entsprechend der Metadaten umbenennen
+Aktivieren Sie diese Option , um Bewertungs- und Wiedergabeanzahl-Metadaten innerhalb unterstützter Audio-Dateien bei Änderung der Bewertung zu speichern .
+Eine verfügbare , arbeitende Netzwerkverbindung wird angenommen
+Einige Funktionen erfordern eine Breitbandverbindung mit dem Internet , wie etwa Last.fm oder die Abfrage von Cover-Bildern
+Unterschiedliche Bewertung des Titels am Gerät und in Banshee
+MPEG Version 3.0 Erweitert ( *.m3u )
+Austauschbares XML-Wiedergabelistenformat Version 1 ( *.xspf )
+Beim Importieren alle Dateien in den Medienordner _kopieren
+Verbessern von Banshee durch anonymes Senden von Benutzerdaten
+Bitte melden Sie den folgenden Fehler an die Entwickler : { 0 }
+Alle Genres ( { 0 } )
+{ 0 } von { 1 } wird zu { 2 } hinzugefügt
+{ 0 } von { 1 } wird aus { 2 } entfernt
+{ 0 } kann nicht geöffnet werden : { 1 } Überprüfen Sie die Einstellungen in » Bevorzugte Anwendungen « .
+Alben-Übersicht deaktivieren und stattdessen die klassische Anordnung zeigen
+Um den Sortiermodus der Wiedergabeliste in » manuell « zu ändern , klicken Sie auf den aktuell sortierten Spaltenkopf , so dass der Sortierpfeil verschwindet .
+{ 0 } von { 1 }
+{ 0 } von { 1 }
+Lesezeichen für die Position im aktuellen Titel anlegen
+Copyright © 2005 { 0 } Novell , Inc. Copyright © 2005 { 0 } Weitere Copyright © 2005 Aaron Bockover
+Das Beenden von Banshee wird die momentan laufenden Vorgänge abbrechen . Diese können beim nächsten Start von Banshee nicht automatisch wiederaufgenommen werden .
+Momentan ist ein anderes Programm als vorgegebenes Medienwiedergabeprogramm eingerichtet . Würden Sie Banshee als Vorgabe bevorzugen ?
+Geben Sie den Ort der zu öffnenden Datei ein :
+Medien aus einer Vielzahl von Quellen importieren
+Lernen Sie fortgeschrittene Wege kennen , um in Ihrer Mediensammlung zu suchen
+Zu einer bestimmten Position im aktuellen Element bewegen
+Die Wiedergabe nach dem aktuellen Element stoppen
+Durch Eingeben des Namens zu einer Quelle wechseln
+Sind Sie sicher , dass Sie { 0 } löschen möchten ?
+Ausgewählte Elemente zur Wiedergabeliste hinzufügen oder neue Wiedergabeliste aus der Auswahl erstellen
+Ausgewählte(n ) Titel aus dieser Quelle entfernen
+Ausgewählte(n ) Titel aus der Bibliothek entfernen
+Den Ordner öffnen , der das gewählte Objekt enthält
+Ausgewählte(s ) Element(e ) dauerhaft vom Speichermedium löschen
+Der Ordner konnte nicht gefunden werden .
+Bitte überprüfen Sie , ob der Zugriff zum Ort des Titels auf dem System möglich ist .
+Wenn Sie die Auswahl löschen , geht diese für Sie dauerhaft verloren .
+Auswahl aus { 0 } entfernen ?
+Markieren Sie dies , wenn der Titel Teil eines Albums mit Titeln verschiedener Künstler ist
+Dieser Wert beeinflusst , wie dieses Album einsortiert wird . Wenn Sie » Verschiedene Künstler « eingeben , dann wird das Album zusammen mit anderen Alben abgelegt , die mit » V « starten .
+Alle Künstler des Kompilationsalbums auf diesen Wert setzen
+Alle CD-Nummern und -Anzahl auf diese Werte setzen
+Alle » Beats per Minute«-Werte auf diesen Wert setzen
+Zum nächsten Stück springen und dessen Titel bearbeiten
+Alle sortierten Titelnamen auf diesen Wert setzen
+Alle sortierten Titel-Künstler auf diesen Wert setzen
+Alle sortierten Albumtitel auf diesen Wert setzen
+Alle sortierten Albumtitel auf diesen Wert setzen
+Die Werte aller gemeinsamen Felder in diesem Titel auf alle im Editor ausgewählten Titel anwenden .
+Element { 0 } von { 1 } bearbeiten
+Wenn Sie nicht speichern , gehen die Änderungen der letzten { 0 } dauerhaft verloren .
+{ 0}veröffentlicht von{1 } { 2 } { 0}am{1 } { 3}Chicago Public Radio
+{ 0}auf{1 } { 2}from { album } by { artist } " type string , and { 1 } is the " on { radio station name }
+{ 0}von{1 } { 2 } { 0}aus{1 } { 3 }
+Diese Operation arbeitet noch . Möchten Sie sie stoppen ?
+Die » { 0 } « Operation arbeitet noch . Möchten Sie diese stoppen ?
+Ihre Medienbibliothek ist leer . Sie können jetzt neue Musik und Videos in Ihre Bibliothek importieren oder dies später nachholen .
+Ort auf Vorgabe zurücksetzen ( { 0 } )
+Der Einstellungsdienst konnte nicht gefunden werden .
+Den Künstler-/ Alben-Browser links neben der Titelliste anzeigen
+Titel { 0 } von { 1 } wird hinzugefügt
+Titel { 0 } von { 1 } wird entfernt
+{ 0 } hinzuzufügen , { 1 } zu löschen , { 2 } zu aktualisieren
+Das Format { 0 } wird vom Gerät nicht unterstützt und es wurde kein Konverter gefunden , um es umzuwandeln
+Das Gerät automatisch mit abgleichen , wenn es eingesteckt wird oder Änderungen in der Bibliothek vorgenommen werden
+Abgleichen des Gerätes beginnen , sobald es eingesteckt wird oder Änderungen in der Bibliothek vorgenommen werden
+Sind Sie sicher , dass Sie fortsetzen möchten ?
+Abgleich von » { 0 } «
+Verbindung zu { 0 } konnte nicht getrennt werden : { 1 }
+{ 0 } - { 1 } von { 2 } wird geladen
+Legt fest , welches Amazon-Portal standardmäßig genutzt werden soll .
+Deutschland , Schweiz , Österreich ( amazon.de )
+Dies stellt sicher , dass die Datenträger-Nummern alle richtig festgelegt werden , und dass Autor und Buchtitel für alle Titel auf allen Datenträgern auf die Werte unten gesetzt werden
+Beim Einlegen einer Audio-CD automatisch mit dem Importieren anfangen , falls Metadaten gefunden werden können und sich diese nicht bereits in der Bibliothek befindet .
+Wenn der Import einer Audio-CD vollständig ist , diese automatisch auswerfen .
+Die Fehlerkorrektur versucht , problematische Bereiche wie Oberflächenkratzer auf einer CD zu umgehen , aber verringert die Importgeschwindigkeit deutlich .
+Der automatische Import wurde nicht durchgeführt , da sich dieses Album bereits in der Musikbibliothek befindet .
+Audio-CD konnte nicht ausgeworfen werden : { 0 }
+Banshee soll versuchen , den BPM-Wert des Titels automatisch zu erkennen
+Diesen Knopf zum Takt des Titels anklicken , um den BPM-Wert manuell zu bestimmen
+BPM-Werte für alle Titel erkennen , für die diese Werte noch nicht gesetzt sind
+{ 0 } - { 1 }
+iTunes® 7 verursacht neue Kompatibilitätsprobleme und funktioniert momentan nur mit anderen iTunes® 7-Clients . Kein Drittanbieter-Client kann sich mehr mit iTunes® Musik-Freigaben verbinden . Dies ist eine beabsichtigte Einschränkung von Apple in iTunes® 7 und wir bitten , diese unglückliche Unannehmlichkeit zu entschuldigen .
+Zu viele Benutzer sind mit dieser Freigabe verbunden
+Sie sind nicht länger mit der Musik-Freigabe verbunden
+Diese Musik-Freigabe wird von iTunes® 7 bereitgestellt
+Geben Sie IP-Adresse und Port des Servers ein :
+Es werden Alben angezeigt , die möglicherweise zusammengeführt werden könnten . Klicken Sie in jeder gewünschten Zeile auf den Titel , um ihn in Fettschrift darstellen zu lassen , oder deaktivieren Sie ihn , um keine Aktion auszuführen .
+Es werden Künstler angezeigt , die möglicherweise zusammengeführt werden könnten . Klicken Sie in jeder gewünschten Zeile auf den Titel , um ihn in Fettschrift darstellen zu lassen , oder deaktivieren Sie ihn , um keine Aktion auszuführen .
+Es werden Genres angezeigt , die möglicherweise zusammengeführt werden könnten . Klicken Sie in jeder gewünschten Zeile auf den Titel , um ihn in Fettschrift darstellen zu lassen , oder deaktivieren Sie ihn , um keine Aktion auszuführen .
+Details zur Folge werden aus dem Online-Archiv abgerufen
+Zeitüberschreitung beim Erhalten der Details aus dem Internetarchiv
+Fehler beim Abrufen der Details der Folge aus dem Online-Archiv
+{ 0 } von { 1 } am { 2 }
+Das Internetarchiv , eine 501(c)(3 ) nicht gewinnorientierte Organisation , stellt eine Bibliothek aus Internetseiten und anderen kulturellen Quellen in digitaler Form zur Verfügung . Wie auch eine gewöhnliche Leihbibliothek bieten wir Forschern , Historikern , Lernenden sowie dem allgemeinen Publikum freien Zugriff .
+Sollen weitere Ergebnisse aus dem Online-Archiv geholt werden ?
+Geben Sie Genre , Titel und Adresse des Radiosenders ein , den Sie hinzufügen möchten . Eine Beschreibung ist optional .
+http:/ /lastfm.de/ music/ { 0}/ { 1 }
+http:/ /lastfm.de/ music/ { 0}/ _/ { 1 }
+Last.fm in einem Browser öffnen , so dass Banshee der Zugriff auf Ihr Konto gestattet werden kann .
+Sie müssen Banshee gestatten , auf Ihr Last.fm-Konto zuzugreifen .
+Last.fm wird auf { 0 } eingestellt .
+Der Sender konnte nicht aufgerufen werden . { 0 }
+Neue Titel für { 0 } werden abgerufen .
+Keine neuen Titel für { 0 } vorhanden .
+Neue Titel für { 0 } konnten nicht geladen werden .
+Entdecken Sie interessante Podcasts im » Miro Guide«-Podcast-Verzeichnis !
+{ 0}von{1 } { 2 } { 0}aus{1 } { 3 }
+Vereinfachen der » Jetzt wiedergegeben«-Schnittstelle durch Verbergen der Quellenliste u.a.
+Import des Titels fehlgeschlagen : { 0 }
+Finden Sie Ihre » { 0 } « Datei
+Die iTunes-Bibliothek verweist auf Ihren Musikordner mit » { 0 } « , aber Banshee war nicht imstande , den Ort dieses Ordners zu bestimmen . Bitte machen Sie ihn ausfindig .
+Banshee ist mit dieser Version des iTunes-Bibliothekformats nicht vertraut . Importieren kann wie erwartet funktionieren oder auch nicht . Möchten Sie versuchen , den Import trotzdem zu starten ?
+Ausgewählte Lieder nach dem aktuell abgespielten Titel , Album oder Künstler einfügen
+Ausgewählte Lieder in die Wiedergabe-Warteschlange nach dem aktuell abgespielten Titel einfügen
+Ausgewählte Lieder in die Wiedergabe-Warteschlange nach dem aktuell abgespielten Album einfügen
+Ausgewählte Lieder in die Wiedergabe-Warteschlange nach dem aktuell abgespielten Künstler einfügen
+Zufällige Reihenfolge der Einträge in der Wiedergabe-Warteschlange
+Anzahl _gespielter Titel , die angezeigt werden sollen
+Anzahl _kommender Titel , die angezeigt werden sollen
+Alle Podcasts ( { 0 } )
+Falls aktiviert , sucht Banshee stündlich nach neuen Folgen dieses Podcasts
+Bitte geben Sie die Adresse des Podcasts ein , den Sie abonnieren möchten .
+Mich entscheiden lassen , welche Folgen heruntergeladen werden
+von » { 0 } « aus » { 1 } «
+{ 0 } Ein schwerwiegender Fehler ist aufgetreten
+Der Last.fm-Benutzername ist ungültig , oder Banshee ist es nicht gestattet , auf Ihr Konto zuzugreifen .
+Sender sind nur für zahlende Last.fm-Abonnenten verfügbar .
+In der Abfrage fehlt ein erforderlicher Parameter .
+Ungültige Legitimierungsinformationen , bitte legitimieren Sie sich erneut .
+Der von dieser Anwendung benutzte API-Schlüssel ist ungültig .
+Das Streaming-System ist gerade nicht verfügbar . Bitte versuchen Sie es später noch einmal .
+Es gibt nicht genug Inhalte , um diesen Sender wiederzugeben .
+Diese Gruppe hat nicht genügend Mitglieder für ein Radio .
+Dieser Künstler hat nicht genügend Fans für ein Radio .
+Es gibt nicht genügend Nachbarn für diesen Sender .
+Ihre Benutzerinformationen werden benötigt , bevor Sie sich mit Last.fm verbinden können
+Beim Initialisieren der MTP-Geräteunterstützung ist ein Fehler aufgetreten . Bitte besuchen Sie http:/ /www.banshee-project.org/ Guide/ DAPs/ MTP für weitere Informationen .

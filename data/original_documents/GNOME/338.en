@@ -1,0 +1,19 @@
+This is a bug tracking system where users and developers can file details about bugs , crashes and request enhancements .
+File a Bug Applications gnome-games bug writing guidelines browse
+Your report will be given an ID number , and its status will be updated as it is being dealt with .
+While a larger board gives you more space , there are also more objects in play for each turn .
+The 3 different board sizes have the following parameters :
+To change the appearance of the pieces and the board :
+This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 Unported license .
+To copy , distribute and transmit the work .
+You must attribute the work in the manner specified by the author or licensor ( but not in any way that suggests that they endorse you or your use of the work ) .
+If you alter , transform , or build upon this work , you may distribute the resulting work only under the same , similar or a compatible license .
+Click on the object you want to move . The selected object will begin spinning .
+Press any of the arrow keys . An outline around a cell will appear on the board .
+Using the arrow keys , navigate to the object you want to move .
+There must be a clear path from the original position of the object to the destination cell ( i.e you can not jump over objects ) .
+A straight horizontal , vertical or diagonal line of five or more similar objects will disappear from the game board . When this happens you will have an extra move without additional objects being added to the board .
+The game is over when the board is full , since no object can be moved at that point .
+You score points by creating lines of 5 or more objects . The number of points depends on the number of objects that disappear .
+Try to set at least three same objects with your every move .
+Try to line up more than 5 objects . For example , if you have 6 objects , you can line up 2 and 3 with a space in between , and then connect them by placing the sixth object between them .

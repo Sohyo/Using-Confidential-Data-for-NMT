@@ -1,0 +1,46 @@
+Es gibt weitere Benutzer mit ähnlichen Benutzernamen auf dem Server . Bitte wählen Sie den gewünschten Namen aus der nachfolgenden Liste aus .
+MAPI-Ordner können im Offline-Modus nicht erstellt werden .
+Server , Benutzername und Domain-Name dürfen nicht leer sein . Bitte geben Sie die korrekten Werte ein .
+Realm-Name darf nicht leer sein , wenn Kerberos ausgewählt ist . Bitte geben Sie die korrekten Werte ein .
+Erstellen des Adressbuchs » %s « ist gescheitert : %s
+Erstellen des Adressbuchs » %s « ist gescheitert
+Erstellen des Kalenders » %s « ist gescheitert : %s
+Erstellen des Kalenders » %s « ist gescheitert
+Fehler beim Erstellen des Objekts auf dem Server
+Bearbeiten eines Objekts auf einem Server ist fehlgeschlagen
+Fehler beim Abrufen der Objekte vom Server
+Fehler beim Abrufen der Änderungen vom Server : %s
+Fehler beim Abrufen der Änderungen vom Server
+Thread zum Füllen des Zwischenspeichers konnte nicht erzeugt werden
+Das Verändern einzelner Instanzen eines wiederkehrenden Termins wird noch nicht unterstützt . Der auf dem Server gespeicherte Termin wurde daher nicht verändert .
+Zwischenspeicher der zusammenfassenden Informationen für neue Nachrichten in %s wird aktualisiert
+Nachrichtenkennungen für %s werden vom Server geholt
+Gelöschte Nachrichten werden aus dem Zwischenspeicher in %s entfernt
+Zusammenfassende Informationen werden abgerufen für neue Nachrichten in %s
+Diese Nachricht ist im Offline-Modus nicht verfügbar .
+Nachricht konnte nicht an Ordner » %s « angehängt werden
+Leeren des Mülleimers ist fehlgeschlagen : %s
+Nachricht » %s « kann nicht abgerufen werden : %s
+Nachricht konnte nicht abgerufen werden : %s
+Zusammenfassung für » %s « konnte nicht geladen werden
+In _allen Ordnern nach neuen E-Mails schauen
+Filter auf neue Nachrichten im Eingang dieses Servers an_wenden
+Ausschließlich den _Eingang auf unerwünschte Nachrichten prüfen
+Für den Zugriff auf Microsoft Exchange 2007-/ OpenChange-Server über MAPI
+Diese Option erzeugt eine Verbindung zum OpenChange-Server über ein Klartext-Passwort .
+Ordnerliste ist im Offline-Modus nicht verfügbar .
+Neuer Ordner » %s « konnte nicht angelegt werden .
+Ordner » %s « konnte nicht angelegt werden : %s
+Ordner » %s « konnte nicht angelegt werden
+Ordner » %s « konnte nicht entfernt werden : %s
+Ordner » %s « konnte nicht entfernt werden
+MAPI-Ordner » %s « konnte nicht umbenannt werden . Der Ordner existiert nicht .
+MAPI-Vorgabeordner » %s « konnte nicht in » %s « umbenannt werden .
+MAPI-Ordner » %s « konnte nicht in » %s « umbenannt werden .
+MAPI-Ordner » %s « konnte nicht in » %s « umbenannt werden : %s
+%s Bitte geben Sie das MAPI-Passwort für %s@%s ein
+Legitimation am Exchange MAPI-Server gescheitert : %s
+Nachricht konnte nicht gesendet werden : %sMeetingResp
+Weitere Sitzungen können nicht erstellt werden , maximale Anzahl wurde erreicht
+MAPI-Fehler %s ( 0x%x ) ist aufgetretenEXCHANGEMAPI_ERROR
+Empfänger » %s « ist nicht eindeutig

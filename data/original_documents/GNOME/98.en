@@ -1,0 +1,13 @@
+The state of the main window , valid values are ' normal ' and ' maximized ' .
+The stored position of the main window , the X coordinate .
+The stored position of the main window , the Y coordinate .
+The theme used to render the entries .
+Reverse the entries in the entry list
+Show the newest entries at the top of the entry list .
+Automatically refresh all channels at a regular interval .
+Enter the URL of the new channel
+Channels ( { 0 } unread )
+Change the fields to update channel information
+Enter the URL or filename for the OPML file
+Do you want to remove the channel or group { 0 } from the channel list ?
+Imported { 0 } channels from OPML file

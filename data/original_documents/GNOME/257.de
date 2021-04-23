@@ -1,0 +1,44 @@
+@@image : 'figures/ evince_start_window.png ' ; md5=2787fa5e0e910f484226535e4bdb5323
+Der Evince-Dokumentenbetrachter erlaubt Ihnen die Anzeige von Dokumenten in verschiedenen Formaten wie dem Portable Document Format ( PDF ) oder PostScript .
+Dieses Handbuch ist Teil einer Sammlung von GNOME-Handbüchern , die unter der GFDL veröffentlicht werden . Wenn Sie dieses Handbuch getrennt von der Sammlung weiterverbreiten möchten , können Sie das tun , indem Sie eine Kopie der Lizenz zum Handbuch hinzufügen , wie es in Abschnitt 6 der Lizenz beschrieben ist .
+Viele der Namen , die von Unternehmen verwendet werden , um ihre Produkte und Dienstleistungen von anderen zu unterscheiden , sind eingetragene Warenzeichen . An den Stellen , an denen diese Namen in einer GNOME-Dokumentation erscheinen , werden die Namen in Großbuchstaben oder mit einem großen Anfangsbuchstaben geschrieben , wenn das GNOME-Dokumentationsprojekt auf diese Warenzeichen hingewiesen wird .
+DIESES DOKUMENT WIRD » WIE VORLIEGEND « GELIEFERT , OHNE GARANTIEN IRGENDEINER ART , SOWOHL AUSDRÜCKLICH GENANNTE ALS AUCH ANGEDEUTETE . DIES BEZIEHT SICH AUCH OHNE EINSCHRÄNKUNG AUF GARANTIEN , DASS DIESES DOKUMENT ODER VERÄNDERTE FASSUNGEN DIESES DOKUMENTS FREI VON HANDELSDEFEKTEN , FÜR EINEN BESTIMMTEN ZWECK GEEIGNET IST ODER DASS ES KEINE RECHTE DRITTER VERLETZT . DAS VOLLE RISIKO WAS QUALITÄT , GENAUIGKEIT UND LEISTUNG DES DOKUMENTS ODER VERÄNDERTE FASSUNGEN DES DOKUMENTS LIEGT BEI IHNEN . SOLLTE EIN DOKUMENT ODER EINE VERÄNDERTE FASSUNG DAVON FEHLER IRGENDEINER ART BEINHALTEN , TRAGEN SIE ( NICHT DER URSPRUNGSAUTOR , DER AUTOR ODER EIN MITWIRKENDER ) DIE KOSTEN FÜR NOTWENDIGE DIENSTLEISTUNGEN , REPARATUREN ODER FEHLERKORREKTUREN . DIESER HAFTUNGSAUSSCHLUSS IST EIN ESSENZIELLER TEIL DIESER LIZENZ . DIE VERWENDUNG EINES DOKUMENTS ODER EINER VERÄNDERTEN VERSION DES DOKUMENTS IST NICHT GESTATTET AUßER UNTER BEACHTUNG DIESES HAFTUNGSAUSSCHLUSSES UND
+UNTER KEINEN UMSTÄNDEN UND AUF BASIS KEINER RECHTSGRUNDLAGE , EGAL OB DURCH UNERLAUBTEN HANDLUNGEN ( EINSCHLIEßLICH FAHRLÄSSIGKEIT ) , VERTRAG ODER ANDERWEITIG KANN DER AUTOR , URSPRUNGSAUTOR , EIN MITWIRKENDER ODER EIN VERTRIEBSPARTNER DIESES DOKUMENTS ODER EINER VERÄNDERTEN FASSUNG DES DOKUMENTS ODER EIN ZULIEFERER EINER DIESER PARTEIEN , HAFTBAR GEMACHT WERDEN FÜR DIREKTE , INDIREKTE , SPEZIELLE , VERSEHENTLICHE ODER FOLGESCHÄDEN JEGLICHER ART , EINSCHLIEßLICH UND OHNE EINSCHRÄNKUNGEN SCHÄDEN DURCH VERLUST VON KULANZ , ARBEITSAUSFALL , COMPUTERVERSAGEN ODER COMPUTERFEHLFUNKTIONEN ODER ALLE ANDEREN SCHÄDEN ODER VERLUSTE , DIE SICH AUS ODER IN VERBINDUNG MIT DER VERWENDUNG DES DOKUMENTS UND VERÄNDERTER FASSUNGEN DES DOKUMENTS ERGEBEN , AUCH WENN DIE OBEN GENANNTEN PARTEIEN ÜBER DIE MÖGLICHKEIT SOLCHER SCHÄDEN INFORMIERT WAREN .
+Dieses Handbuch beschreibt Version 0.2 des Evince-Dokumentenbetrachters
+Zeigt das Hauptfenster von Evince-Dokumentenbetrachter . Enthält Titelleiste , Menüleiste , Werkzeugleiste und Anzeigebereich . Die Menüleiste beinhaltet Die Menüs Datei , Bearbeiten , Ansicht , Gehe zu und Hilfe .
+Die Werkzeugleiste enthält eine Auswahl der Befehle , die Sie über die Menüleiste erreichen .
+Der Anzeigebereich zeigt das Dokument an .
+In diesem Handbuch wird die Arbeitsweise über die Menüleiste beschrieben .
+Um ein Dokument zu öffnen , führen Sie die folgenden Schritte aus :
+Sie können wie folgt durch ein Dokument navigieren :
+Um Teile der Seite anzuzeigen , die sich gegenwärtig nicht im Anzeigebereich befinden , gehen Sie wie folgt vor :
+Verwenden Sie die Pfeiltasten oder die Leertaste auf der Tastatur .
+Klicken Sie mit der mittleren Maustaste auf eine beliebige Stelle des Anzeigebereichs , halten die Maustaste gedrückt und bewegen dann die Maus . Um beispielsweise auf einer Seite nach unten zu rollen , verschieben Sie den Anzeigebereich nach oben .
+Verwenden Sie die Rollbalken des Fensters .
+Um Vorschaubilder oder den Dokumenteninhalt anzuzeigen , führen Sie die folgenden Schritte aus :
+Verwenden Sie das Aufklappmenü in der Titelzeile der Seitenleiste , um auszuwählen , ob in der Seitenleiste Vorschaubilder oder der Dokumenteninhalt angezeigt werden sollen .
+Verwenden Sie die Rollbalken in der Seitenleiste , um zum gewünschten Eintrag in der Seitenleiste zu gelangen .
+Klicken Sie auf einen Eintrag oder ein Vorschaubild , um zu der gewünschten Stelle im Dokument zu gelangen .
+Wählen Sie eine der folgenden Optionen , um die Anzahl der zu druckenden Seiten zu bestimmen :
+Wählen Sie diese Option , um alle Seiten des Dokuments zu drucken .
+Wählen Sie diese Option , um die ausgewählten Seiten des Dokuments zu drucken . Verwenden Sie die Eingabefelder , um die erste und die letzte Seite des zu druckenden Bereichs anzugeben .
+Verwenden Sie das Aufklappmenü , um den Drucker auszuwählen , auf welchem Sie das Dokument ausgeben wollen .
+Verwenden Sie das Aufklappmenü , um die Druckeinstellungen zu ändern .
+Verwenden Sie dieses Aufklappmenü , um eines der folgenden Druckziele auszuwählen :
+Gibt das Dokument auf einem CUPS-Drucker aus .
+Druckt das Dokument auf einem Drucker .
+Druckt das Dokument in eine PostScript-Datei .
+Verwendet einen spezifischen Befehl zum Drucken des Dokuments .
+Geben Sie den Namen des Befehls in das Textfeld ein , einschließlich aller Befehlszeilenargumente .
+Verwenden Sie dieses Aufklappmenü , um die Papiergröße auszuwählen , die Sie für das Dokument verwenden möchten .
+Verwenden Sie dieses Einstellfeld , um die Breite des Papiers anzugeben . Im nebenstehenden Aufklappmenü können sie die verwendete Maßeinheit ändern .
+Verwenden Sie dieses Einstellfeld , um die Höhe des Papiers anzugeben .
+Verwenden Sie dieses Aufklappmenü , um die Orientierung des Papiereinzugs im Drucker auszuwählen .
+Verwenden Sie dieses Aufklappmenü , um die Seitenorientierung anzugeben .
+Verwenden Sie dieses Aufklappmenü , um das Papierfach auszuwählen .
+Um eine Datei zu kopieren , führen Sie die folgenden Schritte aus :
+Falls nötig , bestimmen Sie den Speicherort der Kopie . Als Standard werden Kopien in Ihrem persönlichen Ordner gespeichert .
+Ein Autor kann die folgenden Passwort-Stufen bestimmen , um ein Dokument zu schützen :
+Benutzerpasswort , das es anderen erlaubt , das Dokument nur zu lesen .
+Master-Passwort , das es anderen erlaubt , bestimmte zusätzliche Aktionen auszuführen , beispielsweise das Dokument zu drucken .
+Zu bestimmter Seite anhand Nummer oder Bezeichnung gehen

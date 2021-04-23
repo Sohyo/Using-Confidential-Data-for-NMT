@@ -1,0 +1,131 @@
+Select the video input device to use . If an error occurs when using this device a test picture will be transmitted .
+Select the transmitted video size : Small ( QCIF 176x144 ) or Large ( CIF 352x288 )
+The video channel number to use ( to select camera , tv or other sources )
+Select the format for video cameras ( does not apply to most USB cameras )
+The maximum transmitted frame rate in frames / s . This rate may not be reached in case a minimum quality was configure via a TSTO value smaller than 31 and the bitrate selected is not sufficient to support this minimum quality
+If enabled , use silence detection with the codecs supporting it
+Select an alternative audio output device to use for sound events .
+The sound that will be played on incoming calls , if enabled
+The chosen sound will be played on incoming calls , if enabled
+The sound that will be played when there is a new instant message , if enabled
+The chosen sound will be played when a new instant message is received , if enabled
+The sound that will be played when there is a new voice mail , if enabled
+The chosen sound will be played when a new voice mail is received , if enabled
+The chosen sound will be played when calling somebody , if enabled
+The sound that will be played when calling somebody , if enabled
+The chosen sound will be played at the end of calls or calling somebody who is busy , if enabled
+The sound that will be played at the end of calls or when calling somebody who is busy , if enabled
+The list of accounts to which Ekiga should register
+The port to listen to for incoming connections . Ekiga needs to be restarted for the new value to take effect
+The host where calls should be forwarded if call forwarding is enabled
+This allows you to set the mode for sending DTMFs . The values can be " RFC2833 " ( 0 ) , " INFO " ( 1 )
+The port to listen to for incoming connections . Ekiga needs to be restarted for the new value to take effect .
+The range of TCP ports that Ekiga will use for the H.323 H.245 channel . This port range has no effect if both participants to the conference are using H.245 Tunneling .
+The range of UDP ports that Ekiga will use .
+This enables H.245 Tunneling mode . In H.245 Tunneling mode H.245 messages are encapsulated into the H.225 channel ( port 1720 ) . This saves one TCP connection during calls . H.245 Tunneling was introduced in H.323v2 and Netmeeting does not support it . Using both Fast Start and H.245 Tunneling can crash some versions of Netmeeting .
+Connection will be established in Fast Start mode . Fast Start is a new way to start calls faster that was introduced in H.323v2. It is not supported by Netmeeting and using both Fast Start and H.245 Tunneling can crash some versions of Netmeeting
+This allows you to set the mode for sending DTMFs . The values can be " String " ( 0 ) , " Tone " ( 1 ) , " RFC2833 " ( 2 ) , " Q.931 " ( 3 ) ( default is " String " ) . Choosing other values than " String " disables the Text Chat
+If enabled , all incoming calls will be forwarded to the host that is specified in the field below
+Forward calls to the given host if busy
+If enabled , all incoming calls will be forwarded to the host that is specified in the field below if you already are in a call or if you are in Do Not Disturb mode
+Forward calls to the given host if no answer
+If enabled , all incoming calls will be forwarded to the host that is specified in the field below if you do not answer the call
+The STUN server to use for STUN Support . STUN is a technology that permits passage through some types of NAT gateway
+Disable the automatic network setup resulting from the STUN test
+Enter the number of seconds after which Ekiga should try refreshing the NAT binding when STUN is being used
+If enabled , Ekiga will start hidden provided that the notification area is present in the GNOME panel
+Position on the screen of the druid window
+Position on the screen of the audio settings window
+Position on the screen of the video settings window
+This key disables DirectX ( on win32 ) and XVideo ( on Linux ) video hardware acceleration
+Allow Ekiga to fall back to software scaling the picture-in-picture if hardware support is not available . If this is set to false , Ekiga will not try to open the PIP if hardware support is not available .
+Specify the software scaling algorithm : 0 : nearest neighbor , 1 : nearest neighbor with box filter , 2 : bilinear filtering , 3 : hyperbolic filtering . Does not apply on windows systems .
+The zoom value in percent to apply to images displayed in the main GUI ( can be 50 , 100 , or 200 )
+Place windows displaying video above other windows during calls
+The default video view ( 0 : Local , 1 : Remote , 2 : Both layered , 3 : Both with local video in a separate window , 4 : Both )
+The video view before having switched to fullscreen
+The video view before having switched to fullscreen ( same values as video _ view )
+The maximum jitter buffer size for audio reception ( in ms )
+The maximum TX video bitrate in kbit / s . The video quality and the number of transmitted frames per second ( depends on selected codec ) will be dynamically adjusted above their minimum during calls to try to minimize the bandwidth to the given value
+The maximum RX video bitrate in kbit / s . This value will be signaled to the peer endpoint that can adjust ( if it supports it ) its TX bitrate if it is above the signaled value
+Whether to prefer to sustain the max. frame rate or lower it possibly in order to keep a minimum level of ( spatial ) quality for all frames . 0 : Highest minimal quality , 31 : lowest minimal quality
+If enabled , offline contacts will be shown in the roster
+0 : 56Kbps , 1 : ISDN , 2 : DSL , 3 : LAN , 4 : Custom
+Automatically reject or forward incoming calls if no answer is given after the specified amount of time ( in seconds )
+Are you sure you want to remove % s from the addressbook ?
+Please provide a Book Name for this directory
+Please fill in this form to change an existing element of ekiga 's internal roster
+Please fill in this form to add a new contact to ekiga 's internal roster
+You already have a contact with this address !
+You did not supply a name for that account .
+You did not supply a host to register to .
+You did not supply a user name for that account .
+Ekiga did not manage to configure your network settings automatically . You can still use it , but you need to configure your network settings manually . Please see http : / / wiki.ekiga.org / index.php / Enable _ port _ forwarding _ manually for instructions
+Please fill in this form to add a new contact list to ekiga 's remote roster
+Please edit the following fields ( no identifier means global )
+Please fill in this form to create a new contact on a remote server
+Please fill in this form to change an existing contact on a remote server
+This is the Ekiga general configuration assistant . The following steps will set up Ekiga by asking a few simple questions . Once you have completed these steps , you can always change them later by selecting Preferences in the Edit menu .
+Please enter your first name and your surname :
+Your first name and surname will be used when connecting to other VoIP and videoconferencing software .
+The username and password are used to login to your existing account at the ekiga.net free SIP service . If you do not have an ekiga.net SIP address yet , you may first create an account below . This will provide a SIP address that allows people to call you . You may skip this step if you use an alternative SIP service , or if you would prefer to specify the login details later .
+I do not want to sign up for the ekiga.net free service
+You can make calls to regular phones and cell numbers worldwide using Ekiga . To enable this , you need to do two things : - First buy an account at the URL below . - Then enter your account ID and PIN code . The service will work only if your account is created using the URL in this dialog .
+I do not want to sign up for the Ekiga Call Out service
+DSL / Cable ( 128 kbit / s uplink )
+DSL / Cable ( 512 kbit / s uplink )
+The connection type will permit determining the best quality settings that Ekiga will use during calls . You can later change the settings individually in the preferences window .
+Please choose the audio ringing device :
+The audio ringing device is the device that will be used to play the ringing sound on incoming calls .
+Please choose the audio output device :
+The audio output device is the device that will be used to play audio during calls .
+Please choose the audio input device :
+The audio input device is the device that will be used to record your voice during calls .
+Please choose your video input device :
+The video input device is the device that will be used to capture video during calls .
+You have now finished the Ekiga configuration . All the settings can be changed in the Ekiga preferences . Enjoy !
+Ekiga Configuration Assistant ( % d of % d )
+This program is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+This program is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details . You should have received a copy of the GNU General Public License along with this program ; if not , write to the Free Software Foundation , Inc . , 51 Franklin St , Fifth Floor , Boston , MA 02110-1301 , USA .
+Ekiga is licensed under the GPL license and as a special exception , you have permission to link or otherwise combine this program with the programs OPAL , OpenH323 and PWLIB , and distribute the combination , without applying the requirements of the GNU GPL to the OPAL , OpenH323 and PWLIB programs , as long as you do follow the requirements of the GNU GPL for all the rest of the software thus combined .
+Ekiga is full-featured SIP and H.323 compatible VoIP , IP-Telephony and Videoconferencing application that allows you to make audio and video calls to remote users with SIP and H.323 hardware or software .
+Help display is not supported by your GTK + version
+No video will be displayed during this call- >
+There was an error opening or initializing the video output . Please verify that no other application is using the accelerated video output .
+There was an error opening or initializing the video output . Please verify that you are using a color depth of 24 or 32 bits per pixel .
+Error while accessing video device % s
+A moving logo will be transmitted during calls . Notice that you can always transmit a given image or the moving logo by choosing " Picture " as video plugin and " Moving logo " or " Static picture " as device .
+There was an error while opening the device . In case it is a pluggable device it may be sufficient to reconnect it . If not , or if it still is not accessible , please check your permissions and make sure that the appropriate driver is loaded .
+Could not open the chosen channel .
+Your driver doesn 't seem to support any of the color formats supported by Ekiga . Please check your kernel driver documentation in order to determine which Palette is supported .
+Error while opening audio input device % s
+Unable to open the selected audio device for recording . In case it is a pluggable device it may be sufficient to reconnect it . If not , or if it still is not accessible , please check your audio setup , the permissions and that the device is not busy .
+The selected audio device was successfully opened but it is impossible to read data from this device . In case it is a pluggable device it may be sufficient to reconnect it . If not , or if it still is not accessible , please check your audio setup .
+Error while opening audio output device % s
+No incoming sound will be played .
+Unable to open the selected audio device for playing . In case it is a pluggable device it may be sufficient to reconnect it . If not , or if it still is not accessible , please check your audio setup , the permissions and that the device is not busy .
+The selected audio device was successfully opened but it is impossible to write data to this device . In case it is a pluggable device it may be sufficient to reconnect it . If not , or if it still is not accessible , please check your audio setup .
+Do you want to use it as default device ?
+Get help by reading the Ekiga manual
+Enter a URI on the left , and click this button to place a call or to hangup
+Lost packets : % .1f % % Late packets : % .1f % % Out of order packets : % .1f % % Jitter buffer : % d ms % s % s % s
+Prints debug messages in the console ( level between 1 and 5 )
+Prints user plane debug messages in the console ( level between 1 and 4 )
+Ekiga didn 't find any usable audio plugin . Make sure that your installation is correct .
+Ekiga didn 't find any usable audio codec . Make sure that your installation is correct .
+If enabled , all incoming calls will be forwarded to the host that is specified in the protocol settings
+Forward calls to the given host if _ no answer
+If enabled , all incoming calls will be forwarded to the host that is specified in the protocol settings if you do not answer the call
+Forward calls to the given host if _ busy
+If enabled , all incoming calls will be forwarded to the host that is specified in the protocol settings if you already are in a call or if you are in Do Not Disturb mode
+Timeout to reject or forward unanswered incoming calls ( in seconds ) :
+Connection will be established in Fast Start mode . Fast Start is a new way to start calls faster that was introduced in H.323v2. It is not supported by Netmeeting and using both Fast Start and H.245 Tunneling can crash some versions of Netmeeting .
+This allows you to set the mode for DTMFs sending .
+Select the ringing audio device to use
+Click here to refresh the device list .
+If enabled , use silence detection with the codecs supporting it .
+If enabled , use echo cancelation .
+The maximum jitter buffer size for audio reception ( in ms ) .
+Choose if you want to guarantee a minimum image quality ( possibly leading to dropped frames in order not to surpass the bitrate limit ) or if you prefer to keep the frame rate .
+Maximum video _ bitrate ( in kbits / s ) :
+The maximum video bitrate in kbits / s . The video quality and the effective frame rate will be dynamically adjusted to keep the bitrate at the given value .

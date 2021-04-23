@@ -1,0 +1,18 @@
+Notes is an editor allowing to make simple lists for later use .
+It allows to use ownCloud as a storage location and online editor .
+The font name set here will be used as the font when displaying notes .
+Whether to use the system monospace font
+The color name set here will be used as the color when creating new notes .
+Primary notes provider to use for new notes .
+The primary notebook is the place where are created new notes .
+Window size ( width and height ) .
+Window position ( x and y ) .
+Take notes and export them everywhere .
+Your notes notebook is empty . Click the New button to create your first note .
+Please install ' Tracker ' then restart the application .
+Search note titles , content and notebooks
+View notes and notebooks in a list
+View notes and notebooks in a grid
+Enter a name to create a notebook
+No result found for this research .
+Click on the external notes to import

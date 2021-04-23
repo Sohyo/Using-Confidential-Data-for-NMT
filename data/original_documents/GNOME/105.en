@@ -1,0 +1,56 @@
+You can test out a disc integrity after burning it .
+Use an MD5 file to check the disk .
+An MD5 ( Message-Digest Algorithm 5 ) is a cryptographic hash function widely used for checking data integrity .
+If you choose this option , you will have to find the MD5 file by clicking in the folder icon placed below .
+Erase a rewritable CD or DVD by blanking it .
+You can prepare a rewritable disc , with existing data on it , for writing by blanking it .
+If you have problems writing to a disc which you fast blanked , try disabling fast blanking and blank it again .
+The disc may be ejected when the blanking is complete .
+Split an audio project track into multiple tracks .
+You can split a single audio track into multiple tracks when you put together an audio project .
+Start an audio project and add the tracks you wish to use .
+Select your preferred method of splitting the tracks :
+This option allows you to select the exact length of each new section of the track manually .
+Split track in parts with a fixed length
+Use this method to split the track into multiple sections of equal length .
+Split track in a fixed number of parts
+This method allows you to split the track into a set number of sections , all of which will be of the same length .
+If you try to split a track into a section less than six seconds long , the new section will be padded to make it 6 seconds long .
+Write a video to a DVD or SVCD .
+You can add a title for the disc in the text entry field below the project area .
+Select the blank disc in the drop down list .
+Save a project for editing or burning later .
+Create the project and add the files you wish to use to the project .
+opening the project from a file browser
+Burn an existing disc image to a CD or DVD .
+Disc images are archive files which contain all the data that is on a CD or DVD . Only one disc image can be on a CD at a time , but each archive can contain as little or as much data as you want , as long as it fits on the disc .
+To burn a disc image to a CD or DVD , follow these steps :
+Burn image Project New Project Burn image …
+Click here to select a disc image
+If you are using a re-writable disc , which already contains data , you will be asked if you want to blank it or insert a different disc .
+Create an identical copy of a disc .
+Disc copy Project New Project Copy Disc ...
+Choose whether you want to make a copy to another disc or create an image for later use .
+If you are copying the disc and have only one disc drive , you will be asked to replace the disc you are copying with a writable one after the contents are copied temporarily to your hard disk .
+Write data to a CD or DVD .
+A data project is used for writing data ( for example , files , photos or music ) to a disc , without changing those files in any way . This can be useful for transferring files between computers .
+If you are using a rewritable disc , which already contains data , you will be asked if you want to blank it or insert a different disc .
+If you are using a rewritable disc and the data is not burned correctly onto it , you may need to do a full ( non-fast ) blank of the disc before trying again .
+You can add a title for the CD in the text entry field below the project area .
+Select the blank CD in the drop down list .
+I cannot write to a DVD-R or a DVD-RW .
+Some types of DVD-Rs and DVD-RWs are not compatible with all burners . Check the following to find out if those can be used with your burner .
+Check if your DVD drive accepts DVD + or DVD- discs ; if it is labelled with " multi " , that usually indicates that it accepts both . Check your disc to see if it is the same as the DVD drive .
+Check if your disc is dual layer or single layer : some DVD drives can not write to a dual layer disc .
+If you are trying to use a DVD-R , check if it has already been written to before . If you are using a DVD-RW , try blanking it before you attempt to write to it .
+My MP3s will not play in a DVD or CD player .
+CD will not play in a CD player
+If your CD is not playing in your CD player or stereo , it is probably because the music was not correctly written to the disc or because you used a data project to write the music to the CD instead of an audio project .
+Many new CD and DVD players will play music CDs which were created using a data project , but most older players will not .
+Older CD players might not be able to play CD-RWs .
+If you are using a CD-RW , blank the CD .
+Rewrite the CD as an audio project .
+Burn audio CDs from digital audio files ( such as OGG , FLAC and MP3 )
+Check the integrity of discs and disc images
+Create an inlay for a jewel case .
+Choose the formatting you wish to use for the text and type the text , scrolling down to see the side and back inlay for the jewel case .

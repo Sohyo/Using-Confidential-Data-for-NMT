@@ -1,0 +1,86 @@
+Über ein Problem mit dem Bildbetrachter berichten
+File a Bug Core eog Bug Writing Guidelines durchsuchen
+Ihr Bericht erhält eine Kennungsnummer . Der Status des Berichts wird aktualisiert , sobald jemand sich darum kümmert . Die Fehlerbeseitigung kann eine gewisse Zeit in Anspruch nehmen . Die Softwareentwickler könnten Sie außerdem um weitere Informationen bitten , um die Ursache des Problems einzugrenzen.sort
+Einrichten des Bildbetrachters als Standardanwendung zum Betrachten von Bildern .
+Bildbetrachter Empfohlenen Anwendungen Weitere Anwendungen anzeigen Weitere Anwendungen Bildbetrachter Als Vorgabe festlegen
+In der Zukunft wird bei einem Doppelklick auf eine Datei dieses Typs diese im Bildbetrachter geöffnet .
+Verwenden Sie Ihr Lieblingsbild als Arbeitsflächenhintergrund .
+Der Bildbetrachter ist nur zur Bildanzeige gedacht und nicht zur Bildbearbeitung . Dafür müssen Sie ein Bearbeitungsprogramm verwenden , wie GIMP . So öffnen Sie ein Bild zum Bearbeiten in einer anderen Anwendung :
+Wählen Sie die Anwendung aus , mit der Sie Ihr Bild bearbeiten wollen .
+Sobald Sie die Bearbeitung beendet haben , speichern und schließen Sie die andere Anwendung .
+Bearbeiten In den Papierkorb verschieben In den Papierkorb verschieben
+Horizontal/ vertikal , mit dem oder gegen den Uhrzeigersinn
+Falls Ihre Bilder falsch ausgerichtet sind oder auf dem Kopf stehen , können Sie sie drehen oder spiegeln , um sie wieder richtig anzuzeigen .
+Anderenfalls speichern Sie das Bild nicht , und Sie werden es beim nächsten Öffnen in der originalen Ausrichtung vorfinden .
+Sie können Bilder von einem Format in ein anderes umwandeln , auch in einer Stapelverarbeitung mit mehreren Bildern .
+Bilder werden in einem spezifischen Dateiformat gespeichert , wie JPEG oder PNG . Sie können Umwandlungen von einem Dateiformat in ein anderes vornehmen .
+Umwandeln eines einzelnen Bildes in einen anderen Dateityp
+Umwandeln mehrerer Bilder in einen anderen Dateityp
+Sie können eine Anzahl von Bildern von einem Dateiformat in ein anderes in einem Arbeitsgang umwandeln . Dies ist sinnvoll , wenn Sie größere Mengen von Bildern umwandeln wollen .
+JPEG , PNG , BMP und andere .
+Der Bildbetrachter kann Bilder in folgenden Formaten speichern :
+Der Bildbetrachter deckt einen weiten Bereich von Grafikformaten ab , wie PNG , JPEG und TIFF .
+Der Bildbetrachter kann Bilder in den folgenden Formaten öffnen :
+JPEG/ JPG - Joint Photographic Experts Group
+PNM - Portable Anymap from the PPM Toolkit
+Bild » Bildname « konnte nicht geöffnet werden
+Eye of GNOME beinahe jeden Typs großen Bildersammlungen Diaschau Drehen oder Spiegeln umwandeln
+Creative Commons Attribution-Share Alike 3.0 United States License
+Als besondere Ausnahme erteilen Ihnen die Urheberrechtsinhaber die Genehmigung , den in diesem Dokument enthaltenen Beispielcode ohne Einschränkung unter den Bedingungen Ihrer Wahl zu verbreiten .
+Dieses Werk wird unter einer CreativeCommons-Lizenz » Attribution-Share Alike 3.0 Unported « verbreitet .
+Das Werk bzw. den Inhalt vervielfältigen , verbreiten und öffentlich zugänglich machen .
+Sie müssen den Namen des Autors/ Rechteinhabers in der von ihm festgelegten Weise nennen .
+Wenn Sie das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeiten oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwenden , dürfen Sie die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben , die mit denen dieses Lizenzvertrages identisch oder vergleichbar sind .
+Bilder in einem neuen Fenster öffnen .
+Sie können auch Bilder innerhalb des Bildbetrachters selbst öffnen :
+Informationen wie Kameraeinstellungen , Histogramm , Geoposition und Datum betrachten .
+Von Digitalkameras aufgenommene Bilder werden mit zusätzlichen eingebetteten Informationen gespeichert , zum Beispiel dem Aufnahmezeitpunkt , den Belichtungseinstellungen und in einigen Fällen auch dem Aufnahmeort .
+Dieses Thema erläutert , wie Sie auf diese Informationen zugreifen können .
+Das Aufnahmedatum des Bildes wird unten rechts in der Statuszeile des Fensters angezeigt .
+Exif-Anzeige Plugins Einstellungen Display camera settings in statusbar
+Die Karte zeigt den Aufnahmeort des Bildes an , sofern die Informationen zur Geoposition innerhalb der Bilddaten verfügbar sind . Viele Kameras zeichnen die Informationen zur Geoposition nicht auf .
+Aktiviert die Änderung der Hintergrundfarbe im Vollbildmodus .
+Falls gewünscht , können Sie die Farbe des Hintergrundes im Vollbildmodus ändern .
+eog-plugins Bearbeiten Einstellungen Plugins Vollbildhintergrund Einstellungen Schließen
+Nun wird im Vollbildmodus die von Ihnen gewählte Hintergrundfarbe verwendet._
+Den Vollbildmodus durch einen Doppelklick auf ein Bild aktivieren .
+Falls gewünscht , können Sie es so einrichten , dass durch Doppelklick auf Bilder im Bildbetrachter in den Vollbildmodus geschaltet wird .
+Bearbeiten Einstellungen Plugins Vollbildmodus durch Doppelklick Schließen
+Sobald aktiviert , wird durch einen Doppelklick auf ein Bild zwischen Vollbildmodus und gewöhnlichem Fenstermodus umgeschaltet .
+Übertragen Sie Bilder direkt aus dem Bildbetrachter zu PicasaWeb .
+Die Python-Konsole kann zum Hinzufügen von zusätzlichen Funktionen und Ausführen von Skripten im Bildbetrachter verwendet werden .
+Ein Bild als Anhang einer neuen E-Mail versenden .
+Sie können einen Knopf hinzufügen , über den Sie auf einfache Weise Bilder per E-Mail versenden können .
+Bearbeiten Einstellungen Plugins Als E-Mail versenden Schließen
+Fotos während einer Diaschau in einer zufälligen Reihenfolge anzeigen .
+Passt die Vergrößerungsstufe des Bildes so an , dass es in das Fenster eingepasst wird .
+Bearbeiten Einstellungen Plugins Vergrößerung auf Bildbreite anpassen Schließen
+Automatische Drehung des Bildes Exif-Metadaten das gedrehte Bild tatsächlich speichern
+Die automatische Ausrichtung funktioniert nicht bei allen Bildern , sondern nur bei Bildern , die mit einer Kamera aufgenommen wurden , die Exif-Metadaten zur Ausrichtung speichert .
+Wählen Sie eine der folgenden Optionen , um festzulegen , wie transparente Bereiche eines Bildes anzeigt werden sollen , falls vorhanden :
+Zeigt die transparenten Teile des Bildes in einem Karo-Muster an .
+Stellt transparente Teile des Bildes in einer von Ihnen festgelegten Farbe dar . Klicken Sie auf den Farbauswahl-Knopf , um eine Farbe auszuwählen .
+Hier können Sie einige zusätzliche Funktionsmerkmale aktivieren oder deaktivieren . Das Bild an der linken Seite zeigt die standardmäßig zur Verfügung stehenden Plugins .
+So drucken Sie das gegenwärtig angezeigte Bild :
+Die Position des Bildes in der Seite kann auch angepasst werden , in dem Sie es mit der Maus innerhalb der Ansicht verschieben .
+Automatisches Umbenennen und Nummerieren Ihrer Bilder .
+Falls Sie größere Mengen an Bildern umbenennen wollen , so dass sie einem gewissen Standard folgen :
+berlin_%f Dateinamen-Format blume.jpg haus.jpg katze.jpg berlin_blume.jpg berlin_haus.jpg berlin_katze.jpg
+sonnenschein_%n Dateinamen-Format haus.jpg blume.jpg katze.jpg sonnenschein_2.jpg sonnenschein_1.jpg sonnenschein_1.jpg
+Dies ist eine Liste aller Tastenkürzel , die Sie im Bildbetrachter verwenden können .
+Öffnen , Schließen , Speichern und Drucken
+Das Bild unter dem gleichen Dateinamen speichern
+Eine Kopie des Bildes unter einem anderen Dateinamen speichern
+Ein Bild kopieren und in eine andere Anwendung einfügen
+So betrachten Sie die Bilder in einem Ordner als Diaschau :
+Die Werkzeugleiste bietet leichten Zugriff auf Funktionsmerkmale wie Änderung der Vergrößerungsstufe und Drehung . Sie können sie ausblenden , wenn Sie sie als störend empfinden sollten oder sie Ihrer Meinung nach unnötig Platz verbraucht .
+Hinzufügen , Entfernen und neu Anordnen der Werkzeuge in der Werkzeugleiste .
+Die Standard-Werkzeugleiste enthält einen grundlegenden Satz an Werkzeugen . Sie können durch Bearbeitung der Werkzeugleiste weitere nützliche Einträge hinzufügen :
+Stellen Sie sicher , dass die Werkzeugleiste nicht verborgen ist .
+Durchsuchen der in einem Ordner enthaltenen Bilder
+Falls ein Ordner mehrere Bilder enthält , können Sie diese Bilder bequem durchsuchen , ohne sie einzeln öffnen zu müssen .
+Pfeiltaste hoch Pfeiltaste runter Leertaste Löschtaste Gehe zu Vorheriges Bild Gehe zu Nächstes Bild
+Klicken Sie auf ein Bild in der Bildersammlung , um es in voller Größe anzuzeigen .
+Sie können die Ansicht vergrößern oder verkleinern , um einen größeren oder kleineren Teil eines Bildes zu sehen . Dies ist sinnvoll , falls Sie ein großes Bild im Ganzen betrachten oder im umgekehrten Fall mehr Einzelheiten sehen wollen .
+Sie können die Vergrößerungsstufe mit dem Mausrad ändern . Rollen Sie zum Vergrößern nach oben beziehungsweise zum Verkleinern nach unten .
+Sie müssen den Flickr-Uploader installieren , um Fotos zu den Flickr-Fotoalben senden zu können .

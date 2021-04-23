@@ -1,0 +1,30 @@
+Leave fullscreen mode and go back to windowed mode
+Cheese uses your webcam to take photos and videos , applies fancy special effects and lets you share the fun with others .
+Take multiple photos in quick succession with burst mode . Use the countdown to give yourself time to strike a pose , and wait for the flash !
+Under the hood , Cheese uses GStreamer to apply fancy effects to photos and videos . With Cheese it is easy to take photos of you , your friends , pets or whatever you want and share them with others .
+Take photos and videos with your webcam , with fun graphical effects
+Set to true to show a countdown before taking a photo
+The duration of the countdown before taking a photo , in seconds
+Set to true to fire a flash before taking a photo
+The path to the device node which points to the camera , for example / dev / video0
+Name of the installed effect that was selected last
+The width of the image captured from the camera , in pixels
+The height of the image captured from the camera , in pixels
+The width of the video captured from the camera , in pixels
+The height of the video captured from the camera , in pixels
+Adjusts the brightness of the image coming from the camera
+Adjusts the contrast of the image coming from the camera
+Adjusts the saturation of the image coming from the camera
+Adjusts the hue ( color tint ) of the image coming from the camera
+Defines the path where the videos are stored . If empty , " XDG _ VIDEO / Webcam " will be used .
+Defines the path where the photos are stored . If empty , " XDG _ PHOTO / Webcam " will be used .
+The length of time , in milliseconds , to delay between taking each photo in a burst sequence of photos . If the burst delay is less than the countdown duration , the countdown duration will be used instead .
+The number of photos to take in a single burst .
+Failed to initialize device % s for capability probing
+Could not move % s to trash
+There was an error playing video from the webcam
+- Take photos and videos from your webcam
+Run ' % s --help ' to see a full list of available command line options .
+If set to true , Cheese will start up in wide mode , with the image collection placed on the right-hand side . Useful with small screens .
+If set to true , Cheese will start up in fullscreen mode .
+Another instance of Cheese is currently running

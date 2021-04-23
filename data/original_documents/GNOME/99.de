@@ -1,0 +1,64 @@
+Brasero ist eine Anwendung zum Brennen von CDs und DVDs .
+Dieses Handbuch ist Teil einer Sammlung von GNOME-Handbüchern , die unter der GFDL veröffentlicht werden . Wenn Sie dieses Handbuch getrennt von der Sammlung weiterverbreiten möchten , können Sie das tun , indem Sie eine Kopie der Lizenz zum Handbuch hinzufügen , wie es in Abschnitt 6 der Lizenz beschrieben ist .
+Viele der Namen , die von Unternehmen verwendet werden , um ihre Produkte und Dienstleistungen von anderen zu unterscheiden , sind eingetragene Warenzeichen . An den Stellen , an denen diese Namen in einer GNOME-Dokumentation erscheinen , werden die Namen in Großbuchstaben oder mit einem großen Anfangsbuchstaben geschrieben , wenn das GNOME-Dokumentationsprojekt auf diese Warenzeichen hingewiesen wird .
+DIESES DOKUMENT WIRD » WIE VORLIEGEND « GELIEFERT , OHNE GARANTIEN IRGENDEINER ART , SOWOHL AUSDRÜCKLICH GENANNTE ALS AUCH ANGEDEUTETE . DIES BEZIEHT SICH AUCH OHNE EINSCHRÄNKUNG AUF GARANTIEN , DASS DIESES DOKUMENT ODER VERÄNDERTE FASSUNGEN DIESES DOKUMENTS FREI VON HANDELSDEFEKTEN , FÜR EINEN BESTIMMTEN ZWECK GEEIGNET IST ODER DASS ES KEINE RECHTE DRITTER VERLETZT . DAS VOLLE RISIKO WAS QUALITÄT , GENAUIGKEIT UND LEISTUNG DES DOKUMENTS ODER VERÄNDERTE FASSUNGEN DES DOKUMENTS LIEGT BEI IHNEN . SOLLTE EIN DOKUMENT ODER EINE VERÄNDERTE FASSUNG DAVON FEHLER IRGENDEINER ART BEINHALTEN , TRAGEN SIE ( NICHT DER URSPRUNGSAUTOR , DER AUTOR ODER EIN MITWIRKENDER ) DIE KOSTEN FÜR NOTWENDIGE DIENSTLEISTUNGEN , REPARATUREN ODER FEHLERKORREKTUREN . DIESER HAFTUNGSAUSSCHLUSS IST EIN ESSENZIELLER TEIL DIESER LIZENZ . DIE VERWENDUNG EINES DOKUMENTS ODER EINER VERÄNDERTEN VERSION DES DOKUMENTS IST NICHT GESTATTET AUßER UNTER BEACHTUNG DIESES HAFTUNGSAUSSCHLUSSES UND
+UNTER KEINEN UMSTÄNDEN UND AUF BASIS KEINER RECHTSGRUNDLAGE , EGAL OB DURCH UNERLAUBTEN HANDLUNGEN ( EINSCHLIEßLICH FAHRLÄSSIGKEIT ) , VERTRAG ODER ANDERWEITIG KANN DER AUTOR , URSPRUNGSAUTOR , EIN MITWIRKENDER ODER EIN VERTRIEBSPARTNER DIESES DOKUMENTS ODER EINER VERÄNDERTEN FASSUNG DES DOKUMENTS ODER EIN ZULIEFERER EINER DIESER PARTEIEN , HAFTBAR GEMACHT WERDEN FÜR DIREKTE , INDIREKTE , SPEZIELLE , VERSEHENTLICHE ODER FOLGESCHÄDEN JEGLICHER ART , EINSCHLIEßLICH UND OHNE EINSCHRÄNKUNGEN SCHÄDEN DURCH VERLUST VON KULANZ , ARBEITSAUSFALL , COMPUTERVERSAGEN ODER COMPUTERFEHLFUNKTIONEN ODER ALLE ANDEREN SCHÄDEN ODER VERLUSTE , DIE SICH AUS ODER IN VERBINDUNG MIT DER VERWENDUNG DES DOKUMENTS UND VERÄNDERTER FASSUNGEN DES DOKUMENTS ERGEBEN , AUCH WENN DIE OBEN GENANNTEN PARTEIEN ÜBER DIE MÖGLICHKEIT SOLCHER SCHÄDEN INFORMIERT WAREN .
+Dieses Handbuch beschreibt Version 2.26 von Brasero .
+Daten auf CD-R/ Ws und DVD-R/ Ws brennen
+Audio-CDs aus digitalen Audio-Dateien erstellen ( wie ogg , flac oder mp3 )
+Die Unversehrtheit von CDs/ DVDs oder Abbildern überprüfen
+Das Hauptfenster von Brasero . Zeigt die Menüleiste und die fünf Projekttypen , aus denen Sie wählen können .
+Dieser Abschnitt erläutert die Erstellung einer Audio-CD . Dieses Projekt nimmt die ausgewählten Audio-Dateien , wandelt sie in ein unkomprimiertes Audio-Datenformat um und schreibt die Dateien auf eine CD , welche auf gewöhnlichen CD-Spielern wiedergegeben werden kann .
+Legen Sie eine leere CD-R in Ihr Laufwerk ein .
+Dateien anhand Stichwörter suchen Wiedergabelisten und deren Inhalte anzeigen
+Tragen Sie in das Textfeld den Titel ein , den Sie der CD oder DVD geben wollen . Dieser Titel wird als Name der CD oder DVD angezeigt .
+Schauen Sie beim Hinzufügen von Dateien nach der Statusleiste am unteren Rand des Fensters , um zu sehen , wieviel Platz Sie auf Ihrer CD/ DVD verwenden .
+Wählen Sie den Titel aus , nach welchem Sie die Pause hinzufügen wollen .
+Teilen Bearbeiten Titel teilen ... Titel teilen
+Wählen Sie dies aus , um die Teilung anhand einer Zeitangabe durchzuführen . Ein Schieberegler wird angezeigt , sowie eine Vorschau der Audiodatei .
+Titel in Teile mit fester Länge teilen
+Wählen Sie dies , um den Titel in einzelne Abschnitte festgelegter Länge zu teilen , wobei Sie die Länge der Abschnitte angeben .
+Titel in feste Anzahl von Teilen teilen
+Wählen Sie dies , um die Anzahl der Abschnitte zu bestimmen , in die der Titel geteilt werden soll . Sie können das angezeigte Einstellfeld verwenden , um die Anzahl der Abschnitte anzugeben .
+Wählen Sie dies aus , um den Titel an einer geräuschlosen Stelle zu teilen .
+Vor dem Start des Brennvorgangs ist es möglich , einige der Brenneinstellungen zu ändern .
+Die CD/ DVD für das spätere Anhängen neuer Daten-Sessions offenhalten
+Legen Sie eine leere CD-R/ W oder DVD-R/ W in Ihr Laufwerk ein .
+Geben Sie im Textfeld eine Bezeichnung zur Identifizierung der CD/ DVD ein . Diese Bezeichnung wird als Name der CD/ DVD angezeigt .
+Wählen Sie diese Option , wenn Sie beabsichtigen , die CD/ DVD auf Windows-Rechnern benutzbar zu machen . Die Dateien auf der CD/ DVD werden überprüft , um sicherzustellen , dass die Dateinamen keine unter Windows ungültigen Zeichen enthalten .
+Die CD/ DVD für das spätere Anhängen neuer Dateien offenhalten
+Legen Sie eine leere CD oder DVD in Ihr Laufwerk ein .
+Im links befindlichen Seitenfenster können sie das Dateisystem nach Videodateien durchsuchen .
+Legen Sie die CD oder DVD , welche Sie kopieren wollen , in Ihr Laufwerk ein .
+CD/ DVD kopieren Projekt Neues Projekt CD/ DVD kopieren
+Vor dem Start des Kopiervorgangs können Sie einige der Optionen für den Kopier- und Brennvorgang anpassen .
+Wählen Sie in der Auswahlliste die CD/ DVD aus , die Sie kopieren wollen .
+Wählen Sie das für das Brennen der CD/ DVD zu benutzende Laufwerk aus .
+Falls Sie mehrere Laufwerke auf Ihrem System haben , können Sie eines als Quelllaufwerk und das andere als Ziellaufwerk verwenden . Falls Sie das nicht tun , werden Sie dazu aufgefordert , die zu kopierende CD oder DVD aus dem Laufwerk zu entfernen und eine leere CD oder DVD einzulegen .
+Abbild brennen Projekt Neues Projekt Abbild brennen
+Vor dem Start des Abbild-Brennvorgangs können Sie einige der Brenneinstellungen anpassen .
+Abbilddatei auswählen Lassen Sie Brasero wählen ( am sichersten )
+Vor dem Starten des Brennvorgangs ist es möglich , einige der Eigenschaften des zu verwendenden Brenner-Laufwerks anzupassen .
+Wählen Sie in der Auswahlliste die Schreibgeschwindigkeit aus . Schauen Sie auf der Hülle der CD/ DVD nach , um den besten Wert zu ermitteln .
+Das Brennen eines Mediums mit einer höheren als der unterstützten Maximalgeschwindigkeit kann zu einer unlesbaren CD/ DVD führen . Wählen Sie niedrigere Schreibgeschwindigkeiten , um dies zu verhindern .
+Abbild direkt brennen , ohne es vorher auf der Festplatte zu speichern
+Wählen Sie diese Option , wenn Sie das Abbild direkt auf eine CD/ DVD brennen wollen , ohne es auf der Festplatte zu speichern , und ohne ein Abbild zu erstellen .
+Wählen Sie diese Option , um den Brennvorgang zu simulieren , dabei wird kein wirkliches Brennen durchgeführt . Falls der Vorgang erfolgreich verläuft , startet Brasero den wirklichen Brennvorgang nach einer Pause von 10 Sekunden . Während dieser Pause wird ein Dialog angezeigt , der Ihnen den Abbruch des aktuellen Brennvorgangs ermöglicht . Dies ist nützlich für Testzwecke , falls das Brennen von CDs/ DVDs Probleme bereiten sollte .
+Wählen Sie diese Option , wenn Sie die CD/ DVD nach dem Beenden des Brennvorgangs aus dem Laufwerk auswerfen wollen .
+Wählen Sie in der Auswahlliste den Ordner aus , der für die Zwischenspeicherung der beim Brennvorgang angelegten Dateien verwendet werden soll .
+Geben Sie den für die gebrannte CD/ DVD zu verwendenden Namen ein .
+Sobald Sie ein Projekt geöffnet haben , können Sie Dateien hinzufügen oder daraus entfernen , es auf eine CD oder DVD brennen , und es dann wieder für die spätere Verwendung speichern .
+Stellen Sie sicher , dass das zu löschende Medium auch löschbar ist . Ziehen Sie gegebenenfalls die Verpackung des Mediums zu Rate .
+Legen Sie die zu löschende CD oder DVD in Ihr Laufwerk ein .
+Der Löschprozess wird alle Daten auf dem Medium unwiderruflich zerstören .
+Schnelles Löschen stellt eine Möglichkeit dar , eine CD/ DVD schnell zu löschen . Diese Methode ist wesentlich schneller als das vollständige Löschen . Schnelles Löschen ist ausreichend , um eine CD/ DVD wiederbeschreiben zu können .
+Der vollständige Löschvorgang ist langsamer , aber sicherer , weil dabei alle Spuren vorhergehender Daten entfernt werden . Daten , die durch schnelles Löschen von CDs/ DVDs entfernt wurden , lassen sich mit speziellen Werkzeugen wiederherstellen .
+Überprüfen der Unversehrtheit einer CD oder DVD
+Die Überprüfung der Unversehrtheit einer CD oder DVD stellt sicher , dass die auf die CD oder DVD geschriebenen Dateien intakt sind und nicht während des Brennvorgangs beschädigt wurden .
+Legen Sie die zu überprüfende CD oder DVD in das Laufwerk ein .
+Zur Überprüfung der CD/ DVD eine MD5-Datei verwenden
+Brasero Die Dateiüberprüfung war erfolgreich Fehler bei der Dateiüberprüfung
+Mit dem Cover-Editor können Sie die Schriftart , die Anordnung und die Farbe aller Texte sowie die Hintergrundeigenschaften des Vorderseiten- und Rückseiten-Covers festlegen .
+Es ist möglich , den Hintergrund entweder mit einem Bild , einer einfachen Farbe , oder einem Farbverlauf zu füllen .
+Falls Sie einen Farbverlauf ausgewählt haben , zeigt der Farbwähler zwei Knöpfe an . Der linke Knopf bezieht sich auf die Ausgangsfarbe des Farbverlaufs , der rechte auf die Farbe , in die der Verlauf übergeht .
+Für die Nutzung einiger der hier aufgelisteten Plugins könnte es notwendig sein , weitere Anwendungen auf Ihrem System zu installieren . Weitere Informationen finden Sie in der Dokumentation zu Ihrem Betriebssystem .

@@ -1,0 +1,105 @@
+http:/ /www.google.de/ search ? q=%samp ; ie=UTF-8amp ; oe=UTF-8
+Deaktiviert das Laden von Inhalten mit Hilfe unsicherer Protokolle , wobei http : und https : sichere Protokolle sind .
+Eine Liste der zusätzlich zur Vorgabe als sicher anzusehenden Protokolle . Dieser Schlüssel wird ausschließlich wirksam , falls der Schlüssel » disable_unsafe_protocols « wahr ist .
+Dem Benutzer die Möglichkeit nehmen , eine URL für Epiphany einzugeben .
+Dem Benutzer die Möglichkeit nehmen , seine Lesezeichen zu bearbeiten .
+Dem Benutzer die Möglichkeit nehmen , seine Werkzeugleisten zu bearbeiten .
+Alle Chronik-Informationen durch Deaktivieren der Navigationsknöpfe » Zurück « und » Vor « verbergen . Dies betrifft auch den Chronik-Dialog und die Lesezeichen .
+Dem Benutzer ist nicht gestattet , Epiphany zu beenden
+Die Zeitspanne , über die Seiten in der Chronik angezeigt werden sollen . Zulässige Werte : » ever « ( alle ) , » last_two_days « ( letzte zwei Tage ) , » last_three_days « ( letzte drei Tage ) sowie » today « ( heute ) .
+Die in der Editoransicht angezeigte Lesezeicheninformationen . Zulässige Listenwerte : » address « ( Adresse ) sowie » title « ( Titel ) .
+Die in der Chronikansicht angezeigten Seiteninformationen . Zulässige Listenwerte : » ViewTitle « ( Titel ) , » ViewAdress « ( Adresse ) sowie » ViewDateTime « ( Datum und Uhrzeit )
+Die Sprache der momentan gewählten Schrift . Zulässige Werte : » ar « ( Arabisch ) , » x-baltic « ( Baltische Sprachen ) , » x-central-euro « ( Zentraleuropäische Sprachen ) , » x-cyrillic « ( im Kyrillischen Alphabet notierte Sprachen ) , » el « ( Griechisch ) , » he « ( Hebräisch ) , » ja « ( Japanisch ) , » ko « ( Koreanisch ) , » zh-CN « ( Chinesisch , vereinfacht ) , » th « ( Thai ) , » zh-TW « ( Chinesisch , traditionell ) , » tr « ( Türkisch ) , » x-unicode « ( übrige Sprachen ) , » x-western « ( In lateinischer Schrift notierte Sprachen ) , » x-tamil « ( Tamil ) sowie » x-devanagari « ( Devanagari ) .
+Eigene anstelle der vom Dokument angeforderten Farben verwenden ?
+Eigene anstelle der vom Dokument angeforderten Schriften verwenden ?
+Soll die Reiterleiste auch angezeigt werden , wenn nur ein Reiter geöffnet ist ?
+Wenn Dateien nicht vom Browser geöffnet werden können , werden sie automatisch in den Download-Ordner heruntergeladen und mit der passenden Anwendung geöffnet .
+Mittelklick öffnet Website , auf den markierter Text verweist
+Soll ein Mittelklick auf das Hauptansichtsfeld die Website öffnen , auf die der momentan markierte Text verweist ?
+Knopfbeschriftungen in Werkzeugleisten . Erlaubte Werte sind » « ( benutzt Vorgabe von GNOME ) , » both « ( Text unter Symbolen ) , » both-horiz « ( Text neben Symbolen ) , » icons « ( nur Symbole ) und » text « ( nur Text ) .
+Neue Fenster immer als Reiter anstatt Fenstern öffnen .
+Der voreingestellte Zeichensatz . Zulässige Werte : » armscii-8 « , » Big5 « , » Big5-HKSCS « , » EUC-JP « , » EUC-KR « , » gb18030 « , » GB2312 « , » geostd8 « , » HZ-GB-2312 « , » IBM850 « , » IBM852 « , » IBM855 « , » IBM857 « , » IBM862 « , » IBM864 « , » IBM866 « , » ISO-2022-CN « , » ISO-2022-JP « , » ISO-2022-KR « , » ISO-8859-1 « , » ISO-8859-2 « , » ISO-8859-3 « , » ISO-8859-4 « , » ISO-8859-5 « , » ISO-8859-6 « , » ISO-8859-7 « , » ISO-8859-8 « , » ISO-8859-8-I « , ISO-8859-9 « , » ISO-8859-10 « , » ISO-8859-11 « , » ISO-8859-13 « , » ISO-8859-14 « , » ISO-8859-15 « , » ISO-8859-16 « , » ISO-IR-111 « , » KOI8-R « , » KOI8-U « , » Shift_JIS « , » TIS-620 « , » UTF-7 « , » UTF-8 « , » VISCII « , » windows-874 « , » windows-1250 « , » windows-1251 « , » windows-1252 « , » windows-1253 « , » windows-1254 « , » windows-1255 « , » windows-1256 « , » windows-1257 « , » windows-1258 « , » x-euc-tw « , » x-gbk « , » x-johab « , » x-mac-arabic « , » x-mac-ce « , » x-mac-croatian « , » x-mac-cyrillic « , » x-mac-devanagari « , » x-mac-farsi « , » x-mac-greek « , » x-mac-gujarati « , » x-mac-gurmukhi « , » x-mac-hebrew « , » x-mac-icelandic « , » x-mac-roman « , » x-mac-romanian « , » x-mac-turkish « , » x-mac-ukrainian « , » x-user-defined « , » x-viet-tcvn5712 « , » x-viet-vps « sowie » x-windows-949 « .
+Der voreingestellte Schrifttyp . Zulässige Werte : » serif « sowie » sans-serif « .
+Die Größe des Platten-Caches in MB .
+Bevorzugte Sprachen , jeweils als 2-Buchstaben-Kürzel .
+Soll der Titel einer Seite beim Drucken in der Kopfzeile ausgegeben werden ?
+Soll die Adresse einer Seite beim Drucken in der Kopfzeile ausgegeben werden ?
+Soll das Datum beim Drucken in der Fußzeile ausgegeben werden ?
+Soll die Seitennummerierung ( x von y ) beim Drucken in der Fußzeile ausgegeben werden ?
+Legt fest , wie Seiten mit Frames gedruckt werden . Mögliche Werte sind » normal « ( normal ) , » separately « ( separat ) und » selected « ( ausgewählte ) .
+Der Pfad des Ordners , in dem heruntergeladene Dateien gespeichert werden sollen ; alternativ wählt » Downloads « den voreingestellten Ordner für heruntergeladene Dateien und » Desktop « die Arbeitsfläche .
+Von wo sollen Cookies akzeptiert werden ? . Zulässige Werte : » anywhere « ( von allen Seiten ) , » current site « ( nur von der momentan angezeigten Seite ) sowie » nowhere « ( keinesfalls akzeptieren ) .
+Legt fest , wie animierte Bilder dargestellt werden . Mögliche Werte sind » normal « ( normal ) , » once « ( einmalig abspielen ) und » disabled « ( nicht abspielen ) .
+Sollen Passwörter gespeichert und automatisch in Formulare eingetragen werden ?
+Aufgerufenen Seiten das Öffnen neuer Fenster mittels JavaScript erlauben ( falls JavaScript erlaubt wurde ) ?
+Legt fest , ob das Downloads-Fenster angezeigt oder verborgen wird . Wenn es verborgen wird , so informiert eine Benachrichtigung über den Start neuer Downloads .
+Um zu bestätigen , dass Sie den obigen Text signieren möchten , wählen Sie bitte ein Zertifikat aus und geben dessen Passwort ein .
+Seiten das Verwenden von eigenen _Schriftarten erlauben
+Seiten das Verwenden von eigenen _Farben erlauben
+Zum Beispiel nicht von Werbekunden dieser Seite
+Datei » %s « wurde heruntergeladen .
+Die Datei » %s « wurde zum Herunterladen markiert
+Dateityp : » %s « Es ist nicht sicher , » %s « zu öffnen , da es möglicherweise Ihre Dokumente beschädigen oder in Ihre Privatsphäre eindringen kann . Sie können die Datei stattdessen speichern .
+Dateityp : » %s « Sie können » %s « mit » %s « öffnen oder es abspeichern .
+Dateityp : » %s « Keine installierte Anwendung ist in der Lage , » %s « zu öffnen . Sie können die Datei stattdessen speichern .
+Epiphany kann im Moment nicht verwendet werden , da die Initialisierung gescheitert ist .
+Warten auf Legitimation von » %s «
+Unbekannte Version der Desktop-Datei » %s «
+Die Anwendung unterstützt keine Dokumente über die Befehlszeile
+Dokumentadressen könne nicht an einem Desktop-Eintrag mit » Type=Link « übergeben werden
+Das gewählte Objekt auf der Werkzeugleiste verschieben
+Das gewählte Objekt aus der Werkzeugleiste entfernen
+Temporärer Ordner konnte nicht in » %s « angelegt werden .
+Die Datei » %s « existiert , bitte entfernen Sie sie von dort .
+Ordner » %s « konnte nicht angelegt werden .
+Ordner » %s « ist nicht beschreibbar
+Sie haben nicht die nötigen Zugriffsrechte um in diesem Ordner Dateien zu erstellen .
+Vorhandene Datei » %s « kann nicht überschrieben werden
+Eine Datei mit diesem Namen ist bereits vorhanden . Beim Überschreiben dieser Datei geht ihr Inhalt verloren .
+Hilfe konnte nicht angezeigt werden : %s
+%-d . %b %-H:%Mfriendly timeFeb 12 1997
+Ziehen Sie dieses Symbol und legen Sie es ab , um einen Link zu dieser Seite zu erstellen
+Führt das Script » %s « aus
+Soll das Lesezeichen » %s « aktualisiert werden ?
+Die gemerkte Seite befindet sich nun unter » %s « .
+Das gewählte Lesezeichen in einem neuen Fenster öffnen
+Das gewählte Lesezeichen in einem neuen Reiter öffnen
+Die Eigenschaften des gewählten Lesezeichens anzeigen / bearbeiten
+Lesezeichen aus einem anderen Browser oder einer Lesezeichendatei importieren
+Das gewählte Lesezeichen auf einer Werkzeugleiste anzeigen
+Sowohl die Titel- als auch die Adressspalte anzeigen
+Soll das Thema » %s « gelöscht werden ?
+Das Löschen dieses Themas hat zur Folge , dass alle in ihm enthaltenen Lesezeichen unzugeordnet sein werden , sofern sie zu keinem anderen Thema gehören . Die Lesezeichen werden nicht gelöscht .
+Die Lesezeichen von » %s « konnten nicht importiert werden , da die Datei beschädigt ist oder ihr Format nicht unterstützt wird .
+Dieses Lesezeichen in einem neuen Reiter öffnen
+Dieses Lesezeichen in einem neuen Fenster öffnen
+Lesezeichen in diesem Thema in neuen Reitern öffnen
+Den gewählten Chronik-Link in einem neuen Fenster öffnen
+Den gewählten Chronik-Link in einem neuen Reiter öffnen
+Das Leeren der Browser-Chronik sorgt dafür , dass alle Links in der Chronik dauerhaft gelöscht werden .
+Einen neuen Reiter in einem bestehenden Fenster öffnen
+Der Webbrowser konnte nicht gestartet werden : %s
+Passwörter der vorhergehenden Version ( Gecko ) sind mit einem Master-Passwort gesperrt . Wenn Epiphany sie importieren soll , dann geben Sie bitte das Master-Passwort unten ein .
+Abbruch der Profilmigration : Lesen der letzten Migrationsmarkierung fehlgeschlagen .
+Es werden noch Dateien heruntergeladen . Wenn Sie sich abmelden , werden diese Downloads abgebrochen und gehen verloren .
+Sollen vorherige Browser-Fenster und -Reiter wiederhergestellt werden ?
+Epiphany scheint beim letzten Mal abgestürzt oder abgewürgt worden zu sein . Sie können die geöffneten Fenster und Reiter wiederherstellen .
+Diese Seite wurde geladen als der Webbrowser unerwartet beendet wurde . Dies passiert möglicherweise wieder , wenn Sie diese Seite erneut laden . Falls dies der Fall ist , so melden Sie das Problem den %s-Entwicklern .
+Dieser Link benötigt eine installierte Sidebar-Erweiterung .
+Textauswahl per Tastatur , F7 zum Umschalten
+Geben Sie eine zu öffnende Website oder einen Begriff ein , nach dem das Web durchsucht werden soll
+Einen Link auf die momentan geöffnete Seite verschicken
+Ein Wort oder eine Zeichenkette in der Seite finden
+Die nächste Stelle suchen , an der diese Zeichenkette vorkommt
+Die vorherige Stelle suchen , an der diese Zeichenkette vorkommt
+Ein Lesezeichen für die momentan geöffnete Seite hinzufügen
+Unangeforderte Popup-Fenster von dieser Seite anzeigen/ verbergen
+Einige Änderungen an Formularelementen wurden nicht übertragen
+Falls Sie das Dokument dennoch schließen , gehen diese Informationen verloren .
+Bild » %s « als Hintergrundbild verwenden
+Wählen Sie die persönlichen Daten , die gelöscht werden sollen
+Sie sind im Begriff persönliche Daten über Ihre besuchten Webseiten zu löschen . Überprüfen Sie die Art der zu löschenden Informationen bevor Sie fortfahren :
+Der Webbrowser ist freie Software . Sie können ihn unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung des Webbrowsers erfolgt in der Hoffnung , dass er Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizierte Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit dem Webbrowser erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA .
+Lässt Sie Webseiten betrachten und Informationen im Internet finden . Verwendet WebKit

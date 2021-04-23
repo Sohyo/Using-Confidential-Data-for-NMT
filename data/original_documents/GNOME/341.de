@@ -1,0 +1,103 @@
+Das » BlueZ«-Backend wird deaktiviert , da die » BlueZ 5«-Objektverwaltung nicht läuft . Entweder ist Ihre » BlueZ«-Installation zu alt ( es wird nur Version 5 unterstützt ) oder der Dienst kann nicht gestartet werden .
+Fehler beim Verbinden mit dem OBEX Transferdienst über D-Bus . Stellen Sie sicher , dass » BlueZ « und » obexd « installiert sind .
+Fehler beim Lesen der übertragenen Adressbuch-Datei : %s «
+Fehler beim Übertragen des Adressbuchs » %s « vom Bluetooth-Gerät » %s « .
+Zugriff auf das Adressbuch des Bluetooth-Gerätes » %s « wurde durch den Benutzer verweigert .
+Eine OBEX-Übertragung des Adressbuchs von Gerät » %s « konnte nicht gestartet werden : %s
+Die OBEX-Übertragung des Adressbuchs von Gerät » %s « ist fehlgeschlagen : %s
+Fehler beim Übertragen des Adressbuchs vom Bluetooth-Gerät » %s « : %s
+Bluetooth-Gerät » %s « verschwand während der Adressbuchübertragung .
+Das Adressbuch » %s « ist nicht verfügbar , daher kann der Kontakt » %s « nicht entfernt werden .
+Kontakt » %s « kann nicht entfernt werden : %s
+Das Entfernen von Kontakten wird für diesen Personenspeicher nicht unterstützt : %s
+Kontakt » %s « konnte nicht entfernt werden : %s
+Das Adressbuch » %s « ist nicht verfügbar .
+Der Zugriff zum Öffnen des Adressbuchs » %s « wurde verweigert : %s
+Adressbuch » %s « konnte nicht geöffnet werden : %s
+Fähigkeiten des Adressbuchs konnten nicht ermittelt werden : %s
+Ansicht für Adressbuch » %s « konnte nicht abgerufen werden .
+Ansicht für Adressbuch » %s « konnte nicht abgerufen werden : %s
+Das Ändern der Eigenschaft » %s « ist wegen Zeitüberschreitung fehlgeschlagen .
+Benutzerbild ist für diesen Kontakt schreibgeschützt .
+Webdienst-Adressen sind für diesen Kontakt schreibgeschützt .
+URLs sind für diesen Kontakt schreibgeschützt .
+Lokale Kennungen sind für diesen Kontakt schreibgeschützt .
+Der Kontakt kann nicht als Favorit markiert werden .
+Benutzerbild kann nicht aktualisiert werden : %s
+E-Mail-Adressen sind für diesen Kontakt schreibgeschützt .
+Telefonnummern sind für diesen Kontakt schreibgeschützt .
+Postanschriften sind für diesen Kontakt schreibgeschützt .
+Der vollständige Name ist für diesen Kontakt schreibgeschützt .
+Der Spitzname ist für diesen Kontakt schreibgeschützt .
+Notizen sind für diesen Kontakt schreibgeschützt .
+Der Geburtstag ist für diesen Kontakt schreibgeschützt .
+Funktionen sind für diesen Kontakt schreibgeschützt .
+Der strukturierte Name ist für diesen Kontakt schreibgeschützt .
+Sofortnachrichtenadressen sind für diesen Kontakt schreibgeschützt .
+Gruppen sind für diesen Kontakt schreibgeschützt .
+» Meine Kontakte « ist nur für Google-Kontakte verfügbar .
+Das Geschlecht ist für diesen Kontakt schreibgeschützt .
+Anti-Links sind für diesen Kontakt schreibgeschützt .
+Ort ist für diesen Kontakt schreibgeschützt .
+Die Eigenschaft » %s « ist schreibgeschützt : %s
+Ungültiger Wert für Eigenschaft » %s « : %s
+Unbekannter Fehler beim Setzen der Eigenschaft » %s « : %s
+Die Beziehungs-Schlüsseldatei » %s « konnte nicht geladen werden : %s
+Die Beziehungs-Schlüsseldatei » %s « konnte nicht erzeugt werden : %s
+Die Beziehungs-Schlüsseldatei » %s « konnte nicht erzeugt werden : %s
+Aktualisierte Schlüsseldatei » %s « konnte nicht geschrieben werden : %s
+Ungültige Sofortnachrichtenadresse » %s « für Protokoll » %s « : %s
+Daten konnten nicht aus Schlüsseldatei geladen werden : %s
+libsocialweb-Dienst konnte nicht vorbereitet werden : %s
+Das » oFono«-Backend wird deaktiviert , da die » oFono«-Objektverwaltung nicht läuft . Entweder ist » oFono « nicht installiert oder der Dienst kann nicht gestartet werden .
+Telepathy-Kontakte , die den lokalen Benutzer verkörpern , können nicht entfernt werden .
+Entfernen einer Person aus dem Speicher ist fehlgeschlagen : %s
+Personenspeicher ( %s , %s ) erfordert die folgenden Details : Kontakt ( angegeben : » %s « )
+Ein neuer Telepathy-Kontakt kann im Offline-Modus nicht erstellt werden .
+Hinzufügen der Person aus den Details schlug fehl : %stelepathy-logger
+Ändern eines Favoriten ohne Verbindung zum telepathy-logger-Dienst schlug fehl .
+Favoritenstatus für Telepathy-Person konnte nicht geändert werden , weil kein TpContact zugeordnet ist .
+Favoritenstatus für Telepathy-Kontakt » %s « konnte nicht geändert werden .
+Alias des Kontakts konnte nicht geändert werden : %s
+Erweiterte Informationen können nur für den Telepathy-Kontakt des Benutzers angegeben werden .
+Erweiterte Informationen können nicht gespeichert werden , da die Verbindung zum Speicher unterbrochen ist .
+Ändern einer Gruppenmitgliedschaft ist fehlgeschlagen : %saccount
+Unbekannter Parameter » %s « wurde an den Personenspeicher » %s « übergeben .
+Alias ist für diesen Kontakt schreibgeschützt .
+Fehler beim Auflisten des Inhalts des Ordners » %s « : %s
+Fehler beim Anfragen von Informtionen für das Ziel » %s « der symbolischen Verknüpfung » %s « : %s
+Datei oder Ordner » %s « existiert nicht .
+Typ des Inhalts konnte für » %s « nicht abgefragt werden .
+Die Geburtstags-Ereigniskennung ist für diesen Kontakt schreibgeschützt .
+Der Favoritenstatus ist für diesen Kontakt schreibgeschützt .
+Die Sofortnachrichtenadresse » %s « ist unverständlich .
+Fehler beim Vorbereiten des Personenspeichers » %s « : %s
+Unbekannte Eigenschaft » %s « in verknüpfbarer Eigenschaftsliste .
+Hinzufügen eines Kontakts zum Personenspeicher mit der Kennung » %s « schlug fehl : %s
+Personen können ohne primären Speicher nicht verknüpft werden .
+Personenspeicher » %s:%s « ist als primärer konfiguriert , konnte aber nicht gefunden werden oder das Laden schlug fehl .
+Prüfen Sie den relevanten Dienstanbieter , oder ändern Sie den voreingestellten Speicher für diesen Dienst mit dem GConf-Schlüssel » %s « .
+Anti-Links können nicht zwischen Personen , die verlinkt sind , gelöscht werden .
+Personen können ohne primären Speicher nicht hinzugefügt werden .
+In angeforderte Eigenschaft ( » %s « ) des schreibbaren Speichers konnte nicht geschrieben werden .
+Eigenschaft » %s « konnte nicht geändert werden : Es wurden keine passenden Personen gefunden .
+Die Kennung des Personenspeichers , den folks als primären ( d.h. zum Speichern von Verknüpfungsdaten ) verwenden soll . Die Typenkennung des Speichers darf optional nachgesetzt werden , durch einen Doppelpunkt getrennt . Zum Beispiel : » eds:system-address-book « oder » key-file « .
+%s , %s , %s , %s , %s , %s , %s
+Titel : %s , Organisation : %s , Funktion : %s
+Es können keine Informationen zur Datei » %s « gefunden werden : %s
+Die Buddylisten-Datei » %s « aus Pidgin konnte nicht geladen werden .
+Die Buddylisten-Datei » %s « aus Pidgin konnte nicht geladen werden : Das Wurzelelement konnte nicht gefunden werden oder wurde nicht erkannt .
+Fehler beim Ändern der Gruppe des Kontakts » %s « : %s
+Buddy ohne Alias und nur einer einzigen Sofortnachrichtenadresse wird ignoriert : %s
+Erstellen eines neuen Kontakts für den Buddy mit Alias » %s « und Sofortnachrichten-Adresse ist gescheitert : %s Fehler : %s
+Kontakt » %s « des Buddy mit Alias » %s « und Sofortnachrichten-Adressen wurde erstellt : %s
+Name des Quell-Backends ( Vorgabe : » pidgin « )
+Quelldateiname ( Vorgabe : abhängig vom Quellen-Backend )
+Befehlszeilenoptionen konnten nicht verarbeitet werden : %s
+Die Backends konnten nicht geladen werden : %s
+Das Backend » %s « konnte nicht geladen werden .
+Das Backend » %s « konnte nicht vorbereitet werden : %s
+Der Personenspeicher des Backends für » %s « konnte nicht geladen werden .
+Der Personenspeicher des Backends für » %s « konnte nicht vorbereitet werden : %s
+Unbekannter Name » %s « des Quellen-Backends . » %s « ist derzeit das einzige unterstützte Quellen-Backend .
+Es konnte nicht ermittelt werden , ob Aliase für das Telepathy-Konto » %s « gesetzt werden können : %s

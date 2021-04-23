@@ -1,0 +1,70 @@
+Banshee Wiedergabe-Warteschlange Musik Videos Amazon MP3-Laden Last.fm Podcasts
+In die Ansicht mit Ihrer Maus doppelt klicken .
+Abgleichen Ihrer Medien mit einem tragbaren Abspielgerät oder Smartphone .
+Wählen Sie im Auswahlmenü neben jedem der Medien aus folgenden Optionen :
+Dateien auf tragbaren Geräten werden dauerhaft entfernt und können nicht wiederhergestellt werden .
+Sortieren Ihrer Medien und Hinzufügen zusätzlicher Spalten .
+Mit zunehmender Größe Ihrer Bibliothek kann es sinnvoll werden , die Ansicht der Bibliothek zu ändern , damit zusätzliche Informationen zu den Liedern angezeigt werden , oder auch das Schema anzupassen , nach dem Lieder , Interpreten und Alben angezeigt und sortiert werden können .
+Durchsuchen Ihrer Medien und Ausführen einfacher Suchanfragen .
+dave matthews dave matthews Banshee dave matthews dave Dave DAVE
+Nachfolgend sehen Sie eine Liste logischer Operatoren und Beispiele für Suchergebnisse , wenn Sie diese Operatoren in einer Suche verwenden .
+Sucht nach zwei Begriffen mit einem Leerzeichen zwischen den Wörtern oder Begriffen .
+Als Suchergebnis erhalten Sie zwei Lieder mit je einem Ergebnis in jedem Feld .
+Internet-Radiosender ähneln herkömmlichen Radiosendern . Sie ermöglichen Einzelpersonen oder Organisationen die Verbreitung von Musik live als Datenstrom über das Internet . Sie können den Datenstrom beispielsweise gleichzeitig mit der Aussendung gewöhnlicher Radiosender verbreiten , Amateuren den Betrieb ihres eigenen Radiosenders ermöglichen oder auch kommerziell mit Live-Moderatoren und sogar Werbespots betrieben werden .
+Radio Sender hinzufügen Banshee Medien Sender hinzufügen
+Sie müssen ein paar Informationen über den Radiosender angeben , den Sie hinzufügen möchten . Die ersten drei Felder sind verpflichtend :
+Es gibt Podcasts zu fast allen Themen wie Musik , Filme , Linux und noch vieles mehr . Durchsuchen Sie mit Ihrer Lieblings-Suchmaschine das Internet mit einem Suchbegriff wie » Film Podcast « , und Sie werden viele Treffer erhalten , aus denen Sie wählen können .
+Banshee Podcast Podcast abonnieren Medien Podcast abonnieren Strg Umschalttaste F
+Per Voreinstellung werden Podcasts nicht heruntergeladen . Sie können sie also nur anhören , wenn Sie mit dem Internet verbunden sind . Wenn Sie einen neuen Podcast hinzufügen , können Sie folgende Optionen wählen :
+Jedes mal Titel von verschiedenen Künstlern wiedergeben .
+Jedes mal Titel von verschiedenen Alben wiedergeben .
+Titel mit höherer Bewertung häufiger spielen als nicht bewertete Titel .
+Wenn es keine bewerteten Titel gibt , werden sie zufällig abgespielt .
+Titel , die Sie öfters wiedergeben erhalten mehr Punkte und werden öfters gespielt .
+Unter Podcasts werden alle Podcasts , die Sie abonniert haben , sowie alle weiteren verfügbaren Podcasts angezeigt . Die Podcast-Ansicht listet alle Podcasts in absteigender Reihenfolge auf , angefangen mit dem aktuellsten .
+Bearbeiten und Ändern von Markierungen und Metadaten der Musiktitel .
+Populäre Metadaten-Formate sind ID3v1 und ID3v2 für MP3-Dateien sowie Vorbis-Kommentare für OGG-Vorbis-Dateien .
+Ein Dialogfeld erscheint , welches die Metadaten des Titels anzeigt und Ihnen die Änderung oder Aktualisierung ermöglicht . Standardmäßig werden folgende Felder angezeigt :
+Wiedergabelisten ermöglichen Ihnen das Erstellen und Speichern einer Liste aus Musiktiteln , die in einer bestimmten Reihenfolge abgespielt werden sollen . Wiedergabelisten stellen einen bequemen Weg zum Erstellen einer Liste Ihrer Lieblingstiteln oder zum Unterteilen Ihrer Bibliothek in kleinere Listen , die sich leichter durchsuchen lassen . Einige tragbare Abspielgeräte ermöglichen sogar die Übertragung der Wiedergabeliste , so dass Sie sie überall hin mitnehmen können .
+Eine gewöhnliche Wiedergabeliste ist eine Liste aus Titeln , die Sie selbst hinzugefügt haben und selbst verwalten . Sie erstellen Ihre eigene Titelliste aus Titeln Ihres Lieblingsinterpreten aus verschiedenen Alben , aus Ihren neuesten Lieblingsliedern oder eine Wiedergabeliste für Hintergrundmusik bei sportlichen Übungen .
+Strg N Medien Neue Wiedergabeliste Zur Wiedergabeliste hinzufügen Neue Wiedergabeliste Musik Musik Neue Wiedergabeliste
+Sie können die Reihenfolge der Wiedergabeliste ändern , indem Sie die Titel durch Ziehen und Ablegen neu anordnen . Titel können nur dann neu geordnet werden , wenn keine der Spalten sortiert ist . Um die Sortierung einer Spalte zu entfernen , klicken Sie auf die Spalte , bis die nach oben und unten zeigenden Pfeile nicht mehr sichtbar sind . Dann können Sie die Wiedergabeliste neu sortieren .
+Entf Bearbeiten Aus der Wiedergabeliste entfernen Aus der Wiedergabeliste entfernen
+Intelligente Wiedergabelisten ermöglichen Ihnen die schnelle und einfache Erstellung dynamischer Wiedergabelisten , basierend auf einer Reihe von vorher festgelegten Variablen . Sie können eine neue Wiedergabeliste auf der Basis eines Künstlers , auf Vorlieben oder weiterer Parameter erstellen .
+Banshee Im Editor öffnen Erstellen und Speichern
+Favoriten ( Lieder , die mit vier oder fünf Sternen bewertet wurden )
+Aktuelle Favoriten ( Lieder , die Sie in der letzten Woche oft gehört haben )
+Kürzlich hinzugefügt ( Lieder , die innerhalb der letzten Woche importiert wurden )
+Nicht gehört ( Lieder , die noch nie abgespielt bzw. stets übersprungen wurden )
+Nicht beachtete Favoriten ( Favoriten , die in den letzten zwei Monaten nicht abgespielt wurden )
+700 MB der Favoriten ( eine Daten-CD voll mit Ihren Lieblingsliedern )
+80 Minuten der Favoriten ( eine Audio-CD voll mit Ihren Lieblingsliedern )
+Nicht bewertet ( Lieder , die noch nicht bewertet wurden )
+Last.fm , Titelbewertungen und Last.fm-Radio aktivieren .
+http:/ /www.last.fm/ join Bearbeiten Einstellungen Banshee Quellspezifisch Quelle Last.fm Bei Last.fm registrieren
+Banshee Quellspezifisch Bei Last.fm anmelden Banshee Ja , Zugriff erlauben Banshee Banshee Anmelden abschließen
+Banshee Banshee Banshee Quellspezifisch Last.fm Übermittlung von Titeln aktivieren Banshee
+Musikbewertungen für Last.fm auf Ihrem Gerät aktivieren
+Last-fm-Radio ist frei für Bürger der USA , Großbritanniens und Deutschlands . Bürger anderer Staaten müssen für einen Premium-Zugang bezahlen , um mit Last.fm Radio hören zu können . Premium-Mitglieder in allen Ländern kommen auch in den Genuss von Premium-Radiofunktionen : Abspielen von Wiedergabelisten und Sendern , die Sie mögen oder mit entsprechenden Schlagworten markiert haben .
+Banshee Wiedergabe Leertaste Weiter N Wiedergabe Weiter
+Vorherigen Titel wiedergeben ( erfordert aktiviertes Plugin für das Benachrichtigungsfeld )
+Nächsten Titel wiedergeben ( erfordert aktiviertes Plugin für das Benachrichtigungsfeld )
+Wiedergabe/ Pause umschalten ( erfordert aktiviertes Plugin für das Benachrichtigungsfeld )
+Abgleichen Ihrer Medien mit einem tragbaren Abspielgerät
+Wählen Sie diese Option , um sämtliche Musik- und Videodateien in einem angegebenen Ordner zu importieren , einschließlich aller Unterordner . In einem Dialogfenster werden Sie dazu aufgefordert , den zu importierenden Ordner auszuwählen .
+Wählen Sie diese Option , um nur bestimmte von Ihnen angegebene Datei(en ) zu importieren . In einem Dialogfenster werden Sie dazu aufgefordert , die zu importierenden Dateien auszuwählen .
+Wählen Sie diese Option , um sämtliche Musik- und Videodateien in Ihrem gesamten persönlichen Ordner zu importieren , einschließlich aller Unterordner .
+Viele Digitalkameras können kurze Videos aufnehmen , und Anwendungen zur Fotoverwaltung können diese Videos direkt in Ihren Foto-Ordner übertragen . Wählen Sie diese Option , um jegliche in Ihrem Foto-Ordner gespeicherten Videos zu importieren .
+Sie können sicher aus einem bereits importierten Ordner importieren , ohne die Vervielfachung vorhandener Einträge in Ihrer Bibliothek befürchten zu müssen .
+Plugins können weitere Importmöglichkeiten zur Verfügung stellen . Die folgenden zusätzlichen Quellen werden verfügbar sein , sobald Sie das entsprechende Plugin aktiviert haben :
+Abgleichen und Kaufen von Musik im Amazon MP3-Musikladen .
+MP3s von Amazon in Ihrem Internet-Browser kaufen
+Die .amz-Dateien von Amazon sind nur für eine kurze Zeit aktiv . Falls Sie Ihre Musik nicht umgehend herunterladen , läuft die Datei ab und Sie können Sie nicht mehr von Amazon herunterladen . Amazon macht keine Angaben darüber , wie lange die Dateien aktiv sind . Es ist empfehlenswert , innerhalb einer Stunde nach dem Kauf die Dateien herunterzuladen und zu importieren .
+@@image : 'figures/ banshee.png ' ; md5=THIS FILE DOESN'T EXIST
+Verwalten und Ändern der Anzeige von Alben-Covern .
+Sendergenre Sendernamen Stream-Adresse : Einfügen Strg V
+Banshee ermöglicht Ihnen dann in einem Auswahlmenü , zu entscheiden , welche Podcasts heruntergeladen werden sollen . Folgende Möglichkeiten stehen bereit :
+Neueste Folge herunterladen ( Dadurch wird automatisch die Folge heruntergeladen , die zuletzt veröffentlicht wurde ) .
+Alle Folgen herunterladen ( Dadurch werden alle Folgen heruntergeladen ) .
+Mich entscheiden lassen , welche Folgen heruntergeladen werden ( Dadurch wird Ihnen ermöglicht , aus den verfügbaren Folgen diejenigen auszuwählen , welche Sie herunterladen wollen ) .
+Nachdem Sie die Podcast-Folge hinzugefügt haben , zeigt Banshee Folgendes an :

@@ -1,0 +1,54 @@
+Spiele exportieren , um offline zu spielen .
+Ändern der für Gedächtnisaufgaben zur Verfügung stehenden Zeit
+Um die Anzahl an Sekunden zu verändern , die zum Merken einer Gedächtnisaufgabe zur Verfügung stehen , gehen Sie wie folgt vor :
+@@image : 'figures/ all-games.png ' ; md5=b9b2464dfdb280d8de79b921e03a4705
+@@image : 'figures/ logic-games.png ' ; md5=2679be12956397b6337da869bdbee82d
+@@image : 'figures/ math-games.png ' ; md5=208d189bcd6246b40e3dff184a5d5698
+@@image : 'figures/ memory-games.png ' ; md5=2747c731e0a757a98a91c8e141748c75
+@@image : 'figures/ verbal-games.png ' ; md5=6559e8d03907794b9983c5501df1aed2
+Um ein neues Spiel zu starten , führen Sie folgende Schritte durch :
+Klicken Sie auf einen der Knöpfe in der Werkzeugleiste .
+Die Knöpfe der Werkzeugleiste haben folgende Funktionen :
+Startet ein neues Spiel mit allen verfügbaren Spielarten .
+Startet ein neues Spiel , das nur Logikrätsel beinhaltet .
+Startet ein neues Spiel , in dem nur Übungen zum Rechnen enthalten sind .
+Startet ein neues Spiel , das nur aus Gedächtnisübungen besteht .
+Startet ein neues Spiel , das nur verbale Analogien enthält .
+Lesen Sie sich die Anleitung immer genau durch , wenn Sie ein Spiel spielen !
+Die Spielsitzung beginnt mit der Anzeige der Problemstellung und der Frage nach der Antwort . Am unteren Rand des Fensters finden Sie die Hauptkontrollelemente zur Steuerung des Spiels .
+@@image : 'figures/ gbrainy.png ' ; md5=d3b523ab1c8d00d00560d3f036d681bb
+Es beinhaltet unterschiedliche Spielarten wie Logikrätsel , Kopfrechenaufgaben , Gedächtnisübungen und verbale Analogien , die dafür gedacht sind , verschiedene kognitive Fähigkeiten zu prüfen .
+Wie die Ergebnisse eines Spielers berechnet werden
+Wenn Sie eine Aufgabe falsch beantworten , so erhalten Sie keine Punkte dafür .
+Wenn Sie eine Aufgabe korrekt beantworten , erhalten Sie Punkte , die sowohl von der Zeit abhängig sind , die für die Lösung des Problems benötigt wurde als auch davon , ob ein Hinweis während des Spiels zu Rate gezogen wurde .
+Folgende Tabelle fasst die unterschiedlichen Spielzeiten ( in Sekunden ) in Abhängigkeit vom Schwierigkeitsgrad zusammen .
+Basierend auf der für den gewählten Schwierigkeitsgrad erwarteten Zeit und der für die Übung benötigten Zeit , wird folgende Logik verwendet :
+Wenn Sie schneller als die erwartete Zeit sind , erreichen Sie 10 Punkte .
+Wenn Sie langsamer als die erwartete Zeit sind , erreichen Sie 8 Punkte .
+Wenn Sie mehr als doppelt so lange brauchen wie die erwartete Zeit , erreichen Sie 7 Punkte .
+Wenn Sie mehr als dreimal so lange brauchen wie die erwartete Zeit , erreichen Sie 6 Punkte .
+Wenn Sie einen Hinweis verwenden , erhalten Sie nur 80 % des ursprünglichen Ergebnisses .
+Das bedeutet , dass man bei mittlerem Schwierigkeitsgrad in mindestens 20 Spielen jeder Spielart 10 Punkte erreichen muss , um ein Endergebnis von 100 Punkten zu erhalten .
+Dies mag sich anspruchsvoll anhören , erlaubt Spielern allerdings , Ergebnisse aus verschiedenen Sitzungen in der Spielchronik zu vergleichen und den Fortschritt des Spielers in allen absolvierten Aufgaben besser mitzuverfolgen .
+Verwenden Sie die verschiedenen Ankreuzfelder unterhalb der Grafik , um die Ergebnisse auszuwählen , die in der Grafik angezeigt werden sollen .
+Um die Anzahl an gespeicherten Spielsitzungen zu ändern oder auch wie viele Spiele in der Chronik gespeichert werden , gehen Sie wie folgt vor :
+Verwenden Sie das erste Einstellfeld , um die Anzahl an Spielsitzungen zu ändern , die gespeichert werden müssen , so dass die Ergebnisse erstmals in der Verlaufsgrafik angezeigt werden .
+Das zweite Einstellfeld dient zur Änderung der Anzahl an Spielsitzungen , die in der Verlaufsgrafik angezeigt werden .
+Um den Schwierigkeitsgrad eines Spiels zu ändern , gehen Sie wie folgt vor :
+Verwenden Sie die Hinweise , um ein Rätsel zu lösen .
+Bei manchen Spielen werden einfache Hinweise angeboten , die beim Lösen des Problems hilfreich sein können .
+Diese Funktion steht bei einigen Spielen nicht zur Verfügung .
+Wie man ein Spiel anhält oder beendet .
+Um ein Spiel anzuhalten , so dass Sie es zu einem späteren Zeitpunkt wieder fortsetzen können , führen Sie einen der folgenden Schritte durch :
+Um ein Spiel fortzusetzen , nachdem es pausiert wurde , führen Sie einen der folgenden Schritte durch :
+Um ein Spiel zu beenden , führen Sie folgende Schritte durch :
+Diese Arbeit ist lizenziert unter einer Creative Commons Attribution-Share Alike 3.0 Unported License .
+Das Werk bzw. den Inhalt zu vervielfältigen , zu verbreiten und öffentlich zugänglich zu machen .
+Sie dürfen das Werk nur unter gleichen Bedingungen weitergeben , wie Sie vom Autor oder Lizenzgeber festgelegt wurden ( aber nicht so , dass es wie Ihr Werk aussieht ) .
+Wenn Sie das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeiten , abwandeln oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwenden , dürfen Sie die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben , die mit denen dieses Lizenzvertrages identisch , vergleichbar oder kompatibel sind .
+Verschiedene Spiele , die Sie spielen können .
+Aufgaben , die Ihr Schlussfolgerungs- und Denkvermögen herausfordern . Diese Rätsel basieren auf Sequenzen von Elementen , visuellen und räumlichen Schlussfolgerungen oder Zusammenhängen zwischen Elementen .
+Aufgaben , die auf arithmetischen Operationen beruhen , um Ihre Kopfrechenfähigkeiten zu verbessern . Der Spieler hat bei diesen Übungen Multiplikation , Division , Addition und Subtraktion zu kombinieren und auf unterschiedliche Weise zu verwenden .
+Aufgaben , die Ihr Kurzzeitgedächtnis auf die Probe stellen . Bei diesen Übungen handelt es sich um Sammlungen von Objekten , die sich der Spieler merken soll . Manchmal sind es Zusammenhänge zwischen Elementen , Wörter , Zahlen oder Farben .
+Spiele , die Ihr verbales Geschick fordern . Diese Aufgaben fordern den Spieler auf , Ursachen und Auswirkungen herauszufinden , Synonyme oder Gegenteile zu verwenden und prüfen das Vokabular .
+Um dies zu erreichen , gehen Sie wie folgt vor :

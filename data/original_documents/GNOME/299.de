@@ -1,0 +1,24 @@
+Server , Benutzername und Domain-Name dürfen nicht leer sein . Bitte geben Sie die korrekten Werte ein .
+GAL-Einträge werden zwischengespeichert ( %d/ %d )
+Fehler beim Abrufen der Änderungen vom Server .
+Thread zum Füllen des Zwischenspeichers konnte nicht erzeugt werden
+Das Verändern einzelner Instanzen eines wiederkehrenden Termins wird noch nicht unterstützt . Der auf dem Server gespeicherte Termin wurde daher nicht verändert .
+Zwischenspeicher der zusammenfassenden Informationen für neue Nachrichten in %s wird aktualisiert
+Nachrichtenkennungen für %s werden vom Server geholt
+Gelöschte Nachrichten werden aus dem Zwischenspeicher in %s entfernt
+Zusammenfassende Informationen werden abgerufen für neue Nachrichten in
+Diese Nachricht ist im Offline-Modus nicht verfügbar .
+Nachricht kann nicht abgerufen werden : %s %s
+Nachricht » %s « kann nicht abgerufen werden : %s
+Nachricht konnte nicht an Ordner » %s « angehängt werden
+Zusammenfassung für » %s « konnte nicht geladen werden
+In _allen Ordnern nach neuen E-Mails schauen
+Filter auf neue Nachrichten im Eingang dieses Servers an_wenden
+Ausschließlich den _Eingang auf unerwünschte Nachrichten prüfen
+Für den Zugriff auf Microsoft Exchange-/ OpenChange-Server über MAPI
+Diese Option erzeugt eine Verbindung zum Openchange-Server über ein Klartext-Passwort .
+%s Bitte geben Sie das MAPI-Passwort für %s@%s ein
+MAPI-Ordner können im Offline-Modus nicht erstellt werden .
+MAPI-Ordner » %s « konnte nicht in » %s « umbenannt werden .
+MAPI-Ordner » %s « konnte nicht in » %s « umbenannt werden .
+Ordnerliste ist im Offline-Modus nicht verfügbar .

@@ -1,0 +1,13 @@
+Der Zustand des Hauptfensters . Gültige Werte sind » normal « und » maximized « .
+Die X-Koordinate der gespeicherten Position des Hauptfensters .
+Die Y-Koordinate der gespeicherten Position des Hauptfensters .
+Das für die Einträge verwendete Thema .
+Reihenfolge der Einträge in der Eintragsliste umkehren
+Die neuesten Einträge in der Eintragsliste oben anzeigen .
+Aktualisierung aller Kanäle in regelmäßigen Abständen .
+Geben Sie die URL des neuen Kanals ein
+Kanäle ( { 0 } ungelesen )
+Ändern Sie die Felder , um die Kanalinformationen zu aktualisieren
+Geben sie die URL oder den Dateinamen der OPML-Datei ein
+Möchten Sie den Kanal oder die Gruppe { 0 } aus der Kanalliste löschen ?
+{ 0 } Kanäle aus einer OPML-Datei importiert

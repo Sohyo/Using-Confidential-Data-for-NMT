@@ -1,0 +1,25 @@
+Programmiermodus Strg B Strg O Strg H
+Berechnungen in der Booleschen Algebra sind mit den Operatoren UND , ODER oder Exklusiv-ODER möglich .
+Zeichen können nicht mit der Tastatur umgewandelt werden .
+Währungsinformationen sind nur geschätzt und sollten nicht als Grundlage für finanzielle Entscheidungen dienen .
+Umrechnungen von Längen , Flächen oder Volumina müssen mit der Tastatur ausgeführt werden .
+Umrechnungen von Zeiten müssen mit der Tastatur ausgeführt werden .
+Umrechnungen von Massen müssen mit der Tastatur ausgeführt werden.sort
+Gleichungen werden in standardisierter mathematischer Form eingegeben . Um beispielsweise 7 und 2 zu addieren , geben Sie Folgendes ein :
+Berechnungen werden in mathematischer Reihenfolge ausgeführt . Multiplikation und Division haben den Vorzug vor Addition und Subtraktion . Die folgende Gleichung ergibt 1 ( 3×2 = 6 , 7 6 = 1 ) .
+Verwenden Sie Klammern , um die Reihenfolge der Rechenschritte zu ändern . Die folgende Gleichung ergibt 8 ( 7 3 = 4 , 4×2 = 8 ) .
+Fakultäten werden mit dem Symbol » ! « eingegeben . Um die Fakultät von 6 zu berechnen , geben Sie Folgendes ein :
+Im finanztechnischen Modus sind die folgenden Knöpfe verfügbar .
+Berechnet die Anzahl der Zinsperioden , die benötigt werden , um eine Investition von dem aktuellen Wert auf einen Zielwert bei einem festen Zinssatz pro Zinsperiode anwachsen zu lassen .
+Berechnet nach der geometrisch-degressiven Abschreibungsmethode den zulässigen Abschreibungssatz eines Wirtschaftsguts für einen gegebenen Zeitraum .
+Berechnet den zukünftigen Wert ( Zielwert ) einer Investition bei regelmäßigen Zahlungen und einem periodischen Zinssatz über die Anzahl der Zahlungsperioden der Laufzeit .
+Berechnet den Wiederverkaufspreis eine Produktes basierend auf den Produktkosten und der gewünschten Bruttogewinnspanne .
+Berechnet die Höhe der periodischen Abzahlungsrate für einen Kredit bei Zahlungen am Ende jedes Zahlungszeitraums .
+Berechnet den Barwert ( gegenwärtigen Wert ) einer Investition bei regelmäßigen Zahlungen und einem periodischen Zinssatz über die Anzahl der Zahlungsperioden der Laufzeit .
+Berechnet den periodischen Zinssatz , der benötigt wird , um eine Investition über die Anzahl der Perioden auf einen Zielwert anwachsen zu lassen .
+Berechnet die lineare Abschreibungsrate eines Wirtschaftsguts pro Periode . Die Methode der linearen Abschreibung teilt die Gesamtabschreibung über einen gewissen Zeitraum gleichmäßig auf jede einzelne Periode auf . Die sinnvolle Lebenszeit des Abschreibungsobjekts ist die Anzahl der Perioden , typischerweise Jahre , in denen das Wirtschaftsguts abgeschrieben wird .
+Berechnet den zulässigen Abschreibungssatz eines Wirtschaftsguts für einen gegebenen Zeitraum nach der Sum-of-the-Years-Digits-Methode . Diese Methode erhöht die Abschreibungsrate so , dass in zeitnahen Perioden mehr Abschreibungskosten entstehen als in zeitferneren Perioden . Die sinnvolle Lebenszeit des Abschreibungsobjekts ist die Anzahl der Perioden , typischerweise Jahre , in denen das Wirtschaftsguts abgeschrieben wird .
+Berechnet die Anzahl der Zahlungsperioden , die bei einer normalen Annuität und einem periodischen Zinssatz benötigt werden , um einen zukünftigen Zielwert zu erreichen .
+Finanztechnische Funktionen können nicht mit Hilfe der Tastatur eingegeben werden .
+Alle mathematischen Gleichungen können über die Tastatur eingegeben werden .
+Die folgenden Tastenkombinationen können für Zeichen verwendet werden , die möglicherweise nicht auf Ihrer Tastatur vorhanden sind :

@@ -1,0 +1,11 @@
+Die Werkzeugleiste am oberen Rand enthält Steuerungsmöglichkeiten für Navigation und Vergrößerungsstufen . Zwei boolesche Werte : » wahr « bedeutet , dass die Werkzeugleiste sichtbar ist , » falsch « , dass sie nicht sichtbar ist .
+Die Statusleiste am unteren Rand enthält Hilfe- und Statusmeldungen . Zwei boolesche Werte : » wahr « bedeutet , dass die Statusleiste sichtbar ist , » falsch « , dass sie nicht sichtbar ist .
+Zwei Vergrößerungsstufen sind verfügbar . 1 bedeutet , dass der Comic vollständig im Fenster dargestellt wird , 2 bedeutet , dass die Ansichtsbreite an die Fensterbreite angepasst wird .
+Datei » %s « kann nicht angelegt werden : %s
+Fehler beim Schreiben in Datei » %s « : %s
+Den Comic unter einem neuen Dateinamen speichern
+Den Ort dieses Comics in die Zwischenablage kopieren
+Die Hilfe für den Online-Comic-Leser Buoh anzeigen
+Danksagungen an die Mitwirkenden an der Entwicklung des Buoh Online-Comic-Lesers anzeigen
+Den momentan angezeigten Comic in das Fenster einpassen
+Die Breite des momentan angezeigten Comics an die Fensterbreite anpassen

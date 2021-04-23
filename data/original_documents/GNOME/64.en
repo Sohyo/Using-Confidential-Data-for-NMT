@@ -1,0 +1,87 @@
+Stuart Parmenter and others , see AUTHORS for a list of people
+Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies .
+UNIX is a trademark of X / Open Group .
+Linux is a trademark of Linus Torvalds .
+X Window System is a trademark of X Consortium , Inc .
+Windows is a trademark of Microsoft Corp.
+Macintosh and Apple are trademarks of Apple Computer , Inc .
+All other trademarks are property of their respective owners .
+This document is the extensive balsa manual .
+Balsa balsa-list @ gnome.org http : / / mail.gnome.org / mailman / listinfo / balsa-list subscribe balsa-list-request @ gnome.org bug-buddy gnome-bug submit @ bugs.gnome.org
+Balsa mailbox list Balsa Balsa procmail IMAP Show Mailbox Info
+File New Mailbox ... Balsa discussion of different mailbox formats
+Ctrl M File Get New Mail Balsa POP3
+View No Headers Selected Headers All Headers
+Ctrl E View Expand All Ctrl L View Collapse All
+View Zoom In Zoom Out Zoom 100 % Preferences
+This menu has commands for manipulating messages .
+Ctrl S Message Save Current Part ...
+Ctrl D Message Toggle flag Deleted expunged Preferences
+The message index displays the messages in the current folder , and lets you choose which messages to view . Click on the notebook tabs , if shown , or click on a folder in the mailbox list to bring it to the front .
+The pop-up ( context ) menu contains the following items :
+This displays the email that is selected in the message index . Message headers are displayed above the main text of the message , unless they have been disabled . The text of the message is shown below the headers .
+When the message window first opens , you will see the several main sections :
+This contains all of the available commands for acting on the message , from selecting the headers to display to changing the character set of the message . Some of the menu items are not always available , depending on what state the message is currently in .
+The file menu contains commands for manipulating the message as a whole .
+The Edit menu contains commands which are used to modify the body of the message .
+Show Recipients To : Cc : Bcc :
+The Language menu allows you to set the language to use for composing and checking the spelling of the message .
+German ( including Austrian and Swiss )
+The following options determine the protocol used for signing and / or encrypting the message . You should choose the appropriate protocol which all recipients can use .
+The toolbar contains buttons for the most commonly used functions when sending messages , including Send , Attach File ... , and Save . As with the menu bar , some buttons are disabled if the message is not correctly setup to be sent .
+Open a dialog to attach a file to the current message .
+Postpone the message to the Draftbox for later revision and sending .
+Close the composition window without saving or sending the message within .
+Again , not a very widely used header , this can be used to embed general information about the content of the message in the email , to allow for easier searching or filtering at a later date .
+The buttons on the left control the actions to take for each incorrect word . The buttons include :
+Change the incorrect word with the currently selected suggested word or the user 's edited word .
+Change all occurances of the current incorrect word with the currently selected suggestion .
+Ignore the current incorrect word and continue to the next one .
+Ignore all occurrances of the current word , and continue to the next incorrect word .
+Add the current incorrect word to your personal dictionary . This will cause it to be considered correct for all future spell checks .
+This page lets you specify how you get POP3 mail , send mail , etc .
+The server you have the POP mailbox on .
+The port that will be used to connect to the server . The port number is usually 110 but you may change it if you for example use some kind of connection tunneling ,
+Whether to check for new mail .
+A descriptive name that will identify the server
+The user name on the SMTP server . If the remote SMTP server requires authentication , enter your user name here . Note that the exact format depends on the MTA in use . For example , some systems expect a user name , others may require an email address .
+Corresponding pass phrase . If the remote SMTP server requires authentication , enter your pass phrase here . Some systems refer to the pass phrase as a password . Limitations on the length of the pass phrase depend on the SMTP server .
+Checking IMAP mailboxes can take some time ; these options give you extra control over how long the mailbox check will take .
+Display message if new mail has arrived
+Don 't include HTML parts as text when replying or forwarding mail
+Forward a mail as attachment instead of quoting it
+Send button always queues outgoing mail in outbox
+Choose the colors for quoted text .
+A space-separated list of the headers to display in the message window .
+The Normal mode is probably good enough for most people ; it should produce the correct suggestion in the majority of cases .
+This provides the ability to ignore words shorter than a certain length . It may be useful to automatically skip short acronyms that are normally flagged as incorrect .
+This enables you to change the properties of the selected address book .
+It is possible to modify both the name and location for any address book . Also , you can change whether the contents of the address book will be used when attempting to auto-complete an address when sending a message .
+Set the selected address book as default .
+If you prefer to have the whole tree available from startup , choose a depth as great as that of your folder tree . Intermediate settings may also be used .
+The basic IMAP folder configuration tab is probably the only part you need to fill in .
+Some servers allow anonymous access to bulletin boards or mailing list archives . Check this box if you want to use this mode - you will not be asked for password .
+You can choose among several address book types .
+The three fields should be separated by tabs . The third field is currently not used by balsa , but might be in the future . It is also kept to ensure compatibility with mutt .
+All characters are allowed , except the tab ( \ \ t ) , since that is the field separator .
+Your script / program should write it 's output to stdout and not to stderr !
+Adding addresses is also possible . Your script should receive 3 arguments . The first is an email address , the second a full name and the third is an alias ( currently not used and replaced by ' TODO ' ) .
+Note that mutt does not have support for adding addresses and there is thus no compatibility in this case .
+This dialog window lets you specify how you present yourself to the rest of the world through your email . The first page has your general information :
+The default value for the blind-carbon-copy field when using this identity . Useful if you want to always send a copy of outgoing mail to another account .
+The prefix for the subject line when replying to a message .
+The prefix for the subject line when forwarding a message .
+The file containing the signature to append to all your messages . This can be generated in one of three ways :
+From a regular file . List the path to any regular file , and the text from that file will be appended to your messages .
+Append the signature to the end of all outgoing mail .
+Add the signature when forwarding an existing mail .
+Add the signature when replying to a existing message .
+Security settings are on the fourth page :
+Always trust GnuPG keys when encrypting .
+Remind me if messages can be encrypted .
+Before sending a message , check if valid keys are present for all recipients and show a dialog in this case .
+AND : all condition tests must be true to make the match .
+OR : one condition test must be true to make the match .
+What 's that window that flashed on the screen ?
+The address book doesn 't import my addresses .
+An acronym for " Lightweight Directory Access Protocol " . It is a widely-accepted standard for accessing contact information over a network . This enables organizations to store address information in a central database , but have many people able to access it .

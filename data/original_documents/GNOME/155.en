@@ -1,0 +1,70 @@
+@ @ image : ' figures / a-z.gif ' ; md5 = 0df765cb06d1873c4b77ccfa2aec273a
+@ @ image : ' figures / aa-az.gif ' ; md5 = 499378b5a346d9a1fff3317ed7bca624
+@ @ image : ' figures / ala-alz.gif ' ; md5 = c1d38e5e5cd6234737ff5e80c8120416
+@ @ image : ' figures / object.gif ' ; md5 = f961ced3b16182985421dba58cbb130d
+@ @ image : ' figures / exampleHad2.png ' ; md5 = c3a7c8f985519a90d739117aa4e1e064
+@ @ image : ' figures / exampleHad2a.png ' ; md5 = 1d124560d223498f876122bcd85afaac
+@ @ image : ' figures / exampleHad3a.png ' ; md5 = 0bcd661209391842cf47f00b767146b3
+@ @ image : ' figures / exampleHad4.png ' ; md5 = 9974616612b5c811cb2c161093c8523c
+Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies .
+Permission is granted to copy and distribute modified versions of this manual under the conditions for verbatim copying , provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one .
+UNIX is a trademark of X / Open Group .
+Linux is a trademark of Linus Torvalds .
+X Window System is a trademark of X Consortium , Inc .
+Windows is a trademark of Microsoft Corp.
+Macintosh and Apple are trademarks of Apple Computer , Inc .
+All other trademarks are property of their respective owners .
+Dasher is an accessible text entry application that uses pointing gestures rather than typing . It is designed to be fast while fun to use .
+There is an automatic speed control , which will speed up Dasher when it senses you are able to go faster .
+There is a new socket interface allowing Dasher to listen to head-trackers or gaze-trackers or EEG-interfaces without going through the mouse .
+We will implement a game-mode for Dasher : this will help novices learn to write . A teaching hand will guide the novice when he goes astray , and novices who write fast without needing much guidance will win lots of points .
+New language models will be added , which will make predictions at the word level as well as the letter level .
+Japanese and Chinese will be fully supported .
+The Dasher team also hopes to create a free web-cam-based head tracker and gaze tracker , '
+when operating a computer one-handed , by joystick , touchscreen , trackball , or mouse ;
+when operating a computer with zero hands ( i.e. , by head-mouse or by eyetracker ) .
+Dasher can be used to write efficiently in any language .
+Dasher is fast and fun to learn .
+Dasher is like an arcade game : '
+Dasher is a zooming interface . You point where you want to go , and the display zooms in wherever you point . The world into which you are zooming is painted with letters , so that any point you zoom in on corresponds to a piece of text . The more you zoom in , the longer the piece of text you have written . You choose what you write by choosing where to zoom .
+To make the interface efficient , we use the predictions of a language model to determine how much of the world is devoted to each piece of text . Probable pieces of text are given more space , so they are quick and easy to select . Improbable pieces of text ( for example , text with spelling mistakes ) are given less space , so they are harder to write . The language model learns all the time : if you use a novel word once , it is easier to write next time .
+Another advantage is that it is easy to train the model on any writing style : simply load up an example file , then write away !
+a library containing all possible books a z left right a aaaaaaaaaaaa all good things must come to an end all good things must come to an enema
+a aa ab ac az al ala alb alz
+zooming in on an alphabetical library , steering as you go
+we alter the SIZE of the shelf space devoted to each book in proportion to the probability of the corresponding text . x x
+Dasher can be trained on examples of any writing style , and it learns all the time , picking up your personal turns of phrase .
+The image below shows the state of the Dasher interface while the user is writing the word '
+start by driving cautiously stop going grab drag Do not try to grab things and drag them . Just decide where you want to go , and point there .
+The single most important concept inside all not a ; a l a al within a all within al
+Alison A L A within it Al Al
+The second most important idea only You are allowed to cut corners .
+Common errors . SLOW DOWN and don 't proceed any further into this first letter 's square until you have figured out where you should be steering towards is can
+I once had a whim I once ha ... had d d d a b c
+d I once head ... d I once heard ... I once hedge ...
+Don 't click . Don 't drag . And don 't speed .
+the other colours are included simply to discriminate the squares from each other .
+In the Japanese version of Dasher , colours are used to distinguish the different hiragana groups ( eg ka , ki , ku , ke , ko are orange ) .
+In the Korean version of Dasher , three different colours are used to distinguish initial consonants , vowels , and terminal consonants .
+Set the dasher application running ; when the dasher window comes up , either click the left mouse button or press the space bar to set it going . [ One of these two will work . ] Repeat this action ( click or space ) , when you are finished , to stop dasher from dashing . Your computer 's mouse controls Dasher .
+Adjust the speed slider to fix the maximum speed Dasher will zoom at . A speed of 1 is good for a beginner , increasing to 2 after 5 minutes ' practice , and to 4 when you are expert .
+How to start dasher ( version 2 ) on pocket PC
+Install , run ( wait a few seconds for it to load up the training file ) , then touch the screen with the stylus to make dasher move .
+There are three special strongly-coloured squares in this version of Dasher , coloured yellow , red ( in some releases only ) , and green ; all three squares do not produce any character ; these squares indicate sub-groupings of the alphabet . ( Uppercase Alphabet , Numerals ( in some releases only ) , and Punctuation . )
+Dasher can be used to communicate through your computer , and ( to some degree ) to control your computer . Obviously , the simplest way to communicate with Dasher is to have the person you 're talking to watch the screen as you write . But there are lots of other ways to communicate through Dasher .
+Dasher connects to your computer 's built-in text-to-speech system . There are several ways to use Dasher for speaking .
+You can choose to have Dasher '
+You can also choose to have Dasher '
+You can save whatever is in the text box of Dasher as a plain text file by clicking the ' Save
+You can also have whatever is written in Dasher be directly beamed to another window . Enable the '
+If possible , provide Dasher with a training text in your own style -- a plain text file made from documents you have written before , and containing your own pet phrases , friends ' names , and so forth . Either append this file to the training file , or replace the original training file .
+If you think your personal training file may have become corrupted with rubbish text , edit it using any plain text editor . ( Or ask a friend to do this for you . )
+If you use Dasher for many months , the personal training file may become so large that Dasher becomes slow to start up ; if so , edit the training file using a plain text editor .
+red line lt ; colour r = " 255 " g = " 0 " b = " 0 " / gt ;
+Dasher works in hundreds of languages .
+For each language there is an alphabet file ( or possibly more than one alphabet file ) . On the Dasher website we aim to supply at least one training text for each language . If we don 't have a good training text for your language , please help us by making one and sending it to us .
+See the Dasher website for the list of languages supported by Dasher . As of October 2005 , all the major languages of the world are well supported , with the exception of Japanese and Chinese , for which Dasher version 3 offers only phonetic support ( hiragana and pin-yin ) . In Dasher version 4 , we will provide full support for Japanese and Chinese .
+Alternatively , if you have a touch screen , a single touch on the screen initiates a zoom to that position .
+How many different switches , keys , or buttons can you easily operate ?
+4 , 5 , 6 , or 7
+Dasher zooms continuously towards the centre of the screen , with the two buttons being used to shift the display up and down . The buttons should be pressed whenever the desired text is aligned with the two markers .

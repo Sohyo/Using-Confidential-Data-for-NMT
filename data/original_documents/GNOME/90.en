@@ -1,0 +1,45 @@
+Conversations in { 0 } ( { 1 } )
+{ 0 } , { 1 }
+NOTE : The search service is still indexing new data .
+Your search for " { 0 } " did not match any files on your computer .
+You can select " Find in : All " to search everywhere .
+You should check the spelling of your search words to see if you accidentally misspelled any words .
+If you are searching for GMail emails , select " Global " Search Domain using the " Search " menu .
+You can use upper and lower case ; search is case-insensitive .
+For security reasons , Beagle cannot be run as root . You should restart as a regular user .
+The search service does not appear to be running . You can start it by clicking the button below .
+{ 0 } - { 1 } of { 2 }
+Cannot run with parameter ' --icon ' when session D-Bus is not accessible .
+There are computers near you running Beagle
+You can select to search other computers from the " Search " menu .
+The search service is in the process of indexing your data . Search results may be incomplete until indexing has finished .
+Too many matches . Showing latest { 0 } of total { 1 }
+Search in personal data in this computer
+Display the search window by pressing { 0 }
+The configuration file has been modified by another application . Do you wish to discard the currently displayed values and reload configuration from disk ?
+The selected path is already selected for indexing and wasn 't added .
+The selected path wasn 't added . The list contains items that supersedes it and the data is already being indexed .
+Adding this path will obsolete some of the existing include paths . This will result in the removal of the old obsolete paths . Do you still wish to add it ?
+Are you sure you wish to remove this path from the list of directories to be included for indexing ?
+Are you sure you wish to remove this item from the list of data to be excluded from indexing ?
+Remote host already present in the list .
+Are you sure you wish to remove this host from the list ?
+The specified path could not be found and therefore it could not be added to the list of resources excluded for indexing .
+Evolution 's address book , memos and tasks .
+Files and folders on the local file system .
+Nautilus ' metadata ( emblems , notes , etc . )
+Search other search services in the network ( EXPERIMENTAL )
+( System ) Supplementary search results using ' locate ' command
+_ Allow Beagle to be run as root
+This setting does not apply while on battery power .
+Automatically s _ tart searching after the user has stopped typing
+Adjust which types of results should be visible , and in what order they should be presented when grouped by type .
+Specify any resources , such as paths , patterns , mail folders or type of objects you wish to exclude from indexing .
+Enable the data sources that you want to index and search .
+Changes will take effect only after daemon restart .
+Allow external access to local search services ( EXPERIMENTAL )
+Require a password to search this computer remotely
+Add any remote search-enabled hosts you wish to network with .
+Please select the mail folder you wish to exclude from indexing .
+In order for you to perform Beagle searches on this computer , you must enter a password .
+Please select a resource you wish to exclude from indexing .

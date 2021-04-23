@@ -1,0 +1,126 @@
+@@image : 'figures/ ephy-screenshot.png ' ; md5=02e8254f75ce0d0997e225214f24f877
+@@image : 'figures/ ephy-addressbar-smartbookmark-screenshot.png ' ; md5=3dca863c7c58354488414d7b71df91b8
+@@image : 'figures/ ephy-bookmarkbar-smartbookmark-screenshot.png ' ; md5=5b6f640876f635a073dbf5b3d074d0b8
+@@image : 'figures/ ephy-history-window-screenshot.png ' ; md5=73080fe23ca131c71b3b313c52cff399
+Epiphany ist ein einfacher Webbrowser für GNOME , der über die meisten Standardfunktionen wie Blockierung von Popup-Fenstern oder Browsen in Reitern verfügt . Wahlweise sind Erweiterungen möglich . Im Gegensatz zu den ordnerbasierten Lesezeichen benutzt Epiphany ein themenbasiertes Lesezeichensystem .
+Das vorliegende Handbuch ist Teil einer Reihe von GNOME-Handbüchern , die unter der GFDL verteilt werden . Wenn Sie dieses Handbuch separat verteilen möchten , können Sie dies tun , indem Sie dem Handbuch eine Kopie der Lizenz , wie in Abschnitt 6 der Lizenz beschrieben , hinzufügen .
+Bei vielen der von Firmen zur Unterscheidung ihrer Produkte und Dienstleistungen verwendeten Namen handelt es sich um Marken . An den Stellen , an denen derartige Namen in einer GNOME-Dokumentation vorkommen und wenn die Mitglieder des GNOME-Dokumentationsprojekts über diese Marken informiert wurden , sind die Namen in Großbuchstaben oder mit großen Anfangsbuchstaben geschrieben .
+DAS DOKUMENT WIRD » WIE VORLIEGEND « GELIEFERT , OHNE JEGLICHE GEWÄHRLEISTUNG , WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND , EINSCHLIESSLICH , ABER NICHT BESCHRÄNKT AUF , GEWÄHRLEISTUNGEN , DASS DAS DOKUMENT ODER EINE MODIFIZIERTE VERSION DES DOKUMENTS FREI VON HANDELSÜBLICHEN FEHLERN UND FÜR EINEN BESTIMMTEN ZWECK GEEIGNET IST UND KEINE RECHTE DRITTER VERLETZT . JEGLICHES RISIKO IN BEZUG AUF DIE QUALITÄT , GENAUIGKEIT UND LEISTUNG DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS TRAGEN SIE . SOLLTE SICH EIN DOKUMENT ODER EINE MODIFIZIERTE VERSION DAVON IN IRGENDEINER WEISE ALS FEHLERHAFT ERWEISEN , TRAGEN SIE ( NICHT DER URSPRÜNGLICHE VERFASSER , AUTOR ODER EIN MITWIRKENDER ) DIE KOSTEN FÜR JEGLICHE ERFORDERLICHE SERVICE- , REPARATUR- UND KORREKTURMASSNAHMEN : DIESE BESCHRÄNKUNG DER GEWÄHRLEISTUNG IST WESENTLICHER BESTANDTEIL DIESER LIZENZ . JEDE VERWENDUNG EINES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS UNTERLIEGT DIESER BESCHRÄNKUNG ; UND
+UNTER KEINEN UMSTÄNDEN UND GEMÄSS KEINER RECHTSLEHRE , WEDER AUFGRUND VON UNERLAUBTEN HANDLUNGEN ( EINSCHLIESSLICH FAHRLÄSSIGKEIT ) , VERTRÄGEN ODER SONSTIGEM , KANN DER AUTOR , DER URSPRÜNGLICHE VERFASSER , EIN MITWIRKENDER ODER EIN VERTEILER DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS ODER EIN LIEFERANT EINER DIESER PARTEIEN VON EINER PERSON FÜR DIREKTE , INDIREKTE , BESONDERE , ZUFÄLLIGE ODER ALS FOLGE AUFGETRETENE SCHÄDEN IRGENDEINER ART , EINSCHLIESSLICH , ABER NICHT BESCHRÄNKT AUF , SCHÄDEN DURCH GESCHÄFTSWERTVERLUSTE , ARBEITSAUSFÄLLE , COMPUTERAUSFÄLLE ODER -FUNKTIONSSTÖRUNGEN ODER JEGLICHE ANDERE SCHÄDEN ODER VERLUSTE , DIE DURCH ODER IM ZUSAMMENHANG MIT DER VERWENDUNG DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS ENTSTANDEN SIND , SELBST WENN DIESE PARTEI ÜBER MÖGLICHE SCHÄDEN INFORMIERT WORDEN SEIN SOLLTE , HAFTBAR GEMACHT WERDEN .
+Dieses Handbuch beschreibt Version 2.25 von Epiphany .
+Sie können ein Browser-Fenster auf folgende Arten öffnen :
+Sie können das Lesezeichen-Fenster auf die folgenden Arten öffnen :
+Eine Seite , die in einem Browser-Fenster angezeigt wird . Enthält Menüleiste , Werkzeugleiste , Addresszeile und Anzeigebereich .
+Enthält Menüs , die Sie verwenden um Aufgaben in einem Browser-Fenster auszuführen .
+Beinhaltet Knöpfe , die Sie verwenden um Aufgaben in dem Browser-Fenster auszuführen . Menüs , Knöpfe und Textfelder , die Sie verwenden , um Schnellzugriff auf Lesezeichen und Websuchen zu erhalten , befinden sich ebenfalls hier .
+Einblend-Kombinationsfeld , das Sie verwenden um eine Webadresse oder einen Suchbegriff einzugeben .
+Zeigt den Inhalt der betrachteten Seite an .
+Sie können auch ein Kontextmenü im Browser-Fenster öffnen . Um dieses Kontextmenü zu öffnen , klicken Sie mit der rechten Maustaste in ein Browser-Fenster . Die Einträge in diesem Menü hängen davon ab , an welcher Stelle Sie diesen Klick ausführen . Wenn Sie zum Beispiel das Kontext-Menü eines Links öffnen , werden mit diesem Link zusammenhängende Einträge angezeigt . Wenn Sie das Kontext-Menü auf der Website selbst öffnen , werden Einträge angezeigt , die sich auf den Inhalt der Website beziehen . Durch das Öffnen des Kontextmenüs einer Werkzeugleisteneintrags können Sie Einträge bezüglich zu dieser Werkzeugleiste auswählen .
+Die Adresszeile wird verwendet , um Webadressen oder Suchbegriffe einzugeben . Alle Wörter , die in der Adresszeile eingegeben werden , werden mit den Lesezeichen und der Chronik verglichen . Falls es irgendwelche Übereinstimmmungen gibt , werden diese in einer Auswahlliste angezeigt und können von Ihnen ausgewählt werden . Die ausgewählte Website wird in dem Browser-Fenster geladen .
+Im Vollbild-Modus wird nur eine minimale Werkzeugleiste angezeigt .
+So speichern Sie eine Seite in einer Datei
+Sie können hier die Seitengröße für den zu verwendenden Drucker festlegen . Dies ist nützlich , falls Ihr Drucker spezifische Druckränder hat , die nicht überschritten werden sollten .
+Legt fest , ob die lange Seite ( Querformat ) oder die kurze Seite ( Hochformat ) des Papiers beim Drucken oben sein soll .
+Um eine Seite nach einer Zeichenkette zu durchsuchen , gehen Sie wie folgt vor :
+Um die Suche abzuschließen , klicken Sie auf eine Stelle außerhalb der Suchleiste .
+Sie können folgende Methoden verwenden , um Text in einer Website zu vergrößern oder zu verkleinern :
+So vergrößern Sie den Text einer Website
+So verkleinern Sie den Text einer Website
+Alternativ können Sie das Menü verwenden :
+So betrachten Sie den Quelltext einer Seite
+So zeigen Sie Popup-Fenster einer Seite an
+Websites beinhalten Links zu anderen Websites , oft ( aber nicht immer ) angezeigt durch eine Unterstreichung . Um einem Link zu folgen , klicken Sie mit der linken Maustaste darauf .
+Einen Link so öffnen , wie es die Seite vorgibt
+Klicken Sie links auf einen Link . Der Link öffnet sich entweder in dem aktuellen Fenster oder in einem neuen Fenster , abhängig von dem , was der Autor der Seite festgelegt hat .
+So öffnen Sie einen Link in einem neuen Reiter
+So öffnen Sie einen Link in einem neuen Fenster
+Klicken Sie auf einen Reiter , um auf diesen zu wechseln .
+Reiter Reiter nach links verschieben Reiter Reiter nach rechts verschieben
+Sie können auch auf diese Optionen zugreifen , indem Sie durch Anklicken der Kopfzeile des Reiters dessen Kontextmenü öffnen .
+Programmierung eines Browsers mit der einfachst möglichen Benutzeroberfläche .
+Es soll vermieden werden , dass sich der Benutzer an die Adressen der Seiten erinnern muss , die er besuchen will .
+Entwicklung -gt ; GNOME -gt ; Website der GNOME-Entwickler
+Entwicklung -gt ; Website der GNOME-Entwickler GNOME -gt ; Website der GNOME-Entwickler
+Benutzen Sie Themen die Ihnen als erstes in den Sinn kommen , wenn Sie versuchen , sich an das Lesezeichen zu erinnern .
+Das Eintippen eines Themas in die Adresszeile des Hauptfensters zeigt eine Liste von Lesezeichen aus dieser Kategorie .
+Ein in die Adresszeile eingegebenes Wort wird automatisch in der Lesezeichen-Datenbank gesucht . Übereinstimmende Lesezeichen werden in einer Aufklappliste unterhalb der Adresszeile angezeigt .
+Lesezeichen und Themen können zur Werkzeugleiste hinzugefügt werden , damit einfacher auf sie zugegriffen werden kann . Um ein Lesezeichen oder ein Thema hinzuzufügen , ziehen Sie es aus dem Lesezeichen-Fenster auf die Werkzeugleiste .
+Sie können neue Lesezeichen auf verschiedene Arten erzeugen .
+Klicken Sie auf das Lesezeichen oder Thema
+So öffnen Sie ein Lesezeichen in einem neuen Fenster oder Reiter
+Um ein Lesezeichen in einem neuen Fenster zu öffnen , führen Sie folgende Schritte aus :
+Wählen Sie das Lesezeichen , das Sie öffnen möchten .
+Datei Neues Fenster Link in neuem Fenster öffnen
+Um ein Lesezeichen in einem neuen Reiter zu öffnen , führen Sie die folgenden Schritte aus :
+Datei Neuer Reiter Link in neuem Reiter öffnen
+So fügen Sie ein Lesezeichen zu einem Thema hinzu
+Eigenschaften Themen Thema » NAME « erstellen
+So entfernen Sie ein Lesezeichen aus einem Thema
+Um ein Lesezeichen oder ein Thema umzubenennen , führen Sie die folgenden Schritte aus :
+Wählen das Lesezeichen oder das Thema im Lesezeichen-Fenster aus , welches Sie umbenennen wollen .
+Um Lesezeichen oder Themen zu entfernen , führen Sie die folgenden Schritte aus :
+Wählen das Lesezeichen oder das Thema im Lesezeichen-Fenster aus , welches Sie löschen wollen .
+So kopieren Sie die Adresse eines Lesezeichens
+Zum Kopieren der Adresse eines Lesezeichens führen Sie die folgenden Schritte aus :
+So fügen Sie ein Lesezeichen oder Thema zur Werkzeugleiste hinzu
+Sie haben folgende Möglichkeiten , ein Lesezeichen oder Thema zur Werkzeugleiste hinzuzufügen :
+Sie können Lesezeichen und Themen aus dem Lesezeichen-Fenster ziehen und auf der Werkzeugleiste ablegen .
+So entfernen Sie ein Lesezeichen oder Thema aus der Werkzeugleiste
+Sie können ein Lesezeichen oder Thema auf folgende Arten aus der Werkzeugleiste entfernen :
+Intelligente Lesezeichen sind eine besondere Art von Lesezeichen , die ein oder mehrere Argumente aufnehmen können . In dem Sie intelligente Lesezeichen verwenden , können Websuchen und Anfragen ausgeführt werden , ohne zuerst die Anfrageseite zu laden .
+Um aus dieser Adresse ein intelligentes Lesezeichen zu erstellen , führen Sie die folgenden Schritte aus :
+Ändern der Größe des Eingabefeldes eines intelligenten Lesezeichens in der Werkzeugleiste
+Lesezeichen Eigenschaften Adresse ANZAHL ANZAHL http:/ /www.google.com/ search ? q=%s%{width=15 }
+Epiphany sammelt Chronik-Informationen über Orte , die Sie bereits besucht haben . Diese Informationen werden für den späteren Zugriff in einer Datenbank gespeichert .
+Zum Verwalten der Chronik öffnen Sie das Chronik-Fenster . Dieses Fenster ermöglicht Ihnen das Durchsuchen der Chronik sowie das Löschen von Orten , die Sie nicht mehr besuchen wollen .
+So öffnen Sie einen Chronik-Link in einem neuen Fenster oder Reiter
+Um einen Chronik-Link in einem neuen Fenster zu öffnen , führen Sie die folgenden Schritte aus :
+Wählen Sie den Chronik-Link aus , den Sie öffnen möchten .
+Datei In neuem Fenster öffnen In neuem Fenster öffnen
+Um einen Chronik-Link in einem neuen Reiter zu öffnen , führen Sie die folgenden Schritte aus :
+Datei In neuem Reiter öffnen In neuem Reiter öffnen
+Um einen Chronik-Link zu löschen , führen Sie die folgenden Schritte aus :
+Wählen Sie den Chronik-Link , den Sie löschen möchten .
+Wenn Sie etwas in das Suchfeld im Chronik-Fenster eingeben , werden eventuell in der Chronik-Datenbank gefundene Übereinstimmungen in einer darunter stehenden Liste angezeigt . Diese Übereinstimmungen können Sie in einem neuen Fenster oder einem neuen Reiter öffnen . Wahlweise können Sie die Adresse des Links kopieren , um Sie in einer beliebigen anderen Anwendung einzufügen .
+So kopieren Sie die Adresse eines Chronik-Links
+Um die Adresse eines Chronik-Links zu kopieren , führen Sie die folgenden Schritte aus :
+So erzeugen Sie ein Lesezeichen aus einem Chronik-Link
+Um aus einem Chronik-Link ein Lesezeichen zu erzeugen , führen sie die folgenden Schritte aus :
+Cookies ermöglichen den Websites , Informationen zu speichern , die bei einem späteren Besuch der Seite wieder abgerufen werden können .
+In der Verwaltung der persönlichen Daten können Sie die auf Ihrem Computer gespeicherten Cookies und die darin enthaltenen Details betrachten . Hier können Sie auch Cookies löschen .
+Das Eigenschaftsfenster für Cookies zeigt Ihnen die folgenden Details an :
+Der Pfad innerhalb der Domäne , für den das Cookie gültig ist .
+Das Datum und die Zeit , bis ein Cookie seine Gültigkeit verliert .
+In der Verwaltung der persönlichen Daten können Sie die Seiten betrachten , für die Passwörter gespeichert wurden , und diese Passwörter löschen .
+Wenn Sie Dateien herunterladen , stellt der Download-Manager Details zu den aktuellen Downloads bereit :
+Sobald alle Downloads beendet sind oder abgebrochen wurden , wird der Download-Manager geschlossen .
+Zeigt an , dass diese Seite unsicher ist .
+Zeigt an , dass diese Seite sicher ist .
+Zeigt an , dass einige Teile dieser Seite sicher sind und andere nicht . Sie sollten diese Seite insgesamt als unsicher betrachten .
+Bei sicheren Seiten wird ein weiteres Schloss-Symbol in der Adresszeile angezeigt . Außerdem wird der Hintergrund der Adresszeile in einer anderen Farbe dargestellt .
+Zeigt entweder den Herausgeber des Zertifikats oder die Domäne , an die das Zertifikat ausgegeben wurde .
+Zeigt den Namen der herausgebenden Organisation , oder den Namen der Organisation , an die das Zertifikat ausgegeben wurde .
+Zeigt die Abteilung der Organisation , welche das Zertifikat ausgegeben oder empfangen hat .
+Ein eindeutiger Bezeichner für dieses Zertifikat .
+Das Datum , an dem das Zertifikat ausgestellt wurde .
+Eine das Zertifikat identifizierende Zeichenkette . Sie können bei der das Zertifikat ausgebenden Organisation prüfen , ob diese Zeichenkette mit der dort gespeicherten Zeichenkette übereinstimmt .
+Einige Zertifikate werden von übergeordneten Autoritäten signiert , welche wiederum von einer weiteren übergeordneten Autorität signiert wurde . Diese Liste zeigt die vollständige Zertifizierungskette an .
+Zeigt die Felder , wie Sie im Zertifikat für das in der Hierarchie ausgewählte Zertifikat erscheinen .
+Zeigt den Wert des ausgewählten Zertifikat-Feldes an .
+Dieser Abschnitt ermöglicht Ihnen den Stil des Texts und die verwendeten Farben auf Websites anzupassen .
+Erweiterte Schrifteinstellungen Für Sprache Variable Breite Dicktengleich Minimale Größe
+Epiphany Seiten das Verwenden von eigenen Schriftarten erlauben
+Epiphany Seiten das Verwenden von eigenen Farben erlauben
+Das Deaktivieren dieser Funktionen kann dazu führen , dass Seiten nicht korrekt angezeigt werden und dass ein Teil der Funktionalität nicht mehr vorhanden ist . Um Java zu benutzen , müssen Sie das Java-Plugin installieren .
+Sie können auch den Umgang mit Cookies anpassen :
+Das Deaktivieren oder Einschränken von Cookies kann den Zugriff auf Teile einiger Seiten einschränken und einige Funktionen außer Kraft setzen .
+So können Sie die Komponenten des Browser-Fensters anzeigen oder verstecken
+So können Sie die Komponenten des Browser-Fensters auf folgende Arten anzeigen oder verstecken :
+Ansicht Werkzeugleisten Werkzeugleisten verbergen Ansicht Werkzeugleisten Werkzeugleisten verbergen
+Sie können die in Ihren Werkzeugleisten dargestellten Objekte anpassen :
+Um eine Werkzeugleiste zu entfernen , löschen Sie alle darin befindlichen Objekte . Die Werkzeugleiste wird dann automatisch entfernt .
+Ziehen Sie die Knöpfe mit der Maus , um sie neu anzuordnen , entweder auf der gleichen Werkzeugleiste oder zwischen verschiedenen Werkzeugleisten .
+Eine Datei aus einem lokalen Ordner öffnen .
+Das aktuelle Dokument in einem lokalen Ordner speichern .
+Den aktuellen Reiter oder das aktuelle Fenster schließen .
+Den Text in normaler Größe anzeigen .

@@ -1,0 +1,25 @@
+Den Spiel- & Demonstrationsmodus von Dasher starten .
+Gemischtes Modell ( prediction by partial match ( PPM)/ Wörterbuch )
+Sprachmodell passt sich während des Schreibens an .
+Hiermit können Sie die relative Größe der Buchstabenfelder anpassen . Beachten Sie , dass große Werte Ihre Schreibgeschwindigkeit negativ beeinflussen .
+Abtastzeit im Menümodus ( 0 bedeutet keine Abtastung )
+Prozentanteil , nach dem automatisch die Geschwindigkeit erhöht wird
+Zeit ( in Sekunden ) , nach der automatisch die Geschwindigkeit erhöht werden soll
+Prozentanteil , nach der automatisch die Geschwindigkeit gesenkt wird
+Abtastzeit ( jede Richtung ) , in Millisekunden
+Verzögerung ( in ms ) , bevor der Benutzer tatsächlich den Knopf drückt
+Wahrheitswert muss entweder » wahr « oder » falsch « sein--options
+Unbekannte Option , bitte nutzen Sie » --help-options « für weitere Informationen .
+Dasher-Socket-Eingabe : Starten des Lese-Threads fehlgeschlagen .
+Socket-bezogene Debugginginformationen auf der Konsole ausgeben :
+Doppelklick entspricht dem jeweils anderen Hoch-/ Runter-Knopf - dreifach entspricht umkehren
+Offset für den äußeren ( zweiten ) Knopf
+Toleranz gegenüber ungenauem Timing bei Knopfdruck ( in Millisekunden )
+Dynamischer Modus mit Doppelklicken ( Neuer erster Knopf )
+Warnung : Sprachparameter konnten nicht gesetzt werden =
+Der Optionseingabe fehlt ein » = « .
+Änderungen in %s vor dem Beenden speichern ? Falls Sie die Änderungen nicht speichern , gehen sie unwiderruflich verloren .
+Änderungen vor dem Beenden speichern ? Falls Sie die Änderungen nicht speichern , gehen sie unwiderruflich verloren .
+Sind Sie sicher , dass Sie das Programm beenden möchten ?
+Dasher ist eine Anwendung zur vorausschauenden Texteingabe
+Anwendungsstil ( » traditional « , » direct « , » compose « or » fullscreen«)--options

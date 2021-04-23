@@ -1,0 +1,19 @@
+documentation ; information ; manual ; developer ; api ;
+Whether the main window should start maximized .
+The width of the index and search pane .
+Selected tab : " content " or " search "
+Which of the tabs is selected : " content " or " search " .
+Whether books should be grouped by language in the UI
+Whether the assistant window should be maximized
+Whether the assistant window should be maximized .
+Font for text with fixed width , such as code examples .
+Makes F2 bring up Devhelp for the word at the cursor
+Show API Documentation for the word at the cursor
+Search and display any hit in the assistant window
+Expected ' % s ' , got ' % s ' at line % d , column % d
+Invalid namespace ' % s ' at line % d , column % d
+" title " , " name " and " link " elements are required at line % d , column % d
+" name " and " link " elements are required inside < sub > on line % d , column % d
+" name " and " link " elements are required inside ' % s ' on line % d , column % d
+Cannot uncompress book ' % s ' : % s
+Focus the Devhelp window with the search field active

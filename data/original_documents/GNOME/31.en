@@ -1,0 +1,158 @@
+These are the command line arguments used by your program . The drop-down list keeps an history of the last arguments used .
+The working directory is the current directory when your program will be run .
+You can click on the drop-down section , to display all environment variables those will be accessible by your program . By default , it includes all the current environment variables , they are display in light gray .
+When a variable has not the same value than in the current environment , it is displayed in black .
+This has to be checked to run the program in a terminal allowing you to provide inputs and see its outputs using the standard Unix streams . It is not necessary for programs having a graphical interface .
+Create a new project from scratch .
+Leave the mouse over a project icon for a second and a small pop-up message will appear showing more information about this type of project .
+Keep the mouse over the button or typing area for a second to get a small pop-up message with more details about the corresponding setting .
+Add or remove a target from a project .
+If the project backend supports it , you can add or remove targets in your project without editing the project file . A target groups files together . It is typically used to represent a program , with all its source files as its children .
+Enter a target name and select the type of the target in the drop-down list below . Depending on your project backend , various types of target are possible .
+Target names are typically restricted to letters , digits and the underscore , so it 's safer to avoid other characters .
+Confirm the removal . The target and all its properties will be removed from the project file . All its files stay untouched on your hard disk .
+Whatever the underlying backend , the graphical interface is the same but some functions might be disabled .
+Add or remove packaged libraries from a target .
+When you have created a module containing one or more libraries , you can add it to a target .
+Add a packaged library to a target
+Libraries cannot be added directly to a target . You need to put them into a module first and add this module to the target .
+Remove a packaged library from a target
+Confirm the removal . This library will be removed from the target .
+Add or remove libraries from a project .
+Add packaged libraries in a new module
+A library cannot be added directly to your program ; you first need to create a module for it , which is just a group of libraries .
+project view project context menu Add Library New Library
+You will get a list of all the packaged libraries installed on your system . You can check one or more libraries .
+Add packaged libraries in an existing module
+Remove a packaged library from a module
+Confirm the removal . This library will be removed from the project file .
+Add or remove non-packaged libraries from a project .
+Add a non-packaged library to a target
+In order to use a library in C , you need to tell the compiler where the header files are , and tell the linker where to find the needed libraries . The issue is that your program will not compile on another computer if the header and the libraries are elsewhere .
+Linker flags library _ name gcc library _ name lib .a .so
+Remove a non packaged library from a target
+Add or remove files from a project .
+If the project backend supports it , you can add or remove files in your project without editing the project file .
+The target allows you to group files , and has a type which defines how the files are used inside . A program target contains source files , which will be compiled to create the target . On the other hand , a data target only groups data files which will be installed in the same place .
+Some project formats require the file to be under the project directory . Added source files outside the project directory are automatically copied inside to fulfill this requirement .
+Confirm the removal . The file will only be removed from the project , not from your disk .
+main menu File New Project from Existing Sources Project from Existing Sources New top tool bar
+A makefile is probably the most common way to build software on all kinds of platforms . A makefile contains a list or rules describing which commands have to be run in order to generate a target from a list of dependencies . When building a program , the target is an object file and the dependencies are the source files . The target of one rule can be a dependency of another one , allowing several rules to be chained in order to make a final target .
+If the project backend is not able to find all the source files , you can try to use the directory backend instead . It does not recognize any targets but should get all source files .
+Changing properties , or adding or removing targets and source files are disabled with this backend , as automatically editing the makefile is not implemented . It has to be changed by hand using the text editor . When the makefile is saved , it is automatically reloaded though .
+It is not possible to add or change anything with a project using this backend . But if you create a source file in the project directory , with the right extension , it will be added automatically .
+Like local variables , all watch expressions are displayed in a tree with children used to represent structure or array members .
+The name of the variable or the expression .
+The type of the variable or of the expression result .
+Watch expressions can be updated automatically as soon as the program is stopped or on user request .
+To set a watch expression to update automatically :
+To update all watch expressions manually at once :
+To add an expression to the watch list :
+main menu Debug Add Watch ... Watches Add Watch ...
+An expression can be evaluated and then added as a watch like this :
+main menu Debug Inspect / Evaluate Editor Inspect / Evaluate
+You can remove an expression from the watches list .
+All watches can be removed at the same time .
+If a watch expression corresponds to a variable , you can change its value .
+Fixing GLib / GTK + critical errors
+Use the program until the critical error occurs .
+The top function with frame number 0 is in GLib , so you have to look down in the stack . Typically the error originates from the topmost function that belongs to your program .
+A program can be composed of several threads . All these threads are executed independently , having their own registers , stack and local variables , but sharing global variables .
+The window shows the following information about each thread :
+This contains a yellow arrow that points to the active thread .
+This is a number corresponding to each thread .
+The name of the file containing the function corresponding to the current frame of the current thread .
+The line number of the function corresponding to the current frame of the current thread .
+The name of the function corresponding to the frame of the current thread .
+The address of the function corresponding to the frame of the current thread .
+The current thread is the thread whose stack and local variables are currently displayed in the debugger .
+Like a video editing session , the program can be executed in slow motion with the ability to go forward , pause , stop , and so on . This is essential for tracking program behavior . You cannot go backward yet , though .
+Single stepping executes only one statement of the program ( from the place where it has stopped ) and then returns control . If the statement that is executed contains one function , the debugger tries to step inside the functions ( in the sequence in which the functions are executed ) . Once the statement is executed and control is passed back , you can study your program 's state .
+Stepping over is similar to stepping except that it does not stop inside any function in the statement being executed .
+Stepping out executes the current function until it returns to the calling function .
+This command restarts the program and lets it run until a breakpoint is encountered or the program exits .
+main menu Debug Run to Cursor F8 Run to
+This interrupts the program and returns control to the debugger , allowing you to perform debugging tasks , like inspecting data or adding breakpoints .
+A stack frame is the area of the stack associated to each function call . It lists all functions and their arguments in the sequence they were called . Each stack frame is numbered starting from 0 for the current function . You can only view the stack frames while the debugger is running .
+Each stack frame contains the following information :
+This contains a yellow arrow to represent the active stack frame . By default it is frame 0 , the current function . All evaluations and local variables are relative to this active frame . You can change the active stack frame to examine local variables in other functions .
+The name of the file containing the function corresponding to this frame .
+The line number of the function corresponding to this frame .
+The name of the function corresponding to this frame .
+The address of the function corresponding to this frame .
+Start a program with the debugger .
+The debugger can be used on an already running application .
+The debugger can be used to debug an application running on another computer connected through a TCP or serial connection .
+The debugger and the program can be stopped at any time like this :
+This hides command paths in the process list if checked .
+This hides the command line arguments in the process list if checked .
+If unchecked , the processes are displayed in a list . If checked , the processes are displayed in a tree .
+All local variables are displayed in a tree view with children used to represent structure or array members .
+The debugger can tell you various information about the program while it is running .
+This opens a window which will list all shared libraries the program has loaded and their locations in memory . It also shows whether each library 's symbol table is loaded or not .
+This lists all available signals with a small description and three columns to specify what to do when a signal is received :
+The debugger stops the program execution when the program receives this signal .
+The debugger displays the received signal .
+The debugger passes the signal to the program .
+The context menu that is displayed when you click the right mouse button has all its items disabled because the corresponding functions are not implemented yet .
+Inspect an expression and modify a variable
+While you are debugging a program , you can find out the value of an expression or variable while the program is paused . It is also sometimes useful to change the value of a variable .
+main menu Debug Inspect / Evaluate ... Editor Inspect / Evaluate ...
+You can send a custom command to the debugger like this :
+The output of the command is displayed in the message window used by the debugger .
+Registers whose values have changed since the last stop are in red . It is possible to change the value of any register by clicking in the value column and entering a new value .
+The first column displays memory addresses in hexadecimal , the second displays memory contents in hexadecimal and the last column shows memory contents in ASCII .
+The first column displays addresses in hexadecimal . In the second column , you can have a label starting at the beginning of the line and ending with a colon or a assembly-language instruction indented by 4 space characters .
+Breakpoints are used to stop the execution of the program at a particular point so that the state of the program can be examined at those locations .
+This view has the following columns :
+This is the position of the breakpoint in the source file . When the breakpoint is set by the debugger , you can get additional information such as the function containing the breakpoint .
+This field is filled with the address of the breakpoint when it is set by the debugger .
+This is the breakpoint condition . It is empty if no condition is defined .
+When the debugger is not running , this column displays the pass count of the breakpoint , or zero if it is not defined .
+When the debugger is running , if the pass count is zero , this column displays the number of times this breakpoint has been triggered . If the pass count is not zero , both numbers are displayed . The pass count is the second number .
+This is the state of the breakpoint . It may be
+the breakpoint is not set in your program .
+the breakpoint is set ( its id number is displayed in parentheses ) .
+the breakpoint is set but will be deleted if reached .
+All breakpoints are kept across Anjuta sessions even if they correspond to a non-existing locations , for example in a source file of a shared library not loaded yet . In this case their states are set as pending .
+main menu Debug Add Breakpoint ... Breakpoint Add Breakpoint ...
+Another solution is to use the toggle breakpoint function . If there is no breakpoint on the current line , it will add one . Otherwise , it will remove it .
+main menu Debug Toggle Breakpoint Editor Toggle Breakpoint
+You can 't change the location of a breakpoint ; create a new breakpoint instead . However , you can change the break condition or the pass count . To edit a breakpoint :
+main menu Debug Remove All Breakpoints Breakpoint Remove All Breakpoints
+Sometimes you might want to disable a breakpoint temporarily instead of deleting it altogether . To disable or re-enable a breakpoint :
+Enable Breakpoint Breakpoint Enable Breakpoint Disable Breakpoint
+You can disable all breakpoints using :
+main menu Debug Disable All Breakpoints Breakpoint Disable All Breakpoints
+Used to create or edit a breakpoint
+This is the position of the breakpoint . For an existing breakpoint , you cannot change this . You can set a breakpoint at a certain line number , or at the beginning of a function . Use one of the following formats :
+The debugger can also skip the breakpoint a certain number of times before breaking . If the pass count is not zero , then the debugger will have to encounter the breakpoint this number of times before breaking .
+The pass count has a higher priority than the condition . Only when the pass count has been reached will the debugger evaluate the condition if it is present and break the program 's execution .
+The dialog allows you to set global options for building files .
+Errors and warnings during the build are displayed and highlighted in the message window . By checking this option , they are higlighted in the editor too .
+This plugin is targeted at autotools projects but as they use make it is useful for other kind of projects using make .
+Here is a list of the targets used by the plugin . They are implemented in all autotools projects but you need to implement them if you use a custom makefile .
+Use to compile an source file . The object file name is found by replacing the source file extension with the corresponding object extension .
+Use to build all targets in a directory .
+Use to install all targets in a directory .
+Use to delete all file built in a directory .
+Use to build a distributation package , called only in the project directory .
+As make comes with default rules allowing it to compile and link a C program without needing a makefile . You can compile a C program from a single source file without a makefile nor a project .
+There are several possibilities to install targets or a project .
+Configure an autotools project and manage configurations .
+Before compiling and building files , an autotools project has to be configured . This step is needed to set global options , to check that all required libraries and programs are installed on your system and to generate appropriate build scripts .
+The configuration could fail if some libraries or programs are not installed or do not have the right version . The error message tell you what is missing .
+If the project has not been already configured , it will be automatically configured before building any file .
+It is a like cleaning the project but it removes even more files . You need to re-configure your project to build it afterward .
+You can have several configurations having their own options and build directory , this text box allows to name them . Typically you have already defined a Default configuration , a Debug configuration making programs easier to debug ( keeping intermediate variables and code ordering ) and an Optimized configuration generating faster programs but increasing build time . You can define additional custom configurations .
+Select here the build directory , it can be the project directory or a subdirectory . This is particularly useful when switching between different configurations to avoid rebuilding the whole project .
+With autotools , you cannot have one configuration using a different directory if you already have one configuration using the project directory . You need to remove it first .
+Some autotools project cannot be built outside the project directory . You can still use different configurations but they all have to use the project directory and everything will be recompiled on each change of the configuration .
+This text box list all command line arguments used by the configure step . All arguments are separated by spaces and must be quoted if they contains a space . Each configuration fills this text box with default values that you can modify .
+Most programming language allow you to compile an individual source file . It reads the file , checks for errors and convert into an intermediate object file . Most errors happens in this step , so it is useful to compile a file after modifying it to check for errors . There are several ways to do it .
+project manager context menu Build Compile project manager pane
+It can be useful to delete all files created by the build process . By example if the all dependencies are not taken into account and a modified file does not trigger a recompiling as it should , deleting all files will fix this . There are several way to do this
+A target is a file created from source files . Typically , it is a program or a library , but it could also be documentation if the documentation needs processing , for example .
+The build command compiles all needed source files , and possibly links them with some other files , like libraries , in order to create the target . If some source files are already compiled and haven 't been modified , they are not be recompiled , in order to save time . There are several ways to trigger a build .
+Getting started with the user interface editor
+Jump to the API reference using shortcuts in the editor

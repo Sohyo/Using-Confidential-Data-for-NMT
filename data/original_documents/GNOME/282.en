@@ -1,0 +1,59 @@
+Cannot save contact list , it 's only supported on EWS Server 2010 or later
+Downloading contacts in % s % d % % completed ...
+Unable to open mimecontent temporary file !
+Unable to generate parser from mimecontent !
+Unable to parse meeting request mimecontent !
+Could not load summary for % s
+Cant perform actions on the folder while in offline mode
+_ Apply filters to new messages in Inbox on this server
+Only check for Junk messages in the IN _ BOX folder
+For accessing Exchange servers using Web Services
+This option will connect to the Exchange server using a plaintext password with NTLM authentication .
+This option will connect to the Exchange server using a plaintext password with Basic authentication .
+Cannot list EWS public folders in offline mode
+Cannot create folder ' % s ' , folder already exists
+Cannot create folder under ' % s ' , it is used for folders of other users only
+Cannot create folder under ' % s ' , it is used for public folders only
+Cannot remove folder ' % s ' , it is used for folders of other users only
+Cannot remove folder ' % s ' , it is used for public folders only
+No change key record for folder % s
+Cannot both rename and move a folder at the same time
+Cannot find folder ID for parent folder % s
+Cannot subscribe EWS folders in offline mode
+Cannot subscribe folder ' % s ' , no public folder available
+Cannot subscribe folder ' % s ' , folder not found
+Cannot unsubscribe EWS folders in offline mode
+You must be working online to complete this operation
+Cannot send message with no From address
+Exchange server cannot send message with multiple From addresses
+Exchange server cannot send message as ' % s ' , when the account was configured for address ' % s '
+Could not determine a suitable folder class for a new folder named ' % s '
+Data source ' % s ' does not represent an Exchange Web Services folder
+Cannot edit permissions of folder ' % s ' , choose other folder .
+Writing folder permissions , please wait ...
+Reading folder permissions , please wait ...
+Cannot add folder , folder already exists as ' % s '
+Cannot test foreign folder availability while in offline mode
+User ' % s ' was not found on the server
+User name ' % s ' is ambiguous , specify it more precisely , please
+Folder ' % s ' not found . Either it does not exist or you do not have permission to access it .
+Cannot add folder , cannot determine folder 's type
+Testing availability of folder ' % s ' of user ' % s ' , please wait ...
+Author ( can read and create items )
+Editor ( can read , create and modify items )
+_ Delegate receives copies of meeting-related messages sent to me
+Delegate can see my _ private items
+Retrieving current user permissions , please wait ...
+Delegates can send items on your behalf , including creating and responding to meeting requests . If you want to grant folder permissions without giving send-on-behalf-of permissions , close this dialog box , right-click the folder , click Permissions and change the options there .
+Deliver meeting requests addressed to me and responses to meeting requests where I am the organizer to :
+My delegates only , but _ send a copy of meeting requests and responses to me ( recommended )
+The messages specified below will be automatically sent to each internal and external person who sends a mail to you .
+Send Out of Office replies only _ during this time period :
+Do not reply to senders outside the organization
+Reply only to known senders outside the organization
+Reply to any sender outside the organization
+The reported error was & quot ; { 0 } quot ; .
+Your Exchange account " { 0 } " has the status set as " Out of Office " .
+Cannot add folder , unsupported folder type
+Cannot add folder , master source not found
+CreateItem call failed to return ID for new message

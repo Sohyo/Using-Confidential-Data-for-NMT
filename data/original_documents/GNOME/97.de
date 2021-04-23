@@ -1,0 +1,34 @@
+Vergessen Sie nie wieder , eine Rechnung zu bezahlen !
+Legt fest , ob beim Start Benachrichtigungen angezeigt werden sollen .
+Legt fest , ob Benachrichtigungsdialoge angezeigt werden sollen .
+Legt fest , ob vor der Fälligkeit einer Rechnung Alarme angezeigt werden sollen .
+Legt fest , ob Benachrichtigungen für bezahlte Rechnungen angezeigt werden sollen .
+Legt die Anzahl der Tage vor der Fälligkeit fest , wenn mit der Benachrichtigung begonnen werden soll .
+Legt die Anzahl der Tage vor der Fälligkeit fest , wenn mit dem Alarm begonnen werden soll .
+Legt die spezifische Zeit des angezeigten Alarms fest .
+Das Datum , zu dem eine Rechnung fällig ist .
+Legt fest , ob die Menüleiste angezeigt werden soll oder nicht .
+Legt fest , ob die Werkzeugleiste angezeigt werden soll oder nicht .
+Legt die Standardbreite der Anwendung fest .
+Legt die Standardhöhe der Anwendung fest .
+Legt die vorgegebene X-Koordinate der Anwendung fest .
+Legt die vorgegebene Y-Koordinate der Anwendung fest .
+Legt fest , ob die Anwendung im Benachrichtigungsfeld gestartet werden soll .
+Aufruf : billreminder [ OPTIONEN ... ]
+Zeigt die Versionsnummer dieser Anwendung an .
+Ohne Hintergrunddienst auf Datenbank direkt zugreifen .
+Diese Option ist noch nicht implementiert .
+Dies ist %(appname)s - Version : %(version)s
+Die Rechnung %(bill)s ist in %(day)s fällig .
+Sperrdatei gefunden : Eine andere Instanz des Programms läuft bereits . ( pid=%d )
+Sperrdatei gefunden : Das Programm wurde möglicherweise unerwartet beendet .
+Das Enddatum wurde vor dem Startdatum gesetzt . Ändern Sie es so , dass es zum Startdatum passt .
+» %s « und » %s « sind Pflichtfelder .
+» %s « ist ein Pflichtfeld .
+Das Enddatum wurde vor dem Startdatum gesetzt .
+Die Kategorie » %s « gibt es bereits in der Datenbank ! Wollen Sie Ihre Änderungen in der bestehenden Kategorie speichern ?
+Wollen Sie » %s « wirklich löschen ?
+Wollen Sie » %s « wirklich löschen ?
+Werde alarmiert wenn individuelle Rechnungen fällig sind .
+Geben Sie an , wann Sie über bald fällige Rechnungen benachrichtigt werden wollen .
+Wenn Sie das Programm schließen ohne zu speichern , werden Ihre Änderungen verworfen .

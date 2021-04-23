@@ -1,0 +1,70 @@
+Banshee Play Queue Music Videos Amazon MP3 Store Last.fm Podcasts
+Double-click the view with your mouse .
+Sync your media to a portable media player or smartphone .
+From the dropdown menu next to each of the media , choose from :
+Deleting files from your portable music player will permanently remove the files and you will not be able to recover them .
+Sort your media and add additional columns .
+As your library grows , you may want to change your library view to add additional information about the songs in your library or change the way you can view and sort your songs , artists or albums .
+Search your media and perfom basic queries .
+dave matthews dave matthews Banshee dave matthews dave Dave DAVE
+The following is a list of logical operators and examples of the search results when searching using them .
+Search for two terms with a space between the two words or terms .
+Search results will be two songs with either result in any field .
+Internet radio stations are similar to regular radio stations , allowing an individual or an organization to stream music live over the internet . Internet radio stations can be a simultaneous stream of a regular radio station , amateurs broadcasting their own station , or commercial radio stations that include live DJs and even commercials .
+Radio Add Station Banshee Media Add Station
+You will need to enter some details about the radio station that you wish to add . The first three fields are mandatory :
+Podcasts have been made on almost any subject , including music , movies , Linux and more . Search the internet using your favorite search engine with a search term such as " Linux podcast " and you will be presented with many options to choose from .
+Banshee Podcast Subscribe to Podcasts Media Subscribe to Podcast Shift Control F
+By default , the podcasts will not be downloaded , so you will only be able to listen to them while you are connected to the internet . When you subscribe to a new podcast , you will be able to select the following options :
+Play tracks by different artists every time .
+Play tracks from different albums every time .
+Play tracks with higher ratings more often than unrated ones .
+If there are no rated tracks , the tracks are played in a random order .
+Tracks that you play frequently are scored higher and played more often .
+Podcasts shows you all podcasts you are subscribed to , all podcast shows available , and the podcast browser lists all podcasts in order of newest first .
+Edit and change music tags and metadata .
+Popular metadata formats are ID3v1 and ID3v2 for MP3 files and Vorbis comments for OGG Vorbis files .
+A dialog box will appear that shows the song 's metadata and allow you to change or update it . The default fields displayed include :
+Playlists allow you to create and save a list of music tracks to be played in a specific order . Playlists are convenient to create a list of your favorite songs or to split your library into smaller lists that are easy to browse through . Some portable media players even allow you to transfer the playlist so you can take it with you on the go .
+A normal playlist is a list of songs that you add and manage . You might want to create your own list of songs by your favorite artist from multiple albums , your latest favorite songs , or an upbeat playlist to listen to while you exercise .
+Control N Media New Playlist Add to Playlist New Playlist Music Music New Playlist New Playlist
+You can change the order of the playlist by dragging and dropping the song to the new position in the playlist . Songs can only be re-ordered in the playlist when none of the columns are sorted . To unsort a column , press the column until the up or down arrow is no longer showing and the column is blank and then re-order the playlist .
+Delete Edit Remove from Playlist Remove from Playlist
+Smart Playlists allow you to quickly generate a dynamic playlist based on a number of pre-set variables . You can quickly create a new playlist based on a specific artist , favorites or more .
+Banshee Open in editor Create and save
+Favorites ( Songs rated four and five stars )
+Recent Favorites ( Songs listened to often in the past week )
+Recently Added ( Songs imported within the last week )
+Unheard ( Songs that have not been played or skipped )
+Neglected Favorites ( Favorites not played in over two months )
+700 MB of Favorites ( A data CD worth of favorite songs )
+80 Minutes of Favorites ( An audio CD worth of favorite songs )
+Unrated ( Songs that haven 't been rated )
+Enable Last.fm , song reporting and Last.fm radio .
+http : / / www.last.fm / join Edit Preferences Banshee Source Specific Source Last.fm Sign up for Last.fm
+Banshee Banshee Source Specific Log in to Last.fm Banshee Yes , allow access Banshee Banshee Finish Logging In
+Banshee Banshee Banshee Banshee Source Specific Last.fm Banshee Banshee
+Enable Last.fm song reporting from your device
+Last.fm radio is free for residents of the United States , United Kingdom and Germany . Residents of other countries will have to pay for a premium account with Last.fm to listen to radio . Premium members , in all countries , also receive premium radio features : listening to playlists and stations of music you 've loved or tagged .
+Banshee Banshee Play Banshee Space Next Banshee N Playback Next
+Play Previous Song ( Requires Notification Area Plug-in Enabled
+Play Next Song ( Requires Notification Area Plug-in Enabled
+Toggle Play / Pause ( Requires Notification Area Plug-in Enabled
+Sync your media with a portable music player
+Choose this option to import all music and video files within a specified folder , including all subfolders . You will be prompted with a dialog to choose a folder to import from .
+Choose this option to import only the specific file or files you select . You will be prompted with a dialog to choose the file or files to import .
+Choose this option to import all music and video files in your entire home folder , including files in any subfolders .
+Many digital cameras can take short videos , and photo-management applications often download these videos directly into your Photos folder . Choose this option to import any videos that have been stored in your Photos folder .
+You can safely import from a folder you have already imported from without worrying about duplicate entries in your library .
+Plugins may add additional import choices . The following additional sources will be available if the appropriate plugins are enabled :
+Sync and purchase music from the Amazon MP3 Store .
+Purchase Amazon MP3s in your web browser
+Amazon .amz files are only active for a short time . If you do not download your music quickly , the file will expire and you cannot download your music from Amazon . Amazon does not publish how long files are active . It is recommended you download and import any purchases from Amazon within an hour of purchase .
+@ @ image : ' figures / banshee.png ' ; md5 = THIS FILE DOESN 'T EXIST
+Manage or change your albums cover art .
+Station Genre Station Name Stream URL Paste Control V
+Banshee will then allow you to choose how you want to download new podcasts from a drop down menu . Your choices include :
+Download the Most Recent Episode ( This will automatically download the last episode that was released ) .
+Download All Episodes ( This will download all episodes ) .
+Let Me Decide Which Episodes to Download ( This will allow you to choose which episodes you would like to download ) .
+After you have added a Podcast feed , Banshee will display :

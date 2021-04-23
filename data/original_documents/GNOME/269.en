@@ -1,0 +1,185 @@
+The default toolbar contains only a basic set of tools :
+Add , remove and rearrange the tools in the toolbar .
+To add new items to the toolbar :
+drag them from the toolbar editor to the toolbar .
+To remove items from the toolbar :
+drag them from the toolbar to the toolbar editor .
+To rearrange items on the toolbar :
+drag them to their new position on the toolbar .
+When you copy text , the text that is pasted might be different from what you had selected .
+Why didn 't the text I selected copy properly ?
+This problem happens because of how some document formats handle text . The actual text in the document is stored differently from the way it is displayed . This may result in a copy that does not appear as expected .
+How to add support for SyncTeX .
+The following packages need to be installed in order to add support for SyncTeX :
+Forward search allows you to click on a specific section of TeX source code , and jump to the associated position in the PDF . To perform forward search :
+Click on a line in the TeX file .
+If you have a complex project with several TeX files you can put
+either in the first or last three lines of each included TeX file , and forward search will work . Backward search should always work , even if you don 't add the modeline .
+Backward search allows you to click on a specific line in the PDF file , and jump to the associated line in the TeX source code .
+SyncTeX is a method that enables synchronization between a TeX source file and the resulting PDF output .
+Which editor can you use to edit your TEX file ?
+Copy the evince _ dbus.py to some directory in your path and give it + x permissions .
+Modify your ~ / .vimrc file and add the following lines .
+let g : Tex _ ViewRule _ pdf = ' evince _ dbus.py ' let g : Tex _ DefaultTargetFormat = ' pdf ' let g : Tex _ CompileRule _ pdf = ' pdflatex --synctex = 1 -interaction = nonstopmode $ * '
+Now you can use Forward search from vim-latex by typing \ \ ls . Backward search is not yet supported .
+How to compile your TeX document with SyncTeX
+\ \ documentclass { article } \ \ synctex = 1 \ \ usepackage { fullpage } \ \ begin { document } ... \ \ end { document }
+Using SyncTeX with the LaTeX Beamer class .
+Beamer is a LaTeX class for creating slides for presentations .
+corresponding to the frame you clicked on .
+Print a booklet over 20 pages .
+If the number of pages in your PDF document is not a multiple of 4 , you should add the appropriate number of blank pages ( 1 , 2 or 3 ) to make it a multiple of 4 . To do so , you can :
+n , 1 , 2 , n-1 , n-2 , 3 , 4 , n-3 , n-4 , 5 , 6 , n-5 , n-6 , 7 , 8 , n-7 , n-8 , 9 , 10 , n-9 , n-10 , 11 , 12 , n-11 ...
+... until you have typed n-number of pages .
+When all the pages have printed , flip the pages over and place them back in the printer .
+Print a 9 , 10 , 11 or 12 page booklet .
+If you have a 9 , 10 or 11 page PDF document you should add the appropriate number of blank pages to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 12 , 1 , 2 , 11 , 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Print a 5 , 6 , 7 or 8 page booklet .
+If you have a 5 , 6 or 7 page PDF document you should add the appropriate number of blank pages to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 8 , 1 , 2 , 7 , 6 , 3 , 4 , 5
+Print a 3 or 4 page booklet .
+If you have a 3-Page PDF document you should add a blank page to make it 4-pages . To do so , you can :
+Type the numbers of the pages in this order : 4 , 1 , 2 , 3
+Print a 17 , 18 , 19 or 20 page booklet .
+If you have a 17 , 18 or 19 page PDF document you should add the appropriate number of blank pages to make it 20-pages . To do so , you can :
+20 , 1 , 2 , 19 , 18 , 3 , 4 , 17 , 16 , 5 , 6 , 15 , 14 , 7 , 8 , 13 , 12 , 9 , 10 , 11
+Print a 13 , 14 , 15 or 16 page booklet .
+If you have a 13 , 14 or 15 page PDF document you should add the appropriate number of blank pages to make it 16-pages . To do so , you can :
+16 , 1 , 2 , 15 , 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9
+See a list of all shortcuts , and learn how to create your own custom shortcuts .
+Opening , closing , saving and printing
+Open a copy of the current document .
+Save a copy of the current document with a new file name .
+Reload the document ( effectively closes and re-opens the document ) .
+Move up / down a page .
+Move up / down a page several lines at a time .
+Go to the beginning of the document .
+Go to the end of the document .
+Select all the text in a document .
+Show the toolbar that lets you search for words in the document . The search box is automatically highlighted when you press this , and the search will start as soon as you type some text .
+Rotate the pages 90 degrees counter-clockwise .
+Rotate the pages 90 degrees clockwise .
+Enable the / desktop / gnome / interface / can _ change _ accels flag in gconf :
+In the textbox , type ' gconf-editor ' .
+You can add / change the shortcut as follows :
+Hover the pointer over the menu item you want to change / create the shortcut for .
+Note that this also works for many other Gnome applications as well .
+Your document will be automatically reloaded if another program changes it while you 're viewing it .
+Why does the document keep reloading ?
+If the Document Viewer detects that the document you have open has changed ( perhaps because another program has modified it ) , it will automatically reload the document and display the most recent version for you .
+Print only specific pages , or only a range of pages .
+To only print certain pages from the document :
+Type the numbers of the pages you want to print in the textbox , separated by commas . Use a dash to denote a range of pages .
+Use the Collate and Reverse options to make pages print in order .
+Printers usually print the first page first , and the last page last , so the pages end up in reverse order when you pick them up .
+If you are printing more than one copy of the document , the print outs will be grouped by page number by default . ( e.g. The copies of page one come out , then the copies of page two , etc . ) Collating will make each copy come out with its pages grouped together .
+Printing is enabled for the following file formats :
+Device Independent file format ( .dvi )
+Tagged Image File Format ( .tiff , .tif )
+Printing a document on paper of a different size , shape or orientation .
+If you want to change the paper size of your document ( for example , print a US Letter-sized PDF on A4 paper ) , you can change the printing format for the document .
+If you are printing a booklet ( which will perhaps be bound or stapled in the middle of each page ) , select the type of printer you will be using for printing from the list below . Then select the number of printed pages your booklet will have .
+Printing two-sided and multi-page per sheet .
+Two-sided and multiple pages per side layout for printing
+You can print on both sides of each sheet of paper :
+The presentation will be displayed full screen .
+Use the left arrow key , up arrow key or right mouse click to go to the previous slide .
+You can also use the scroll wheel to move back and forth through the presentation .
+The following file formats can be used for presentations :
+These passwords are set by the person who created the document .
+You can open a document using any one of the following ways :
+Double clicking opens PDF , PostScript , .djvu , .dvi and Comic Book Archive files in the Document Viewer by default .
+If a Document View window is already open you can :
+Why can 't I open a file ?
+The author may have put printing restrictions on the document .
+A document might not print because of :
+There are many reasons why your printer might not be working . For example , it could be out of paper or ink , or unplugged or damaged .
+To check if your printer is printing correctly :
+Click on your printer in the list .
+Go back to the Document Viewer and try to print the document again .
+You can move around each page of a document by any of the following methods :
+Scrolling up and down using the mouse wheel . To move around a page just by moving the mouse :
+Move the mouse pointer towards the bottom of the window to scroll down ; it will scroll faster depending on how far down the window you go .
+To stop autoscrolling , click anywhere in the document .
+Using the up and down arrow keys of your keyboard .
+Dragging the page around with your mouse , as if you are grabbing it . To do this :
+Move the mouse pointer over the page and hold down the middle mouse button to drag it around .
+If you don 't have a middle mouse button , hold down the left and right mouse buttons at the same time , then drag .
+You can move between pages of a document using one of the following methods :
+To go to a specific page :
+If you want to go to the beginning or the end of the document :
+You can move between pages by clicking on them in the side pane .
+Most documents don 't use this feature , so you won 't be able to view their index in the side pane .
+Alternatively , you can do one of the following :
+select desired zoom percentage from the drop down menu above the window .
+You can use the whole of your screen to view the document :
+Inverting the colors can make it easier to read some text .
+Doing this can make it easier to read text , especially in the case of certain kinds of visual impairment .
+Make sure you save the form , otherwise all of the information you entered will be lost .
+After you have filled it out , you may wish to save your form in one of two ways :
+To save a copy that can be edited in the future ( form remains interactive ) :
+To save a copy that can no longer be edited ( for example , to e-mail the form or submit it on-line ) :
+Copies of encrypted files can 't be saved or printed .
+You can make a selection in a scrollable list box by clicking on the list box and scrolling to your choice with your mouse .
+PDF , PostScript and many others are .
+Other Image Files ( .gif , .jpeg , .png )
+In some Linux distributions , not all formats are supported by default , so you might not be able to view all the formats listed above .
+Find a word or phrase in a document .
+Type the word or phrase you want to look for and a search will start automatically .
+To hide the search bar , click anywhere in the document .
+Only PDF documents are searchable . Some PDF documents are not searchable because their text is encoded in the document as an image .
+Can I edit documents in the document viewer ?
+If the number of pages in your PDF document is not a multiple of 4 , you should add the appropriate number of blank pages ( 1,2 or 3 ) to make it a multiple of 4 . To do so , you can :
+Layout Two-side Short Edge ( Flip )
+Layout Two-side Short Edge ( Flip )
+Once the page has printed , take the paper and place it back in the printer , taking care to orient it correctly ( page 2 will be printed on the other side ) .
+Once page 3 has printed , place the paper back in the printer taking care to orient it correctly ( pages 4 and 9 will be printed on the other side ) .
+It is easier to print a 12-page booklet . You may wish to add 3 blank pages to your PDF document to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 7 , 2 , 1
+Type the numbers of the remaining pages in this order : 6 , 3 , 4 , 5
+It is easier to print a 8-page booklet . You may wish to add a blank page to your PDF document to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 6 , 3 , 4 , 5 , 2
+Once the pages have printed , take the paper with page 2 on it , place it back in the printer , taking care to orient it correctly ( page 1 will be printed on the other side ) .
+It is easier to print a 8-page booklet . You may wish to add 2 blank pages to your PDF document to make it 8-pages . To do so , you can :
+Once page 3 has printed , place the paper back in the printer ( taking care to orient it correctly ( pages 4 and 9 will be printed on the other side ) .
+It is easier to print a 8-page booklet . You may wish to add 3 blank pages to your PDF document to make it 8-pages . To do so , you can :
+It is easier to print a 4-page booklet . You may wish to add a blank page to your PDF document to make it 4-pages . To do so , you can :
+It is easier to print a 16-page booklet . You may wish to add a blank page to your PDF document to make it 16-pages . To do so , you can :
+Type the numbers of the pages in this order : 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9 , 2
+It is easier to print a 16-page booklet . You may wish to add 2 blank pages to your PDF document to make it 16-pages . To do so , you can :
+Once page 3 has printed , place the paper back in the printer taking care to orient it correctly ( pages 4 and 13 will be printed on the other side ) .
+It is easier to print a 16-page booklet . You may wish to add 3 blank pages to your PDF document to make it 16-pages . To do so , you can :
+Type the numbers of the pages in this order : 11 , 2 , 1
+Type the numbers of the remaining pages in this order : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+It is easier to print a 12-page booklet . You may wish to add a blank page to your PDF document to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7 , 2
+It is easier to print a 12-page booklet . You may wish to add 2 blank pages to your PDF document to make it 12-pages . To do so , you can :
+You can convert a document to SVG by " printing " it to a file .
+You can convert documents of the following format types to SVG files :
+This works by opening the file in Document Viewer and " printing " the document as an SVG file .
+You can convert a document to PostScript .
+You can convert documents of the following format types to PostScript files :
+This works by opening the file in Document Viewer and " printing " the document as a PostScript file .
+You can convert a document to PDF by " printing " it to a file .
+You can convert documents of the following format types into PDF format :
+This works by opening the file in Document Viewer and " printing " the document as a PDF file .
+You can open multiple files by typing the filenames after the evince command , separating the filenames by a space :
+Opening a document at a specific page
+The page label should be in the same format as the page number displayed in the Document Viewer toolbar .
+How and where to report problems .
+This is a bug tracking system where users and developers can file details about bugs , crashes and request enhancements .
+To participate you need an account which will give you the ability to gain access , file bugs , and make comments . Also , you need to register so you can receive updates by e-mail about the status of your bug . If you don 't already have an account , just click on the " New " link to create one .
+File a Bug Core evince bug writing guidelines browse
+Your report will be given an ID number , and its status will be updated as it is being dealt with .
+You can use annotations like bookmarks .
+Save a copy of an annotated PDF
+How to create and customize annotations .
+Click on the icon to add a text annotation .
+You can resize the note by clicking and holding the left mouse button on one of the bottom corners of the note , and moving it around .
+Annotations can only be added to PDF files .
+Annotations can only be added to PDF files . If your file is of a format other than PDF , the option to add annotations will be greyed out ( disabled ) .
+How to customize the author , color , style or icon of an annotation .
+Right click on the annotation icon in the document .
+The annotation properties will be applied to the note for which you made the changes only . Each note can have a different set of properties .
+Can I permanently change the default annotation properties ?

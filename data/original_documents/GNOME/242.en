@@ -1,0 +1,126 @@
+@ @ image : ' figures / ephy-screenshot.png ' ; md5 = 02e8254f75ce0d0997e225214f24f877
+@ @ image : ' figures / ephy-addressbar-smartbookmark-screenshot.png ' ; md5 = 3dca863c7c58354488414d7b71df91b8
+@ @ image : ' figures / ephy-bookmarkbar-smartbookmark-screenshot.png ' ; md5 = 5b6f640876f635a073dbf5b3d074d0b8
+@ @ image : ' figures / ephy-history-window-screenshot.png ' ; md5 = 73080fe23ca131c71b3b313c52cff399
+Epiphany is a simple web browser for GNOME with most standard features such as pop-up blocking , tabbed browsing . It also has optional extensions and rather than using folder-based bookmarks , it has topic-based bookmarks .
+This manual is part of a collection of GNOME manuals distributed under the GFDL . If you want to distribute this manual separately from the collection , you can do so by adding a copy of the license to the manual , as described in section 6 of the license .
+Many of the names used by companies to distinguish their products and services are claimed as trademarks . Where those names appear in any GNOME documentation , and the members of the GNOME Documentation Project are made aware of those trademarks , then the names are in capital letters or initial capital letters .
+DOCUMENT IS PROVIDED ON AN " AS IS " BASIS , WITHOUT WARRANTY OF ANY KIND , EITHER EXPRESSED OR IMPLIED , INCLUDING , WITHOUT LIMITATION , WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE , FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING . THE ENTIRE RISK AS TO THE QUALITY , ACCURACY , AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU . SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT , YOU ( NOT THE INITIAL WRITER , AUTHOR OR ANY CONTRIBUTOR ) ASSUME THE COST OF ANY NECESSARY SERVICING , REPAIR OR CORRECTION . THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE . NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER ; AND
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY , WHETHER IN TORT ( INCLUDING NEGLIGENCE ) , CONTRACT , OR OTHERWISE , SHALL THE AUTHOR , INITIAL WRITER , ANY CONTRIBUTOR , OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT , OR ANY SUPPLIER OF ANY OF SUCH PARTIES , BE LIABLE TO ANY PERSON FOR ANY DIRECT , INDIRECT , SPECIAL , INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING , WITHOUT LIMITATION , DAMAGES FOR LOSS OF GOODWILL , WORK STOPPAGE , COMPUTER FAILURE OR MALFUNCTION , OR ANY AND ALL OTHER DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT , EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES .
+This manual describes version 2.25 of Epiphany .
+You can open a browser window in the following ways :
+You can open the bookmarks window in the following ways :
+A page being displayed in a browser window . Callouts : Menubar , toolbar , address entry , view pane
+Contains menus that you use to perform tasks in a browser window .
+Contain buttons that you use to perform tasks in a browser window . Menus , buttons and text fields that you use for high-speed access to bookmarks and web searches are also located here .
+Drop-down combination box that you use to enter web addresses or search terms .
+Displays the contents of the viewed page .
+You can also open a context menu from browser windows . To open this context menu right-click in a browser window . The items in this menu depend on where you right-click . For example , when you open the context menu of a link , you can choose items related to the link . When you open the context menu on the web page itself , you can choose items related to the display of the web page . By opening the context menu of a toolbar item you can choose items related to that toolbar .
+The address entry is used to enter web addresses or search terms . Any words entered in the address entry are searched for in the Bookmarks database and the History database . If there are any matches , these are shown in a drop down list and can be selected by you . The selected web page will be loaded in the browser window .
+When in Fullscreen mode , only a minimal toolbar is shown .
+To Save a Page to a File
+You can select the printer you are setting up the page size for here . This is useful when your printer model has specific margins that should not be exceeded .
+Defines whether the top of the page is the short ( portrait ) or long ( landscape ) edge of the paper .
+To search a page for a string , perform the following steps :
+To finish the search , click outside of the search bar .
+You can use the following methods to enlarge or shrink the text in a web page :
+To enlarge the text in a web page
+To shrink the text in a web page
+Alternatively , you may use the menu :
+To View the Source of a Page
+To View the Page 's Popup Windows
+Web pages contain links to other web pages , often ( but not always ) indicated by an underline . To follow a link , left click it .
+To open a link as the page specifies
+Left-click a link . The link may open in the current window or a new window according to what the page author specified .
+To open a link in a new tab
+To open a link in a new window
+Select the header of a tab to switch to it .
+Tabs Move Tab Left Tabs Move Tab Right
+You can also access these options by opening the context menu of the tab header .
+Building a browser with the simplest interface possible .
+Avoiding the need for the user to remember addresses of sites that the user wants to visit .
+Development -gt ; GNOME -gt ; GNOME developers home page
+Development -gt ; GNOME developers home page GNOME -gt ; GNOME developers home page
+Use topics that will come to mind first when trying to recall the bookmark .
+Typing in a topic in the location bar of the main window drops down a list of bookmarks of that category .
+A word typed into the location bar are automatically searched in the bookmark database and matching bookmarks are shown in a drop down list below the location bar .
+Bookmarks and topics can be added to the toolbars for easy access . To add a bookmark or topic to a toolbar , drag it from the bookmarks window to the toolbar .
+You can create new bookmarks in several ways .
+Click on the bookmark or topic .
+To Open a Bookmark in a New Window or Tab
+To open a bookmark in a new window perform the following steps :
+Select the bookmark that you want to open .
+File Open in New Window Open in New Window
+To open a bookmark in a new tab perform the following steps :
+File Open in New Tab Open in New Tab
+To Add a Bookmark to a Topic
+Properties Topics Create topic “ ( name ) ”
+To Remove a Bookmark From a Topic
+To rename a bookmark or topic perform the following steps :
+Select the bookmark or topic that you want to rename in the bookmarks window .
+To delete a bookmarks or topics perform the following steps :
+Select the bookmark or topic that you want to delete from the bookmarks window .
+To Copy the Address of a Bookmark
+To copy the address of a bookmark perform the following steps :
+To Add a Bookmark or Topic to the Toolbar
+You can add a bookmark or topic to the toolbar in the following ways :
+You can drag and drop bookmarks and topics from the bookmarks window onto the toolbar .
+To Remove a Bookmark or Topic From the Toolbar
+You can remove a bookmark or topic from the toolbar in the following ways :
+Bookmarked Searches are a special kind of bookmark that can take one or more arguments . By using Bookmarked Searches , web searches and queries can be performed without loading a query page first .
+To make this address a Bookmarked Search , perform the following steps :
+To Resize a Bookmarked Search on the toolbar
+Edit Bookmarks Properties Address NUMCHARS NUMCHARS http : / / www.google.com / search ? q = % s % { width = 15 }
+Epiphany collects history information about locations that are visited by you . This information is stored in a database and can then be accessed later .
+You can manage history by opening the history window . This window allows you to search the history , and delete locations you do not want to revisit later .
+To Open a History Link in a New Window or Tab
+To open a history link in a new window perform the following steps :
+Select the history link that you want to open .
+File Open in New Window Open in New Window
+To Open a history link in a new tab perform the following steps :
+File Open in New Tab Open in New Tab
+To delete a history link perform the following steps :
+Select the history link that you want to delete .
+You can type into the search entry in the history window . In case any matches are found in the history database , they are shown in a list below . These matches can then be opened in a new window , a new tab or the link address can be copied for pasting in any other application .
+To Copy the Address of a History Link
+To copy the address of a history link perform the following steps :
+To Create a Bookmark from a History Link
+To create a bookmark from a history link perform the following steps :
+Cookies allow web pages to store pieces of information which can then be accessed by the site when you next visit .
+In Personal Data Manager , you can view the cookies stored on your computer and the details contained within them . You can also delete cookies .
+The cookies properties window shows you the following details :
+The path within the domain for which the cookie is valid .
+The date and time at which the cookie is no longer valid .
+In Personal Data Manager , you can view the sites for which passwords have been stored , and delete them .
+When you are downloading files , the download manager provides you with details of the current downloads :
+Once all downloads have finished , or been cancelled , the download manager will close .
+Indicates that this site is insecure .
+Indicates that this site is secure .
+Indicates that some parts of this page are secure , and others are not . You should consider the page as a whole to be insecure .
+For secure sites , there is an additional locked padlock icon in the address entry , and the address entry has a different background color .
+Shows either who issued the certificate , or the domain to which it was issued .
+Shows the name of the issuing company , or the name of the company to which is was issued .
+Shows the division of the company which issued or received the certificate .
+A unique identifier for this certificate .
+The date the certificate was issued .
+An identifying string for this certificate . You can check with the issuing company that this string matches the certificate on their records .
+Some certificates are signed by intermediate authorities who are in turn signed by an authority at a higher level . This list displays the complete certificate chain .
+Displays the fields as they appear in the certificate for the selected certificate in the hierarchy .
+Displays the value for the selected certificate field .
+This section allows you to configure the style of text and the colors used on web pages .
+Detailed Font Settings For language Variable width Fixed width Minimum size
+Epiphany Let web pages specify their own fonts
+Epiphany Let web pages specify their own colors
+Disabling these features may cause some pages to display incorrectly or cause some loss of functionility . For Java to work , you need to install the Java plugin .
+You can also configure how cookies are handled :
+Disabling or restricting cookies may disable access to parts of some sites or disable some of their features .
+To Show and Hide Browser Window Components
+You can show and hide browser window components as follows :
+View Toolbars Hide Toolbars View Toolbars Hide Toolbars
+You can customize the items which appear in your toolbars :
+To remove a toolbar , remove all items from it . The toolbar will then automatically be removed .
+Drag buttons , including bookmarks , to rearrange them either on the same toolbar or between different toolbars .
+Open a file from a local folder .
+Save the current document to a local folder .
+Close the current tab or window .
+Display the text at the normal size .

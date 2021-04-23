@@ -1,0 +1,45 @@
+What _ were you doing when the application crashed ?
+Email Address for submitting bug reports to GNOME Bugzilla . This address will be used for correspondence regarding the bug you are submitting . If you already have a GNOME Bugzilla account , please use it as your Email Address .
+File to store unsent bug reports .
+File where bug-buddy will save your bug report in case it can 't be sent immediately to Bugzilla .
+This key determines the GTK + module to load for crash collection support .
+Text file to include in the report
+Bug Buddy was unable to view the link " % s "
+There was a network error while sending the report . Do you want to save this report and send it later ?
+Please ensure that your Internet connection is active and working correctly .
+A bug report detailing your software crash has been sent to GNOME . This information will allow the developers to understand the cause of the crash and prepare a solution for it . You may be contacted by a GNOME developer if more details are required about the crash . You can view your bug report and follow its progress with this URL :
+Bug Buddy encountered an error while submitting your report to the Bugzilla server . Details of the error are included below .
+Bugzilla reported an error when trying to process your request , but was unable to parse the response .
+The account associated with the email address provided has been disabled .
+The product specified doesn 't exist or has been renamed . Please upgrade to the latest version .
+The component specified doesn 't exist or has been renamed . Please upgrade to the latest version .
+The summary is required in your bug report . This should not happen with the latest Bug Buddy .
+The description is required in your bug report . This should not happen with the latest Bug Buddy .
+The fault code returned by Bugzilla is not recognized . Please report the following information to bugzilla.gnome.org manually : % s
+Server returned bad state . This is most likely a server issue and should be reported to bugmaster @ gnome.org % s
+Failed to parse the XML-RPC response . Response follows : % s
+An unknown error occurred . This is most likely a problem with Bug Buddy . Please report this problem manually at bugzilla.gnome.org
+Unable to create the bug report : % s
+There was an error creating the bug report
+The description you provided for the crash is very short . Are you sure you want to send it ?
+A short description is probably not of much help to the developers investigating your report . If you provide a better one , for instance specifying a way to reproduce the crash , the issue can be more easily resolved .
+The application % s crashed . The bug reporting tool was unable to collect enough information about the crash to be useful to the developers . In order to submit useful reports , please consider installing debug packages for your distribution . Click the link below to get information about how to install these packages :
+Please write your report in English , if possible .
+Information about the % s application crash has been successfully collected . Please provide some more details about what you were doing when the application crashed . A valid email address is required . This will allow the developers to contact you for more information if necessary .
+Some sensitive data is likely present in the crash details . Please review and edit the information if you are concerned about transmitting passwords or other sensitive data .
+The application % s has crashed . Information about the crash has been successfully collected . This application is not known to Bug Buddy , therefore the bug report cannot be sent to the GNOME Bugzilla . Please save the bug to a text file and report it to the appropriate bug tracker for this application .
+There was an error displaying help : % s
+Bug Buddy is a utility that helps report debugging information to the GNOME Bugzilla when a program crashes .
+Bug Buddy could not load its user interface file . Please make sure Bug Buddy was installed correctly .
+Either --appname or --package arguments are required .
+Either --pid or --include arguments are required .
+The --unlink-tempfile option needs an --include argument .
+Bug Buddy was unable to retrieve information regarding the version of GNOME you are running . This is most likely due to a missing installation of gnome-desktop .
+The % s application has crashed . We are collecting information about the crash to send to the developers in order to fix the problem .
+Bug Buddy encountered the following error when trying to retrieve debugging information : % s
+Bug Buddy doesn 't know how to send a suggestion for the application % s .
+Thank you for helping us to improve our software . Please fill in your suggestions / error information for % s application . A valid email address is required . This will allow developers to contact you for more information if necessary .
+Application does not track its bugs in the GNOME Bugzilla .
+GDB could not be found on your system . Debugging information will not be obtained .
+Could not find the gdb-cmd file . Please try reinstalling Bug Buddy .
+There was an error running gdb : % s

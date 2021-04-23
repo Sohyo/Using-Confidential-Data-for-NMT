@@ -1,0 +1,6 @@
+Naba Kumar , Andy Piper , Biswapesh Chattopadhyay
+Searching for and Replacing text in files
+You can define the maximum number of actions to be performed .
+The file is not deleted from the filesystem . It still exists , and you can add it back again later if you so wish . The file is only removed from the project listing , and will not take part in any project operations such as compiling , building , or distribution .
+File _ name : Line _ number
+GNU General Public License GNOME Users Guide GNU General Public License their Web site 51 Franklin Street Boston MA 02110-1301 USA

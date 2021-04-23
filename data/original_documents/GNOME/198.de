@@ -1,0 +1,142 @@
+Beginnen Sie eine Videounterhaltung mit einem Ihrer Kontakte .
+Falls Sie über eine Webcam verfügen , können Sie Ihre Kontakte für eine Videounterhaltung anrufen . Dieses Funktionsmerkmal steht nur für bestimmte Kontentypen zur Verfügung . Außerdem muss die andere Person mit einer Anwendung arbeiten , die Videoanrufe unterstützt .
+Erläuterung der verschiedenen Status und deren Symbole .
+Freigeben der Arbeitsumgebung für Ihre Kontakte .
+Es ist möglich , Ihre Arbeitsumgebung für einige Ihrer Kontakte freizugeben oder deren freigegebene Arbeitsumgebungen zu benutzen . Sie können auf diese Weise Ihre Arbeitsumgebung Ihren Kontakten zeigen , um ihnen bei der Lösung von Problemen zu helfen oder selbst um Hilfe zu bitten .
+Um Ihre Arbeitsumgebung freizugeben oder die Arbeitsumgebungen Ihrer entfernten Kontakte zu benutzen , ist eine auf Ihrem System installierte Anwendung zum Betrachten entfernter Arbeitsumgebungen notwendig .
+Es wird eine Anfrage an den Kontakt gesendet , dem Sie Ihre Arbeitsumgebung freigeben wollen . Falls diese akzeptiert wird , dann wird die voreingestellte Anwendung zum Betrachten entfernter Arbeitsumgebungen gestartet , damit es Ihnen ermöglicht wird , die Verbindung zu dem Benutzer zu trennen , der Ihre Arbeitsumgebung steuert .
+Für weitere Informationen über die Benutzung der Anwendung zum Betrachten entfernter Arbeitsumgebungen ziehen Sie deren Hilfe zu Rate .
+Wenn Sie Ihre Arbeitsumgebung für jemanden freigeben , kann das eine sinkende Systemleistung und eine langsamere Internetgeschwindigkeit zur Folge haben .
+Hinzufügen , Bearbeiten oder Löschen persönlicher Nachrichten für Ihren Status .
+Vielleicht wollen Sie eine benutzerdefinierte Nachricht für Ihren Status festlegen , zum Beispiel um jemanden darüber zu informieren , dass Sie für eine bestimmte Zeitspanne nicht verfügbar sein werden .
+Es ist möglich , eine benutzerdefinierte Nachricht festzulegen , basierend auf den verfügbaren Status .
+Wenn Sie die benutzerdefinierte Nachricht als bevorzugt festlegen wollen , speichern Sie sie , um sie wiederverwenden zu können . Klicken Sie anschließend auf den kleinen Stern an der rechten Seite des Textfeldes , in welches Sie Ihre benutzerdefinierte Nachricht eingegeben haben .
+Bearbeiten , Entfernen und Hinzufügen einer benutzerdefinierten Nachricht
+Klicken Sie auf die Auswahlliste , um den Status auszuwählen , dem Sie die benutzerdefinierte Nachricht zuordnen wollen .
+Klicken Sie in das Textfeld und geben Sie die neue benutzerdefinierte Nachricht ein .
+Eine Nachricht an einen Ihrer Kontakte senden .
+Senden Sie eine Datei von Ihrem Rechner an einen Ihrer Kontakte .
+Um jemandem eine Datei senden zu können , müssen Sie mit dem Internet oder einem lokalen Netzwerk verbunden sein .
+I'd like to see this played up a bit more .
+Der Dienst » People Nearby « ist ein Kommunikationsdienst , der ohne Server auskommt : Es ist nicht notwendig , sich mit einem Server zu verbinden und sich zu legitimieren , um den Dienst zu nutzen .
+Dieses Nachrichtensystem ohne Server ist auf lokale Netzwerke beschränkt und erfordert keine aktive Internetverbindung .
+Teilnehmer dieses Dienstes innerhalb des gleichen lokalen Netzwerks werden automatisch ermittelt . Es ist möglich , ihnen Nachrichten und Dateien zu senden , wie mit anderen Diensten auch .
+Alle modernen lokalen Netzwerke sollten in der Lage sein , diese Art Dienst zu unterstützen .
+Wählen Sie das Konto , das Sie aus der Kontenliste entfernen wollen , an der linken Seite des Fensters aus .
+Diagnostizieren häufiger Verbindungsprobleme mit einem Sofortnachrichtendienst .
+Eine Meldung zeigt einen » Netzwerkfehler « an
+Dieser Fehler tritt auch auf , wenn Sie ein IRC-Konto verwenden wollen , ohne einen Spitznamen festzulegen .
+Stellen Sie sicher , dass Sie mit dem Internet beziehungsweise mit einem lokalen Netzwerk verbunden sind .
+Eine Meldung zeigt » Name bereits in Benutzung « an
+Dieser Fehler tritt auf , wenn Sie sich mit Ihrem IRC-Konto verbinden wollen und Sie einen Spitznamen verwenden wollen , den in diesem bestimmten Netzwerk bereits jemand anders gewählt hat .
+Eine Meldung zeigt » Legitimierung fehlgeschlagen « an
+Dieser Fehler geschieht , wenn Ihr Sofortnachrichtendienst keine Verbindung erlaubt , weil Benutzername oder Passwort aus verschiedenen Gründen nicht akzeptiert werden konnten .
+Stellen Sie sicher , dass Sie bei dem Dienst ein Konto registriert haben , mit dem Sie sich verbinden wollen . Falls Sie über kein Konto verfügen , verweigern die meisten Dienste die Verbindung .
+Geben sie Ihren Benutzernamen und Ihr Passwort erneut ein , um sicher zu stellen , dass diese korrekt sind .
+Das Sofortnachrichten-Konto , welches Sie verwenden wollen , ist in der Kontenliste nicht aktiviert .
+Falls das zu verwendende Sofortnachrichten-Konto in der Auswahlliste nicht aktiviert ist , wenn Sie eine neue Unterhaltung starten oder einen Raum betreten wollen , könnten Ihre Kontendetails eventuell nicht korrekt sein .
+Betrachten und Durchsuchen Ihrer früheren Unterhaltungen .
+Empathy alle früheren Unterhaltungen durchsuchen frühere Unterhaltungen anhand Kontakt und Datum suchen
+Sie müssen nicht mit dem Internet verbunden sein , um Ihre vorherigen Unterhaltungen zu betrachten und zu durchsuchen .
+Sie können den Volltext aller Ihrer vorherigen Unterhaltungen durchsuchen .
+Jegliche Unterhaltungen , die auf Ihre Suchbegriffe zutreffen , werden in der Liste unterhalb des Suchfeldes angezeigt . Per Vorgabe sind die Unterhaltungen nach Datum geordnet .
+Sie können Ihre früheren Unterhaltungen mit Ihren Kontakten oder in Unterhaltungsräumen anhand des Datums durchsuchen .
+Wählen Sie ein Konto in der Auswahlliste oben links . Eine Liste der Kontakte und Unterhaltungsräume für dieses Konto wird darunter angezeigt .
+Wählen Sie einen Kontakt oder Unterhaltungsraum , um dessen frühere Unterhaltungen zu betrachten . Per Vorgabe wird die letzte Unterhaltung angezeigt .
+Sie können Ihre Unterhaltungen anhand des Datums durchsuchen . Die Tage , an denen Sie eine Unterhaltung mit dem ausgewählten Kontakt geführt haben , werden fett hervorgehoben . Klicken Sie auf ein Datum , um es auszuwählen . Klicken Sie auf die Pfeile neben den Monats- und Jahresangaben , um zu früheren Daten zu gehen .
+Sie können nach Text in der angezeigten Unterhaltung suchen , indem Sie ihn in das Suchfeld oben eingeben . Der damit übereinstimmende Text wird hervorgehoben .
+Verschiedene Kontakte in einen einzigen zusammenführen oder diese aufteilen .
+Wenn ein oder mehrere Kontakte verschiedene Konten bei unterschiedlichen Nachrichtendiensten haben , so können Sie diese Kontakte in einen einzigen zusammenlegen .
+Wenn Sie einen Kontakt » Janina Schmitt « haben , der drei verschiedene Nachrichtendienste verwende , wie z.B. :
+Dann können Sie diese Kontakte in einen einzigen zusammenlegen .
+Wenn ein Meta-Kontakt erstellt wurde wird derjenige Kontakt bei einer Unterhaltung verwendet , der die längste Zeit angemeldet ist .
+Dieses Werk wird unter einer » CreativeCommons Attribution-Share Alike 3.0 Unported license « verbreitet .
+Das Werk bzw. den Inhalt zu vervielfältigen , zu verbreiten und öffentlich zugänglich zu machen .
+Sie dürfen das Werk nur unter gleichen Bedingungen weitergeben , wie Sie vom Autor oder Lizenzgeber festgelegt wurden ( aber nicht so , dass es wie Ihr Werk aussieht ) .
+Wenn Sie das lizenzierte Werk bzw. den lizenzierten Inhalt bearbeiten , abwandeln oder in anderer Weise erkennbar als Grundlage für eigenes Schaffen verwenden , dürfen Sie die daraufhin neu entstandenen Werke bzw. Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben , die mit denen dieses Lizenzvertrages identisch , vergleichbar oder kompatibel sind .
+Eine Unterhaltung mit einem IRC-Kontakt starten .
+Sie können private Unterhaltungen mit anderen IRC-Benutzern außerhalb der öffentlichen IRC-Unterhaltungsräume führen . So beginnen Sie eine Unterhaltung mit einem anderen IRC-Benutzer :
+Derzeit ist es nicht möglich , Dateien im IRC zu versenden .
+Schützen Sie Ihren Spitznamen , um zu verhindern , dass andere IRC-Benutzer ihn verwenden .
+In einigen IRC-Netzwerken können Sie Ihren Spitznamen mittels eines Dienstes namens NickServ registrieren . Durch spezielle Meldungen an NickServ können Sie Ihr Passwort festlegen und sich selbst identifizieren . Manche IRC-Unterhaltungsräume können Sie ohne einen registrierten Spitznamen nicht betreten .
+So legen Sie ein IRC-Serverpasswort fest :
+Wählen Sie das IRC-Konto aus der Liste an der linken Seite des Dialogs aus .
+Um mehrere Räume zu betreten , müssen Sie die oben genannten Schritte für jeden Raum wiederholen .
+In einigen IRC-Netzwerken können private IRC-Räume durch ein Passwort geschützt sein . Falls Sie das Passwort kennen , gehen Sie wie folgt vor , um den Raum zu betreten :
+Alle Befehle verfügen über eine Kurzbeschreibung der Benutzung .
+Importieren eines Kontos aus einer anderen Sofortnachrichten-Anwendung .
+Ja , meine Kontodetails importieren von Weiter
+Aktivieren Sie das Ankreuzfeld neben jedem Konto , das Sie importieren wollen .
+Gegenwärtig ist es nicht möglich , Konten zu importieren , nachdem der Einrichtungsassistent abgeschlossen ist .
+Um die abgemeldeten Kontakte wieder anzuzeigen , wiederholen Sie den oben beschriebenen Vorgang .
+Starten oder betreten Sie eine Gruppenunterhaltung mit Ihren Kontakten .
+Gruppenunterhaltungen ermöglichen Ihnen Textunterhaltungen mit mehreren Kontakten zugleich .
+Für eine Gruppenunterhaltung benötigen Sie ein registriertes Konto bei entweder Google Talk oder Jabber , oder ein » People Nearby«-Konto .
+Eine Gruppenunterhaltung können Sie nur mit denjenigen Kontakten führen , die den gleichen Dienst wie Sie verwenden .
+Lassen Sie dies leer , wenn es sich um den aktuellen Server handelt .
+Dies wird der Name des Raumes für die Unterhaltung sein . Dieser Name ist öffentlich für Andere einsehbar , um den Raum zu betreten . Es ist nicht möglich , einen privaten Raum zu erstellen .
+Falls Sie mehrere Gruppenunterhaltung geöffnet haben , wählen Sie diejenige aus , in welche Sie Ihre Kontakte einladen wollen .
+Klicken Sie doppelt auf den Namen eines Raums , um ihn zu betreten .
+Geoposition ermöglicht Ihnen die Ermittlung des wirklichen geografischen Ortes eines Rechners oder anderen Gerätes , welches mit dem Internet verbunden ist .
+Ihren Kontakten Ihre geografische Position anzeigen .
+Die geografische Position Ihrer Kontakte sehen und direkt eine Verbindung herstellen .
+Die Genauigkeit Ihrer Position und das für die Ermittlung der Position verwendete Gerät sehen .
+Um die geografische Position Ihrer Kontakte sehen zu können , müssen diese einen Dienst und eine Anwendung verwenden , die die Geoposition unterstützt .
+Um Geoposition abzuschalten , deaktivieren Sie dies.
+Dienste , die Geoposition und Kompatibilität unterstützen .
+Gegenwärtig ist das Geolokation-Funktionsmerkmal ausschließlich mit dem Jabber-Dienst kompatibel . Um es nutzen zu können , müssen Sie und Ihre Kontakte über ein Jabber-Konto verfügen .
+Es ist notwendig , dass auch der von Ihnen verwendete Server das Geoposition-Funktionsmerkmal unterstützt . Die meisten Jabber-Server tun dies. Weitere Informationen finden Sie auf der Webseite Ihres Dienstes .
+Empathy Google Latitude Yahoo Fire Eagle Brightkite
+Welche Informationen gesendet werden und an wen .
+Gesendet werden können : Ihr Land , Bundesland , Ort , Bereich , Straße , Gebäude , Etage und Raum sowie Ihre Postleitzahl , der Längengrad , der Breitengrad , die Höhe über dem Meeresspiegel , die Geschwindigkeit die Funkpeilung .
+Die Genauigkeit und die Menge der verfügbaren Informationen über Ihre geografische Position hängen von der Software oder der Infrastruktur ab , die für die Ermittlung Ihrer Position zum Einsatz kommt .
+Verschiedene Arten von Netzwerken haben unterschiedliche Genauigkeitseinstellungen und senden daher verschiedene Informationen . Die Benutzung externer Geräte wie GPS oder Mobiltelefone erhöht die Genauigkeit der gesendeten Informationen .
+Wenn der Privatsphäre-Modus aktiviert ist , wird nichts Genaueres als lediglich Angaben über die Stadt gesendet , in der Sie sich befinden , selbst dann , wenn Sie ein externes Gerät verwenden .
+Nur Ihre Kontakte können Ihre geografische Position sehen .
+Der per Vorgabe aktivierte Privatsphäre-Modus ist ein Modus mit verminderter Genauigkeit . Die Genauigkeit der zu Ihren Kontakten gesendeten geografischen Position wird dabei verringert .
+Geoposition ist per Vorgabe nicht aktiviert .
+Der Datenschutzmodus ist per Vorgabe aktiviert .
+Der Privatsphäre-Modus ist auch dann wirksam , wenn externe und genauere Geräte benutzt werden .
+Nur Ihre Kontakte können Ihre Position sehen .
+In diesem Fall wird Ihre Position nicht übermittelt , aber Sie sind weiterhin in der Lage , die Position Ihrer Kontakte zu sehen .
+Zum Übermitteln Ihrer geografischen Position können Sie ein externes Gerät verwenden , wie beispielsweise ein GPS-Gerät .
+Einrichten , Betreten und Verwalten bevorzugter Räume .
+Um einen bevorzugten Raum zu betreten , müssen Sie mit dem Internet und mit Ihrem Konto verbunden sein .
+Wählen Sie den bevorzugten Raum , den Sie verwalten wollen :
+Wählen Sie das Konto , das Sie aus der Kontenliste entfernen wollen , an der linken Seite des Dialogs aus .
+Ein Konto bei einem der unterstützten Nachrichtendienste registrieren .
+Facebook ist eines der am meisten genutzten sozialen Netzwerke . Den Benutzern wird die Erstellung eines eigenen Profils und die Kommunikation mit ihren Freunden ermöglicht .
+Jabber ist ein offenes Sofortnachrichtensystem . Wie E-Mail , erlaubt Jabber die Wahl Ihres Konto-Dienstanbieters und die Kommunikation mit anderen Jabber-Benutzern , unabhängig von deren Konto-Dienstanbietern .
+Sie müssen kein Konto bei einem Dienstanbieter anlegen , um dieses Funktionsmerkmal nutzen zu können . Dieser Dienst ist immer dann verfügbar , wenn Sie mit einem lokalen Netzwerk verbunden sind , zum Beispiel einem drahtlosen Zugangspunkt ( Hotspot ) . Andere Benutzer , die diesen Dienst nutzen , werden im Netzwerk automatisch gefunden .
+SIP ist ein offenes System für Audio- und Video-Unterhaltungen übar das Internet . Sie müssen ein SIP-Konto bei einem Dienstanbieter erstellen . Unabhängig davon , welchen Dienstanbieter Ihre Kontakte nutzen , können Sie mit allen anderen SIP-Benutzern kommunizieren .
+Einige SIP-Dienste ermöglichen es , von Ihrem Rechner aus gewöhnliche Telefone anzurufen . Im Allgemeinen werden Sie sich hierfür an einem zu bezahlenden Dienst registrieren müssen .
+Einige IRC-Server sind passwortgeschützt . Sie müssen das Passwort kennen , um eine Verbindung zu diesen Servern herzustellen . Im Allgemeinen sind dies private IRC-Netzwerke .
+Ändern des Status , um Ihre Kontakte über Ihre Verfügbarkeit zu informieren .
+Wählen Sie einen Status in der Liste aus .
+Falls Sie Ihren Rechner für eine gewisse Zeit nicht bedienen oder der Bildschirmschoner eingeschaltet ist , wird der Status automatisch auf abwesend gesetzt .
+Informationen über die Möglichkeiten für Audio- und Video-Unterhaltungen .
+Sie können Audio- und Video-Unterhaltungen nur mit Kontakten führen , die ebenfalls eine Anwendung benutzen , die dieses Funktionsmerkmal unterstützt . Wenn Ihre Kontakte Audio- oder Video-Unterhaltungen unterstützen , werden neben deren Namen in der Kontaktliste folgende Symbole angezeigt :
+Der Kontakt kann eine Audio-Unterhaltung führen .
+Der Kontakt kann eine Video-Unterhaltung führen .
+Um eine Audio-Unterhaltung führen zu können , benötigen Sie eine von Ihrem Betriebssystem unterstützte Soundkarte sowie ein funktionierendes Mikrofon .
+Um eine Video-Unterhaltung führen zu können , benötigen Sie eine von Ihrem Betriebssystem unterstützte Webcam sowie ein funktionierendes Mikrofon .
+Sie können nur mit denjenigen Konten Audio- oder Video-Unterhaltungen führen , welche die entsprechenden Dienste unterstützen . In der folgenden Tabelle wird für jeden Kontentyp aufgelistet , ob Audio und Video unterstützt werden .
+Kontentypen werden durch Plugins bereitgestellt . Auf Ihrem System könnten nicht alle der folgenden Typen verfügbar sein , oder die bei Ihnen verfügbaren Typen sind hier nicht aufgelistet . Durch aktualisierte Plugins könnte es möglich sein , dass hier als nicht unterstützte Typen aufgelistete Konten dennoch Audio- und Video-Unterhaltungen ermöglichen .
+There's recent work on telepathy-butterfly and papyon to support audio and video for MSN . It might be released in time for 2.28 , but since it doesn't follow the Gnome release schedule , I can't be sure . If it looks like it's going to ship , let's mark it Yes .
+Ihre Kontakte über das Internet anrufen .
+Sie können Ihre Kontakte anrufen und eine Audio-Unterhaltung mit ihnen führen . Dieses Funktionsmerkmal unterstützt verschiedene Kontentypen . Weiterhin ist es erforderlich , dass die anzurufende Person über eine Anwendung verfügt , die Audio-Anrufe unterstützt .
+Um eine neue Person zu Ihrer Kontaktliste hinzuzufügen , müssen Sie mit dem Internet und mit Ihrem Konto verbunden sein .
+Ein neues Konto auf dem Server anlegen
+Hinzufügen , Bearbeiten und Entfernen von Konten .
+Für die meisten Kontentypen können Sie einfach eine Anmeldekennung und ein Passwort eingeben . Bestimmte Konten oder Kontentypen könnten allerdings weitere Informationen erfordern .
+Fortgeschrittene Optionen für Konten bei Jabber und Google Talk .
+Google Talk ist eine Art Jabber-Konto . Diese Anweisungen gelten daher auch für Google Talk .
+Sie können die Priorität festlegen , um anzugeben , welche Anwendung die eingehenden Nachrichten von Ihren Kontakten annehmen soll . Neue Nachrichten werden dabei zu der Anwendung mit der höchsten Priorität gesendet .
+Zusätzlich erforderliche Informationen für Verbindungen zu IRC-Netzwerken .
+IRC-Konten erfordern andere Informationen als die meisten anderen Kontentypen . Um ein IRC-Konto zu erstellen , müssen Sie mindestens ein IRC-Netzwerk und einen Spitznamen angeben . Diese Seite erläutert die Informationen , die Sie für ein IRC-Konto angeben können .
+Einige Server , insbesondere diejenigen in privaten Netzwerken , erfordern ein Passwort für die Verbindung . Falls Sie legitimiert sind , das Netzwerk zu benutzen , sollte Sie Ihnen dessen Verwalter ein Passwort zur Verfügung gestellt haben .
+Zusätzlich zu Ihrem Spitznamen können Sie auch Ihren echten Namen angeben . Dieser wird anderen Benutzern angezeigt , wenn diese Ihre persönlichen Informationen betrachten .
+Wenn Sie sich abmelden , wird eine Beenden-Nachricht an alle Unterhaltungsräume gesendet , in denen Sie sich befinden , sowie an alle Benutzer , mit denen Sie eine private Unterhaltung führen . Verwenden Sie dieses Feld , um eine benutzerdefinierte Nachricht bereitzustellen .
+Beim Hinzufügen oder Ändern eines Netzwerks können Sie die folgenden Informationen eingeben :
+Dies ist der Name des Netzwerks , so wie der in der Liste der Netzwerke erscheinen soll .
+Dies legt die Zeichenkodierung fest , die typischerweise in diesem Netzwerk verwendet wird . Eine Zeichenkodierung ist eine spezifische Art der internen Aufzeichnung von Zeichen in einem Rechner . Es gibt zahlreiche Zeichenkodierungen . Sie müssen die gleiche Kodierung wie die anderen Benutzer verwenden , damit deren Nachrichten korrekt angezeigt werden können .

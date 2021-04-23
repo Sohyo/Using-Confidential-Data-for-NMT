@@ -1,0 +1,25 @@
+Vergiss nie wieder eine Rechnung zu bezahlen !
+Zeigt die Versionsnummer dieser Anwendung an .
+Zeigt die Versionsnummer dieser Anwendung an .
+Zeigt die Versionsnummer dieser Anwendung an .
+Zeigt die Versionsnummer dieser Anwendung an .
+Zeigt die Versionsnummer dieser Anwendung an .
+Aufruf : billreminder [ OPTIONEN ... ]
+Zeigt die Versionsnummer dieser Anwendung an .
+Diese Option ist noch nicht implementiert .
+Dies ist %(appname)s - Version : %(version)s
+Die Rechnung %(bill)s ist in %(day)s fällig .
+Sperrdatei gefunden : Eine andere Instanz des Programms läuft bereits . ( pid=%d )
+Sperrdatei gefunden : Das Programm wurde möglicherweise unterwartet beendet .
+Wie oft die Rechnung sich wiederholt .
+" %s " und " %s " sind Pflichtfelder .
+" %s " ist ein Pflichtfeld .
+Die Kategorie " %s " gibt es bereits in der Datenbank ! Wollen Sie Ihre Änderungen in der bestehenden Kategorie speichern ?
+Wollen Sie " %s " wirklich löschen ?
+Wollen Sie " %s " wirklich löschen ?
+Werde alarmiert wenn individuelle Rechnungen fällig sind .
+Geben Sie an wann Sie über bald fällige Rechnungen benachrichtigt werden wollen .
+Es ist ein Fehler unterlaufen beim Verbinden mit BillReminder Notifier ! Wollen Sie diesen öffnen und BillReminder neu starten ?
+Wenn Sie das Programm schließen ohne zu speichern , werden Ihre Veränderungen verworfen .
+Benutzung : billreminder [ OPTIONS ... ] Options : --help , -h , - ? \tZeige diese Nachricht an . --about\t\tÜber diese Anwendung . --add\t\t\tErzeugt einen neuen Eintrag in der Datenbank . --standalone\t\tDirekt auf Datenbank zugreifen , ohne daemon . --version , -v\t\tZeigt die Versionsnummer dieser Anwendung .
+Benutzung : billreminderd [ OPTIONEN ... ] Optionen : --help , -h , - ? \tDiese Nachricht anzeigen . --verbose\t\tAusgabenachrichten ausdrucken . --no-daemon\t\tNicht als daemon ausführen . --open-gui\t\tDaemon starten und GUI öffnen . --stop\t\t\tDaemon stoppen . --version , -v\t\tZeigt die Versionsnummer dieser Anwendung an .

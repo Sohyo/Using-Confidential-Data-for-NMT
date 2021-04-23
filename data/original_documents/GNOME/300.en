@@ -1,0 +1,43 @@
+Server , username and domain name cannot be empty . Please fill them with correct values .
+Failed to create address book ' % s ' : % s
+Failed to create address book ' % s '
+Failed to create calendar ' % s ' : % s
+Failed to create calendar ' % s '
+Failed to create item on a server
+Failed to modify item on a server
+Failed to fetch items from a server
+Failed to fetch changes from a server : % s
+Failed to fetch changes from a server
+Could not create thread for populating cache
+Support for modifying single instances of a recurring appointment is not yet implemented . No change was made to the appointment on the server .
+Updating local summary cache for new messages in % s
+Retrieving message IDs from server for % s
+Removing deleted messages from cache in % s
+Fetching summary information for new messages in % s
+This message is not available in offline mode .
+Cannot get message % s : % s
+Could not get message : % s
+Failed to empty Trash : % s
+Cannot append message to folder ' % s '
+Could not load summary for % s
+C _ heck for new messages in all folders
+_ Apply filters to new messages in Inbox on this server
+Only check for Junk messag _ es in the Inbox folder
+For accessing Microsoft Exchange / OpenChange servers using MAPI
+This option will connect to the OpenChange server using a plaintext password .
+% s Please enter the MAPI password for % s @ % s
+Unable to authenticate to Exchange MAPI server : % s
+Cannot create MAPI folders in offline mode .
+Cannot create new folder ' % s '
+Cannot create folder ' % s ' : % s
+Cannot create folder ' % s '
+Cannot remove folder ' % s ' : % s
+Cannot remove folder ' % s '
+Cannot rename MAPI folder ' % s ' . Folder does not exist .
+Cannot rename MAPI default folder ' % s ' to ' % s ' .
+Cannot rename MAPI folder ' % s ' to ' % s '
+Cannot rename MAPI folder ' % s ' to ' % s ' : % s
+Folder list not available in offline mode .
+Could not send message : % s
+Cannot create more sessions , session limit was reached
+MAPI error % s ( 0x % x ) occurred

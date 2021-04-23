@@ -1,0 +1,33 @@
+I have set a password , but it does not protect the whole archive .
+The integrity test verifies that your data is not corrupt .
+Set the password for your archive .
+Set a password to encrypt data in a new archive by following these steps :
+Type your password into the password field
+Protect an existing archive by setting a password :
+Rename file or folder in an archive
+Delete files or folders from an archive
+Display the tree view of the folders in the side pane
+View the content of an archive as a list of files
+View the content of an archive as a folder structure
+@ @ image : ' figures / file-roller-main-window.png ' ; md5 = 133c50bfcf2ac220d3c2c61180f339db
+An archive is composed of one or more files , along with metadata . It may be encrypted in part or as a whole . By collecting multiple data files together into a single one , archive files are useful for storing data and transferring it between computers .
+Create new archive by adding files or folders
+View an existing archive and its content .
+There are two ways of viewing the archive :
+You may use these column headings mentioned above ( name , size ) … to sort the files in your archive . Do this by clicking on them , and click the same one again to sort in reverse order .
+Open the file with different application by following these steps :
+File Roller The file doesn 't exist Open
+you can type the names of the files that you want to extract
+You can specify in the file chooser dialog whether you want :
+Tick this option if you want to keep the directory structure , as it was in your archive
+This option will not overwrite existing files with the same name , which have a more recent modification date than those which are in the archive .
+Do not extract older files Overwrite existing files
+Extract files or folders from your archive
+Choose the location in the file chooser , into which the files should be extracted . This will be the destination folder .
+The application will show you the progress bar in a new dialog . If the extraction completes successfully , you will be asked whether you want to :
+A dialog will open . Enter the new file name into the text entry field .
+Add files or folders to your new archive .
+Add files to the archive Edit Add files … File Roller Add a folder to the archive Edit Add a folder …
+When you add a folder to your archive , you will be offered some options :
+Select which subfolders or files are to be excluded
+Once you finish adding files , your archive is ready .

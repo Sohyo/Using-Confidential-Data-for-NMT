@@ -1,0 +1,45 @@
+Unterhaltungen in { 0 } ( { 1 } )
+{ 0 } , { 1 }
+ACHTUNG : Der Suchdienst indiziert noch neue Daten .
+Ihre Suche nach » { 0 } « hat keine Treffer auf Ihrem Rechner ergeben .
+Wählen Sie » Suche in : Alle « , um überall zu suchen .
+Sie sollten die Rechtschreibung Ihrer Suchbegriffe überprüfen , um eventuelle Schreibfehler auszuschließen .
+Falls Sie nach GMail-Nachrichten suchen , wählen Sie » Global « im Menü » Suche « .
+Sie können sowohl Klein- als auch Großbuchstaben schreiben - die Suche ist davon unabhängig .
+Aus Sicherheitsgründen kann Beagle nicht vom Systemadministrator ausgeführt werden . Sie sollten als normaler Benutzer neu starten .
+Der Suchdienst scheint nicht zu laufen . Sie können ihn starten , indem sie auf den Knopf unten klicken .
+{ 0}-{1 } von { 2 }
+Parameter » --icon « kann nicht verwendet werden , wenn kein Zugriff auf den D-Bus der Sitzung möglich ist .
+In der Nähe befinden sich Rechner , auf denen Beagle läuft
+Sie können im Menü » Suchen « andere Rechner zum Durchsuchen auswählen .
+Aktuell indiziert der Suchdienst Ihre Daten . Einige Suchergebnisse könnten bis zum Abschluss der Indizierung unvollständig sein .
+Zu viele Ergebnisse . Es werden die letzten { 0 } von insgesamt { 1 } angezeigt .
+In persönlichen Daten auf diesem Rechner suchen
+Das Suchfenster beim Drücken von { 0 } anzeigen
+Die Konfigurationsdatei wurde von einer anderen Anwendung verändert . Möchten Sie , dass die aktuell angezeigten Werte zurückgesetzt werden und eine neu Konfiguration geladen wird ?
+Der Pfad ist bereits zur Indizierung vorgesehen und wurde deshalb nicht hinzugefügt .
+Der ausgewählte Pfad wurde nicht hinzugefügt . Die Liste enthält bereits einen darüber liegenden Eintrag dessen Daten bereits indiziert wurden .
+Durch das Hinzufügen dieses Pfades werden einige bereits vorhandene Pfade überflüssig . Dadurch werden diese veralteten Pfade aus der Liste entfernt . Möchten Sie trotzdem fortfahren ?
+Sind Sie sicher , dass Sie diesen Pfad von der Liste der zu indizierenden Ordner entfernen möchten ?
+Sind Sie sicher , dass Sie diesen Eintrag von der Liste der von der Indizierung auszuschließenden Daten entfernen möchten ?
+Dieser Netzwerkrechner befindet sich bereits auf der Liste .
+Sind Sie sicher , dass Sie diesen Rechner von der Liste entfernen möchten ?
+Der angegebene Pfad wurde nicht gefunden und konnte deshalb nicht in die Liste der von der Indizierung auszuschließenden Ressourcen aufgenommen werden .
+Adressbuch , Notizen und Aufgaben aus Evolution .
+Dateien und Ordner im lokalen Dateisystem .
+Nautilus-Metadaten ( Embleme , Notizen usw. )
+Nutzung anderer Suchdienste im Netzwerk ( EXPERIMENTELL )
+( System ) Zusätzliche Suchergebnisse unter Verwendung des Befehls » locate «
+Dem _Systemadministrator erlauben , Beagle zu starten
+Diese Einstellung wird im Akkubetrieb nicht angewendet .
+Suche a_utomatisch starten , wenn der Benutzer die Eingabe beendet
+Stellen Sie hier ein , welche Ergebnisse angezeigt werden sollen und in welche Reihenfolge sie innerhalb einer Gruppe gesetzt werden sollen .
+Legen Sie hier fest , welche Ressourcen , wie z.B. Pfade , E-Mail-Ordner , Muster oder Objektarten von der Indizierung ausgeschlossen werden sollen .
+Aktiviert die Datenquelle , die Sie indizieren und durchsuchen wollen .
+Änderungen werden nach einem Neustart des Hintergrunddienstes wirksam .
+Externen Zugriff auf lokale Suchdienste erlauben ( EXPERIMENTELL )
+Ein Passwort zum entfernten Durchsuchen dieses Rechners angeben
+Fügen Sie hier durchsuchbare Rechner hinzu , mit dem Sie sich vernetzen möchten .
+Bitte wählen Sie den E-Mail-Ordner den Sie von der Indizierung ausschließen möchten .
+Damit Beagle Suchvorgänge auf diesem Rechner ausführen kann , müssen Sie ein Passwort eingeben .
+Bitte wählen Sie eine Quelle die Sie von der Indizierung ausschließen möchten .

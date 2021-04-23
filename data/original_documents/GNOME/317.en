@@ -1,0 +1,54 @@
+Unrecognized desktop file Version ' % s '
+Application does not accept documents on command line
+Can 't pass document URIs to a ' Type = Link ' desktop entry
+S _ elect the files you want to update :
+Extract the selected archive in the current position
+Create a compressed archive with the selected objects
+You have to specify an archive name .
+You don 't have permission to create an archive in this folder
+Could not delete the old archive .
+File Roller is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+File Roller is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with File Roller ; if not , write to the Free Software Foundation , Inc . , 51 Franklin St , Fifth Floor , Boston , MA 02110-1301 USA
+Copyright © 2001 2010 Free Software Foundation – , Inc .
+Could not add the files to the archive
+You don 't have the right permissions to read files from folder " % s "
+Exclude folders that are symbolic lin _ ks
+Enter the password for the archive ' % s ' .
+The name " % s " is not valid because it cannot contain the characters : % s % s
+You don 't have the right permissions to create an archive in the destination folder .
+Destination folder " % s " does not exist . Do you want to create it ?
+Could not create the destination folder : % s .
+The archive is already present . Do you want to overwrite it ?
+You don 't have the right permissions to extract archives in the folder " % s "
+There was an internal error trying to search for applications :
+There is no command installed for % s files . Do you want to search for a command to open this file ?
+Update the file " % s " in the archive " % s " ?
+Update the files in the archive " % s " ?
+The program was not able to find out the file format you want to use for '
+You don 't have the right permissions .
+You can 't add an archive to itself .
+Could not find the volume : % s
+Could not display the folder " % s "
+An error occurred while extracting files .
+Could not open " % s "
+An error occurred while loading the archive .
+An error occurred while deleting files from the archive .
+An error occurred while adding files to the archive .
+An error occurred while testing archive .
+An error occurred while saving the archive .
+Do you want to add this file to the current archive or open it as a new archive ?
+Do you want to create a new archive with these files ?
+Could not save the archive " % s "
+The new name is equal to the old one .
+A folder named " % s " already exists . % s
+A file named " % s " already exists . % s
+Tar compressed with compress ( .tar.Z )
+Add files to the specified archive and quit the program
+Add files asking the name of the archive and quit the program
+Extract archives to the specified folder and quit the program
+Extract archives asking the destination folder and quit the program
+Extract the contents of the archives in the archive folder and quit the program
+Default folder to use for the ' --add ' and ' --extract ' commands
+View the output produced by the last executed command
+Save the current archive with a different name

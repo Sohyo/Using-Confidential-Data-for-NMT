@@ -1,0 +1,137 @@
+A list of protocols to be considered safe in addition to the default , when disable _ unsafe _ protocols is enabled .
+Disable all historical information by disabling back and forward navigation , not allowing the history dialog and hiding the most used bookmarks list .
+Disable the user 's ability to add or edit bookmarks .
+Disable the user 's ability to edit toolbars .
+Disable the user 's ability to type in a URL to Epiphany .
+Disables loading of content from unsafe protocols . Safe protocols are http and https .
+Hide the menubar by default . The menubar can still be accessed using F10 .
+Allow sites to open new windows using JavaScript ( if JavaScript is enabled ) .
+Default encoding . Accepted values are : " armscii-8 " , " Big5 " , " Big5-HKSCS " , " EUC-JP " , " EUC-KR " , " gb18030 " , " GB2312 " , " geostd8 " , " HZ-GB-2312 " , " IBM850 " , " IBM852 " , " IBM855 " , " IBM857 " , " IBM862 " , " IBM864 " , " IBM866 " , " ISO-2022-CN " , " ISO-2022-JP " , " ISO-2022-KR " , " ISO-8859-1 " , " ISO-8859-2 " , " ISO-8859-3 " , " ISO-8859-4 " , " ISO-8859-5 " , " ISO-8859-6 " , " ISO-8859-7 " , " ISO-8859-8 " , " ISO-8859-8-I " , " ISO-8859-9 " , " ISO-8859-10 " , " ISO-8859-11 " , " ISO-8859-13 " , " ISO-8859-14 " , " ISO-8859-15 " , " ISO-8859-16 " , " ISO-IR-111 " , " KOI8-R " , " KOI8-U " , " Shift _ JIS " , " TIS-620 " , " UTF-7 " , " UTF-8 " , " VISCII " , " windows-874 " , " windows-1250 " , " windows-1251 " , " windows-1252 " , " windows-1253 " , " windows-1254 " , " windows-1255 " , " windows-1256 " , " windows-1257 " , " windows-1258 " , " x-euc-tw " , " x-gbk " , " x-johab " , " x-mac-arabic " , " x-mac-ce " , " x-mac-croatian " , " x-mac-cyrillic " , " x-mac-devanagari " , " x-mac-farsi " , " x-mac-greek " , " x-mac-gujarati " , " x-mac-gurmukhi " , " x-mac-hebrew " , " x-mac-icelandic " , " x-mac-roman " , " x-mac-romanian " , " x-mac-turkish " , " x-mac-ukrainian " , " x-user-defined " , " x-viet-tcvn5712 " , " x-viet-vps " and " x-windows-949 " .
+Default font type . Possible values are " serif " and " sans-serif " .
+For find in page , whether to start again at the beginning after reaching the end of the page .
+Middle click to open the web page pointed to by the currently selected text
+Middle clicking on the main view pane will open the web page pointed to by the currently selected text .
+Preferred languages , two letter codes .
+Show the history pages visited " ever " , " last _ two _ days " , " last _ three _ days " , " today " .
+Show the tab bar also when there is only one tab open .
+Size of disk cache , in MB .
+The bookmark information shown in the editor view . Valid values in the list are " address " and " title " .
+The currently selected fonts language . Valid values are " ar " ( arabic ) , " x-baltic " ( baltic languages ) , " x-central-euro " ( central european languages ) , " x-cyrillic " ( languages written with cyrillic alphabet ) , " el " ( greek ) , " he " ( hebrew ) , " ja " ( japanese ) , " ko " ( korean ) , " zh-CN " ( simplified chinese ) , " th " ( thai ) , " zh-TW " ( traditional chinese ) , " tr " ( turkish ) , " x-unicode " ( other languages ) , " x-western " ( languages written in latin script ) , " x-tamil " ( tamil ) and " x-devanagari " ( devanagari ) .
+The encoding autodetector . Empty string means autodetect is off
+The encoding autodetector . Valid entries are " " ( autodetectors off ) , " cjk _ parallel _ state _ machine " ( autodetect east asian encodings ) , " ja _ parallel _ state _ machine " ( autodetect japanese encodings ) , " ko _ parallel _ state _ machine " ( autodetect korean encodings ) , " ruprob " ( autodetect russian encodings ) , " ukprob " ( autodetect ukrainian encodings ) , " zh _ parallel _ state _ machine " ( autodetect chinese encodings ) , " zhcn _ parallel _ state _ machine " ( autodetect simplified chinese encodings ) , " zhtw _ parallel _ state _ machine " ( autodetect traditional chinese encodings ) and " universal _ charset _ detector " ( autodetect most encodings ) .
+The page information shown in the history view . Valid values in the list are " address " , " title " .
+The path of the folder where to download files to ; or " Downloads " to use the default downloads folder , or " Desktop " to use the desktop folder .
+Toolbar style . Allowed values are " " ( use GNOME default style ) , " both " ( text and icons ) , " both-horiz " ( text besides icons ) , " icons " , and " text " .
+Use your own colors instead of the colors the page requests .
+Use your own fonts instead of the fonts the page requests .
+When files cannot be opened by the browser they are automatically downloaded to the download folder and opened with the appropriate application .
+Where to accept cookies from . Possible values are " anywhere " , " current site " and " nowhere " .
+Whether to print the date in the footer
+Whether to print the page address in the header
+Whether to print the page numbers ( x of total ) in the footer
+Whether to print the page title in the header
+File Type : % s . It is unsafe to open " % s " as it could potentially damage your documents or invade your privacy . You can download it instead .
+File Type : % s . You can open " % s " using " % s " or save it .
+File Type : % s . You have no application able to open " % s " . You can download it instead .
+“ % s protocol ” is not supported .
+Supported protocols are “ http ” , “ https ” , “ ftp ” , “ file ” , “ smb and sftp ” “ ” .
+File % “ s not found ” .
+Check the location of the file and try again .
+“ % s ” could not be found .
+Check that you are connected to the internet , and that the address is correct .
+If this page used to exist , you may find an archived version :
+“ % s ” refused the connection .
+The server may be busy or you may have a network connection problem . Try again later .
+There may be an old version of the page you wanted :
+“ % s ” interrupted the connection .
+The connection was lost because the server took too long to respond .
+“ % s ” redirected too many times .
+The redirection has been stopped for security reasons .
+“ % s ” requires an encrypted connection .
+The document could not be loaded because encryption support is not installed .
+“ % s ” dropped the connection .
+The server dropped the connection before any data could be read .
+Cannot load document in offline mode .
+This document cannot be viewed in offline mode . Set Epiphany to “ online ” and try again .
+“ % s denied ” access to port % d “ ” .
+Check your proxy server settings . If the connection still fails , there may be a problem with your proxy server or your network connection .
+Choose a certificate to present as identification to " % s " .
+Select a certificate to identify yourself .
+The site " % s " returned security information for " % s " . It is possible that someone is intercepting your communication to obtain your confidential information .
+You should only accept the security information if you trust " % s " and " % s " .
+It was not possible to automatically trust " % s " . It is possible that someone is intercepting your communication to obtain your confidential information .
+You should only connect to the site if you are certain you are connected to " % s " .
+The security information for " % s " expired on % s .
+The security information for " % s " isn 't valid until % s .
+You should ensure that your computer 's time is correct .
+Cannot establish connection to " % s " .
+The certificate revocation list ( CRL ) from " % s " needs to be updated .
+Please ask your system administrator for assistance .
+Trust new Certificate Authority " % s " to identify web sites ?
+Before trusting a Certificate Authority ( CA ) you should verify the certificate is authentic .
+Select a password to protect this certificate .
+Enter the password for this certificate .
+Certificate Revocation list ( CRL ) imported :
+This certificate has been verified for the following uses :
+Could not verify this certificate because it has been revoked .
+Could not verify this certificate because it has expired .
+Could not verify this certificate because it is not trusted .
+Could not verify this certificate because the issuer is not trusted .
+Could not verify this certificate because the issuer is unknown .
+Could not verify this certificate because the CA certificate is invalid .
+Could not verify this certificate for unknown reasons .
+Please wait while a new private key is generated . This process could take a few minutes .
+This page is loaded over a secure connection
+You can always see the security status of a page from the padlock icon on the statusbar .
+This page is loaded over a low security connection
+Any information you see or enter on this page could easily be intercepted by a third party .
+Some parts of this page are loaded over an insecure connection
+Some information you see or enter will be sent over an insecure connection , and could easily be intercepted by a third party .
+Send this information over an insecure connection ?
+The information you have entered will be sent over an insecure connection , and could easily be intercepted by a third party .
+Although this page was loaded over a secure connection , the information you have entered will be sent over an insecure connection , and could easily be intercepted by a third party .
+Epiphany can 't be used now . Mozilla initialization failed .
+Printing is not supported on this printer
+You were trying to print to a printer using the " % s " driver . This program requires a PostScript printer driver .
+Sets the start of the range of pages to be printed
+Sets the end of the range of pages to be printed
+% s exists , please move it out of the way .
+Failed to create directory % s .
+You do not have permission to create files in this directory .
+You do not have permission to overwrite this file .
+A file with this name already exists . If you choose to overwrite this file , the contents will be lost .
+Could not display help : % s
+Drag and drop this icon to create a link to this page
+Open the selected bookmark in a new window
+Open the selected bookmark in a new tab
+View or modify the properties of the selected bookmark
+Import bookmarks from another browser or a bookmarks file
+Show the selected bookmark or topic in the bookmarks bar
+Show both the title and address columns
+Delete topic " % s " ?
+Deleting this topic will cause all its bookmarks to become uncategorized , unless they also belong to other topics . The bookmarks will not be deleted .
+The bookmarks from " % s " could not be imported because the file is corrupted or of an unsupported type .
+Update bookmark " % s " ?
+The bookmarked page has moved to " % s " .
+You already have a bookmark titled " % s " for this page .
+Open the selected history link in a new window
+Open the selected history link in a new tab
+Clearing the browsing history will cause all history links to be permanently deleted .
+Open a new tab in an existing window
+Add a bookmark ( don 't open any window )
+Recover previous browser windows and tabs ?
+Epiphany appears to have exited unexpectedly the last time it was run . You can recover the opened windows and tabs .
+The link you clicked needs the sidebar extension to be installed .
+Bonobo couldn 't locate the GNOME _ Epiphany _ Automation.server file . You can use bonobo-activation-sysconf to configure the search path for bonobo server files .
+Epiphany can 't be used now , due to an unexpected error from Bonobo when attempting to register the automation server
+Epiphany can 't be used now , due to an unexpected error from Bonobo when attempting to locate the automation object .
+Enter a web address to open , or a phrase to search for
+Send a link of the current page
+Find a word or phrase in the page
+Find next occurrence of the word or phrase
+Find previous occurrence of the word or phrase
+Add a bookmark for the current page
+Show or hide unrequested popup windows from this site
+There are unsubmitted changes to form elements
+If you close the document anyway , you will lose that information .
+Use as desktop background ' % s '

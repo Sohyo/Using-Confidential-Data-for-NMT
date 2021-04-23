@@ -1,0 +1,20 @@
+Mit Valgrind Speicherverwaltungsprobleme in Ihren Programmen finden
+Geben Sie den Pfad zu einer ausführbaren Datei sowie alle Argumente ein , die an sie übergeben werden sollen .
+Unter » %s « konnte nicht gespeichert werden : %s Überschreiben ?
+Unter » %s « konnte nicht gespeichert werden : %s
+Alleyoop ist ein Valgrind-Frontend für die GNOME-Umgebung .
+zur Liste der nach Quelldateien zu durchsuchenden Ordner hinzufügen
+und alle Unterordner rekursiv zur Liste der nach Quelldateien zu durchsuchenden Ordner hinzufügen
+Festlegen des als Vorgabe zu verwendenden Valgrind-Werkzeugs
+Zeilen über und unter der Zielzeile .
+Weiterleitung nach » %s « konnte nicht angelegt werden : %s
+Kindprozess » %s « konnte nicht angelegt werden : %s
+Ungültige Syntax in Einstellung » %s « . Bitte geben Sie einen Wert der Form »
+Fehlerausgabe unterbinden , wenn es zu viele sind
+Alle vom diagnostizierten Programm abgespaltenen Kindprozesse verfolgen
+Beim Beenden vor dem Überprüfen nach Speicherlecks » __libc_freeres( ) « aufrufen
+Bytes nach » free( ) « in der Warteschlange halten
+Fehler beim Speichern unter Unterdrückungsdatei » %s « : %s
+Sie haben vergessen , einen Namen für die Unterdrückungsregel anzugeben .
+Unterdrückungsregeln konnten nicht gespeichert werden : %s
+Sie haben keine Unterdrückungsdatei im Einstellungsdialog festgelegt .

@@ -1,0 +1,136 @@
+Start a video conversation with one of your contacts .
+If you have a webcam , you can call your contacts and have an video conversation with them . This features only works with certain types of accounts , and it requires the other person to have an application that supports video calls .
+Understanding the various statuses and status icons .
+Share the desktop with your contacts .
+It is possible , with some of your contacts , to share your desktop with them , or to start using your contacts desktop . You can use this functionality to show your desktop to your contacts , to ask for help or to help your contacts resolve a problem .
+In order to be able to share your desktop or to remotely use your contacts desktop , it is necessary to have a remote desktop viewer application installed in your system .
+A request will be sent to the contact you want to share your desktop with . If they accept , the default remote desktop viewer application will be launched in order to permit you to disconnect the user that is controlling your desktop .
+For more information about how to use the remote desktop viewer application , refer to its help .
+When you share your desktop with someone else , it is possible to experience system performance slowdown and low Internet speed .
+Add , edit or delete personal messages for your status .
+Sometimes you may want to set a custom message for your status , for example to let people know that you will be unavailable for a certain period of time .
+It is possible to set a custom message based on the different statuses available .
+If you want to set the custom message as a favorite , saving it in order to use it again , click on the little star on the right of the text box where you wrote your custom message .
+Edit , remove and add a custom message
+Click on the drop-down list to select the status you want to set a custom message to .
+Click on the text box , and type the new custom message .
+Send a message to one of your contacts .
+Double click the name of the contact that you want to have a conversation with .
+Send a file from your computer to one of your contacts .
+In order to send a file to someone , you need to be connected to the Internet , or to a local area network .
+I 'd like to see this played up a bit more .
+The People Nearby service is a serverless communication service : you do not need to connect and authenticate to a central server in order to use it .
+This kind of serverless messaging system is restricted to a local area network and an active Internet connection is not necessary .
+The people that use this service inside the same local area network will be auto-discovered , and it will be possible to send them messages and files as with other services .
+All the modern local area networks should be able to support this kind of service .
+Select the account you wish to remove from the accounts list on the left side of the window .
+Click on the trash icon next to the account name to remove the account .
+Diagnose common problems connecting to an instant messaging service .
+I get a message that says " Network error "
+Also , this kind of error happens when you try to use an IRC account without setting a nickname .
+Make sure that you are connected to the Internet , or to a local area network .
+I get a message that says “ Name in use ”
+This kind of error happens when you try to connect to your IRC account and you are using a nickname that is already being used by someone else on that particular network .
+I get a message that says " Authentication failed "
+This kind of error happens when your instant messaging service is not allowing you to connect because it does not recognize your username or password for some reason .
+Make sure that you have registered an account with the service you are trying to connect to . If you do not have an account , most services will not allow you to connect .
+Type your username and password again to make sure that they are correct .
+The instant messaging account that you want to use is not enabled in the list of accounts .
+If the instant messaging account that you want to use is not enabled in the drop-down account list when you try to start a new conversation or join a room , your account details may not be correct .
+Browse or search your previous conversations .
+Empathy search through all of your previous conversations browse previous conversations
+You do not need to be connected to the Internet to view and search your previous conversations .
+You can perform a full-text search through all of your previous conversations .
+Any conversations that matched your search terms will be shown in the list below the search field . By default , conversations are ordered by date .
+You can browse your previous conversations with your contacts or in chat rooms by date .
+Select an account from the drop-down list in the top left . A list of contacts and chat room for that account will be shown below .
+Select a contact or chat room to view your previous conversations from . By default the most recent conversation will be shown .
+You can browse your conversations by date . Days on which you had a conversation with the selected contact will be shown in bold text . Click a date to select it . Click the arrows next to the month and year to browse earlier dates .
+You can search for text in the displayed conversation by typing into the search field at the top . The matching text will be highlighted .
+See all of your contacts , even those that are not online .
+To hide the offline contacts again , repeat the same procedure above .
+Start a conversation witn an IRC contact .
+You can hold private conversations with other IRC users , outside of the public IRC chat rooms . To start a conversation with another IRC user :
+It is not currently possible to send files using IRC .
+Protect your nickname to prevent other IRC users from using it .
+On some IRC networks , you can register your nickname with a service called NickServ . By sending special messages to NickServ , you can set your password and identify yourself . Some IRC chat rooms may not allow you to join without a registered nickname .
+To set an IRC server password :
+Select the IRC account from the list on the left of the dialog .
+To join multiple rooms , you need to repeat the steps above for each room .
+It is not currently possible to join a password-protected IRC chat room .
+You can group all the conversations in a single window , or have multiple windows for different kind of conversations ; easily search through your previous conversations , and share your desktop in just two clicks .
+Import an account from another instant messaging application .
+Yes , import my account details from Forward
+Select the check box next to each account you wish to import .
+It is not currently possible to import accounts after you have completed the first-run assistant .
+Start or join a group conversation with your contacts .
+Group conversations permits you to have text conversations with more than one contact at the same time .
+To have a group conversation you need to have a registered account with either Jabber or Google Talk , or a People Nearby account .
+You can have a group conversation only with the contacts that are using the same service as yours .
+Leave it empty if it will be on the current server .
+This will be the name of the room you are going to have a conversation . This name will be publicly available for other people to join . It is not possible to create a private room .
+If you have more than one group conversation open , select the one you want to invite your contacts .
+Double-click on the name of a room to join it .
+Geolocation allows you to identify the real geographical location of a computer or a device connected to the Internet .
+Publish your geographical location to your contacts .
+See your contacts geographical location ’ and quickly contact them .
+Set the accuracy of your location and the device used to discover your location .
+In order to see your contacts geographical locations ’ , they need to use a service and an application that supports geolocation .
+To deactivate geolocation , deselect it .
+Services that supports geolocation and compatibility .
+The geolocation feature at the moment is compatible only with the Jabber service . In order to use it , you and your contacts need to have a Jabber account .
+It is necessary that also the server you are using supports the geolocation feature . Most of the Jabber servers support it . See your service website documentation for more information .
+Empathy Google Latitude Yahoo Fire Eagle Brightkite
+What information are sent and to who .
+What is possible to send is : your country , region , locality , area , street , building , floor , room , and postal code , longitude , latitude and altitude , speed and bearing .
+The accuracy and the quantity of information about your geographical position are based on the software or on the infrastructure used to discover your position .
+Different kind of networks may have different accuracy settings , and may send different information . The use of external devices such as GPS or mobile phone will increase the accuracy of the information sent .
+When the privacy mode is enabled , nothing more precise than your city will be sent , even if you are using an external device .
+Only your contacts can see your geographical position .
+The privacy mode , enabled by default , is a reduced accuracy mode that will decrease the accuracy of the geographical position sent to your contacts .
+Geolocation is not enabled by default .
+Privacy mode is enabled by default .
+Privacy mode prevails even when using external and more precise devices .
+Only your contacts can see your position .
+In this case , your position will not be published , but you are still able to see the location of your contacts .
+If you want to publish your geographical position , you can try to use an external device such as a GPS .
+Set , join and manage favorite rooms .
+To join a favorite room , you need to be connected to the Internet and to your account .
+Select the favorite room you want to manage :
+Select the account you wish to disable from the accounts list on the left side of the window .
+Register for an account with one of the supported messaging services .
+Jabber is an open instant messaging system . Like email , Jabber allows you to choose your account provider and communicate with all other Jabber users , regardless of their account provider .
+You do not need to create an account with a service provider to use this feature . This service works whenever you are connected to a local network , such as a wireless hotspot . It automatically finds all other users on the network who are also using this service .
+SIP is an open system which allows users to have audio and video conversations over the Internet . You need to create an account with a SIP provider . You can communicate with all other SIP users , regardless of which SIP provider they use .
+Some SIP providers allow you to call normal phones from your computer . Generally , you will need to subscribe to a paid service for this feature .
+Some IRC servers are password protected . You will need to know the password to connect to these servers . Generally , these are private IRC networks .
+Change your status to advertise your availability to your contacts .
+Select a status from the list .
+If you do not use your computer for a while , or if the screensaver is on , the status will be automatically set to Away .
+Information on when it is possible to have an audio or video conversation .
+You can only have audio and video conversation with contacts who are using an application which also supports this feature . When your contacts support audio or video conversations , you will see the following icons next to their names in the contact list :
+The contact is able to have an audio conversation .
+The contact is able to have a video conversation .
+In order to have an audio conversation , you need to have a sound card that is supported by your operating system , and a working microphone .
+In order to have a video conversation , you need to have a webcam that is supported by your operating system , and a working microphone .
+You can only have audio and video conversations using accounts on certain supported services . The following table lists whether audio and video is supported for each type of account .
+Account types are provided by plugins . Your system may not have all of the following types available , or it may have types not listed here . Updated plugins may make audio or video conversations possible on account types that are listed as unsupported here .
+There 's recent work on telepathy-butterfly and papyon to support audio and video for MSN . It might be released in time for 2.28 , but since it doesn 't follow the Gnome release schedule , I can 't be sure . If it looks like it 's going to ship , let 's mark it Yes .
+Call your contacts over the Internet .
+You can call your contacts and have an audio conversation with them . This features only works with certain types of accounts , and it requires the other person to have an application that supports audio calls .
+To add a new person to your list of contacts , you need to be connected to the Internet and to your account .
+Add , modify , and delete accounts .
+For most types of accounts , you can simply enter a login ID and a password . Certain accounts or account types , however , may require additional information .
+Advanced options for Jabber and Google Talk accounts .
+Google Talk is a type of Jabber account . These instructions hold for Google Talk accounts as well .
+You can set the priority to specify which application should receive incoming messages from your contacts . New messages will be sent to the application with the highest priority .
+Additional information necessary for connecting to IRC networks .
+IRC accounts require different information than many other types of accounts . To create an IRC account , you must specify at least an IRC network and a nickname . This page details the information you can provide for an IRC account .
+Some servers , particularly those on private networks , require a password to connect . If you are authorized to use the network , the network administrators should provide you with a password .
+You can provide your real name in addition to your nickname . Other users will be able to see this when they view your information .
+When you go offline , a quit message is sent to all the chat rooms you ’ re in and to all the users you ’ re having a private conversation with . Use this field to provide a custom quit message .
+When adding or modifying a network , you can enter the following information :
+This is the name of the network as you want it to appear in the list of networks .
+This specifies the character encoding that is typically used on this network . A character encoding is a specific way of recording characters internally in a computer . There are many character encodings , and you need to use the same character encoding as other users to see their messages correctly .
+Creative Commons Attribution-Share Alike 3.0 Unported License
+As a special exception , the copyright holders give you permission to copy , modify , and distribute the example code contained in this document under the terms of your choosing , without restriction .

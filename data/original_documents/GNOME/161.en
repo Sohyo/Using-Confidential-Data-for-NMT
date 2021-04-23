@@ -1,0 +1,7 @@
+This program is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 , or ( at your option ) any later version . This program is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+Are you sure you want to delete event ' % s ' ?
+Dates failed to open the system calendar . You will not be able to view or create events ; this may be remedied by restarting .
+Are you sure you want to delete the calendar named ' % s ' ?
+You can toggle a repeat by double-clicking a date on the calendar .
+No writable calendars to import into .
+All further errors shown only on terminal .

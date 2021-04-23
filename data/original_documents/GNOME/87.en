@@ -1,0 +1,19 @@
+Disk Usage Analyzer Disk Usage Analyzer whole file system Home specific user-requested directory a remote folder
+Skip specific devices and partitions when scanning the file system .
+Disable scanning of individual storage devices and partitions
+Select the storage devices and partitions that you want to scan , or deselect those that you do not wish to scan
+Display the results as a ring chart or a treemap chart .
+By default , the scan results show each subfolder as the section of a ring , comprising an angle proportional to the size of the relevant folder . Sub-folders are shown in different colors .
+Move your mouse over the rings chart displays more details about the subfolders .
+Hide or show the toolbar and the status bar .
+Scan all internal and removable storage devices .
+To find out how much space your file system takes up :
+Your file system includes all internal and removable storage devices which are mounted when the respective folder is scanned .
+If the file system that you are trying to scan is large , it may take a few minutes for the scan to complete .
+Open Folder Files Move to Trash Trash
+Scan a local folder , including all subfolders .
+Scans of individual folders are faster than those of the whole file system , so they may be more efficient if you want information only about a specific part of your file system .
+Use the file browser to navigate around your file system and select the desired folder
+Scan all of your personal files that are on your internal storage device .
+Scan a folder remotely from your computer .
+Scanning over the network may be slower than scanning a local file system .

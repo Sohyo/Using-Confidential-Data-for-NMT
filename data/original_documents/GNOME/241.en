@@ -1,0 +1,105 @@
+http : / / www.google.com / search ? q = % samp ; ie = UTF-8amp ; oe = UTF-8
+Disables loading of content from unsafe protocols . Safe protocols are http and https .
+A list of protocols to be considered safe in addition to the default , when disable _ unsafe _ protocols is enabled .
+Disable the user 's ability to type in a URL to Epiphany .
+Disable the user 's ability to add or edit bookmarks .
+Disable the user 's ability to edit toolbars .
+Disable all historical information by disabling back and forward navigation , not allowing the history dialog and hiding the most used bookmarks list .
+User is not allowed to close Epiphany
+Show the history pages visited " ever " , " last _ two _ days " , " last _ three _ days " , " today " .
+The bookmark information shown in the editor view . Valid values in the list are " address " and " title " .
+The page information shown in the history view . Valid values in the list are " ViewTitle " , " ViewAddress " and " ViewDateTime " .
+The currently selected fonts language . Valid values are " ar " ( arabic ) , " x-baltic " ( baltic languages ) , " x-central-euro " ( central european languages ) , " x-cyrillic " ( languages written with cyrillic alphabet ) , " el " ( greek ) , " he " ( hebrew ) , " ja " ( japanese ) , " ko " ( korean ) , " zh-CN " ( simplified chinese ) , " th " ( thai ) , " zh-TW " ( traditional chinese ) , " tr " ( turkish ) , " x-unicode " ( other languages ) , " x-western " ( languages written in latin script ) , " x-tamil " ( tamil ) and " x-devanagari " ( devanagari ) .
+Use your own colors instead of the colors the page requests .
+Use your own fonts instead of the fonts the page requests .
+Show the tab bar also when there is only one tab open .
+When files cannot be opened by the browser they are automatically downloaded to the download folder and opened with the appropriate application .
+Middle click to open the web page pointed to by the currently selected text
+Middle clicking on the main view pane will open the web page pointed to by the currently selected text .
+Toolbar style . Allowed values are " " ( use GNOME default style ) , " both " ( text and icons ) , " both-horiz " ( text besides icons ) , " icons " , and " text " .
+Force new window requests to be opened in tabs instead of using a new window .
+Default encoding . Accepted values are : " armscii-8 " , " Big5 " , " Big5-HKSCS " , " EUC-JP " , " EUC-KR " , " gb18030 " , " GB2312 " , " geostd8 " , " HZ-GB-2312 " , " IBM850 " , " IBM852 " , " IBM855 " , " IBM857 " , " IBM862 " , " IBM864 " , " IBM866 " , " ISO-2022-CN " , " ISO-2022-JP " , " ISO-2022-KR " , " ISO-8859-1 " , " ISO-8859-2 " , " ISO-8859-3 " , " ISO-8859-4 " , " ISO-8859-5 " , " ISO-8859-6 " , " ISO-8859-7 " , " ISO-8859-8 " , " ISO-8859-8-I " , " ISO-8859-9 " , " ISO-8859-10 " , " ISO-8859-11 " , " ISO-8859-13 " , " ISO-8859-14 " , " ISO-8859-15 " , " ISO-8859-16 " , " ISO-IR-111 " , " KOI8-R " , " KOI8-U " , " Shift _ JIS " , " TIS-620 " , " UTF-7 " , " UTF-8 " , " VISCII " , " windows-874 " , " windows-1250 " , " windows-1251 " , " windows-1252 " , " windows-1253 " , " windows-1254 " , " windows-1255 " , " windows-1256 " , " windows-1257 " , " windows-1258 " , " x-euc-tw " , " x-gbk " , " x-johab " , " x-mac-arabic " , " x-mac-ce " , " x-mac-croatian " , " x-mac-cyrillic " , " x-mac-devanagari " , " x-mac-farsi " , " x-mac-greek " , " x-mac-gujarati " , " x-mac-gurmukhi " , " x-mac-hebrew " , " x-mac-icelandic " , " x-mac-roman " , " x-mac-romanian " , " x-mac-turkish " , " x-mac-ukrainian " , " x-user-defined " , " x-viet-tcvn5712 " , " x-viet-vps " and " x-windows-949 " .
+Default font type . Possible values are " serif " and " sans-serif " .
+Size of disk cache , in MB .
+Preferred languages , two letter codes .
+Whether to print the page title in the header
+Whether to print the page address in the header
+Whether to print the date in the footer
+Whether to print the page numbers ( x of total ) in the footer
+How to print pages containing frames . Allowed values are " normal " , " separately " and " selected " .
+The path of the folder where to download files to ; or " Downloads " to use the default downloads folder , or " Desktop " to use the desktop folder .
+Where to accept cookies from . Possible values are " anywhere " , " current site " and " nowhere " .
+How to present animated images . Possible values are " normal " , " once " and " disabled " .
+Whether to store and prefill passwords in web sites .
+Allow sites to open new windows using JavaScript ( if JavaScript is enabled ) .
+Hide or show the downloads window . When hidden , a notification will be shown when new downloads are started .
+To confirm that you want to sign the above text , choose a certificate to sign the text with and enter its password below .
+Let web pages specify their own _ fonts
+Let web pages specify their own c _ olors
+For example , not from advertisers on these sites
+The file % “ s ” has been downloaded .
+The file % “ s ” has been added to the downloads queue .
+File Type : “ % s ” . It is unsafe to open “ % s ” as it could potentially damage your documents or invade your privacy . You can download it instead .
+File Type : “ % s ” . You can open “ % s ” using “ % s ” or save it .
+File Type : “ % s ” . You have no application able to open “ % s ” . You can download it instead .
+Epiphany can 't be used now . Initialization failed .
+Waiting for authorization from “ % s ” …
+Unrecognized desktop file Version ' % s '
+Application does not accept documents on command line
+Can 't pass document URIs to a ' Type = Link ' desktop entry
+Move the selected item on the toolbar
+Remove the selected item from the toolbar
+Could not create a temporary directory in “ % s ” .
+The file % s exists “ ” . Please move it out of the way .
+Failed to create directory % s “ ” .
+Directory % s “ ” is not writable
+You do not have permission to create files in this directory .
+Cannot overwrite existing file % s “ ”
+A file with this name already exists and you don 't have permission to overwrite it .
+Could not display help : % s
+% b % d % I : % M % p
+Drag and drop this icon to create a link to this page
+Executes the script % s “ ”
+Update bookmark % s “ ” ?
+The bookmarked page has moved to “ % s ” .
+Open the selected bookmark in a new window
+Open the selected bookmark in a new tab
+View or modify the properties of the selected bookmark
+Import bookmarks from another browser or a bookmarks file
+Show the selected bookmark on a toolbar
+Show both the title and address columns
+Delete topic % s “ ” ?
+Deleting this topic will cause all its bookmarks to become uncategorized , unless they also belong to other topics . The bookmarks will not be deleted .
+The bookmarks from “ % s ” could not be imported because the file is corrupted or of an unsupported type .
+Open this bookmark in a new tab
+Open this bookmark in a new window
+Open the bookmarks in this topic in new tabs
+Open the selected history link in a new window
+Open the selected history link in a new tab
+Clearing the browsing history will cause all history links to be permanently deleted .
+Open a new tab in an existing browser window
+Startup failed because of the following error : % s
+The passwords from the previous version ( Gecko ) are locked with a master password . If you want Epiphany to import them , please enter your master password below .
+Failed to read latest migration marker , aborting profile migration .
+There are still downloads pending . If you log out , they will be aborted and lost .
+Recover previous browser windows and tabs ?
+Epiphany appears to have exited unexpectedly the last time it was run . You can recover the opened windows and tabs .
+This page was loading when the web browser closed unexpectedly . This might happen again if you reload the page . If it does , please report the problem to the % s developers .
+The link you clicked needs the sidebar extension to be installed .
+In keyboard selection mode , press F7 to exit
+Enter a web address to open , or a phrase to search for
+Send a link of the current page
+Find a word or phrase in the page
+Find next occurrence of the word or phrase
+Find previous occurrence of the word or phrase
+Add a bookmark for the current page
+Show or hide unrequested popup windows from this site
+There are unsubmitted changes to form elements
+If you close the document anyway , you will lose that information .
+Use as desktop background % s “ ”
+Select the personal data you want to clear
+You are about to clear personal data that is stored about the web pages you have visited . Before proceeding , check the types of information that you want to remove :
+The GNOME Web Browser is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+The GNOME Web Browser is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with the GNOME Web Browser ; if not , write to the Free Software Foundation , Inc . , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 USA
+Lets you view web pages and find information on the internet . Powered by WebKit

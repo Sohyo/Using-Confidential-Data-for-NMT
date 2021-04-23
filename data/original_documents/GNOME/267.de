@@ -1,0 +1,67 @@
+So passen Sie Verfasser , Farbe , Stil und das Symbol einer Anmerkung an .
+Klicken Sie mit der rechten Maustaste auf das Symbol für Anmerkungen im Dokument .
+Die Eigenschaften für Anmerkungen werden nur auf die Notiz angewendet , für die Sie die Änderungen getätigt haben . Jede Notiz kann eigene Eigenschaften haben .
+Kann ich dauerhaft die voreingestellten Eigenschaften für Anmerkungen ändern ?
+Anmerkungen können nur zu PDF-Dateien hinzugefügt werden .
+Anmerkungen können nur zu PDF-Dateien hinzugefügt werden . Falls Ihre Datei in einem anderen als dem PDF-Format vorliegt , so wird die Option zum Hinzufügen ausgegraut ( deaktiviert ) sein._
+So erstellen Sie Anmerkungen und passen diese an .
+Klicken Sie auf das Symbol , um eine Anmerkung in Textform hinzuzufügen .
+Sie können die Notizgröße anpassen , indem Sie mit der linken Maustaste auf eine der beiden unteren Ecken klicken und bei gedrückter Taste den Zeiger bewegen .
+Eine Kopie eines PDF mit Anmerkungen speichern
+Sie können Anmerkungen wie Lesezeichen verwenden .
+Wechseln Sie im PDF-Dokument selbst zu der Seite , für die Sie ein Lesezeichen hinzufügen wollen .
+Das Lesezeichen ist nun in der Liste der Lesezeichen aufgeführt .
+Wählen Sie das Lesezeichen in der Seitenleiste .
+Wo Sie wie Probleme melden können .
+Die ist eine Fehlerdatenbank , in der Benutzer und Entwickler Details zu Fehlern , Abstürzen und Erweiterungswünschen hinterlegen .
+File a Bug Desktop evince Anweisungen zum Erstellen von Fehlerberichten suchen
+Ihr Bericht bekommt eine Kennung ( ID ) zugewiesen und der Status wird mit laufender Bearbeitung stets aktualisiert.sort
+Sie können mehrere Dateien öffnen , indem Sie die Dateinamen nach dem Befehl » evince « eingeben . Dateinamen werden durch Kommata getrennt :
+Ein Dokument auf einer bestimmten Seite öffnen
+Sie können ein Dokument in ein PDF umwandeln , indem Sie es in eine Datei » drucken « .
+Sie können Dokumente der folgenden Formate in PDF-Dateien umwandeln :
+Device Independent file format ( .dvi )
+Sie können ein Dokument in eine PostScript-Datei umwandeln .
+Sie können Dokumente der folgenden Formate in PostScript-Dateien umwandeln :
+Tagged Image File Format ( .tiff , .tif )
+Sie können ein Dokument in SVG umwandeln , indem Sie es in eine Datei » drucken « .
+Sie können Dokumente der folgenden Formate in SVG-Dateien umwandeln :
+Die aktuellen Einstellungen als Vorgabe für neue Dokumente speichern .
+Wenn ein Dokument zum ersten Mal geöffnet wird , werden Vorgabeeinstellungen wie Vergrößerung und Ansichtseinstellungen angewendet . Jede Änderung , die Sie an diesen Einstellungen vornehmen , werden für das Dokument gespeichert .
+Bearbeiten Momentane Einstellungen als Standard speichern Strg T
+Die neuen Vorgabeeinstellungen gelten nicht für Dokumente , die zuvor bereits einmal geöffnet waren , sondern werden nur für Dokumente angewendet , die zum ersten Mal geöffnet werden .
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7 , 2
+Beidseitig Layout Kurzer Rand ( Umdrehen )
+Sobald die Seiten gedruckt wurden , nehmen Sie bitte das Blatt mit Seite 2 und legen es zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , Seite 1 wird auf die andere Seite gedruckt .
+Es ist einfacher , eine 12-seitige Broschüre zu drucken . Es ist vermutlich besser , 2 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 12-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 11 , 2 , 1
+Beidseitig Layout Kurzer Rand ( Umdrehen )
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Es ist einfacher , eine 12-seitige Broschüre zu drucken . Es ist vermutlich besser , eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 12-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 12 , 1 , 2 , 11 , 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Sobald die Seite gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , Seite 2 wird auf die andere Seite gedruckt .
+Sobald Seite 3 gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , die Seiten 4 und 13 werden auf die andere Seite gedruckt .
+Es ist einfacher , eine 16-seitige Broschüre zu drucken . Es ist vermutlich besser , 3 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 16-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9 , 2
+Es ist einfacher , eine 16-seitige Broschüre zu drucken . Es ist vermutlich besser , 2 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 16-seitig zu machen . Dies können Sie so tun :
+Es ist einfacher , eine 16-seitige Broschüre zu drucken . Es ist vermutlich besser , eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 16-seitig zu machen . Dies können Sie so tun :
+16 , 1 , 2 , 15 , 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9
+Es ist einfacher , eine 4-seitige Broschüre zu drucken . Es ist vermutlich besser , eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 4-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 4 , 1 , 2 , 3sort
+Sobald Seite 3 gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , die Seiten 4 und 9 werden auf die andere Seite gedruckt .
+Es ist einfacher , eine 8-seitige Broschüre zu drucken . Es ist vermutlich besser , 3 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 8-seitig zu machen . Dies können Sie so tun :
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 6 , 3 , 4 , 5 , 2
+Es ist einfacher , eine 8-seitige Broschüre zu drucken . Es ist vermutlich besser , 2 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 8-seitig zu machen . Dies können Sie so tun:sort
+Geben Sie die Seitenzahl in dieser Reihenfolge ein : 7 , 2 , 1
+Geben Sie die Zahlen der verbleibenden Seiten in dieser Reihenfolge ein : 6 , 3 , 4 , 5
+Es ist einfacher , eine 8-seitige Broschüre zu drucken . Es ist vermutlich besser eine leere Seite zu Ihrem PDF-Dokument hinzuzufügen , um es 8-seitig zu machen . Dies können Sie so tun:sort
+Geben Sie die Seitenzahlen in dieser Reihenfolge ein : 8 , 1 , 2 , 7 , 6 , 3 , 4 , 5sort
+Sobald Seite 3 gedruckt wurde , legen Sie bitte das Papier zurück in den Drucker . Achten Sie dabei auf die richtige Orientierung , die Seiten 4 und 9 werden auf die andere Seite gedruckt .
+Es ist einfacher , eine 12-seitige Broschüre zu drucken . Es ist vermutlich besser 3 leere Seiten zu Ihrem PDF-Dokument hinzuzufügen , um es 12-seitig zu machen . Dies können Sie so tun :
+Eine Broschüre mit 16 Seiten drucken .
+Wenn die Zahl der Seiten in Ihrem PDF-Dokument kein Vielfaches von 4 ist , so sollten Sie eine entsprechende Anzahl Leerseiten ( 1,2 oder 3 ) einfügen , um ein Vielfaches von 4 zu erzielen . Dies können Sie u.a. so erreichen :
+n , 1 , 2 , n-1 , n-2 , 3 , 4 , n-3 , n-4 , 5 , 6 , n-5 , n-6 , 7 , 8 , n-7 , n-8 , 9 , 10 , n-9 , n-10 , 11 , 12 , n-11
+bis Sie n Seitennummern eingegeben haben .
+Kann ich Dokumente im Dokumentenbetrachter bearbeiten ?
+Ein Wort oder einen Ausdruck im Dokument suchen .
+Tippen Sie in das Suchfeld ein , wonach Sie suchen möchten . Die Suche startet automatisch .

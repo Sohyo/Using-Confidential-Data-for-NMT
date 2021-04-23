@@ -1,0 +1,49 @@
+Befehl konnte nicht an IMAP-Server %s gesendet werden : %s
+Unerwartete Antwort von Server %s : %s
+Verfügbarkeitsinformationen konnten nicht geladen werden : falscher Befehl
+Verfügbarkeitsinformationen konnten nicht gespeichert werden : falscher Befehl
+Das neue Passwort folgt nicht den vom Administrator festgelegten Regeln
+Befehl konnte nicht an IMAP-Server %s gesendet werden : %s
+Server %s hat die Verbindung unerwartet beendet : %s
+Erkennung von Mailinglisten aktivieren . Wird für einige Filter- und Suchordner-Regeln benötigt .
+Verfallene zwischengespeicherte Nachrichten , die in X Sekunden nicht gelesen wurden
+Verfallene zwischengespeicherte Nachrichten , die älter als X Sekunden sind
+Nachricht %s konnte nicht geladen werden : %s
+Diese Nachricht ist im Offline-Modus nicht verfügbar
+Nachricht %s aus Ordner » %s « konnte nicht geladen werden : Nachricht nicht gefunden
+Nachricht %s aus Ordner » %s « konnte nicht geladen werden : falscher Befehl
+Nachricht konnte nicht an Ordner » %s « angehängt werden : Ordner ist nur lesbar
+Beim Verschieben der Nachricht in » Gelöschte Elemente « ist ein Fehler aufgetreten : %s
+Nachricht konnte nicht von » %s « nach » %s « verschoben werden
+Nachricht konnte nicht von » %s « nach » %s « kopiert werden
+Nachricht konnte nicht von » %s « nach » %s « verschoben werden : falscher Befehl
+Nachricht konnte nicht von » %s « nach » %s « kopiert werden : falscher Befehl
+Nachricht konnte nicht im Offline-Modus beigelegt werden : Zwischenspeicher nicht verfügbar
+Nachricht konnte nicht im Offline-Modus beigelegt werden : %s
+In allen Ordnern nac_h neuen E-Mails sehen
+Filter auf neue N_achrichten im Eingangspost anwenden
+Diese Einstellung versendet das Passwort im Klartext an den IMAPv4rev1-Server
+Verbindung mit %s konnte nicht hergestellt werden : %s
+Sichere Verbindung zum IMAP-server %s konnte nicht hergestellt werden : %s
+SSL ist nicht verfügbar in diesem Build
+Authentisierung mit dem IMAP-Server %s mittels %s konnte nicht durchgeführt werden
+%sBitte geben Sie das Passwort für %s auf Server %s ein
+Legitimierung auf dem IMAP-Server %s mittels %s konnte nicht durchgeführt werden
+Im Offline-Modus können keine IMAP-Ordner angelegt werden .
+» %s « ist kein gültiger Ordnername
+Im Offline-Modus können keine Ordner angelegt werden .
+Im Offline-Modus können keine Ordner gelöscht werden .
+Der Ordner » %s « konnte nicht zu » %s « unbenannt werden , da er ein Systemordner ist
+Im Offline-Modus können keine Ordner umbenannt werden .
+Der Ordner » %s « konnte nicht unbenannt werden zu » %s « : falscher Befehl
+Beim Ermitteln von %s für » %s « auf IMAP-Server %s ist ein Problem aufgetreten : %s
+Im Offline-Modus können keine Ordner abonniert werden .
+Im Offline-Modus können keine Ordner abbestellt werden .
+IMAP-Server %s ist in einem inkonsistenten Zustand .
+Unerwartete Daten in Antwort von IMAP-Server %s :
+Server %s hat die Verbindung unerwartet unterbrochen : %s
+Anmeldung am Server ist fehlgeschlagen . Servername , Benutzername oder Passwort ist falsch .
+Erstmaliger Abgleich abgeschlossen . Bitte auf » Weiter « klicken .
+In » Gelöschte Elemente « verschieben Als gelöscht markieren Sofort löschen
+Es wird nun versucht , zwecks Abgleich eine Verbindung zum Scalix-Server herzustellen . Bitte geben Sie Ihr Passwort ein und klicken Sie dann auf » Verbinden « .
+Es wird nun versucht , zwecks Abgleich eine Verbindung zum Scalix-Server herzustellen .

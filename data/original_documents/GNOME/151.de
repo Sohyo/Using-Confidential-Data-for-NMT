@@ -1,0 +1,21 @@
+Legen Sie eine Datenquelle im Ansichtsbereich ab
+Fügen Sie der Gruppe eine Datenquelle hinzu , um abzugleichen
+Ohne GUI starten . [ Vorgabe : %default ]
+Konfiguration der Datenquelle in DATEI speichern . [ Vorgabe : %default ]
+Im minimierten Zustand starten . [ Vorgabe : %default ]
+Mit der angegebenen Benutzeroberfläche starten . [ Vorgabe : %default ]
+Nur Module aus den genannten Dateien laden . [ Vorgabe : alle Module laden ]
+Keine Module aus den genannten Dateien laden . [ Vorgabe : alle Module laden ]
+Explizit interne Conduit-Einstellungen ( Schlüssel ) für diese Sitzung auf die angegebenen Werte setzen . [ Vorgabe : nicht setzen ]
+Laden von unvollständig eingerichteten oder nicht unterstützten Datenquellen aktivieren . [ Vorgabe : %default ]
+Mehr Informationen zur Fehlerdiagnose erstellen . [ Vorgabe : %default ]
+Weniger Informationen zur Fehlerdiagnose erstellen . [ Vorgabe : %default ]
+Keine Informationen zur Fehlerdiagnose erstellen . [ Vorgabe : %default ]
+Legen Sie hier eine Datenquelle ab , um fortzufahren
+Datenabgleich läuft . Soll er abgebrochen werden ?
+Jeder Ordner benötigt einen beschreibenden Namen . Um einen Ordner zu benennen , müssen Sie ihn nur anklicken .
+Bitte starten Sie F-Spot oder aktivieren Sie die D-Bus-Erweiterung
+Dateien und Ordner mit einem N800-Gerät abgleichen
+Lesezeichen mit lokalen Orten oder Dateien abgleichen
+Lesezeichen mit entfernten Orten oder Dateien abgleichen
+Shotwell-Modul wird deaktiviert , sqlite3-Datenquelle kann nicht geöffnet werden

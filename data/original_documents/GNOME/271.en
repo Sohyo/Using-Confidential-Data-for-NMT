@@ -1,0 +1,86 @@
+The default toolbar contains only a basic set of tools :
+Add , remove and rearrange the tools in the toolbar .
+To add new items to the toolbar :
+drag them from the toolbar editor to the toolbar .
+To remove items from the toolbar :
+drag them from the toolbar to the toolbar editor .
+To rearrange items on the toolbar :
+drag them to their new position on the toolbar .
+When you copy text , the text that is pasted might be different from what you had selected .
+Why didn 't the text I selected copy properly ?
+This problem happens because of how some document formats handle text . The actual text in the document is stored differently from the way it is displayed . This may result in a copy that does not appear as expected .
+How to add support for SyncTeX .
+The following packages need to be installed in order to add support for SyncTeX :
+Forward search allows you to click on a specific section of TeX source code , and jump to the associated position in the PDF . To perform forward search :
+Click on a line in the TeX file .
+If you have a complex project with several TeX files you can put
+either in the first or last three lines of each included TeX file , and forward search will work . Backward search should always work , even if you don 't add the modeline .
+Backward search allows you to click on a specific line in the PDF file , and jump to the associated line in the TeX source code .
+SyncTeX is a method that enables synchronization between a TeX source file and the resulting PDF output .
+Which editor can you use to edit your TEX file ?
+Copy the evince _ dbus.py to some directory in your path and give it + x permissions .
+Modify your ~ / .vimrc file and add the following lines .
+let g : Tex _ ViewRule _ pdf = ' evince _ dbus.py ' let g : Tex _ DefaultTargetFormat = ' pdf ' let g : Tex _ CompileRule _ pdf = ' pdflatex --synctex = 1 -interaction = nonstopmode $ * '
+Now you can use Forward search from vim-latex by typing \ \ ls . Backward search is not yet supported .
+How to compile your TeX document with SyncTeX
+\ \ documentclass { article } \ \ synctex = 1 \ \ usepackage { fullpage } \ \ begin { document } ... \ \ end { document }
+Using SyncTeX with the LaTeX Beamer class .
+Beamer is a LaTeX class for creating slides for presentations .
+corresponding to the frame you clicked on .
+Print a booklet over 20 pages .
+If the number of pages in your PDF document is not a multiple of 4 , you should add the appropriate number of blank pages ( 1 , 2 or 3 ) to make it a multiple of 4 . To do so , you can :
+n , 1 , 2 , n-1 , n-2 , 3 , 4 , n-3 , n-4 , 5 , 6 , n-5 , n-6 , 7 , 8 , n-7 , n-8 , 9 , 10 , n-9 , n-10 , 11 , 12 , n-11 ...
+... until you have typed n-number of pages .
+When all the pages have printed , flip the pages over and place them back in the printer .
+Print a 9 , 10 , 11 or 12 page booklet .
+If you have a 9 , 10 or 11 page PDF document you should add the appropriate number of blank pages to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 12 , 1 , 2 , 11 , 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Print a 5 , 6 , 7 or 8 page booklet .
+If you have a 5 , 6 or 7 page PDF document you should add the appropriate number of blank pages to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 8 , 1 , 2 , 7 , 6 , 3 , 4 , 5
+Print a 3 or 4 page booklet .
+If you have a 3-Page PDF document you should add a blank page to make it 4-pages . To do so , you can :
+Type the numbers of the pages in this order : 4 , 1 , 2 , 3
+Print a 17 , 18 , 19 or 20 page booklet .
+If you have a 17 , 18 or 19 page PDF document you should add the appropriate number of blank pages to make it 20-pages . To do so , you can :
+20 , 1 , 2 , 19 , 18 , 3 , 4 , 17 , 16 , 5 , 6 , 15 , 14 , 7 , 8 , 13 , 12 , 9 , 10 , 11
+Print a 13 , 14 , 15 or 16 page booklet .
+If you have a 13 , 14 or 15 page PDF document you should add the appropriate number of blank pages to make it 16-pages . To do so , you can :
+16 , 1 , 2 , 15 , 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9
+See a list of all shortcuts , and learn how to create your own custom shortcuts .
+Opening , closing , saving and printing
+Open a copy of the current document .
+Save a copy of the current document with a new file name .
+Reload the document ( effectively closes and re-opens the document ) .
+Move up / down a page .
+Move up / down a page several lines at a time .
+Go to the beginning of the document .
+Go to the end of the document .
+Select all the text in a document .
+Show the toolbar that lets you search for words in the document . The search box is automatically highlighted when you press this , and the search will start as soon as you type some text .
+Rotate the pages 90 degrees counter-clockwise .
+Rotate the pages 90 degrees clockwise .
+Enable the / desktop / gnome / interface / can _ change _ accels flag in gconf :
+In the textbox , type ' gconf-editor ' .
+You can add / change the shortcut as follows :
+Hover the pointer over the menu item you want to change / create the shortcut for .
+Note that this also works for many other Gnome applications as well .
+Your document will be automatically reloaded if another program changes it while you 're viewing it .
+Why does the document keep reloading ?
+Print only specific pages , or only a range of pages .
+To only print certain pages from the document :
+Type the numbers of the pages you want to print in the textbox , separated by commas . Use a dash to denote a range of pages .
+Use the Collate and Reverse options to make pages print in order .
+Printers usually print the first page first , and the last page last , so the pages end up in reverse order when you pick them up .
+If you are printing more than one copy of the document , the print outs will be grouped by page number by default . ( e.g. The copies of page one come out , then the copies of page two , etc . ) Collating will make each copy come out with its pages grouped together .
+Printing is enabled for the following file formats :
+Device Independent file format ( .dvi )
+Tagged Image File Format ( .tiff , .tif )
+Printing a document on paper of a different size , shape or orientation .
+If you want to change the paper size of your document ( for example , print a US Letter-sized PDF on A4 paper ) , you can change the printing format for the document .
+If you are printing a booklet ( which will perhaps be bound or stapled in the middle of each page ) , select the type of printer you will be using for printing from the list below . Then select the number of printed pages your booklet will have .
+Printing two-sided and multi-page per sheet .
+Two-sided and multiple pages per side layout for printing
+You can print on both sides of each sheet of paper :
+The presentation will be displayed full screen .
+Annotations can only be added to PDF files .

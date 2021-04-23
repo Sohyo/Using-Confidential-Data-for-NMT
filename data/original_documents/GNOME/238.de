@@ -1,0 +1,137 @@
+Eine Liste der zusätzlich zur Vorgabe als sicher anzusehenden Protokolle . Dieser Schlüssel wird ausschließlich wirksam , falls der Schlüssel » disable_unsafe_protocols « wahr ist .
+Alle Chronik-Informationen durch Deaktivieren der Navigationsknöpfe » Zurück « und » Vor « verbergen . Dies betrifft auch den Chronik-Dialog und die Lesezeichen .
+Dem Benutzer die Möglichkeit nehmen , seine Lesezeichen zu bearbeiten .
+Dem Benutzer die Möglichkeit nehmen , seine Werkzeugleisten zu bearbeiten .
+Dem Benutzer die Möglichkeit nehmen , eine URL für Epiphany einzugeben .
+Deaktiviert das Laden von Inhalten mit Hilfe unsicherer Protokolle , wobei http : und https : sichere Protokolle sind .
+Die Menüleiste per Vorgabe verbergen . Sie kann weiterhin per F10 aufgerufen werden .
+Aufgerufenen Seiten das Öffnen neuer Fenster mittels JavaScript erlauben ( falls JavaScript erlaubt wurde ) ?
+Der voreingestellte Zeichensatz . Zulässige Werte : » armscii-8 « , » Big5 « , » Big5-HKSCS « , » EUC-JP « , » EUC-KR « , » gb18030 « , » GB2312 « , » geostd8 « , » HZ-GB-2312 « , » IBM850 « , » IBM852 « , » IBM855 « , » IBM857 « , » IBM862 « , » IBM864 « , » IBM866 « , » ISO-2022-CN « , » ISO-2022-JP « , » ISO-2022-KR « , » ISO-8859-1 « , » ISO-8859-2 « , » ISO-8859-3 « , » ISO-8859-4 « , » ISO-8859-5 « , » ISO-8859-6 « , » ISO-8859-7 « , » ISO-8859-8 « , » ISO-8859-8-I « , ISO-8859-9 « , » ISO-8859-10 « , » ISO-8859-11 « , » ISO-8859-13 « , » ISO-8859-14 « , » ISO-8859-15 « , » ISO-8859-16 « , » ISO-IR-111 « , » KOI8-R « , » KOI8-U « , » Shift_JIS « , » TIS-620 « , » UTF-7 « , » UTF-8 « , » VISCII « , » windows-874 « , » windows-1250 « , » windows-1251 « , » windows-1252 « , » windows-1253 « , » windows-1254 « , » windows-1255 « , » windows-1256 « , » windows-1257 « , » windows-1258 « , » x-euc-tw « , » x-gbk « , » x-johab « , » x-mac-arabic « , » x-mac-ce « , » x-mac-croatian « , » x-mac-cyrillic « , » x-mac-devanagari « , » x-mac-farsi « , » x-mac-greek « , » x-mac-gujarati « , » x-mac-gurmukhi « , » x-mac-hebrew « , » x-mac-icelandic « , » x-mac-roman « , » x-mac-romanian « , » x-mac-turkish « , » x-mac-ukrainian « , » x-user-defined « , » x-viet-tcvn5712 « , » x-viet-vps « sowie » x-windows-949 « .
+Der voreingestellte Schrifttyp . Zulässige Werte : » serif « sowie » sans-serif « .
+Soll beim Durchsuchen von Dokumenten die Suche am Anfang fortgesetzt werden , sobald das Seitenende erreicht wurde ?
+Mittelklick öffnet Website , auf den markierter Text verweist
+Soll ein Mittelklick auf das Hauptansichtsfeld die Website öffnen , auf die der momentan markierte Text verweist ?
+Bevorzugte Sprachen , jeweils als 2-Buchstaben-Kürzel .
+Die Zeitspanne , über die Seiten in der Chronik angezeigt werden sollen . Zulässige Werte : » ever « ( alle ) , » last_two_days « ( letzte zwei Tage ) , » last_three_days « ( letzte drei Tage ) sowie » today « ( heute ) .
+Soll die Reiterleiste auch angezeigt werden , wenn nur ein Reiter geöffnet ist ?
+Die Größe des Platten-Caches in MB .
+Die in der Editoransicht angezeigte Lesezeicheninformationen . Zulässige Listenwerte : » address « ( Adresse ) sowie » title « ( Titel ) .
+Die Sprache der momentan gewählten Schrift . Zulässige Werte : » ar « ( Arabisch ) , » x-baltic « ( Baltische Sprachen ) , » x-central-euro « ( Zentraleuropäische Sprachen ) , » x-cyrillic « ( im Kyrillischen Alphabet notierte Sprachen ) , » el « ( Griechisch ) , » he « ( Hebräisch ) , » ja « ( Japanisch ) , » ko « ( Koreanisch ) , » zh-CN « ( Chinesisch , vereinfacht ) , » th « ( Thai ) , » zh-TW « ( Chinesisch , traditionell ) , » tr « ( Türkisch ) , » x-unicode « ( übrige Sprachen ) , » x-western « ( In lateinischer Schrift notierte Sprachen ) , » x-tamil « ( Tamil ) sowie » x-devanagari « ( Devanagari ) .
+Die Auto-Zeichenkodierungserkennung . Falls dieser Schlüssel leer ist , wird die Auto-Erkennung nicht verwendet .
+Die automatische Zeichenkodierungserkennung . Zulässige Werte : » « ( Auto-Erkennung deaktivieren ) , » cjk_parallel_state_machine « ( ostasiatische Kodierungen automatisch erkennen ) , » ja_parallel_state_machine « ( japanische Kodierungen automatisch erkennen , » ko_parallel_state_machine « ( koreanische Kodierungen automatisch erkennen , » ruprob « ( russische Kodierungen automatisch erkennen ) , » ukprob « ( ukrainische Kodierungen automatisch erkennen ) , » zh_parallel_state_machine « ( chinesische Kodierungen automatisch erkennen ) , » zhcn_parallel_state_machine « ( vereinfachte chinesische Kodierungen automatisch erkennen ) , » zhtw_parallel_state_machine « ( traditionelle chinesische Kodierungen automatisch erkennen ) sowie » universal_charset_detector « ( die meisten Kodierungen automatisch erkennen ) .
+Die in der Chronikansicht angezeigten Seiteninformationen . Zulässige Listenwerte : » address « ( Adresse ) sowie » title « ( Titel ) .
+Der Pfad des Ordners , in dem heruntergeladene Dateien gespeichert werden sollen ; alternativ wählt » Downloads « den vorgegebenen Ordner für heruntergeladene Dateien und » Desktop « den Desktop .
+Knopfbeschriftungen in Werkzeugleisten . Erlaubte Werte sind » « ( benutzt Vorgabe von GNOME ) , » both « ( Text unter Symbolen ) , » both-horiz « ( Text neben Symbolen ) , » icons « ( nur Symbole ) und » text « ( nur Text ) .
+Eigene anstelle der vom Dokument verlangten Farben verwenden ?
+Eigene anstelle der vom Dokument verlangten Schriften verwenden ?
+Wenn Dateien nicht vom Browser geöffnet werden können , werden sie automatisch in den Download-Ordner heruntergeladen und mit der passenden Anwendung geöffnet .
+Von wo sollen Cookies akzeptiert werden ? . Zulässige Werte : » anywhere « ( von allen Seiten ) , » current site « ( nur von der momentan angezeigten Seite ) sowie » nowhere « ( keinesfalls akzeptieren ) .
+Soll das Datum beim Drucken in der Fußzeile ausgegeben werden ?
+Soll die Adresse einer Seite beim Drucken in der Kopfzeile ausgegeben werden ?
+Soll die Seitennummerierung ( x von y ) beim Drucken in der Fußzeile ausgegeben werden ?
+Soll der Titel einer Seite beim Drucken in der Kopfzeile ausgegeben werden ?
+Dateityp : %s . Es ist nicht sicher , die Datei » %s « zu öffnen da sie möglicherweise Ihre Dokumente beschädigen oder in Ihre Privatsphäre eindringen kann . Sie können sie stattdessen speichern .
+Dateityp : %s . Sie können die Datei » %s « mit » %s « öffnen oder sie speichern .
+Dateityp : %s . Es ist keine Anwendung zum Öffnen von » %s « installiert . Sie können die Datei jedoch herunterladen .
+Das » %s«-Protokoll wird nicht unterstützt .
+Unterstützte Protokolle sind » http « , » https « , » ftp « , » file « , » smb « und » sftp«./ home/ user/ test.html
+Datei » %s « konnte nicht gefunden werden .
+Überprüfen Sie den Ort der Datei und versuchen Sie es anschließend erneut.www.example.com
+» %s « konnte nicht gefunden werden .
+Stellen Sie sicher , dass Sie mit dem Internet verbunden sind und die Adresse korrekt ist .
+Sofern diese Seite existierte können Sie möglicherweise eine archivierte Version aufrufen :
+» %s « hat den Verbindungsaufbau abgelehnt .
+Möglicherweise ist der Server ausgelastet oder es existiert ein Problem mit Ihrer Netzwerkverbindung . Versuchen Sie es bitte später erneut .
+Möglicherweise existiert eine ältere Version der gewünschten Seite :
+» %s « hat die Verbindung unterbrochen .
+Die Verbindung wurde unterbrochen da der Server zu lang mit einer Antwort wartete .
+» %s « leitete zu oft weiter .
+Die Weiterleitung wurde aus Sicherheitsgründen unterbunden .
+» %s « benötigt eine verschlüsselte Verbindung .
+Die Seite konnte nicht geladen werden da keine Unterstützung für verschlüsselte Verbindungen installiert ist .
+» %s « hat die Verbindung abgebrochen .
+Der Server hat die Verbindung abgebrochen , bevor Daten empfangen wurden .
+Diese Seite kann nicht angezeigt werden , während Sie offline sind .
+Dieses Seite kann nicht angezeigt werden , während Sie offline sind . Wechseln Sie in den » Online«-Modus und versuchen Sie es erneut .
+» %s « hat den Zugriff auf Port » %d « verweigert .
+Überprüfen Sie die Einstellungen zu Ihrem Proxy-Server . Funktioniert die Verbindung weiterhin nicht so existiert möglicherweise ein Problem mit Ihrem Proxy-Server oder Ihrer Netzwerkverbindung.|
+Wählen Sie ein Zertifikat , das » %s « zur Identifikation angezeigt werden soll .
+Wählen Sie ein Zertifikat zur Identifikation .
+Die Seite » %s « lieferte Sicherheitsinformationen für » %s « . Möglicherweise hat sich jemand in Ihre Verbindung eingeklinkt , um an Ihre vertraulichen Daten zu gelangen .
+Sie sollten die Sicherheitsinformationen ausschließlich akzeptieren , falls Sie » %s « und » %s « vertrauen .
+Es war nicht möglich , » %s « automatisch zu vertrauen . Möglicherweise hat sich jemand in Ihre Verbindung eingeklinkt , um an Ihre vertraulichen Daten zu gelangen .
+Sie sollten ausschließlich mit dieser Seite verbinden , falls Sie sicher sind , mit » %s « verbunden zu sein .
+Die Sicherheitsinformationen für » %s « sind am %s ausgelaufen .
+Die Sicherheitsinformationen für » %s « sind bis zum %s ungültig .
+Sie sollten sicherstellen , dass Ihre Systemzeit korrekt ist .
+Die Verbindung mit » %s « konnte nicht hergestellt werden .
+Die Liste zurückgezogener Zertifikate ( CRL ) von » %s « muss aufgefrischt werden .
+Bitten Sie Ihren Systemadministrator um Unterstützung .
+Neuer Zertifizierungsstelle » %s « vertrauen ?
+Vor dem Vertrauen einer Zertifikatverwaltungsstelle ( CA ) sollten Sie sicherstellen , dass das Zertifikat authentisch ist .
+Wählen Sie ein Passwort , um dieses Zertifikat zu schützen .
+Geben Sie das Passwort für dieses Zertifikat ein .
+Liste zurückgezogener Zertifikate ( CRL ) importiert :
+Dieses Zertifikat wurde für folgende Verwendungszwecke verifiziert :
+Dieses Zertifikat konnte nicht verifiziert werden , da es zurückgezogen wurde .
+Dieses Zertifikat konnte nicht verifiziert werden , da es ausgelaufen ist .
+Dieses Zertifikat konnte nicht verifiziert werden , da es nicht als vertrauenswürdig eingestuft wurde .
+Dieses Zertifikat konnte nicht verifiziert werden , da der Aussteller nicht als vertrauenswürdig eingestuft wurde .
+Dieses Zertifikat konnte nicht verifiziert werden , da der Aussteller unbekannt ist .
+Dieses Zertifikat konnte nicht verifiziert werden , da das CA-Zertifikat ungültig ist .
+Dieses Zertifikat konnte aus unbekannten Gründen nicht verifiziert werden .
+Bitte warten Sie , es wird ein neuer privater Schlüssel generiert . Dieser Vorgang kann einige Minuten in Anspruch nehmen .
+Diese Seite wird über eine sichere Verbindung geladen
+Sie können die Sicherheitsstufe einer Seite jederzeit an dem Schlosssymbol in der Statusleiste erkennen .
+Diese Seite wird über ein relativ unsichere Verbindung geladen
+Es ist möglich , dass alle Daten die Sie auf dieser Seite sehen oder eingeben von Dritten mitgelesen werden .
+Einige Elemente dieser Seite werden über ein unsichere Verbindung geladen
+Einige Daten die Sie auf dieser Seite sehen oder eingeben werden über eine unsichere Verbindung übertragen und können daher von Dritten mitgelesen werden .
+Sollen diese Daten über eine unsichere Verbindung gesendet werden ?
+Die von Ihnen eingegebenen Daten werden über eine unsichere Verbindung gesendet und können daher von Dritten mitgelesen werden .
+Obwohl diese Seite über eine sichere Verbindung geladen wurde werden von Ihnen eingegebene Daten über eine unsichere Verbindung gesendet und können daher von Dritten mitgelesen werden .
+Epiphany kann im Moment nicht verwendet werden , da die Initialisierung von Mozilla fehlgeschlagen ist .
+Drucken wird von diesem Drucker nicht unterstützt
+Sie versuchten mittels des » %s«-Treibers zu drucken . Dieses Programm benötigt einen PostScript-Druckertreiber .
+Legt den Anfang des zu druckenden Bereichs fest
+Legt das Ende des zu druckenden Bereichs fest
+%s existiert , bitte entfernen Sie es von dort .
+Verzeichnis %s konnte nicht angelegt werden .
+Sie haben nicht die nötigen Zugriffsrechte um in diesem Verzeichnis Dateien zu erstellen .
+Sie haben nicht die nötigen Zugriffsrechte um diese Datei zu überschreiben .
+Eine Datei mit diesem Namen ist bereits vorhanden . Beim Überschreiben dieser Datei geht ihr Inhalt verloren .
+Hilfe konnte nicht angezeigt werden : %s|
+Ziehen Sie dieses Symbol und legen Sie es ab , um einen Link zu dieser Seite zu erstellen
+Das gewählte Lesezeichen in einem neuen Fenster öffnen
+Das gewählte Lesezeichen in einem neuen Reiter öffnen
+Die Eigenschaften des gewählten Lesezeichens anzeigen / bearbeiten
+Lesezeichen aus einem anderen Browser oder einer Lesezeichendatei importieren
+Das gewählte Lesezeichen oder Thema in der Lesezeichenleiste anzeigen
+Sowohl die Titel- als auch die Adressspalte anzeigen
+Soll das Thema » %s « gelöscht werden ?
+Das Löschen dieses Themas hat zur Folge , dass alle in ihm enthaltenen Lesezeichen unzugeordnet sein werden , sofern sie zu keinem anderen Thema gehören . Die Lesezeichen werden nicht gelöscht .
+Die Lesezeichen von » %s « konnten nicht importiert werden , da die Datei beschädigt ist oder ihr Format nicht unterstützt wird .
+Soll das Lesezeichen » %s « aktualisiert werden ?
+Die gemerkte Seite befindet sich nun unter » %s « .
+Es existiert bereits ein Lesezeichen namens » %s « für diese Seite .
+Den gewählten Chronik-Link in einem neuen Fenster öffnen
+Den gewählten Chronik-Link in einem neuen Reiter öffnen
+Das Leeren der Browser-Chronik sorgt dafür , dass alle Links in der Chronik dauerhaft gelöscht werden .
+Einen neuen Reiter in einem bestehenden Fenster öffnen
+Ein Lesezeichen hinzufügen ( kein Fenster öffnen )
+Sollen vorherige Browser-Fenster und -Reiter wiederhergestellt werden ?
+Epiphany scheint beim letzten Mal abgestürzt oder abgewürgt worden zu sein . Sie können die geöffneten Fenster und Reiter wiederherstellen .
+Dieser Link benötigt eine installierte Sidebar-Erweiterung .
+Bonobo konnte die Datei GNOME_Epiphany_Automation.server nicht finden . Sie können bonobo-activation-sysconf verwenden , um den Suchpfad für Bonobo-Server-Dateien festzulegen .
+Bonobo kann im Moment auf Grund eines unerwarteten Bonobo-Fehlers beim Versuch , den Automatisierungs-Server zu registrieren , nicht verwendet werden .
+Bonobo kann im Moment auf Grund eines unerwarteten Bonobo-Fehlers beim Versuch , das Automatisierungsobjekt zu finden , nicht verwendet werden .
+Geben Sie eine zu öffnende Website oder einen Begriff ein , nach dem gesucht werden soll
+Einen Link auf die momentan geöffnete Seite verschicken
+Ein Wort oder eine Zeichenkette in der Seite finden
+Die nächste Stelle suchen , an der diese Zeichenkette vorkommt
+Die vorherige Stelle suchen , an der diese Zeichenkette vorkommt
+Ein Lesezeichen für die momentan geöffnete Seite hinzufügen
+Unangeforderte Popup-Fenster von dieser Seite anzeigen/ verbergen
+Einige Änderungen an Formularelementen wurden nicht übertragen
+Falls Sie das Dokument dennoch schließen , gehen diese Informationen verloren .
+Bild » %s « als Hintergrundbild verwenden

@@ -1,0 +1,64 @@
+Brasero is an application for burning CDs and DVDs .
+This manual is part of a collection of GNOME manuals distributed under the GFDL . If you want to distribute this manual separately from the collection , you can do so by adding a copy of the license to the manual , as described in section 6 of the license .
+Many of the names used by companies to distinguish their products and services are claimed as trademarks . Where those names appear in any GNOME documentation , and the members of the GNOME Documentation Project are made aware of those trademarks , then the names are in capital letters or initial capital letters .
+DOCUMENT IS PROVIDED ON AN " AS IS " BASIS , WITHOUT WARRANTY OF ANY KIND , EITHER EXPRESSED OR IMPLIED , INCLUDING , WITHOUT LIMITATION , WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE , FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING . THE ENTIRE RISK AS TO THE QUALITY , ACCURACY , AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU . SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT , YOU ( NOT THE INITIAL WRITER , AUTHOR OR ANY CONTRIBUTOR ) ASSUME THE COST OF ANY NECESSARY SERVICING , REPAIR OR CORRECTION . THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE . NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER ; AND
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY , WHETHER IN TORT ( INCLUDING NEGLIGENCE ) , CONTRACT , OR OTHERWISE , SHALL THE AUTHOR , INITIAL WRITER , ANY CONTRIBUTOR , OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT , OR ANY SUPPLIER OF ANY OF SUCH PARTIES , BE LIABLE TO ANY PERSON FOR ANY DIRECT , INDIRECT , SPECIAL , INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING , WITHOUT LIMITATION , DAMAGES FOR LOSS OF GOODWILL , WORK STOPPAGE , COMPUTER FAILURE OR MALFUNCTION , OR ANY AND ALL OTHER DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT , EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES .
+This manual describes version 2.26 of Brasero .
+Burn data to CD-R / Ws and DVD-R / Ws
+Burn audio CDs from digital audio files ( such as ogg , flac and mp3 )
+Check the integrity of discs and disc images
+The Brasero main window . Shows the menu bar and the five types of project to choose from .
+This section explains how to create an audio CD . This project takes selected audio files , converts them to a raw audio format and burns them to a CD which standard CD players can play .
+Insert a blank CD-R into your drive .
+Search files using keywords Display playlists and their contents
+In the text box , enter the title you want to give to the disc . This title will be shown as the name of the disc .
+When adding files , refer to the status bar at the bottom of the window to see how much space you are using on your CD / DVD .
+Select the track after which you want to add the pause .
+Split Edit Split Track ... Split Track
+Select this to select the time on the track where you wish to split it . A sliding bar is provided along with an audio preview .
+Split tracks in parts with a fixed length
+Select this to split the track into fixed-length parts with a duration that you specify .
+Split track in fixed number of parts
+Select this to decide the number of parts that you want your track to be split into . You can use the provided spin box to select the number of parts .
+Select this to split the track where a silence is present .
+Before starting the burning process , it is possible to modify some of the burning options .
+Leave the disc open to add a data session later
+Insert a blank CD-R / W or DVD-R / W into your drive .
+In the text box , enter a label to identify the disc . This label will be shown as the name of the disc .
+Select this option if you intend the disc to be used on computers running Windows . Files on the disc will be checked to ensure that their filenames do not contain characters which are invalid on Windows .
+Leave the disc open to add other files later
+Insert a blank CD or DVD into your drive .
+From the pane on the left of the window , browse the file system searching for video files .
+Insert the CD or DVD you wish to copy into your drive .
+Disc copy Project New Project Copy Disc
+Before starting the copying process , it is possible to modify some of the copying and burning options .
+From the drop-down list , select the disc that you want to copy .
+From the drop-down list , select the disc to write to .
+If you have more than one drive on your system , you can use one drive as the source drive and the other as the destination drive . If you do not , you will be prompted to remove the CD or DVD you are copying and insert a blank media .
+Burn image Project New Project Burn Image
+Before starting the image burning process , it is possible to modify some of the burning options .
+Select Image File Let brasero choose ( safest )
+Before starting the burning process , it is possible to change some of the properties for the burning device that will be used .
+From the drop-down list , select the burning speed . For the best value , check the CD / DVD case .
+Burning a disc with a higher speed than supported could create an unreadable disc . Use lower burning speeds to reduce the chance of this happening .
+Burn the image directly without saving it to disc
+Select this option if you want to burn the image directly onto the media , without saving it to the hard disk and without creating an image file .
+Select this option to simulate the burning process ; no real burn is performed . If this operation is successful , brasero will actually burn the disc after pausing for 10 seconds . During this pause it will show a dialog in which you can cancel the actual burning . This is useful for testing , if you are having problems burning discs .
+Select this option to eject the media in the burning device once the burning process has completed .
+From the drop-down list , select the directory to use for storing the temporary files created for the burning process .
+Type the name you want to give to the disc once burned .
+Once opened , you can add or remove files from the project , burn it to disc , and then save it again for later use .
+Make sure that the media you want to erase is erasable . Check the media case for more information .
+Insert the erasable CD or DVD in your drive .
+The blanking process will permanently destroy all of the data on the disc .
+Fast blanking is a way of quickly erasing a disc . This method is much faster than fully erasing the disc and is sufficient to allow the disc to be written to again .
+The full erasing procedure is slower but is more secure , as it removes all traces of previous data . Data removed from fast blanked media can still be recovered with special tools .
+Checking the Integrity of a CD or DVD
+Checking the integrity of a CD or DVD makes sure that the files written to the disc are intact and have not been corrupted during the burning process .
+Insert the CD or DVD to be checked into the drive .
+Use a md5 file to check the disc
+Brasero File integrity check success File integrity check error
+The cover editor lets you select the font , the alignment and the colors for all the texts and the background properties of front and the back cover .
+It is possible to fill the background with an image or with a color or gradient .
+If you select a gradient , there will be two buttons for the color chooser . The one on the left is the starting point of the gradient , the one on the right the end point .
+In order to use some of the plugins listed here , it may be necessary to install further applications on your system . See your operating system documentation for more information .

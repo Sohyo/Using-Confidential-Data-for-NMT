@@ -1,0 +1,33 @@
+Add files or folders to a new archive .
+Add files to the archive Edit Add files … Archive Manager Add a folder to the archive Edit Add a folder
+When you add a folder to your archive , you will be offered some options :
+Choose which files should be included .
+Select which subfolders or files are to be excluded .
+Not all archive file formats support folders — if the file format that you are using does not , you will not be warned . If the file format that you are using does not support folders , the files from the folders will be added , but not the folder itself .
+Once you finish adding files , the archive is ready ; you do not need to save it .
+Enter the new file name into the dialog which has opened .
+Extract files or folders from your archive .
+Choose where you want the archive to be extracted to in the file chooser . This will be the destination folder .
+The application will show you the progress bar in a new dialog . If the extraction completes successfully , you will be asked whether you want to :
+All the files and folders in the archive will be extracted .
+You can specify in the file chooser dialog whether you want to :
+Tick this option if you want to keep the directory structure as it is in your archive .
+This option will not overwrite existing files with the same name , which have a more recent modification date than those which are in the archive .
+Archive Manager The file doesn 't exist Open
+View an existing archive and its content .
+There are two ways to view an archive :
+You may use the column headings mentioned above ( name , size ) … to sort the files in your archive . Do this by clicking on them ; you can toggle to sort in reverse order .
+Open the file with a different application by following these steps :
+external ref = ' figures / file-roller-main-window.png ' md5 = ' 133c50bfcf2ac220d3c2c61180f339db '
+An archive consists of one or more files and folders , along with metadata . It may be encrypted in part or as a whole . Archive files are useful for storing data and transferring it between computers as they allow you to collect multiple files into one .
+Rename file or folder in an archive
+Delete files or folders from an archive
+Display the tree view of the folders in the side pane
+View the content of an archive as a list of files
+View the content of an archive as a folder structure
+Set the password for your archive .
+Set a password to encrypt data in a new archive by following these steps :
+You may not be able to type a password , because not all archive types support encryption , so choose an archive type that can be password protected before setting a password .
+Protect an existing archive by setting a password :
+The integrity test verifies that your data is not corrupt .
+I have set a password , but it does not protect the whole archive .

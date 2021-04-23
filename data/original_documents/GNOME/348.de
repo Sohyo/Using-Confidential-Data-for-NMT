@@ -1,0 +1,22 @@
+Frogr : Eine GNOME-Anwendung zum entfernten Verwalten von Flickr
+Geben Sie eine durch Leerzeichen getrennte Liste von Markierungen an :
+Bitte klicken Sie den Knopf , um %s zu legitimieren . Kehren Sie dann zu diesem Fenster zurück , um den Vorgang abzuschließen .
+Fehler beim Hochladen des Videos : Sie können keine weiteren Videos mit diesem Konto hochladen
+Fehler : Foto ist bereits in der maximalen Gruppenanzahl enthalten
+Fehler : Foto wurde zur Warteschlange der Gruppe hinzugefügt
+Fehler : Foto wurde bereits zur Warteschlange der Gruppe hinzugefügt
+Fehler : Inhalt ist für diese Gruppe nicht erlaubt
+Fehler : %s ist nicht ausreichend legitimiert , um Bilder zu Flickr hochzuladen . Bitte legitimieren Sie erneut
+Legitimierung bei Flickr ist fehlgeschlagen . Bitte versuchen Sie es erneut
+Sie haben %s noch nicht korrekt legitimiert . Bitte versuchen Sie es erneut .
+Ungültiger Prüfcode . Bitte versuchen Sie es erneut
+Ein Fehler ist aufgetreten : %s .
+Hochladen wird erneut versucht ( Versuch %d/ %d )
+Sie müssen %s ausreichend legitimieren , bevor Bilder zu Flickr hochgeladen werden können . Bitte nehmen Sie die Legitimierung erneut vor .
+Sie müssen %s ausreichend legitimieren , bevor Bilder zu Flickr hochgeladen werden können . Bitte nehmen Sie die Legitimierung erneut vor .
+Vorgabe ( wie in Flickr festgelegt )
+Ein Fehler trat beim Versuch auf , ein Bild hochzuladen
+Bild %s kann nicht geladen werden : %s
+Video %s kann nicht geladen werden Bitte prüfen Sie , ob der richtige Codec installiert ist
+Datei %s kann nicht geladen werden : Datei ist größer als das für dieses Konto zulässige Maximum ( %s )
+Dateinamenerweiterungen der Bildnamen beim Laden von Bildern _behalten

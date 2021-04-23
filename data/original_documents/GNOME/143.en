@@ -1,0 +1,12 @@
+Show how geometry is being batched in the journal
+Add wire outlines for all rectangular geometry
+Disable batching of geometry in the Cogl Journal .
+Use the GPU to transform rectangular geometry
+Dump texture atlas changes to an image file
+Disable sharing the texture atlas between text and images
+When this is set the glyph cache will always use a separate texture for its atlas . Otherwise it will try to share the atlas with images .
+Disable use of the fixed function pipeline backend
+Makes Cogl think that the GL driver doesn 't support NPOT textures so that it will create sliced textures or textures with waste instead .
+Disables Cogl 's attempts to clip some rectangles in software .
+Disable optimization for reading 1px for simple scenes of opaque rectangles
+Logs information about how Cogl is implementing clipping

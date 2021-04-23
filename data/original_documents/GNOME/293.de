@@ -1,0 +1,91 @@
+Ordnerzusammenfassung für %s konnte nicht erstellt werden
+Zwischenspeicher konnte nicht für » %s « angelegt werden :
+SQLite-Fehler : Mehrere Tabellen namens » %s « , Datenbank » %s « ist beschädigt
+SQLite-Fehler : SQLite-Datenbank » %s « konnte nicht geöffnet/ angelegt werden
+In allen Ordnern nach neuen E-Mails se_hen
+In abonnierten Ordnern nach neuen E-Mails se_hen
+» _Schnelles Abgleichen « verwenden , falls es der Server unterstützt
+_Filter auf neue Nachrichten in allen Ordnern anwenden
+_Filter auf neue Nachrichten im Eingang dieses Servers anwenden
+A_usschließlich den Eingangsordner auf unerwünschte Nachrichten prüfen
+Zum Lesen und Speichern von E-Mails auf Kolab-Servern .
+Dies stellt unter Verwendung eines unverschlüsselten Passworts eine Verbindung mit dem Kolab-Server her .
+Zwischenspeicher konnte nicht für » %s « angelegt werden
+Verbindung mit IMAP-Server %s im sicheren Modus ist gescheitert : %s
+Verbindung mit IMAP-Server %s im sicheren Modus ist gescheitert :
+IMAP-Server %s unterstützt den Legitimationstyp %s nicht
+Sie müssen online arbeiten , um diesen Vorgang abzuschließen
+Zum Lesen und Speichern von E-Mails auf IMAP-Servern .
+Dies stellt unter Verwendung eines unverschlüsselten Passworts eine Verbindung mit dem IMAP-Server her .
+Zusammenfassende Informationen für neue Nachrichten in %s werden abgerufen
+Nachricht mit Kennung %s konnte nicht abgerufen werden : %s
+Der Ordnername » %s « ist ungültig , da er das Zeichen » %c « enthält
+Beim Abgleich ist ein Fehler aufgetreten : Wahrscheinlich hat jemand einen Eintrag auf dem Server geändert , den Sie außerdem lokal geändert haben .
+Bitte wählen Sie , wie lange die Abgleichoption wirksam sein soll
+Auf alle während dieses Abgleichvorgangs auftretenden Konflikte anwenden
+Auf alle während dieser Evolution-Sitzung auftretenden Konflikte anwenden
+Nur auf diesen Konflikt anwenden ( jedes Mal nachfragen )
+Bitte wählen Sie , welcher der beiden Einträge behalten werden soll
+Beide behalten ( ergibt zwei verschiedene , parallele Einträge )
+Ordnername » %s « ist in der internen Datenbank nicht bekannt
+Interne Inkonsistenz wurde entdeckt : Ungültiger PIM-Objektverarbeiter , es kann keine UID erhalten werden
+Interne Inkonsistenz wurde entdeckt : Ungültiger PIM-Objektverarbeiter , es kann kein Ordnername erhalten werden , UID » %s «
+PIM-Objekt wurde in der internen Datenbank nicht gefunden , UID » %s « , Ordner » %s «
+PIM-Objekt wurde aufgrund der gewählten Abgleichmethode nicht gespeichert , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : PIM-Objekt-Handle , UID %s , hat den Ordnernamen » %s « , aber der gelieferte Ordnername zum Löschen ist » %s «
+Keine Übergangsfunktion definiert vom Betriebsmodus %i nach %i
+PIM-Objekt-Handle , UID » %s « , mit PIM-Typ %i darf nicht in einem Ordner des nicht übereinstimmenden PIM-Typ %i gespeichert werden
+Interne Inkonsistenz wurde entdeckt : Lokaler PIM-Objektverarbeiter kann nicht erhalten werden
+Interne Inkonsistenz wurde entdeckt : PIM-Objektverarbeiter hat inkonsistente zusammenfassende Informationen , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : PIM-Objektverarbeiter hat inkonsistente Informationen zum Ordnerkontext ( erwartet wurde %i , erhalten wurde %i ) , UID » %s « , Folder » %s «
+Interne Inkonsistenz wurde entdeckt : PIM-Objektverarbeiter ist unvollständig , UID » %s « , Ordner » %s «
+Datenumwandlung in das Kolab-Format scheiterte für das PIM-Objekt , UID » %s « , Ordner » %s «
+Datentyp JOURNAL wird nicht für PIM-Objekt unterstützt , UID » %s « , Ordner » %s «
+Unbekannter Datentyp des PIM-Objekts , UID » %s « , Ordner » %s «
+Umwandlung von Kolab-Kalender nach Evolution ist für PIM-Objekt fehlgeschlagen , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : Beschädigtes Zeitzonen-Objekt des PIM-Objekts , UID » %s « , Ordner » %s «
+Ungültiges Kolab-Nachrichtenobjekt ( UID im Betreff entspricht nicht der UID des Datenteils ) , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : PIM-Objektverarbeiter hat ungültige zusammenfassende Informationen , UID » %s « , Ordner » %s «
+Camel-Ordnerpfad für » %s « konnte nicht ermittelt werden
+Interne Inkonsistenz wurde entdeckt : PIM-Kontext des Ordners wurde nicht festgelegt
+Ordner » %s « hat ungültigen PIM-Typ
+Interne Inkonsistenz wurde entdeckt : Für Ordner » %s « wurde der PIM-Typ %i festgelegt , der keinem bekannten Ordnerkontext zuzuordnen ist
+Verschieben des Objekts in einen anderen Ordner ist noch nicht implementiert
+Camel-Ordner für %s konnte nicht erstellt werden
+Nachricht konnte nicht vom Server zurück-gelesen werden , UID » %s « , Ordner » %s «
+IMAP-UID der Nachricht konnte nicht ermittelt werden , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : Die Kolab-UID wurde für den PIM-Objektverarbeiter nicht festgelegt
+Interne Inkonsistenz wurde entdeckt : Der Ordnername wurde für den PIM-Objektverarbeiter nicht festgelegt , UID » %s «
+Interne Inkonsistenz wurde entdeckt : Ordnerkontext stimmt nicht überein , real ist %i , gespeichert ist %i , UID » %s « , Ordner » %s «
+Kolab-Nachricht konnte nicht gefunden werden , UID » %s « , Ordner » %s «
+Ordnername ist in der internen Datenbank nicht bekannt : » %s «
+Der zu entfernende Ordner existiert in der internen Datenbank nicht : » %s «
+Interne Inkonsistenz wurde entdeckt : Ordner ohne zusammenfassende Informationen , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : Ordner des PIM-Objekts wurde gelöscht , UID » %s « , Ordner » %s «
+Zielordner wurde gelöscht : » %s «
+Datensatz fehlt in der internen Datenbank , UID » %s « , Ordner » %s «
+Nachricht ist keine Multipart-Nachricht , wird ignoriert
+Nachricht hat nicht das erwartete Minimum von %i MIME-Teilen , wird ignoriert
+Der MIME-teil der Nachricht hat keinen Inhaltstyp festgelegt , wird übergangen
+Camel-Daten-Wrapper konnte nicht für den MIME-Teil erhalten werden , wird übergangen
+Interne Inkonsistenz wurde entdeckt : Ungültiger Nachrichtenteil nach der Kolab-Datenumwandlung , es wurde keine Camel-Nachricht erzeugt
+Interne Inkonsistenz wurde entdeckt : Ungültiges Zwischenspeicher-Objekt mit Null Nachrichtenteilen , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : Ungültiges Zwischenspeicher-Objekt hat %i Byte Nutzlast , erwartet wurden %i Byte , UID » %s « , Ordner » %s «
+Interne Inkonsistenz wurde entdeckt : Im PIM-Objektverarbeiter ist keine Kolab-UID festgelegt
+Zwischengespeichertes Objekt konnte nicht gefunden werden , UID » %s « , Ordner » %s «
+Ordner wurde nicht gefunden , weder in der internen Datenbank als » %s « noch auf dem Server als » %s «
+Interne Inkonsistenz wurde entdeckt : Ordnername konnte nicht erhalten werden , weder aus der internen Datenbank , noch aus dem Schreibpuffer oder IMAP
+Interne Inkonsistenz wurde entdeckt : Der Ordnertyp %i lässt sich keinem bekannten Ordnerkontext zuordnen
+Der Ordner existiert in der internen Datenbank nicht : » %s «
+Ordner » %s « konnte nicht erstellt werden ( » %s « )
+Camel-Datenordner konnte nicht eingerichtet werden , die Ressource ist schreibgeschützt
+Camel-Konfigurationsordner konnte nicht eingerichtet werden , die Ressource ist schreibgeschützt
+Der Ordnerkontext kann nicht geändert werden , nachdem er anfänglich festgelegt wurde
+Interne Inkonsistenz wurde entdeckt : Keine Einstellungstabelle vorhanden , bisher wurde kein Wert festgelegt
+Interne Inkonsistenz wurde entdeckt : Keine Einstellungstabelle mit der Kennung » %i « vorhanden
+Interne Inkonsistenz wurde entdeckt : Keine Einstellungstabelle mit der Kennung » %i « , Schlüsselkennung » %s « vorhanden
+Camel-Speicherpfad für interne Datenbank konnte nicht ermittelt werden
+XML-Parser gab Null für Datenteil %d zurück
+Konfiguration von libcurl scheiterte mit CURLcode : %u
+Zugriff auf die Adresse » %s « scheiterte in libcurl mit CURLcode : %u
+Vollständiger Datenbankpfad für Datenbank » %s « , Dateiname » %s « konnte nicht angelegt werden

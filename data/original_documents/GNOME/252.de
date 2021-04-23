@@ -1,0 +1,52 @@
+http:/ /www.google.de/ search ? q=%samp ; ie=UTF-8amp ; oe=UTF-8
+Zum Beispiel nicht von Werbekunden dieser Seite
+Epiphany kann im Moment nicht verwendet werden , da die Initialisierung gescheitert ist .
+Es war nicht möglich , diese Webseite zu laden
+%s %s Sie könnte vorübergehend nicht erreichbar sein oder zu einer neuen Adresse umgezogen sein . Falls das Problem weiterhin besteht , sollten Sie Ihre Internetverbindung überprüfen .
+Diese Seite könnte verursacht haben , dass der Webbrowser unerwartet beendet wurde
+Diese Seite wurde geladen , als der Webbrowser unerwartet beendet wurde . %s
+Unbekannte Version der Desktop-Datei » %s «
+Die Anwendung unterstützt keine Dokumente über die Befehlszeile
+Dokumentadressen könne nicht an einem Desktop-Eintrag mit » Type=Link « übergeben werden
+Temporärer Ordner konnte nicht in » %s « angelegt werden .
+Die Datei » %s « existiert , bitte entfernen Sie sie von dort .
+Ordner » %s « konnte nicht angelegt werden .
+Ordner » %s « ist nicht beschreibbar
+Sie haben nicht die nötigen Zugriffsrechte , um in diesem Ordner Dateien zu erstellen .
+Vorhandene Datei » %s « kann nicht überschrieben werden
+Eine Datei mit diesem Namen ist bereits vorhanden . Beim Überschreiben dieser Datei geht ihr Inhalt verloren .
+Hilfe konnte nicht angezeigt werden : %s
+Passwörter der vorhergehenden Version ( Gecko ) sind mit einem Master-Passwort gesperrt . Wenn Epiphany sie importieren soll , dann geben Sie bitte das Master-Passwort unten ein .
+Kopieren der Cookie-Datei von Mozilla fehlgeschlagenfriendly time " string for the current day , strftime format . like " Today 12:34 am
+%-d . %b %-H:%Mfriendly timeFeb 12 1997
+Ziehen Sie dieses Symbol und legen Sie es ab , um einen Link zu dieser Seite zu erstellen
+Das gewählte Lesezeichen in einem neuen Fenster öffnen
+Das gewählte Lesezeichen in einem neuen Reiter öffnen
+Die Eigenschaften des gewählten Lesezeichens anzeigen / bearbeiten
+Lesezeichen aus einem anderen Browser oder einer Lesezeichendatei importieren
+Soll das Thema » %s « gelöscht werden ?
+Das Löschen dieses Themas hat zur Folge , dass alle in ihm enthaltenen Lesezeichen unzugeordnet sein werden , sofern sie zu keinem anderen Thema gehören . Die Lesezeichen werden nicht gelöscht .
+Die Lesezeichen von » %s « konnten nicht importiert werden , da die Datei beschädigt ist oder ihr Format nicht unterstützt wird .
+Lesezeichen in diesem Thema in neuen Reitern öffnen
+Den gewählten Chronik-Link in einem neuen Fenster öffnen
+Den gewählten Chronik-Link in einem neuen Reiter öffnen
+Das Leeren der Browser-Chronik sorgt dafür , dass alle Links in der Chronik dauerhaft gelöscht werden .
+Einen neuen Reiter in einem bestehenden Fenster öffnen
+Der Webbrowser konnte nicht gestartet werden : %s
+Es werden noch Dateien heruntergeladen . Wenn Sie sich abmelden , werden diese Downloads abgebrochen und gehen verloren .
+Sollen vorherige Browser-Fenster und -Reiter wiederhergestellt werden ?
+Einige Änderungen an Formularelementen wurden nicht übertragen
+Falls Sie das Dokument dennoch schließen , gehen diese Informationen verloren .
+In diesem Fenster gibt es aktive Downloads
+Falls Sie dieses Fenster schließen , werden die Downloads abgebrochen
+Wählen Sie die persönlichen Daten , die gelöscht werden sollen
+Sie sind im Begriff , persönliche Daten über Ihre besuchten Webseiten zu löschen . Überprüfen Sie die Art der zu löschenden Informationen , bevor Sie fortfahren :
+Eine Web-Anwendung dieses namens » %s « existiert bereits . Wollen Sie sie ersetzen ?
+Eine Anwendung mit diesem Namen ist bereits vorhanden . Beim Überschreiben geht ihr Inhalt verloren .
+Die Anwendung » %s « ist bereit zur Benutzung
+Die Anwendung » %s « konnte nicht erzeugt werden
+Der Webbrowser ist freie Software . Sie können ihn unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung des Webbrowsers erfolgt in der Hoffnung , dass er Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizierte Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit dem Webbrowser erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA .
+Lässt Sie Webseiten betrachten und Informationen im Internet finden . Verwendet WebKit %d.%d.%d
+Durch Drücken von F7 schalten Sie den Caret-Modus ein oder aus . Dieses Funktionsmerkmal platziert einen beweglichen Cursor in Webseiten , den Sie mit der Tastatur steuern können . Wollen Sie den Caret-Modus einschalten ?

@@ -1,0 +1,131 @@
+Wählen Sie das Video-Aufnahmegerät , das verwendet werden soll . Wenn ein Fehler bei Benutzung dieses Gerätes auftritt , wird ein Testbild übertragen .
+Wählen sie die zu übertragende Videogröße aus : Klein ( QCIF 176x144 ) oder Groß ( CIF 352x288 )
+Die zu verwendende Video-Kanalnummer ( um Kamera , TV oder andere Quellen auszuwählen )
+Wählen Sie das Format für Videokameras aus . ( Irrelevant für die meisten USB-Kameras )
+Das Maximum der übertragenden Bildrate in Bilder/ s. Diese Rate wird möglicherweise nicht erreicht , wenn eine minimale Qualität durch einen TSTO-Wert unter 31 konfiguriert wurde und die ausgewählte Bitrate nicht ausreichend ist , um diese minimale Qualität zu erreichen .
+Wenn aktiviert , Sprechpausenerkennung für Codecs verwenden , die dies unterstützen
+Wählen Sie ein alternatives Audiowiedergabe-Gerät für die Ausgabe von Klängen bei Ereignissen .
+Der Klang , der bei eingehendem Anruf abgespielt wird ( wenn aktiviert )
+Der gewählte Klang wird ( wenn aktiviert ) bei eingehenden Anrufen abgespielt
+Der Klang , der ( wenn aktiviert ) abgespielt wird , wenn eine neue Nachricht eintrifft
+Der gewählte Klang wird ( wenn aktiviert ) abgespielt , wenn eine neue Nachricht eingetroffen ist
+Der Klang , der bei einer neuen Sprachnachricht abgespielt wird ( wenn aktiviert )
+Der gewählte Klang wird ( wenn aktiviert ) abgespielt , wenn eine neue Sprachnachricht eingetroffen ist
+Der gewählte Klang wird ( wenn aktiviert ) abgespielt , wenn man jemanden anruft
+Der Klang , der ( wenn aktiviert ) abgespielt wird , wenn man jemanden anruft
+Der gewählte Klang wird ( wenn aktiviert ) bei Beendigung einer Verbindung oder bei Anruf einer Person , die beschäftigt ist , abgespielt
+Der Klang , der bei Beendigung einer Verbindung oder bei Anruf einer Person , die beschäftigt ist , abgespielt wird ( wenn aktiviert )
+Die Liste der Konten , für die Ekiga eine Anmeldung vornehmen soll
+Der Port , der für eingehende Verbindungen überwacht werden soll . Ekiga muss neu gestartet werden , damit die Einstellung in Kraft tritt
+Der Rechner , zu dem Anrufe bei Verwendung von Anruf-Weiterleitung weitergeleitet werden sollen
+Dies erlaubt es , den Modus für DTMF-Übertragung festzulegen . Möglicher Werte sind » RFC2833 « ( 0 ) , » INFO « ( 1 )
+Der Port , der für eingehende Verbindungen überwacht werden soll . Ekiga muss neu gestartet werden , damit die Einstellung in Kraft tritt .
+Der Bereich von TCP-Ports , der von Ekiga für den H.245-Kanal von H.323 verwendet wird . Dieser Port-Bereich hat keine Auswirkungen , wenn beide Teilnehmer der Konferenz H.245-Tunneling verwenden .
+Der Bereich der UDP-Ports , die Ekiga benutzen wird .
+Hiermit wird der H.245-Tunnelmodus aktiviert . Im H.245-Tunnelmodus werden H.245-Nachrichten im H.225-Kanal ( Port 1720 ) eingekapselt . Dadurch wird während eines Anrufes eine TCP-Verbindung weniger benötigt . H.245-Tunnel wurden mit H.323v2 eingeführt , Netmeeting unterstützt diese nicht . Die Benutzung des Schnellstartmodus zusammen mit H.245-Tunneln kann einige Versionen von Netmeeting zum Abstürzen bringen .
+Verbindungen werden im Schnellstart-Modus hergestellt . Der Schnellstart-Modus ist ein neuer Weg um Verbindungen schneller herzustellen , er wurde mit H.323v2 eingeführt . Dies wird von Netmeeting nicht unterstützt , die Benutzung des Schnellstartmodus zusammen mit H.245-Tunneln kann einige Versionen von Netmeeting zum Abstürzen bringen
+Dies erlaubt es , den Modus für DTMF-Übertragung festzulegen . Mögliche Werte sind » Zeichenkette « ( 0 ) , » Ton « ( 1 ) , » RFC2833 « ( 2 ) oder » Q.931 « ( 3 ) ( Vorgabewert ist » Zeichenkette « ) . Wenn ein anderer Wert als » Zeichenkette « gewählt wird , wird der Text-Chat deaktiviert
+Wenn aktiviert , werden alle ankommenden Anrufe an den obenstehenden Rechner weitergeleitet
+An den angegebenen Rechner weiterleiten , wenn besetzt ist
+Wenn aktiviert , werden alle ankommenden Anrufe an den obenstehenden Rechner weitergeleitet , wenn besetzt ist oder der » Nicht stören«-Modus ausgewählt wurde
+An den angegebenen Rechner weiterleiten , wenn nicht geantwortet wird
+Wenn aktiviert , werden alle ankommenden Anrufe , die nicht entgegengenommen werden , an den obenstehenden Rechner weitergeleitet
+Der STUN-Server zum Einsatz der STUN-Unterstützung . STUN ist ein Verfahren , das es ermöglicht , durch einige NAT-Gateways hindurch eine Verbindung aufzubauen
+Automatische Netzwerkeinrichtung basierend auf dem STUN-Test deaktivieren
+Zeitraum in Sekunden , nach dem Ekiga versuchen soll , die NAT-Bindung bei Verwendung von STUN zu erneuern
+Wenn aktiviert , wird Ekiga versteckt gestartet , unter der Voraussetzung , dass der Benachrichtigungsbereich in der Kontrollleiste vorhanden ist
+Position des Fensters für den Druiden auf dem Bildschirm
+Position des Fensters für die Audio-Einstellungen auf dem Bildschirm
+Position des Fensters für Video-Einstellungen auf dem Bildschirm
+Dieser Schlüssel deaktiviert die Hardware-Videobeschleunigung durch DirectX ( unter Windows ) und XVideo ( unter Linux )
+Ekiga erlauben , auf die softwaremäßige Skalierung der Bild-in-Bild-Darstellung zurückzugreifen , wenn keine Hardware-Unterstützung verfügbar ist . Wenn dieser Schlüssel nicht gesetzt ist , wird Ekiga nicht versuchen , die Bild-in-Bild-Darstellung zu öffnen , wenn keine Hardware-Unterstützung verfügbar ist .
+Legt den Algorithmus zur Software-Skalierung fest : 0 : nächster Nachbar , 1 : nächster Nachbar mit Box-Filter , 2 : bilinearer Filter , 2 : hyperbolischer Filter . Dies wird auf Windows-Systemen nicht angewandt .
+Der Vergrößerungsfaktor in Prozent , der für Bilder im Hauptfenster gelten soll ( Mögliche Werte sind 50 , 100 oder 200 )
+Fenster mit Video während einer Verbindung vor anderen Fenstern platzieren
+Die voreingestellte Videoansicht ( 0 : Lokal , 1 : Gegenseite , 2 : Beide zusammen , 3 : Beide , lokales in eigenem Fenster , 4 : Beide )
+Die Video-Ansicht , bevor in das Vollbild umgeschaltet wurde
+Die Video-Ansicht , bevor in das Vollbild umgeschaltet wurde ( dieselben Werte wie video_view )
+Die maximale Größe des Jitter-Puffers , um den Audiodaten beim Empfang verzögert werden ( in Millisekunden )
+Die maximale TX Video-Bitrate in kbit/ s. Die Videoqualität und die Anzahl der übertragenden Bilder pro Sekunde ( abhängig vom gewählten Codec ) wird dynamisch während eines Anrufes über ihre Minimalwerte angepasst , um zu versuchen , die Bandbreite auf den gegebenen Wert zu minimieren
+Die maximale RX Video-Bitrate in kbit/ s. Dieser Wert wird an den beteiligten Endpunkt übertragen , der ( sofern unterstützt ) seine TX Bitrate anpassen kann , falls diese über dem übertragenden Wert liegt
+Legt fest , ob die maximale Bildrate erhalten werden soll oder möglicherweise gesenkt werden kann , um ein minimales ( räumliches ) Qualitätsniveau für alle Bilder zu erhalten . 0 : höchste Minimalqualität , 31 : niedrigste Minimalqualität
+Wenn aktiviert , werden abgemeldete Kontakte in der Kontaktliste angezeigt .
+0 : 56 kbit/ s , 1 : ISDN , 2 : DSL , 3 : LAN , 4 : Angepasst
+Anrufe , die innerhalb der angegebenen Zeit ( in Sekunden ) nicht angenommen wurden , automatisch ablehnen oder weiterleiten
+Sind sie sicher , dass Sie %s aus dem Adressbuch löschen möchten ?
+Bitte geben Sie einen Adressbuchnamen für dieses Verzeichnis an
+Bitte füllen Sie dieses Formular aus , um ein bestehendes Element der internen Ekiga-Kontaktliste zu bearbeiten
+Bitte füllen Sie dieses Formular aus , um einen neuen Kontakt zu Ekigas interne Kontaktliste hinzuzufügen
+Sie haben bereits einen Kontakt mit dieser Adresse
+Sie haben keinen Namen für dieses Konto angegeben .
+Sie haben keinen Rechner angegeben , um sich bei diesem anzumelden
+Sie haben keinen Benutzernamen für dieses Konto angegeben .
+Ekiga konnte die Netzwerkeinstellungen nicht automatisch konfigurieren . Sie können das Programm dennoch verwenden , aber müssen Ihre Netzwerkeinstellungen manuell konfigurieren Weitere Anweisungen dazu sind unter http:/ /wiki.ekiga.org/ index.php/ Enable_port_forwarding_manually zu finden
+Bitte füllen Sie dieses Formular aus , um eine neue Liste zu Ekigas entfernter Kontaktliste hinzuzufügen
+Bitte bearbeiten Sie die folgenden Felder ( keine Kennung bedeutet global )
+Bitte füllen Sie dieses Formular aus , um einen neuen Kontakt auf dem entfernten Server hinzuzufügen
+Bitte füllen Sie dieses Formular aus , um einen bestehenden Kontakt auf einem entfernten Server zu ändern
+Willkommen zum Assistenten für die grundlegende Ekiga-Konfiguration . In den folgenden Schritten wird durch ein paar einfache Fragen eine Ekiga-Konfiguration erstellt . Nach Beendigung dieser Schritte kann diese jederzeit unter » Einstellungen « im » Bearbeiten«-Menü verändert werden .
+Bitte tragen Sie Ihren Vor- und Nachnamen ein :
+Ihr Vor- und Nachname werden bei einer Verbindung zu anderer VoIP- oder Videokonferenz-Software benutzt .
+Benutzername und Passwort werden verwendet , um sich in Ihr bestehendes Konto beim kostenlosen ekiga.net SIP-Service anzumelden . Falls Sie noch keine ekiga.net SIP-Adresse haben , können Sie nun ein Konto erstellen , sodass Sie unter einer SIP-Adresse von anderen angerufen werden können . Sie können diesen Schritt überspringen , wenn Sie einen anderen SIP-Service nutzen oder die Anmeldeinformationen später festlegen möchten .
+Ich möchte mich nicht beim kostenlosen ekiga.net Dienst anmelden
+Sie können mit Ekiga Anrufe zu normalen Telefonen und Mobiltelefonen weltweit durchführen . Um dieses Merkmal zu aktivieren , müssen Sie die folgenden zwei Schritte befolgen : - Zuerst erwerben Sie ein Konto über die unten stehende Adresse . - Danach geben Sie die Kontonummer sowie die PIN ein . Dieser Dienst funktioniert nur , wenn die unten stehende Adresse für die Erstellung ihres Kontos verwenden wurde .
+Ich möchte mich nicht beim » PC zu Telefon«-Dienst anmelden
+DSL/ Kabel ( 128 kbit/ s Uplink )
+DSL/ Kabel ( 512 kbit/ s Uplink )
+Der Verbindungstyp wird benutzt , um möglichst passende Werte für die Qualitätseinstellungen zu wählen , die Ekiga während einer Verbindung benutzt . Sie können diese Einstellungen später individuell anpassen .
+Bitte wählen Sie das Gerät für den Klingelton :
+Das Gerät für den Klingelton ist das Gerät , das verwendet wird , um bei eingehenden Anrufen einen Klingelton abzuspielen .
+Bitte wählen Sie das Gerät für die Audio-Wiedergabe :
+Das Gerät für die Audio-Wiedergabe ist das Gerät , das verwendet wird , um Audio während eines Anrufs abzuspielen .
+Bitte wählen Sie das Gerät für die Audio-Aufnahme :
+Das Gerät für die Audio-Aufnahme ist das Gerät , das verwendet wird , um Ihre Stimme während eines Anrufes aufzuzeichnen .
+Bitte wählen Sie ein Gerät für die Video-Aufnahme :
+Das Gerät für die Video-Aufnahme ist das Gerät , das verwendet wird , um das Video-Bild während eines Anrufes aufzuzeichnen .
+Sie haben die Konfiguration von Ekiga jetzt abgeschlossen . Alle Einstellungen können im Einstellungen-Dialog von Ekiga geändert werden . Viel Vergnügen !
+Ekiga Konfigurations-Assistent ( %d von %d )
+Dieses Programm ist freie Software , Sie können sie weitergeben und/ oder verändern solange Sie sich an die Regeln der GNU General Public License halten , so wie sie von der Free Software Foundation festgelegt wurden ; entweder in Version 2 der Lizenz oder ( nach Ihrem Ermessen ) in jeder folgenden Lizenz .
+Dieses Programm wurde mit dem Ziel veröffentlicht , dass Sie es nützlich finden , jedoch OHNE JEDWEDE GARANTIE , sogar ohne eine implizite Garantie der VERKAUFBARKEIT oder der NUTZBARKEIT FÜR EINEN SPEZIELLEN ZWECK . Schauen Sie für weitere Informationen bitte in der GNU General Public License ( GNU GPL ) nach . Mit diesem Programm sollten Sie außerdem eine Kopie der GNU General Public License erhalten haben . Wenn dem nicht so ist , so schreiben Sie bitte an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA .
+Ekiga ist unter der GPL lizenziert . Als Spezialausnahme dürfen Sie dieses Programm mit den Programmen OPAL , OpenH323 und PWLIB binden oder auf andere Weise kombinieren und das Resultat ohne die Bedingungen der GNU GPL auf die Programme OPAL , OpenH323 und PWLIB anzuwenden verbreiten , solange Sie den Bedingungen der GNU GPL für die restlichen integrierten Programme folgen .
+Ekiga ist eine komplette VoIP , IP-Telefonie- und Videokonferenz-Anwendung , die sowohl das SIP- als auch das H.323-Protokoll unterstützt und es somit ermöglicht , sowohl Audio- als auch Video-Verbindungen mit Benutzern herzustellen , die SIP- oder H.323-Hardware oder -Software verwenden .
+Die Anzeige der Hilfe wird von der vorhandenen GTK+-Version nicht unterstützt
+Während dieses Gesprächs wird kein Video angezeigt- >
+Beim Öffnen oder Initialisieren der Videoausgabe trat ein Fehler auf . Bitte stellen Sie sicher , dass keine andere Anwendung die beschleunigte Videoausgabe gleichzeitig verwendet .
+Beim Öffnen oder Initialisieren der Videoausgabe trat ein Fehler auf . Bitte stellen Sie sicher , dass eine Farbtiefe von 24 oder 32 Bit pro Pixel eingestellt ist .
+Fehler beim Zugriff auf das Video-Gerät %s
+Während einer Verbindung wird ein sich bewegendes Logo übertragen . Bitte beachten Sie , dass grundsätzlich ein angegebenes Bild oder das bewegte Logo übertragen werden kann , indem » Bild « als Video-Plugin und » MovingLogo « oder » StaticPicture « als Gerät gewählt wird .
+Beim Öffnen des Gerätes ist ein Fehler aufgetreten . Im Fall von einsteckbaren Geräten kann es ausreichend sein , das Gerät neu zu verbinden . Wenn dies nicht der Fall ist und auf das Gerät weiterhin nicht zugegriffen werden kann , überprüfen Sie bitte die Berechtigungen und stellen Sie sicher , dass der entsprechende Treiber geladen wurde .
+Ausgewählter Kanal konnte nicht geöffnet werden .
+Der Treiber unterstützt anscheinend kein Farbformat , das von Ekiga verwendet werden kann . In der Dokumentation für den Kerneltreiber kann überprüft werden , welche Palette unterstützt wird .
+Fehler beim Öffnen des Gerätes für Audio-Aufnahme %ssilence
+Das gewählte Gerät für Audio-Aufnahme konnte nicht für die Aufnahme geöffnet werden . Im Fall von einsteckbaren Geräten kann es ausreichend sein , das Gerät neu zu verbinden . Wenn dies nicht der Fall ist und auf das Gerät weiterhin nicht zugegriffen werden kann , überprüfen Sie bitte die Audio-Einstellungen , die Berechtigungen und ob das Gerät bereits verwendet wird .
+Das gewählte Audiogerät wurde erfolgreich geöffnet , es konnten jedoch keine Daten gelesen werden . Im Fall von einsteckbaren Geräten kann es ausreichend sein , das Gerät neu zu verbinden . Wenn dies nicht der Fall ist und auf das Gerät weiterhin nicht zugegriffen werden kann , überprüfen Sie bitte die Audio-Einstellungen .
+Fehler beim Öffnen des Gerätes für Audio-Wiedergabe %s
+Bei eingehenden Anrufen wird kein Klang abgespielt .
+Das gewählte Gerät für Audio-Wiedergabe konnte nicht für die Wiedergabe geöffnet werden . Im Fall von einsteckbaren Geräten kann es ausreichend sein , das Gerät neu zu verbinden . Wenn dies nicht der Fall ist und auf das Gerät weiterhin nicht zugegriffen werden kann , überprüfen Sie bitte die Audio-Einstellungen , die Berechtigungen und ob das Gerät bereits verwendet wird .
+Das gewählte Audiogerät wurde erfolgreich geöffnet , es konnten jedoch keine Daten gesendet werden . Im Fall von einsteckbaren Geräten kann es ausreichend sein , das Gerät neu zu verbinden . Wenn dies nicht der Fall ist und auf das Gerät weiterhin nicht zugegriffen werden kann , überprüfen Sie bitte die Audio-Einstellungen .
+Möchten Sie dieses als vorgegebenes Gerät verwenden ?
+Das Ekiga-Handbuch lesen , um Hilfe zu finden
+Geben Sie links eine Adresse an und klicken Sie dann auf diesen Knopf , um eine Verbindung herzustellen oder aufzulegen
+Verlorene Pakete : %.1f % % Verspätete Pakete : %.1f % % Pakete in falscher Folge : %.1f % % Jitter-Puffer : %d ms%s%s%s
+Fehleranalysemeldungen in der Konsole ausgeben ( Stufe zwischen 1 und 5 )
+Fehleranalysemeldungen der Benutzerebene in der Konsole ausgeben ( Stufe zwischen 1 und 4 )
+Ekiga konnte kein verwendbares Audio-Plugin finden . Stellen Sie sicher , dass Ihre Installation korrekt ist .
+Ekiga konnte kein verwendbares Audio-Codec finden . Stellen Sie sicher , dass Ihre Installation korrekt ist .
+Wenn aktiviert , werden alle ankommenden Anrufe an den in den Protokoll-Einstellungen angegebenen Rechner weitergeleitet
+Wenn _nicht geantwortet wird , an den angegebenen Rechner weiterleiten
+Wenn aktiviert , werden alle ankommenden Anrufe , die nicht entgegengenommen werden , an den in den Protokoll-Einstellungen angegebenen Rechner weitergeleitet
+Wenn _besetzt ist , an den angegebenen Rechner weiterleiten
+Wenn aktiviert , werden alle ankommenden Anrufe an den in den Protokoll-Einstellungen angegebenen Rechner weitergeleitet , wenn besetzt ist oder der » Nicht stören«-Modus ausgewählt wurde
+Zeitdauer , nach denen unbeantwortete Anrufe abgelehnt oder weitergeleitet werden sollen ( in Sekunden ) :
+Verbindungen werden im Schnellstart-Modus hergestellt . Der Schnellstart-Modus ist ein neuer Weg um Verbindungen schneller herzustellen , er wurde mit H.323v2 eingeführt . Dies wird von Netmeeting nicht unterstützt , die Benutzung des Schnellstartmodus zusammen mit H.245-Tunneln kann einige Versionen von Netmeeting zum Abstürzen bringen .
+Dies erlaubt es , den Modus für DTMF-Übertragung festzulegen .
+Wählen Sie das Gerät für den Klingelton
+Hier klicken , um die Geräteliste zu aktualisieren .
+Wenn aktiviert , Sprechpausenerkennung für Codecs verwenden , die dies unterstützen .
+Wenn aktiviert , automatische Echo-Unterdrückung verwenden .
+Die maximale Größe des Jitter-Puffers , um den Audiodaten beim Empfang verzögert werden ( in Millisekunden ) .
+Wählen Sie , ob Sie eine minimale Bildqualität garantieren möchten ( das kann möglicherweise dazu führen , dass Frames übersprungen werden , um die Obergrenze der Bitrate nicht zu übersteigen ) oder ob Sie möchten , dass die Frame-Rate erhalten bleibt .
+Maximale Video_bandbreite ( in kbit/ s ) :
+Die maximale Bandbreite für Video in kbit/ s. Die Videoqualität und Bildrate wird während der dynamisch an den gegebenen Wert angepasst .

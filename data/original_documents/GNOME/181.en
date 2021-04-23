@@ -1,0 +1,7 @@
+Less than one minute to the next break .
+Whether the settings daemon should activate the typing break plugin
+Whether the typing break can be postponed
+Number of seconds of typing time before break mode starts
+Number of seconds that the typing break should last
+Typing ; Break ; RSI ; Workrave ;
+_ Lock screen to enforce typing break

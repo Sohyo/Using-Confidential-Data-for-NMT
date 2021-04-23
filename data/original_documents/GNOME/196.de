@@ -1,0 +1,115 @@
+Abgemeldete Kontakte in der Kontaktliste anzeigen .
+Legt fest , welches Kriterium für das Sortieren der Kontaktliste verwendet werden soll . Standardmäßig wird bei » name « nach den Namen der Kontakte sortiert , bei » state « wird die Kontaktliste nach dem Status der Kontakte sortiert .
+Legt fest , ob Benutzerbilder für Kontakte in der Kontaktliste und den Chat-Fenstern angezeigt werden sollen .
+Legt fest , ob die Kontaktliste im Kompaktmodus angezeigt werden soll .
+Der letzte Ordner , aus welchem ein Benutzerbild gewählt wurde .
+Legt fest , ob bei Ereignissen Klänge abgespielt werden sollen .
+Legt fest , ob bei Abwesenheit oder Beschäftigung Klänge abgespielt werden sollen .
+Legt fest , ob bei eingehenden Nachrichten ein Klang abgespielt werden soll .
+Legt fest , ob bei ausgehenden Nachrichten ein Klang abgespielt werden soll .
+Legt fest , ob bei neuen Gesprächen ein Klang abgespielt werden soll .
+Legt fest , ob ein Klang abgespielt werden soll , um auf das Anmelden von Kontakten am Netzwerk hinzuweisen .
+Legt fest , ob ein Klang abgespielt werden soll , um auf das Abmelden von Kontakten vom Netzwerk hinzuweisen .
+Legt fest , ob beim Anmelden ans Netzwerk ein Klang abgespielt werden soll .
+Legt fest , ob beim Abmelden vom Netzwerk ein Klang abgespielt werden soll .
+Legt fest , ob beim Empfang einer neuen Nachricht eine eingeblendete Benachrichtigung erscheinen soll .
+Legt fest , ob bei Abwesenheit oder Beschäftigung eingeblendete Benachrichtigungen erscheinen sollen .
+Benachrichtigungen einblenden , wenn der Chat nicht fokussiert ist
+Legt fest , ob eine eingeblendete Benachrichtigung beim Empfang einer neuen Nachricht auch dann angezeigt werden soll , wenn der Chat bereits geöffnet , aber nicht fokussiert ist .
+Benachrichtigungen einblenden , wenn sich ein Kontakt anmeldet
+Legt fest , ob beim Anmelden eines Kontakts eingeblendete Benachrichtigungen erscheinen sollen .
+Benachrichtigungen einblenden , wenn sich ein Kontakt abmeldet
+Legt fest , ob beim Abmelden eines Kontakts eingeblendete Benachrichtigungen erscheinen sollen .
+Immer ein neues Chat-Fenster für neue Chats öffnen .
+Legt fest , ob bei Unterhaltungen Emoticons in grafische Bilder umgewandelt werden sollen .
+Legt fest , ob die Kontaktliste in Chaträumen angezeigt werden soll .
+Das Erscheinungsbild , das für das Anzeigen von Unterhaltungen in Chat-Fenstern verwendet wird .
+Pfad zum zu verwendenden Adium-Thema , wenn das Thema » adium « ist .
+Legt fest , ob die WebKit-Entwicklerwerkzeuge , wie der Web Inspector , aktiviert werden sollen .
+Legt fest , ob das Thema für Chaträume verwendet werden soll .
+Kommagetrennte Liste der Sprachen , für die die Rechtschreibprüfung verwendet wird ( z.B. en , fr , nl ) .
+Legt fest , ob für eingegebene Wörter die Rechtschreibung geprüft werden soll .
+Nach einem Spitznamen hinzuzufügendes Zeichen , wenn Spitznamen-Vervollständigung ( Tabulator ) in einem Gruppen-Chat verwendet wird .
+Legt fest , ob Empathy das Benutzerbild des Kontaktes als Symbol des Chat-Fensters verwenden soll
+Legt fest , ob Empathy das Benutzerbild des Kontaktes als Symbol des Chat-Fensters verwenden soll .
+Hinweis über das Schließen des Hauptfensters anzeigen
+Legt fest , ob der Dialog über das Schließen des Hauptfensters durch den » x«-Knopf in der Titelleiste angezeigt werden soll .
+Legt fest , ob ein Salut-Konto beim ersten Start von Empathy erzeugt wurde .
+Legt fest , ob Verbindungsverwaltungen für das automatische Verbinden und Trennen verwendet werden sollen .
+Legt fest , ob Empathy sich automatisch beim Start bei allen Ihren vorhandenen Konten anmelden soll .
+Legt fest , ob Empathy danach gefragt hat , Benutzerkonten aus anderen Programmen zu importieren .
+Der vorgegebene Ordner zum Speichern der Dateiübertragungen
+Empathy darf die Position des Benutzers veröffentlichen
+Legt fest , ob Empathy die Position des Benutzers zu seinen Kontakten übermitteln darf .
+Empathy darf das Netzwerk verwenden , um die Position zu ermitteln
+Legt fest , ob Empathy das Netzwerk nutzen darf , um die Position zu schätzen .
+Empathy darf das Mobilfunknetz verwenden , um die Position zu schätzen
+Legt fest , ob Empathy das Mobilfunknetz nutzen darf , um die Position zu schätzen .
+Empathy darf das GPS verwenden , um die Position zu schätzen
+Legt fest , ob Empathy das GPS nutzen darf , um die Position zu schätzen .
+Empathy soll die Genauigkeit der Ortsangabe verringern
+Legt fest , ob Empathy die Genauigkeit der Positionsangabe aus Datenschutzgründen reduzieren soll .
+Die Hash-Werte der empfangenen und der verschickten Datei stimmen nicht überein
+Die ausgewählte Datei ist keine normale Datei
+Der andere Teilnehmer hat die Dateiübertragung abgebrochen
+Fehler beim Versuch , die Datei zu übertragen
+Der andere Teilnehmer kann die Datei nicht übertragen
+Wie lautet Ihre Yahoo ! -ID ?
+Wie lautet Ihr Yahoo ! -Passwort ?
+Keines der akzeptierten Bildformate wird von Ihrem System unterstützt
+Fehler beim Senden der Nachricht » %s « : %s
+Möchten Sie wirklich die Gruppe » %s « entfernen ?
+Möchten Sie wirklich den Kontakt » %s « entfernen ?
+%B %e , %Y um %R UTC
+Wählen Sie die Gruppen , in denen Sie diesen Kontakt anzeigen möchten . Sie können mehrere Gruppen oder auch keine Gruppe auswählen .
+Klicken , um den Status als Favorit zu entfernen
+Klicken , um den Status zu einem Favoriten zu machen
+Der Kontakt , der im Applet angezeigt werden soll . Leer bedeutet , dass kein Kontakt angezeigt wird .
+Das Benutzerbild des Kontakts . Leer bedeutet , dass der Kontakt kein Benutzerbild besitzt .
+Empathy ist freie Software , Sie können sie weitergeben und/ oder verändern solange Sie sich an die Regeln der GNU General Public License halten , so wie sie von der Free Software Foundation festgelegt wurden ; entweder in Version 2 der Lizenz oder ( nach Ihrem Ermessen ) in jeder folgenden Lizenz .
+Empathy wurde mit dem Ziel veröffentlicht , dass Sie es nützlich finden , jedoch OHNE JEDWEDE GARANTIE , sogar ohne eine implizite Garantie der VERKAUFBARKEIT oder der NUTZBARKEIT FÜR EINEN SPEZIELLEN ZWECK . Schauen Sie für weitere Informationen bitte in der GNU General Public License ( GNU GPL ) nach .
+Mit Empathy sollten Sie außerdem eine Kopie der GNU General Public License erhalten haben . Wenn dem nicht so ist , so schreiben Sie bitte an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA .
+Es ist ein Fehler beim Importieren der Konten aufgetreten .
+Es ist ein Fehler beim Analysieren der Kontodetails aufgetreten .
+Es ist ein Fehler beim Anlegen des Kontos aufgetreten .
+Sie können zurück gehen und die Kontodetails erneut eingeben oder diesen Assistenten beenden und später über das » Bearbeiten»-Menü Konten hinzufügen .
+Haben Sie weitere Chat-Konten , die Sie einrichten wollen ?
+Welche Art von Chat-Konto wollen Sie anlegen ?
+Geben Sie die Details für das neue Konto ein
+Mit Empathy können Sie mit Personen in der Nähe plaudern , sowie mit Freunden und Kollegen , die Google Talk , AIM , Windows Live und viele andere Chat-Programme verwenden . Mit einem Mikrofon oder einer Webcam können Sie auch Audio- bzw. Videoanrufe tätigen .
+Haben Sie ein Konto , das Sie zuvor mit einem anderen Chat-Programm verwendet haben ?
+Ja , ich möchte jetzt meine Kontodetails eingeben
+Nein , ich möchte ein neues Konto
+Nein , ich möchte nur Personen in der Nähe sehen
+Wählen Sie die zu importierenden Konten :
+Es sind nicht gespeicherte Änderungen zu Ihrem Konto » %s « vorhanden . MyUserName on chat.freenode.net
+Sie sind dabei , ein neues Konto zu erstellen . Dabei werden Ihre Änderungen verworfen . Sind Sie sicher , dass Sie fortfahren möchten ?
+Sie sind dabei , Ihr %s-Konto zu entfernen ! Möchten Sie fortfahren ?
+Möchten Sie %s wirklich von Ihrem Rechner entfernen ?
+Jegliche zugehörigen Unterhaltungen und Chaträume werden NICHT entfernt , wenn Sie fortfahren . Falls Sie sich dazu entschließen , das Konto später wieder hinzuzufügen , werden diese weiterhin verfügbar sein .
+Dadurch wird Ihr Konto nicht vom Server entfernt .
+Sie sind dabei , ein anderes Konto auszuwählen . Dabei werden Ihre Änderungen verworfen . Sind Sie sicher , dass Sie fortfahren möchten ?
+Sie sind dabei , das Fenster zu schließen . Dabei werden Ihre Änderungen verworfen . Sind Sie sicher , dass Sie fortfahren möchten ?
+Um ein neues Konto hinzuzufügen , müssen Sie zunächst das für das Protokoll benötigte Backend installieren .
+%s ruft Sie an , möchten Sie den Anruf annehmen ?
+Eine externe Anwendung wird gestartet , um dieses zu bearbeiten/ anzunehmen .
+Sie besitzen die benötigte externe Anwendung nicht , um dieses zu bearbeiten/ anzunehmen .
+%s lädt Sie ein , %s beizutreten
+%s hat Sie eingeladen , %s beizutreten
+» %s « wird von %s empfangen
+» %s « wird an %s gesendet
+Fehler beim Empfangen von » %s « von %s
+Fehler beim Versenden von » %s « an %s
+Unversehrtheit von » %s « wird geprüft
+Abgeschlossene , abgebrochene und gescheiterte Dateiübertragungen aus der Liste entfernen
+Es wurden keine Benutzerkonten gefunden . Empathy unterstützt momentan nur den Import von Benutzerkonten aus Pidgin .
+Geben Sie den Namen des Raumes hier ein oder klicken Sie auf einen oder mehrere Räume in der Liste .
+Geben Sie den Server an , der den Raum bereitstellt , oder lassen Sie das Feld leer , wenn sich der Raum auf dem Server des momentan verwendeten Kontos befindet
+Benachrichtigungen aktivieren , wenn der _Chat nicht fokussiert ist
+Benachrichtigungen aktivieren , wenn sich ein Kontakt anmeldet
+Benachrichtigungen aktivieren , wenn sich ein Kontakt abmeldet
+Verringerte Positionsgenauigkeit bedeutet , dass keine präziseren Angaben als Ihre Stadt , Ihr Bundesland und Ihr Land übermittelt werden . GPS-Koordinaten werden auf eine Dezimalstelle genau sein .
+Die Liste der Sprachen zeigt nur die Sprachen an , für die Wörterbücher installiert sind .
+Anwendung für Dienst %s konnte nicht gestartet werden : %s
+Ihnen wurde eine Einladung für den Dienst %s angeboten , aber Sie besitzen nicht die benötigte externe Anwendung , um diese zu bearbeiten/ anzunehmen .
+Die ausgewählte Verbindungsverwaltung unterstützt die Erweiterung zur entfernten Fehlerdiagnose nicht .

@@ -1,0 +1,25 @@
+Legen Sie die _Laufwerke fest , die beim Einlesen des Dateisystems berücksichtigt werden sollen :
+Legt fest , ob der persönliche Ordner auf Änderungen überwacht werden soll .
+Eine Liste von Adressen der Partitionen , die nicht eingelesen werden sollen .
+Legt fest , ob die Werkzeugleiste im Hauptfenster angezeigt wird .
+Legt fest , ob die Statusleiste am unteren Rand des Hauptfensters angezeigt wird .
+Legt fest , welcher Diagrammtyp angezeigt werden soll .
+Ihr persönlicher Ordner wird nicht auf Änderungen überwacht .
+Zu viele Argumente . Es kann nur ein Ordner angegeben werden .
+Es konnte kein Einhängepunkt gefunden werden .
+Ohne einen Einhängepunkt kann die Festplattenbelegung nicht analysiert werden .
+Die maximale Tiefe ausgehend vom Wurzelelement , die im Diagramm dargestellt wird
+Ort » %s « kann nicht eingelesen werden
+Keine Verbindung zum Server . Sie müssen einen Namen für den Server eingeben .
+Bitte geben Sie einen Namen ein und versuchen es erneut .
+Der Inhalt Ihres persönlichen Ordners wurde geändert . Wählen Sie » Erneut einlesen « um die Anzeige des verbrauchten Speicherplatzes zu aktualisieren .
+» %s « ist kein gültiger Ordner
+Der Ordner » %s « konnte nicht geöffnet werden
+Kein installierter Betrachter ist in der Lage , das Dokument anzuzeigen .
+» %s « konnte nicht in den Müll verschoben werden
+Datei konnte nicht in den Müll verschoben werden
+Beim Anzeigen der Hilfe ist ein Fehler aufgetreten .
+Dieses Programm ist freie Software . Sie können es unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung dieses Programms erfolgt in der Hoffnung , dass es Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit diesem Programm erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin St , Fifth Floor , Boston , MA 02110 , USA .
+Ein grafisches Werkzeug zur Analyse der Festplattenbelegung .

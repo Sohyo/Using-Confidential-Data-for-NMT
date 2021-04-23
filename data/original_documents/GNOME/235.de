@@ -1,0 +1,11 @@
+Das aktuelle Bild in einen separaten Ordner exportieren
+Dies ist der Ordner , in den das Plugin die exportierten Dateien ablegt . Das Plugin wird den Ordner $HOME/ exported-images verwenden , falls nichts angegeben ist .
+Soll das Plugin globale oder benutzerdefinierte Einstellungen verwenden ?
+Die Farbe , die zum Füllen des Bereichs hinter dem Bild verwendet wird . Diese Option ist nur wirksam , wenn » use-custom « aktiviert ist .
+Die Titelleiste von maximierten Eye of GNOME-Fenstern verbergen
+Die Verwendung des dunklen Themas durch Eye of GNOME deaktivieren
+Die Geoposition eines Bildes in einer Karte anzeigen
+Bitte melden Sie sich an , um die Übertragung fortzusetzen .
+Falls wahr , verwendet das Terminal die global geltende Standardschrift , falls es eine Schrift fester Breite ist ( bzw. die verwendbare ähnlichste Schrift ) .
+Ein Pango-Schriftname , wie z.B. : » Sans 12 « oder » Monospace Bold 14 « .
+Sendet ein Bild als Anhang einer neuen E-Mail

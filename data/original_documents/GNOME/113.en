@@ -1,0 +1,11 @@
+Toolbar is the top bar that contains navigation and zoom controls . Two boolean options , true makes toolbar visible by default while false makes toolbar not visible by default .
+Statusbar is the bottom bar that contains help and status messages . Two boolean options , true makes statusbar visible by default while false makes statusbar not visible by default .
+There are two zoom modes available , 1 makes the current comic fill the window , 2 makes the current comic fill the window width .
+Cannot create file ' % s ' : % s
+Error writting to file ' % s ' : % s
+Save the current comic with a new filename
+Copy the location of this comic to clipboard
+Display help for the Buoh online comic reader
+Display credits for the Buoh online comic reader creators
+Make the current comic fill the window
+Make the current comic fill the window width

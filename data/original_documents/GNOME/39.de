@@ -1,0 +1,13 @@
+Gibt an , ob das AtkHyperlink-Objekt ausgewählt ist
+Die Anzahl der mit dem AtkHyperlink-Objekt assoziierten Anker
+Name der Objektinstanz , formatiert für den Zugriff durch Hilfstechnologien
+Beschreibung eines Objekts , formatiert für den Zugriff durch Hilfstechnologien
+Wird zur Benachrichtigung bei Änderungen am Eltern-Element verwendet
+Wird zur Benachrichtigung bei Änderungen der Tabellenbeschriftung verwendet ; statt dieser Eigenschaft sollte » accessible-table-caption-object « verwendet werden
+Wird zur Benachrichtigung bei Änderungen an der Überschrift der Tabellenspalte verwendet
+Wird zur Benachrichtigung bei Änderungen an der Beschreibung der Tabellenspalte verwendet
+Wird zur Benachrichtigung bei Änderungen an der Überschrift der Tabellenzeile verwendet
+Wird zur Benachrichtigung bei Änderungen an der Beschreibung der Tabellenzeile verwendet
+Wird zur Benachrichtigung bei Änderungen an der Tabellenzusammenfassung verwendet
+Wird zur Benachrichtigung bei Änderungen an der Tabellenbeschriftung verwendet
+Die Anzahl der Links , die der derzeitige AtkHypertext hat

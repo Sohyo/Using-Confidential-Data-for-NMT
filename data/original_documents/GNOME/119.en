@@ -1,0 +1,25 @@
+This manual is part of a collection of GNOME manuals distributed under the GFDL . If you want to distribute this manual separately from the collection , you can do so by adding a copy of the license to the manual , as described in section 6 of the license .
+Many of the names used by companies to distinguish their products and services are claimed as trademarks . Where those names appear in any GNOME documentation , and the members of the GNOME Documentation Project are made aware of those trademarks , then the names are in capital letters or initial capital letters .
+DOCUMENT IS PROVIDED ON AN " AS IS " BASIS , WITHOUT WARRANTY OF ANY KIND , EITHER EXPRESSED OR IMPLIED , INCLUDING , WITHOUT LIMITATION , WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE , FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING . THE ENTIRE RISK AS TO THE QUALITY , ACCURACY , AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU . SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT , YOU ( NOT THE INITIAL WRITER , AUTHOR OR ANY CONTRIBUTOR ) ASSUME THE COST OF ANY NECESSARY SERVICING , REPAIR OR CORRECTION . THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE . NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER ; AND
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY , WHETHER IN TORT ( INCLUDING NEGLIGENCE ) , CONTRACT , OR OTHERWISE , SHALL THE AUTHOR , INITIAL WRITER , ANY CONTRIBUTOR , OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT , OR ANY SUPPLIER OF ANY OF SUCH PARTIES , BE LIABLE TO ANY PERSON FOR ANY DIRECT , INDIRECT , SPECIAL , INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING , WITHOUT LIMITATION , DAMAGES FOR LOSS OF GOODWILL , WORK STOPPAGE , COMPUTER FAILURE OR MALFUNCTION , OR ANY AND ALL OTHER DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT , EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES .
+Cheese uses your webcam to take photos and videos , applies fancy special effects and lets you share the fun with others .
+Cheese Video Start Recording Spacebar Stop Recording Spacebar
+Take a photo Start Recording Stop Recording
+To take a photo with Cheese , be sure to be in the Photo mode “ ” .
+If your video appears to be jerky or has a low frame rate ( only updating the picture every few seconds ) , it does not mean that the recording has a similar frame rate . In many cases , the recorded file will have a better frame rate .
+The parameters for the burst mode can be set in the preferences dialog as well . You only have to adjust the values for the number of photos you wish to take and the delay in seconds between each picture taken .
+Attention : Be careful while using GConf to change your settings ! If you are not completely sure about what you are doing , you should ask someone who knows !
+Saving photos and videos to an alternate location
+This will move the image to the " trash " , as well as remove from your photo stream . This will not remove the photo from your computer . To remove it from your system , you will need to empty your trash .
+This will open the default mail client ( for example , Evolution ) and a new email message will be created with the photo you selected as an attachment .
+System Preferences About Me Set as Account Photo
+Depending on the version of Cheese that you are currently using , F-Spot may prompt you to import the entire photo stream .
+The video is sluggish / has a slow response . What can I do ?
+ximagesink X Window System ( No Xv ) xvimagesink X Window System ( X11 / XShm / Xv )
+I have a Mac with iSight and a ATI graphics card , and the colors are weird .
+ffmpegcolorspace ! video / x-raw-yuv , format = ( fourcc ) YV12 ! ffmpegcolorspace ! xvimagesink
+" No Camera Found " Error Message
+" When I launch Cheese , I get the message ' No Camera Found ' but I have my webcam plugged into my computer " .
+There are many situations that can cause this , and the exact problem that is causing it needs to be isolated . If possible , try each of the following to try and get your webcam working :
+Plug your webcam into another computer . If it works there , then it is a problem with the connection to your computer , or the operating system if it was a different one on the other computer . Check the ports on your computer ( try another one ) and consult support for your particular operating system .
+See if your camera is being detected by your computer . On Linux , open up the terminal or console and type " dmesg " before you plug in your webcam . Notice the most recent entries , and then plug in your webcam . Type " dmesg " again and see if the most recent entries differ . If the message mentions a USB device being detected , and your webcam is the only USB device that has been changed , then your computer is detecting your webcam fine . If not , then test to see if the webcam is working on another computer . This may only work with USB webcams .

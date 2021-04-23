@@ -1,0 +1,33 @@
+Evolution plugin that enables Evolution Mail to display RSS feeds .
+Evolution will show article 's summary instead of article 's web page . Summary can also be HTML .
+Contains list of the currently setup feeds .
+Hostname of the proxy server used for feeds and content .
+Type HTML Render used to display HTML pages .
+Use a custom font size instead of system defaults .
+The size of the font used in full text preview .
+Interval in seconds before a connection is dropped .
+Evolution RSS will accept cookies from articles you browse .
+Evolution RSS will automatically resize images larger than displayed area .
+Evolution will download all feed enclosures a feed article may contain .
+Limit maximum enclosure size Evolution will download .
+Blink status icon when new article received
+If the proxy server requires authentication , this is the password field .
+The port number for proxy server used for feeds and content .
+Deleting feed entry will also remove feed folder .
+Frequency to check for new articles ( in minutes ) .
+Check for new articles every time Evolution is started .
+If a feed article has comments , it will be displayed .
+Use a proxy server to fetch articles and content .
+The username to use for proxy server authentication .
+Set to true to have a program specified in command handle RSS URLs
+True if the program to handle this URL should be run in a terminal
+Fetching Feeds ( % d enabled )
+Delete " { 0 } " ?
+Really delete feed ' { 0 } ' ?
+Enter your username and password for :
+Error while parsing feed : % s
+Invalid file or this file does not contain any feeds .
+No RSS feeds configured ! Unable to export .
+Note : In order to be able to use Mozilla ( Firefox ) or Apple Webkit as renders you need firefox or webkit devel package installed and evolution-rss should be recompiled to see those packages .
+Use the same fonts as other applications
+Delete articles that are no longer in the feed

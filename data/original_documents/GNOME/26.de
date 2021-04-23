@@ -1,0 +1,6 @@
+Naba Kumar , Andy Piper , Biswapesh Chattopadhyay
+Suchen und Ersetzen von Text in Dateien
+Sie können die maximale Anzahl der auszuführenden Aktionen festlegen .
+Die Datei wird nicht aus dem Dateisystem entfernt . Sie ist noch vorhanden , und Sie können Sie später wieder hinzufügen , falls gewünscht . Die Datei wird nur aus der Projektliste entfernt und wird für Projektoperationen wie Kompilieren , Erstellen oder Veröffentlichen von Distributionspaketen nicht mehr berücksichtigt .
+Doppelter Zonenname » %s « ( Datei » %s « , Zeile %d )
+GNU General Public License GNOME Benutzerhandbuchs GNU General Public License ihre Internetseite 51 Franklin Street , Fifth Floor Boston MA 02111-1301 USA

@@ -1,0 +1,25 @@
+Festplattenbelegungsanalyse Festplattenbelegungsanalyse das gesamte Dateisystem persönlichen Ordner benutzerdefinierten Ordner einen entfernten Ordner
+Die Ergebnisse als Kreisdiagramm oder als Kacheldiagramm betrachten
+Standardmäßig erscheinen die Ergebnisse in Form eines Kreissektors für jeden Unterordner . Der Winkel des Sektors ist dabei proportional zur Größe des entsprechenden Ordners . Die Unterordner werden in verschiedenen Farben als zusätzliche Schalen um den inneren Ring herum dargestellt .
+Bewegen Sie Ihre Maus über das Kreisdiagramm , um weitere Details über die Unterordner anzeigen zu lassen .
+Sie können auf einen Ring oder einen Kasten klicken , um diesen zum Ausgangspunkt des Diagramms zu machen .
+Einlesen war nicht möglich / oder einige der enthaltenen Ordner
+Fehlende Berechtigungen für einige Dateien und Ordner ist absolut normal und sinnvoll . Sie können an diesem Problem nichts ändern .
+Das Einlesen eines Ordners oder eines entfernten Orts ist langsam .
+Die Geschwindigkeit beim Einlesen von Ordnern oder entfernten Orten hängt von der Geschwindigkeit des Mediums ab , das Sie einlesen . Zum Beispiel ist eine mechanische Festplatte wesentlich langsamer als ein SSD-Laufwerk , und das Einlesen eines entfernten Ordners über das Internet braucht im Allgemeinen länger als das Einlesen eines Ordners über ein lokales Netzwerk ( LAN ) .
+Die Geschwindigkeit hängt ebenfalls vom Umfang der Ordnerstruktur und der Anzahl der gespeicherten Dateien ab .
+Falls das einzulesende Dateisystem groß ist , kann es einige Minuten dauern , bis der Vorgang abgeschlossen ist . Klicken Sie auf den Knopf in der linken oberen Ecke des Bildschirms , um das Einlesen abzubrechen und zur Geräteliste zurückzukehren .
+Einen lokalen Ordner einschließlich dessen Unterordnern einlesen .
+Das Einlesen individueller Ordner benötigt weniger Zeit als für das gesamte Dateisystem . Das ist effizienter , falls Sie lediglich Informationen zu einem bestimmten Teil Ihres Dateisystems benötigen .
+Daraufhin öffnet sich ein Dateiöffner-Dialog . Wählen Sie den Ordner , den Sie einlesen möchten .
+Alle ihre persönlichen Dateien einlesen , die sich auf Ihrem Rechner befinden .
+Einen nicht auf Ihrem lokalen Rechner befindlichen Ordner einlesen .
+Das Einlesen über ein Netzwerk kann langsamer sein als innerhalb des lokalen Dateisystems .
+Bestimmte Geräte und Partitionen beim Einlesen des Dateisystems überspringen .
+Das Einlesen individueller Speichergeräte und Partitionen unterbinden
+Wählen Sie die Speichergeräte und Partitionen , die Sie einlesen wollen , oder deaktivieren Sie jene , die Sie nicht einlesen wollen
+Werkzeugleiste und Statusleiste anzeigen oder verbergen .
+So finden Sie heraus , wieviel Speicherplatz Ihr Dateisystem belegt :
+Ihr Dateisystem enthält alle internen Laufwerke und Wechseldatenträger , die eingehängt sind , wenn der entsprechende Ordner eingelesen wird .
+Ordner öffnen Dateiverwaltung In den Papierkorb verschieben Papierkorb
+Verwenden Sie den Dateibrowser , um sich im Dateisystem zu bewegen , und wählen Sie den gewünschten Ordner aus

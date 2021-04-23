@@ -1,0 +1,37 @@
+This manual is part of a collection of GNOME manuals distributed under the GFDL . If you want to distribute this manual separately from the collection , you can do so by adding a copy of the license to the manual , as described in section 6 of the license .
+Many of the names used by companies to distinguish their products and services are claimed as trademarks . Where those names appear in any GNOME documentation , and the members of the GNOME Documentation Project are made aware of those trademarks , then the names are in capital letters or initial capital letters .
+DOCUMENT IS PROVIDED ON AN " AS IS " BASIS , WITHOUT WARRANTY OF ANY KIND , EITHER EXPRESSED OR IMPLIED , INCLUDING , WITHOUT LIMITATION , WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE , FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING . THE ENTIRE RISK AS TO THE QUALITY , ACCURACY , AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU . SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT , YOU ( NOT THE INITIAL WRITER , AUTHOR OR ANY CONTRIBUTOR ) ASSUME THE COST OF ANY NECESSARY SERVICING , REPAIR OR CORRECTION . THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE . NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER ; AND
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY , WHETHER IN TORT ( INCLUDING NEGLIGENCE ) , CONTRACT , OR OTHERWISE , SHALL THE AUTHOR , INITIAL WRITER , ANY CONTRIBUTOR , OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT , OR ANY SUPPLIER OF ANY OF SUCH PARTIES , BE LIABLE TO ANY PERSON FOR ANY DIRECT , INDIRECT , SPECIAL , INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING , WITHOUT LIMITATION , DAMAGES FOR LOSS OF GOODWILL , WORK STOPPAGE , COMPUTER FAILURE OR MALFUNCTION , OR ANY AND ALL OTHER DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT , EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES .
+This manual describes version 2.18 of Image Viewer .
+PNM - Portable Anymap from the PPM Toolkit
+The collection view allows the viewing and editing of large image collections . In this view image operations can be applied to all selected images at once .
+The display area shows the image file .
+Double-click on an image file in the file manager or other application .
+To open an image , perform the following steps :
+To view all images in a folder , perform the following steps :
+View Full Screen F11 View Slideshow F5 Esc Ctrl W
+To scroll around an image that is larger than the image window or full screen view , you can use the following methods :
+Use the arrow keys on the keyboard .
+Drag the image to move it in the window . ( This means you drag the image in the opposite direction you want to scroll in : to scroll down the image , drag it upwards in the window . )
+Use the scrollbars on the window .
+You can zoom in or out of the image in the following ways :
+View Zoom In View Zoom Out View Normal Size View Best Fit
+When an image is zoomed to fit the window , resizing the window will also change the zoom level , so the image still fits the window .
+You can zoom or scroll around the image in the same way as when it is shown in a window , using the mouse or the keyboard .
+Image Viewer View Slideshow F5 P Esc F5 Ctrl W
+Saving an Image under a Different Name
+You can save multiple images at once : see the next section .
+Saving multiple images at once allows you to convert several images to a different format , or give them similar filenames .
+Everything but these special tags are considered normal text .
+Options Replace spaces with underscores Start counter at
+To print an image , perform the following steps :
+Images that are too large for the page are automatically scaled down to fit the page . Images that are smaller than the page are centered on it .
+Image Viewer 's default toolbar contains only a basic set of items to keep it simple . But you can modify the toolbar if you prefer a different set .
+Shows Eye of GNOME toolbar editor window .
+It contains the items that are not in the toolbar and the separator item . You can now edit the toolbar :
+To add new items to the toolbar , drag them from the toolbar editor to the toolbar .
+To remove items from the toolbar , drag them from the toolbar to the toolbar editor .
+To rearrange items on the toolbar , drag them to their new position on the toolbar .
+To revert your changes to the toolbar and return to the default layout , perform the following steps :
+Displays any transparent parts of the image in a check pattern .
+Displays any transparent parts of the image in a solid color that you specify . Click on the color selector button to select a color .

@@ -1,0 +1,12 @@
+Cannot extract text from the document .
+Make sure that the document is valid and does contain text
+Line showing the ASCII representation for the currently selected line
+The selected table cannot be used by liblouisxml . Please make sure that if you are using " include " directive , those files are placed in the same directory as the table
+Error in table at line % ( line ) s : % ( error ) s
+include default semantics for the input file type
+add extra semantics files separated by commas
+use TABLE as translation table for literary text
+set position for page numbers , where POS is top or bottom
+page postion can only be top or bottom
+Cannot write to % s : % s
+Transcribe pdf , html and odt documents into Braille

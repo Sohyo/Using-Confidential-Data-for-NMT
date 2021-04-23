@@ -1,0 +1,90 @@
+http : / / www.google.com / search ? q = % samp ; ie = UTF-8amp ; oe = UTF-8
+Search string for keywords entered in the URL bar .
+String that will be used as user agent , to identify the browser to the web servers .
+When files cannot be opened by the browser they are automatically downloaded to the download folder and opened with the appropriate application .
+Force new window requests to be opened in tabs instead of using a new window .
+Whether to store and prefill passwords in web sites .
+Don 't use an external application to view page source .
+Whether to automatically restore the last session
+Defines how the session will be restored during startup . Allowed values are ' always ' ( the previous state of the application is always restored ) , ' crashed ' ( the session is only restored if the application crashes ) and ' never ' ( the homepage is always shown ) .
+Whether to delay loading of tabs that are not immediately visible on session restore
+When this option is set to true , tabs will not start loading until the user switches to them , upon session restore .
+Toolbar style . Allowed values are " " ( use GNOME default style ) , " both " ( text and icons ) , " both-horiz " ( text besides icons ) , " icons " , and " text " .
+[ Deprecated ] This setting is deprecated , use ' tabs-bar-visibility-policy ' instead .
+Hide or show the downloads window . When hidden , a notification will be shown when new downloads are started .
+Controls when the tabs bar is shown . Possible values are ' always ' ( the tabs bar is always shown ) , ' more-than-one ' ( the tabs bar is only shown if there 's two or more tabs ) and ' never ' ( the tabs bar is never shown ) .
+A value to be used to override sans-serif desktop font when use-gnome-fonts is set .
+A value to be used to override serif desktop font when use-gnome-fonts is set .
+A value to be used to override monospace desktop font when use-gnome-fonts is set .
+Use your own colors instead of the colors the page requests .
+Use your own fonts instead of the fonts the page requests .
+Use a custom CSS file to modify websites own CSS .
+Spell check any text typed in editable areas .
+Default encoding . Accepted values are the ones WebKitGTK + can understand .
+Size of disk cache , in MB .
+Where to accept cookies from . Possible values are " anywhere " , " current site " and " nowhere " .
+How to present animated images . Possible values are " normal " , " once " and " disabled " .
+Allow sites to open new windows using JavaScript ( if JavaScript is enabled ) .
+Whether to enable support for WebGL contexts .
+Whether to enable support for WebAudio .
+Whether to tell websites that we do not wish to be tracked . Please note that web pages are not forced to follow this setting .
+Whether to block the embedded advertisements that web pages might want to show .
+The path of the folder where to download files to ; or " Downloads " to use the default downloads folder , or " Desktop " to use the desktop folder .
+Whether to show the title column in the history window .
+Whether to show the address column in the history window .
+Whether to show the date-time column in the history window .
+Whether to show the title column in the bookmarks window .
+Whether to show the address column in the bookmarks window .
+Epiphany can 't be used now . Initialization failed .
+Oops ! It was not possible to show this website
+% s % s It could be temporarily switched off or moved to a new address . Don 't forget to check that your internet connection is working correctly .
+Oops ! This site might have caused the web browser to close unexpectedly
+This page was loading when the web browser closed unexpectedly . % s
+Oops ! Something went wrong displaying % s
+Something went wrong while displaying this page . Please reload or visit a different page to continue .
+Could not create a temporary directory in “ % s ” .
+The file % s exists “ ” . Please move it out of the way .
+Failed to create directory % s “ ” .
+Directory % s “ ” is not writable
+You do not have permission to create files in this directory .
+Cannot overwrite existing file % s “ ”
+A file with this name already exists and you don 't have permission to overwrite it .
+Could not display help : % s
+The passwords from the previous version ( Gecko ) are locked with a master password . If you want Epiphany to import them , please enter your master password below .
+Epiphany 3.6 deprecated this directory and tried migrating this configuration to ~ / .config / epiphany
+Specifies the profile where the migrator should run
+% b % d % I : % M % p
+The certificate does not match the expected identity
+The certificate activation time is still in the future
+The identity of this website has not been verified
+Drag and drop this icon to create a link to this page
+Open the selected bookmark in a new window
+Open the selected bookmark in a new tab
+View or modify the properties of the selected bookmark
+Import bookmarks from another browser or a bookmarks file
+Delete topic % s “ ” ?
+Deleting this topic will cause all its bookmarks to become uncategorized , unless they also belong to other topics . The bookmarks will not be deleted .
+The bookmarks from “ % s ” could not be imported because the file is corrupted or of an unsupported type .
+Open the bookmarks in this topic in new tabs
+For example , not from advertisers on these sites
+_ Tell web sites I do not want to be tracked
+Open the selected history link in a new window
+Open the selected history link in a new tab
+Clearing the browsing history will cause all history links to be permanently deleted .
+Open a new tab in an existing browser window
+Startup failed because of the following error : % s
+There are unsubmitted changes to form elements
+If you close the document anyway , you will lose that information .
+There are ongoing downloads in this window
+If you close this window , the downloads will be cancelled
+Select the personal data you want to clear
+You are about to clear personal data that is stored about the web pages you have visited . Before proceeding , check the types of information that you want to remove :
+A web application named ' % s ' already exists . Do you want to replace it ?
+An application with the same name already exists . Replacing it will overwrite it .
+The application ' % s ' is ready to be used
+The application ' % s ' could not be created
+Web is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+The GNOME Web Browser is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with the GNOME Web Browser ; if not , write to the Free Software Foundation , Inc . , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 USA
+A simple , clean , beautiful view of the web . Powered by WebKit % d . % d . % d
+Pressing F7 turns caret browsing on or off . This feature places a moveable cursor in web pages , allowing you to move around with your keyboard . Do you want to enable caret browsing on ?

@@ -1,0 +1,8 @@
+Eine einfache Anwendung , die entweder spezifische Ordner ( lokale Ordner und Netzwerkordner ) oder Laufwerke untersuchen kann und die Speicherplatznutzung grafisch darstellt .
+Eine Liste von Adressen der Partitionen , die nicht analysiert werden sollen .
+Legt fest , welcher Diagrammtyp angezeigt werden soll .
+Ein grafisches Werkzeug zur Analyse der Festplattenbelegung .
+Konnte Datei nicht in den Papierkorb verschieben
+Ordner » %s « konnte nicht analysiert werden .
+Ordner » %s « oder darin enthaltene Unterordner konnten nicht analysiert werden .
+» %s « ist kein gültiger Ordner

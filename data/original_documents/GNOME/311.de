@@ -1,0 +1,11 @@
+Falls dieser Schlüssel wahr ist , handhabt das in » command « angegebene Programm webcal-URLs .
+Falls dieser Schlüssel wahr ist , wird das Programm , das diese URL handhaben soll , in einem Terminal ausgeführt .
+Bei der Syntaxanalyse des Kalenders » %s « ist ein Fehler aufgetreten . Bitte stellen Sie sicher , dass dieser ein gültiger Kalender ist und versuchen Sie es noch einmal .
+Der Zugriff auf den Kalender » %s « wurde verweigert .
+Der Kalender » %s « wurde nicht auf dem Server gefunden .
+Beim Versuch , » %s « zu laden , ist ein interner Fehler aufgetreten .
+Beim Laden von » %s « ist ein Fehler aufgetreten .
+Die URI » %s « ist ungültig .
+Sie haben keine zu ladende URI angegeben . Sie müssen sie dem zu abonnierenden Kalender übergeben , und zwar als Befehlszeilenargument .
+Es konnten keine Termine oder Aufgaben im Kalender » %s « gefunden werden .
+Sie haben den Kalender » %s « bereits abonniert . Bitte abonnieren Sie einen anderen .

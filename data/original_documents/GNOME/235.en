@@ -1,0 +1,11 @@
+Export the current image to a separate directory
+This is the folder the plugin will place the exported files in . Plugin will export to $ HOME / exported-images if not set .
+Whether the plugin should use global settings or its own .
+The color that is used to fill the area behind the image . This option has effect only if use-custom is enabled .
+Hides the titlebar of maximized Eye of GNOME windows
+Disables Eye of GNOME 's preference of dark theme variants
+Display the geolocation of the image on a map
+Please log in to continue upload .
+If true , the terminal will use the desktop-global standard font if it 's monospace ( and the most similar font it can come up with otherwise ) .
+A Pango font name . Examples are " Sans 12 " or " Monospace Bold 14 " .
+Sends an image attached to a new mail

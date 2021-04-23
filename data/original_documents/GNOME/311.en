@@ -1,0 +1,11 @@
+Set to true to have a program specified in command handle webcal URLs
+True if the program to handle this URL should be run in a terminal
+There was an error parsing the calendar , " % s " . Please verify that it is a valid calendar , and try again .
+Access to the calendar , " % s " , is forbidden .
+The calendar , " % s " , was not found on the server .
+There was an internal server error while trying to load " % s " .
+There was an error loading the calendar , " % s " .
+The URI " % s " is invalid .
+No URI to load was specified . You need to pass the URI of the calendar to subscribe to , as an argument on the command line .
+No events or tasks were found in the calendar " % s " .
+You are already subscribed to the calendar " % s " . Please subscribe to another calendar .

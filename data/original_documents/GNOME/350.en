@@ -1,0 +1,73 @@
+To switch between versions while editing :
+Double-click the photo you wish to edit .
+A brief introduction to the tagging capabilities of F-Spot
+There are several methods to search by tags .
+Method One : Double-click the tags you wish to search for .
+Drag the tags you wish to search for into the newly-enabled Find bar .
+To exclude a tag from your search :
+In the tag pane , double-click the tag you wish to exclude . This will add it to the Find bar .
+In the Find bar , double-click the tag you wish to exclude .
+As with attaching tags , there are two main methods of removing tags from photos .
+Select photos from which to remove a tag .
+In the tag pane , select a tag to remove from the photos you have selected .
+Deleting tags removes them entirely from your system , but leaves behind any photos to which that tag is attached .
+Select the tag you wish to delete from within the tag pane .
+Creating tags to be attached to photos
+In order to use tags , you need to first create a set of tags which you wish to use . There are three main methods to create tags .
+Select the photos to which you wish to attach the new tag .
+Select photos to which to attach a tag .
+In the tag pane , select a tag to attach to the photos you have selected .
+Rate your photos from one to five stars
+By double-clicking , select the photo you wish to rate .
+In the lower-right corner , you will see five dots , corresponding to the rating you wish to give ; to give a rating of one star , for example , click the first dot .
+Select the photo ( s ) you wish to rate .
+Right-click the photo ( s ) you wish to rate , and select a rating at the bottom of the right-click menu by clicking the corresponding dot .
+Select the rating range which you wish to view .
+Select the photos you wish to upload .
+Import rolls are " batches " of imported photos . Regardless of the date the photo was taken , the import roll timestamp is decided when you import photos .
+To search by latest import roll :
+To select a previous import roll :
+Chances are , the first thing you will want to do is import photos .
+Select a source from which to import , such as a device or a folder .
+There are three ways to rotate a selected photo :
+Click the appropriate rotate button , to the right of the import button .
+Use the bracket keys to rotate the photo .
+Select a rotation , ranging from -45 to 45 degrees .
+Select a constraining aspect ratio , that is , a proportion of height to width to which the new photo must fit . Examples of constraining aspect ratios include 4x3 , 4x6 , and 5x7 .
+Click and drag to select the desired area to keep . This box can be dragged around after being sized .
+To export selected photos to a folder :
+Name the gallery and give it a description .
+Create Standalone Web Gallery Save the files only Create gallery using " Original "
+To remove files from your catalog :
+Select the photos you wish to remove from the catalog .
+Remove From Catalog Edit Remove From Catalog
+To delete photos from your computer :
+Select the photos you wish to delete .
+Delete From Drive Edit Delete From Drive
+To post selected photos to Facebook :
+Select whether to create a new album or add to an existing album . If you are creating a new album , fill in the relevant information .
+Edit captions for each photo , if so desired .
+Select an add-on to install from the list .
+To enable plugins that are already installed :
+Select the extension you wish to enable .
+To disable plugins that are installed :
+Select the extension you wish to disable .
+Select the extension you wish to uninstall .
+By double-clicking , select the photo on which you wish to use the red-eye removal tool .
+Select the area from which you wish to remove red-eye . Note : If the area contains many red areas , you may wish to select each eye individually .
+To automatically enhance the colors of the photo :
+By double-clicking , select the photo which you wish to enhance .
+Select a time period to from which to view photos . This can by done by selecting a set period , such as a week , or by specifying dates .
+Alternatively , you can use the timeline . To use the timeline :
+In the timeline , click the bar corresponding to the time period you wish to look at .
+This mode eliminates all saturation , turning a color image into a black and white image .
+This mode simulates a photo being created with sepia toner .
+This mode automatically adjusts the colors to a set profile .
+As far as the editing tools in F-Spot , adjusting the color is easily the most powerful . The color editor allows you to adjust :
+This adjustment simulates lengthening or shortening the exposure time .
+This adjustment simulates adjusting the amount of color in the image , i.e. sliding it to the left decrease color , making it black and white , while sliding it to the right will increase the vibrancy of colors .
+This adjustment increase the brightness of colors . Increasing this too much will make colors appear " washed out " , while decreasing it too much will make the image too dark and lacking in contrast .
+This adjustment causes colors to " rotate " along the color wheel .
+This adjustment adjusts the contrast ratio , that is , the ratio of difference between dark and light pixels . Sliding to the left decreases contrast , while sliding to the right will increase contrast .
+This adjust changes the color temperature , measured in degrees Kelvin .
+This adjustment allows you to tinge the photo with a color .

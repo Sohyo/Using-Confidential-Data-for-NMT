@@ -1,0 +1,45 @@
+_Was haben Sie getan , als die Anwendung abstürzte ?
+E-Mail-Adresse zum Senden von Fehlerberichten an die GNOME-Fehlerdatenbank . Diese wird für Rückmeldungen zum gemeldeten Fehler verwendet . Falls Sie bereits ein Konto in der Fehlerdatenbank haben , so verwenden Sie bitte dessen E-Mail-Adresse .
+Datei zum Speichern nicht versendeter Fehlerberichte .
+Die Datei , in die Ihr Fehlerbericht gespeichert wird , wenn dieser nicht sofort an Bugzilla gesendet werden kann .
+Dieser Schlüssel bestimmt das zu ladende GTK+-Modul zur Erfassung von Programmabstürzen .
+Textdatei , die an den Bericht angefügt werden soll
+Bug-Buddy konnte den Link » %s « nicht anzeigen
+Beim Senden des Fehlerberichts ist ein Netzwerk-Fehler aufgetreten . Möchten Sie den Bericht speichern und später absenden ?
+Bitte stellen Sie sicher , dass Ihre Internetverbindung aktiv ist und richtig funktioniert .
+Es wurde ein Fehlerbericht an GNOME gesendet , der Ihren Software-Absturz genau beschreibt . Diese Informationen werden den Entwicklern helfen , den Grund des Absturzes besser zu verstehen und eine Lösung dafür zu erarbeiten . Eventuell wird ein GNOME-Entwickler Kontakt zu Ihnen aufnehmen , wenn weitere Details zu dem Absturz nötig sind . Sie können Ihren Fehlerbericht und den weiteren Fortschritt unter dieser Adresse verfolgen :
+Bug-Buddy ist beim Senden Ihres Fehlerberichts an den Fehlerdatenbank-Server auf einen Fehler gestoßen . Details zu diesem Fehler sind unten angefügt .
+Die Fehlerdatenbank meldete einen Fehler beim Bearbeiten Ihrer Anfrage . Die Antwort konnte jedoch nicht verarbeitet werden .
+Das Konto , das zur angegebenen E-Mail-Adresse gehört , wurde deaktiviert .
+Das angegebene Produkt existiert nicht oder wurde umbenannt . Bitte aktualisieren Sie auf die neueste Version .
+Die angegebene Komponente existiert nicht oder wurde umbenannt . Bitte aktualisieren Sie auf die neueste Version .
+Die Zusammenfassung wird in Ihrem Fehlerbericht benötigt . Dies sollte mit der aktuellsten Version von Bug-Buddy nicht auftreten .
+Die Beschreibung wird in Ihrem Fehlerbericht benötigt . Dies sollte mit der aktuellsten Version von Bug-Buddy nicht auftreten .
+Der zurückgegebene Fehlercode der Fehlerdatenbank konnte nicht erkannt werden . Bitte berichten Sie die folgenden Informationen manuell unter http:/ /bugzilla.gnome.org/ : %s
+Der Server gab einen falschen Status zurück . Dies ist höchst wahrscheinlich ein Problem mit dem Server und sollte an bugmaster@gnome.org gemeldet werden . %s
+XML-RPC-Antwort konnte nicht verarbeitet werden . Antwort folgt : %s
+Ein unbekannter Fehler ist aufgetreten . Dies ist höchst wahrscheinlich ein Problem von Bug-Buddy . Bitte berichten Sie dieses Problem manuell unter http:/ /bugzilla.gnome.org
+Der Fehlerbericht konnte nicht erstellt werden : %s
+Beim Erstellen des Fehlerberichts ist ein Fehler aufgetreten
+Die eingegebene Beschreibung des Absturzes ist sehr kurz . Sind Sie sicher , dass Sie den Bericht senden möchten ?
+Eine sehr kurze Beschreibung ist oftmals keine große Hilfe für die Entwickler , die versuchen den Fehler zu beheben . Falls Sie eine bessere Beschreibung zur Verfügung stellen , zum Beispiel einen Weg , wie sich der Fehler verlässlich aufrufen läßt , kann das Problem einfacher behoben werden .
+Die Anwendung %s ist abgestürzt . Das Programm zum Einsenden von Fehlerberichten konnte nicht genug Fehler-Informationen sammeln , damit der Bericht nützlich für die Entwickler wäre . Um nützliche Fehlerberichte zu erstellen , bitten wir Sie , Diagnose-Pakete für Ihre Distribution zu installieren . Klicken Sie auf den folgenden Link um weitere Informationen darüber zu erhalten , wie Sie diese Pakete installieren können :
+Bitte verfassen Sie Ihren Fehlerbericht , soweit möglich , in englischer Sprache .
+Die Informationen über den Absturz des Programmes %s wurden erfolgreich ermittelt . Bitte fügen Sie noch Informationen darüber hinzu , was Sie taten , als das Programm abstürzte . Eine gültige E-Mail-Adresse wird benötigt , damit die Entwickler Sie bei Bedarf um weitere Informationen bitten können .
+In den Diagnose-Informationen können sensible Daten enthalten sein . Prüfen Sie daher die unten dargestellten Angaben daraufhin , ob möglicherweise Passwörter oder andere private Daten übertragen werden , und ändern Sie diese Daten gegebenenfalls .
+Die Anwendung %s ist abgestürzt . Informationen zum Programmabsturz sind erfolgreich gesammelt worden . Die abgestürzte Anwendung ist Bug-Buddy nicht bekannt , daher kann der Fehlerbericht nicht an die GNOME-Fehlerdatenbank gesendet werden . Bitte speichern Sie den Fehler in einer Textdatei und melden ihn in der Fehlerdatenbank der betroffenen Anwendung .
+Beim Anzeigen der Hilfe ist ein Fehler aufgetreten : %s
+Bug-Buddy ist ein Werkzeug , das dabei hilft , Diagnose-Informationen zur Fehlerbeseitigung an die GNOME-Fehlerdatenbank zu senden , wenn ein Programm abstürzt .
+Bug-Buddy konnte die Datei für die Benutzeroberfläche nicht finden . Bitte stellen Sie sicher , dass Bug-Buddy korrekt installiert ist .
+Eines der Argumente » --appname « oder » --package « wird benötigt .
+Eines der Argumente » --pid « oder » --include « wird benötigt .
+Die Option » --unlink-tempfile « benötigt das Argument » --include « .
+Bug-Buddy konnte nicht feststellen , welche Version von GNOME Sie benutzen . Das liegt höchst wahrscheinlich daran , dass gnome-desktop nicht installiert ist .
+Die Anwendung » %s « ist abgestürzt . Es werden Informationen zum Absturz gesammelt , um diese an die Entwickler zu schicken , damit das Problem behoben werden kann .
+Bug-Buddy stieß beim Versuch Diagnose-Informationen abzurufen auf folgenden Fehler : %s
+Bug-Buddy kann keine Verbesserungsvorschläge zu der Anwendung %s verschicken .
+Danke , dass Sie uns dabei helfen , unsere Software zu verbessern . Bitte geben Sie Ihre Vorschläge/ Fehlerinformationen für die Anwendung %s an . Eine gültige E-Mail-Adresse ist erforderlich . Das ermöglicht es den Entwicklern , Kontakt zu Ihnen aufzunehmen , wenn weitere Informationen benötigt werden .
+Die Anwendung verwaltet ihre Fehler nicht in der GNOME-Fehlerdatenbank .
+GDB , der GNU-Debugger , konnte auf Ihrem System nicht gefunden werden . Daher können keine Diagnose-Informationen gesammelt werden .
+Die Datei gdb-cmd konnte nicht gefunden werden . Bitte versuchen Sie , Bug-Buddy neu zu installieren .
+Beim Ausführen von gdb ist ein Fehler aufgetreten : %s

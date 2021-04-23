@@ -1,0 +1,12 @@
+Anzeigen , wie Geometrie im Journal eingereiht wird
+Umrandungen zu allen rechteckigen geometrischen Formen hinzufügen
+Einreihen von Geometrie im Cogl-Journal deaktivieren .
+Den Grafikprozessor zur Transformation rechteckiger geometrischer Formen verwenden
+Änderungen am Textur-Atlas in eine Bilddatei ausgeben
+Teilen des Textur-Atlas zwischen Text und Bildern deaktivieren
+Wenn dies eingestellt ist , wird der Glyph-Zwischenspeicher immer eine separate Textur für seinen Atlas nutzen . Ansonsten wird versucht , den Atlas mit den Bildern zu teilen .
+Verwendung des Backends für feste Funktions-Pipeline deaktivieren
+Dies führt dazu , dass Cogl denkt , dass der GL-Treiber NPOT-Texturen nicht unterstützt , sodass es stattdessen geschnittene Texturen oder Texturen mit Datenmüll erzeugt .
+Versuche von Cogl deaktivieren , Rechtecke softwaretechnisch zu beschneiden .
+Optimierung zum Lesen von 1px für einfache Szenen mit voll deckenden Rechtecken deaktivieren
+Protokolliert Informationen , wie Cogl Clipping implementiert

@@ -1,0 +1,28 @@
+This manual is part of a collection of GNOME manuals distributed under the GFDL . If you want to distribute this manual separately from the collection , you can do so by adding a copy of the license to the manual , as described in section 6 of the license .
+Many of the names used by companies to distinguish their products and services are claimed as trademarks . Where those names appear in any GNOME documentation , and the members of the GNOME Documentation Project are made aware of those trademarks , then the names are in capital letters or initial capital letters .
+DOCUMENT IS PROVIDED ON AN " AS IS " BASIS , WITHOUT WARRANTY OF ANY KIND , EITHER EXPRESSED OR IMPLIED , INCLUDING , WITHOUT LIMITATION , WARRANTIES THAT THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS FREE OF DEFECTS MERCHANTABLE , FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING . THE ENTIRE RISK AS TO THE QUALITY , ACCURACY , AND PERFORMANCE OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS WITH YOU . SHOULD ANY DOCUMENT OR MODIFIED VERSION PROVE DEFECTIVE IN ANY RESPECT , YOU ( NOT THE INITIAL WRITER , AUTHOR OR ANY CONTRIBUTOR ) ASSUME THE COST OF ANY NECESSARY SERVICING , REPAIR OR CORRECTION . THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE . NO USE OF ANY DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER ; AND
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY , WHETHER IN TORT ( INCLUDING NEGLIGENCE ) , CONTRACT , OR OTHERWISE , SHALL THE AUTHOR , INITIAL WRITER , ANY CONTRIBUTOR , OR ANY DISTRIBUTOR OF THE DOCUMENT OR MODIFIED VERSION OF THE DOCUMENT , OR ANY SUPPLIER OF ANY OF SUCH PARTIES , BE LIABLE TO ANY PERSON FOR ANY DIRECT , INDIRECT , SPECIAL , INCIDENTAL , OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING , WITHOUT LIMITATION , DAMAGES FOR LOSS OF GOODWILL , WORK STOPPAGE , COMPUTER FAILURE OR MALFUNCTION , OR ANY AND ALL OTHER DAMAGES OR LOSSES ARISING OUT OF OR RELATING TO USE OF THE DOCUMENT AND MODIFIED VERSIONS OF THE DOCUMENT , EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES .
+Configuration Editor can be used to change configuration options used by applications that may not be available through Preference dialogs
+This manual describes version 2.8 of Configuration Editor .
+GConf / apps / glines / preferences / ball _ theme Five or More
+Some distributions hide this menu . In this case , use the second method described below .
+Shows GConf Editor window . Callouts : Tree pane , Modification pane , Documentation pane .
+Enables you to view the results of a search or to search through the list of your recently viewed key names . The rest of the window will show the information for whichever key you have selected in this pane . The results pane will appear on the bottom of the window when you list the recent keys or perform a search .
+Configuration Editor File Close Window Configuration Editor File Quit Configuration Editor
+Viewing recent keys is useful if you need to get back to a key you just changed and don 't remember where it is .
+A screenshot may be in order . In particular , The close , copy , and clear buttons on the results pane should be explained .
+Use the tree pane to display the key that you want to modify in the modification pane .
+Select the key to modify in the modification pane .
+To delete a bookmark , perform the following steps :
+To search for keys , perform the following steps :
+Search for Search also in key names Search also in key values
+The results from the search will appear in the results pane . To move through the results list , first select that pane . Then you can move through the results with the scroll bar or the arrow keys . The information for the selected key or folder will appear in the rest of the window .
+Defaults File New Defaults Window Mandatory File New Mandatory Window
+To create a default setting , perform the following steps :
+To create a mandatory setting , perform the following steps :
+Modifying and Removing Default and Mandatory Settings
+To remove a default or mandatory key , perform the following steps :
+In the appropriate window , use the tree pane to display the key that you want to remove from the default or mandatory settings .
+The icons beside the keys in the modification pane indicate what type of value you can enter for the key . The following list shows the possible icons and what types of values they represent .
+Can hold numbers . These can be either integer or floating point ( fractional ) numbers .
+Lists of arbitrary length . Each element of the list must be of the same type , and one of the primitive types of boolean , number , or string .

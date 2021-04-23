@@ -1,0 +1,25 @@
+Never forget to pay a bill again !
+Default X coordinate for the application .
+Default Y coordinate for the application .
+Defines the default X coordinate for the application .
+Defines the default Y coordinate for the application .
+Defines the default height of the application .
+Usage : billreminder [ OPTIONS ... ]
+Displays the version number for this application .
+This option is not implemented yet .
+This is % ( appname ) s - Version : % ( version ) s
+The bill % ( bill ) s will be due at % ( day ) s .
+Lock File found : You have another instance running . ( pid = % d )
+Lock File found : Possibly the program was exited unexpectedly .
+How many times to repeat this bill .
+" % s " and " % s " are required fields .
+" % s " is required field .
+The category " % s " already exists in the database ! Do you want to save your change to the existing category ?
+Do you really want to delete this category ?
+Do you really want to delete " % s " ?
+Get alerted when individual bills are due .
+Define when to be notified of upcoming bills .
+An error occurred while connecting to BillReminder Notifier ! Do you want to launch it and restart BillReminder ?
+If you close without saving , your changes will be discarded .
+Usage : billreminder [ OPTIONS ... ] Options : --help , -h , - ? \ tShow this message . --about \ t \ tAbout this application . --add \ t \ t \ tAdds a new record to the database . --standalone \ t \ tAccess database directly , without daemon . --version , -v \ t \ tDisplays the version number for this application .
+Usage : billreminderd [ OPTIONS ... ] Options : --help , -h , - ? \ tShow this message . --verbose \ t \ tPrint output messages . --no-daemon \ t \ tDon 't run as a daemon . --open-gui \ t \ tStart daemon and launch GUI . --stop \ t \ t \ tStop daemon . --version , -v \ t \ tDisplays the version number for this application .

@@ -1,0 +1,21 @@
+Error loading PKCS # 11 module : % s
+Couldn 't initialize PKCS # 11 module : % s
+Couldn 't initialize registered PKCS # 11 modules : % s
+The URI does not have the ' pkcs11 ' scheme .
+The URI has a bad version number .
+The key cannot be used to sign the request
+Gnupg process was terminated with signal : % d
+Could not parse invalid or corrupted data .
+Couldn 't find a place to store the pinned certificate
+Could not display ' % s '
+Cannot display a file of this type .
+The information in this key has not yet been verified
+Cannot import because there are no compatible importers
+In order to import , please enter the password .
+Unlock access to passwords and other secrets
+A file already exists with this name .
+Do you want to replace it with a new file ?
+Automatically unlock this keyring whenever I 'm logged in
+Lock this keyring when I log out
+The contents of ' % s ' are locked . In order to view the contents , enter the correct password .
+The contents are locked . In order to view the contents , enter the correct password .

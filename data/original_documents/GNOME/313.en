@@ -1,0 +1,45 @@
+A menu to quickly switch between users
+Specifies how to display the applet in the panel . Use " username " to display the current user 's name , " icon " to show the people icon , or " text " to use the word '
+When to show the " Login Window " item . Possible values include : " always " to always show the item , " never " to never show the item , and " auto " ( the default ) to show the item when the applet is in Xnest mode .
+When to show the " Other " item . Possible values include : " always " to always show the item , " never " to never show the item , and " auto " ( the default ) to show the item when the applet is in console ( not Xnest ) mode .
+Whether or not to create new Xnest windows instead of spawning new consoles when switching users .
+Whether or not to lock the screen after switching to a different console .
+Whether to show only users who are currently logged in , or all users .
+Some preferences have been locked by the system adminstrator .
+The user you want to switch to is logged in multiple times on this computer . Which login do you want to switch to ?
+Use the current user 's name for the menu title
+When a new login must be created to switch users , create it in a window instead of on a new screen
+When changing to a different display , activate the screensaver for this display .
+The Fast User Switch Applet is free software ; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation ; either version 2 of the License , or ( at your option ) any later version .
+This program is distributed in the hope that it will be useful , but WITHOUT ANY WARRANTY ; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE . See the GNU General Public License for more details .
+You should have received a copy of the GNU General Public License along with this program ; if not , write to the Free Software Foundation , Inc . , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA
+A menu to quickly switch between users .
+% s in a nested window on console % d
+In order for the User Selector to function properly , the GNOME Display Manager must be running , but it is not .
+This system does not support multiple graphical login screens .
+There are currently too many sessions running to create a new one . Someone must log out , or the system configuration must be changed to allow for more .
+The graphical interface did not properly start , which is needed for graphical logins . It is likely that the X Window System or GDM is not properly configured .
+The User Selector 's interfaces file , '
+Can 't lock screen : % s
+Can 't temporarily set screensaver to blank screen : % s
+The manager which owns this object .
+The name of the X11 display this object refers to .
+The user currently logged in on this virtual terminal .
+The number of the virtual console this display can be found on , or % -1 .
+Whether or not this display is a windowed ( Xnest ) display .
+The display manager could not be contacted for unknown reasons .
+The display manager is not running or too old .
+The configured limit of flexible servers has been reached .
+There was an unknown error starting X.
+The X server failed to finish starting .
+There are too many X sessions running .
+The nested X server ( Xnest ) cannot connect to your current X server .
+The X server in the GDM configuration could not be found .
+Trying to set an unknown logout action , or trying to set a logout action which is not available .
+Trying to update an unsupported configuration key .
+~ / .Xauthority file badly configured or missing .
+Too many messages were sent to the display manager , and it hung up .
+The display manager sent an unknown error message .
+The user this menu item represents .
+Space between the username and the indicator
+The user manager object this user is controlled by .

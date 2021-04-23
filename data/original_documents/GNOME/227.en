@@ -1,0 +1,79 @@
+Move the selected item on the toolbar
+Remove the selected item from the toolbar
+The Eye of GNOME is the official image viewer for the GNOME desktop . It integrates with the GTK + look and feel of GNOME , and supports many image formats for viewing single images or images in a collection .
+The Eye of GNOME also allows to view the images in a fullscreen slideshow mode or set an image as the desktop wallpaper . It reads the camera tags to automatically rotate your images in the correct portrait or landscape orientation .
+Whether the image should be rotated automatically based on EXIF orientation .
+The color that is used to fill the area behind the image . If the use-background-color key is not set , the color is determined by the active GTK + theme instead .
+Whether the image should be interpolated on zoom-out . This leads to better quality but is somewhat slower than non-interpolated images .
+Whether the image should be extrapolated on zoom-in . This leads to blurry quality and is somewhat slower than non-extrapolated images .
+Determines how transparency should be indicated . Valid values are CHECK _ PATTERN , COLOR and NONE . If COLOR is chosen , then the trans-color key determines the color value used .
+Whether the scroll wheel should be used for zooming .
+The multiplier to be applied when using the mouse scroll wheel for zooming . This value defines the zooming step used for each scroll event . For example , 0.05 results in a 5 % zoom increment for each scroll event and 1.00 result in a 100 % zoom increment .
+If the transparency key has the value COLOR , then this key determines the color which is used for indicating transparency .
+If this is active , the color set by the background-color key will be used to fill the area behind the image . If it is not set , the current GTK + theme will determine the fill color .
+Whether the sequence of images should be shown in an endless loop .
+If this is set to FALSE small images will not be stretched to fit into the screen initially .
+Delay in seconds until showing the next image
+A value greater than 0 determines the seconds an image stays on screen until the next one is shown automatically . Zero disables the automatic browsing .
+Image gallery pane position . Set to 0 for bottom ; 1 for left ; 2 for top ; 3 for right .
+Whether the image gallery pane should be resizable .
+Close main window without asking to save changes .
+If activated , Eye of GNOME won 't ask for confirmation when moving images to the trash . It will still ask if any of the files cannot be moved to the trash and would be deleted instead .
+Whether the file chooser should show the user 's pictures folder if no images are loaded .
+If activated and no image is loaded in the active window , the file chooser will display the user 's pictures folder using the XDG special user directories . If deactivated or the pictures folder has not been set up , it will show the current working directory .
+Whether the metadata list in the properties dialog should have its own page .
+If activated , the detailed metadata list in the properties dialog will be moved to its own page in the dialog . This should make the dialog more usable on smaller screens , e.g. as used by netbooks . If disabled , the widget will be embedded on the " Metadata " page .
+External program to use for editing images
+The desktop file name ( including the " .desktop " ) of the application to use for editing images ( when the " Edit Image " toolbar button is clicked ) . Set to the empty string to disable this feature .
+List of active plugins . It doesn 't contain the " Location " of the active plugins . See the .eog-plugin file for obtaining the " Location " of a given plugin .
+Shows the image date in the window statusbar
+If you don 't save , your changes will be lost .
+Save changes to image " % s " before closing ?
+S _ elect the images you want to save :
+If you don 't save , all your changes will be lost .
+Could not load image ' % s ' .
+Could not save image ' % s ' .
+No images found in ' % s ' .
+The given locations contain no images .
+% a , % d % B % Y % X
+Image Viewer could not determine a supported writable file format based on the filename .
+Please try a different file extension like .png or .jpg.
+EXIF not supported for this file format .
+You do not have the permissions necessary to save the file .
+Couldn 't create temporary file for saving : % s
+Couldn 't allocate memory for loading JPEG file
+Show the folder which contains this file in the file manager
+The image whose printing properties will be set up
+The information for the page where the image will be printed
+Could not display help for Image Viewer
+The image " % s " has been modified by an external application . Would you like to reload it ?
+Use " % s " to open the selected image
+Saving image " % s " ( % u / % u )
+The image " % s " has been set as Desktop Background . Would you like to modify its appearance ?
+Are you sure you want to remove " % s " permanently ?
+Do _ not ask again during this session
+Are you sure you want to move " % s " to the trash ?
+A trash for " % s " couldn 't be found . Do you want to remove this image permanently ?
+Some of the selected images can 't be moved to the trash and will be removed permanently . Are you sure you want to proceed ?
+Changes the visibility of the toolbar in the current window
+Changes the visibility of the statusbar in the current window
+Changes the visibility of the image gallery pane in the current window
+Changes the visibility of the side pane in the current window
+Open the selected image with a different application
+Save the selected images with a different name
+Show the properties and metadata of the selected image
+Undo the last change in the image
+Rotate the image 90 degrees to the right
+Rotate the image 90 degrees to the left
+Set the selected image as the wallpaper
+Move the selected image to the trash folder
+Copy the selected image to the clipboard
+Show the image at its normal size
+Go to the previous image of the gallery
+Go to the next image of the gallery
+Go to the first image of the gallery
+Go to the last image of the gallery
+Go to a random image of the gallery
+Start a new instance instead of reusing an existing one
+Open in a single window , if multiple windows are open the first one is used
+Run ' % s --help ' to see a full list of available command line options .

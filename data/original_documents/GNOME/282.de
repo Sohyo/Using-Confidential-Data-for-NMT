@@ -1,0 +1,59 @@
+Kontaktliste kann nicht gespeichert werden . Das wird nur für Exchange-Server 2010 oder neuer unterstützt .
+Herunterladen der Kontakte in %s zu %d % % abgeschlossen
+Temporäre MIME-Inhaltsdatei konnte nicht geöffnet werden .
+Parser konnte nicht aus dem MIME-Inhalt erstellt werden
+MIME-Inhalt der Besprechungsanfrage konnte nicht verarbeitet werden
+Zusammenfassung für %s konnte nicht geladen werden
+Ordner-Aktionen können im Offline-Modus nicht ausgeführt werden
+Filter auf neue Nachrichten im Eingang dieses Servers an_wenden
+A_usschließlich den Eingangsordner auf unerwünschte Nachrichten prüfen
+Für den Zugriff auf Exchange-Server über Webdienste
+Diese Option stellt eine Verbindung mit dem Exchange-Server her , wobei ein einfaches Klartext-Passwort mit NTLM-Legitimierung verwendet wird .
+Diese Option stellt eine Verbindung mit dem Exchange-Server her , wobei ein einfaches Klartext-Passwort mit einfacher Legitimierung verwendet wird .
+Öffentliche Ordner der Exchange-Webdienste können im Offline-Modus nicht aufgelistet werden
+Ordner » %s « kann nicht angelegt werden , der Ordner existiert bereits
+Ordner unterhalb von » %s « kann nicht angelegt werden , dies wird ausschließlich für andere Benutzer verwendet
+Ordner unterhalb von » %s « kann nicht angelegt werden , dies wird ausschließlich für öffentliche Ordner verwendet
+Ordner » %s « konnte nicht entfernt werden , er wird ausschließlich für andere Benutzer verwendet
+Ordner » %s « konnte nicht entfernt werden , er wird ausschließlich für öffentliche Ordner verwendet
+Keine Änderung des Schlüsseleintrags für Ordner %s
+Ordner können nicht gleichzeitig umbenannt und verschoben werden .
+Kennung für übergeordneten Ordner %s kann nicht gefunden werden
+EWS-Ordner können im Offline-Modus nicht abonniert werden
+Ordner » %s « kann nicht abonniert werden , kein öffentlicher Ordner verfügbar
+Ordner » %s « kann nicht abonniert werden , Ordner wurde nicht gefunden
+OEWS-Ordner können im Offline-Modus nicht abbestellt werden
+Sie müssen online arbeiten , um diesen Vorgang abzuschließen
+Ohne Absenderadresse kann die Nachricht nicht versendet werden
+Der Exchange-Server kann keine Nachricht mit mehreren Absenderadressen versenden
+Der Exchange-Server kann die Nachricht nicht als » %s « versenden , da das Konto für die Adresse » %s « eingerichtet wurde
+Es konnte keine passende Ordnerklasse für einen neuen Ordner namens » %s « ermittelt werden
+Die Datenquelle » %s « ist kein » Exchange Web Services«-Ordner
+Die Zugriffsrechte des Ordners » %s « können nicht bearbeitet werden , bitte wählen Sie einen anderen Ordner .
+Zugriffsrechte des Ordners werden geschrieben , bitte warten User
+Zugriffsrechte des Ordners werden gelesen , bitte warten
+Ordner konnte nicht hinzugefügt werden , der Ordner existiert bereits als » %s«Mailbox - John SmithForeignFolder
+Fähigkeiten des Fremdordners können im Offline-Modus nicht überprüft werden
+Benutzer » %s « wurde auf diesem Server nicht gefunden
+Der Benutzername » %s « ist nicht eindeutig , bitte geben Sie ihn etwas genauer an
+Der Ordner » %s « wurde nicht gefunden . Entweder existiert er nicht oder Ihnen fehlen die nötigen Zugriffsrechte .
+Ordner konnte nicht hinzugefügt werden , der Ordnertyp konnte nicht bestimmt werdenJohn Smith - CalendarForeignFolder
+Fähigkeiten des Ordners » %s « des Benutzers » %s « werden überprüft , bitte warten
+Autor ( kann Objekte einsehen und anlegen)PermissionsLevel
+Bearbeiter ( kann Objekte einsehen , anlegen und ändern )
+Vertreter erhalten Kopien der besprechungsbezogenen Nachrichten , _die an mich gesendet wurden
+Der Vertreter kann meine _privaten Einträge sehen
+Aktuelle Benutzerrechte werden ermittelt , bitte warten
+Der Vertreter kann Objekte in meinem Namen versenden , einschließlich Erstellen von und Antworten auf Besprechungsanfragen . Wenn Sie Ordnerzugriffsrechte gewähren wollen , ohne besondere Vertreterrechte zu vergeben , schließen Sie diesen Dialog , klicken mit der rechten Maustaste auf den Ordner und anschließend auf » Berechtigungen « und ändern die dortigen Optionen .
+An mich adressierte Besprechungsanfragen an mich senden und auf Besprechungsanfragen antworten , die ich organisiert habe :
+Nur an meine Vertreter , aber Kopien der Besprechungsanfragen und Antworten sollen an mich gesendet werden ( empfohlen )
+Die nachfolgend angegebenen Nachrichten werden automatisch an alle internen und externen Personen versendet , die Ihnen eine Nachricht gesendet haben .
+Abwesenheitsantworten nur während _dieser Zeit versenden :
+Nicht an Absender außerhalb der Organisation antworten
+Nur an bekannte Absender außerhalb der Organisation antworten
+An alle Absender außerhalb der Organisation antworten
+Die Fehlermeldung war & quot ; { 0}quot ; .
+Ihr Exchange-Konto " { 0 } " hat den Abwesenheitsstatus gesetzt .
+Ordner konnte nicht hinzugefügt werden , der Ordnertyp wird nicht unterstützt
+Ordner kann nicht hinzugefügt werden , Hauptquelle wurde nicht gefunden
+CreateItem-Aufruf konnte die Kennung der neuen Nachricht nicht zurückgeben

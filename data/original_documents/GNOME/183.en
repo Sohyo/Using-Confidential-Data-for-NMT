@@ -1,0 +1,12 @@
+The specified filename does not end with a " .ease " extension . Would you like to append one ?
+A file named % s already exists . Do you want to replace it ?
+This file already exists in the directory " % s " . Overwriting it will replace its contents .
+Could not find property % s on element type % s .
+Could not find property % s on master type % s .
+% s is not a valid identifier
+Directory to remove doesn 't exist : % s
+If you don 't save , changes from the last minute will be permanently lost .
+If you don 't save , changes from the last hour will be permanently lost .
+Save changes to " % s " before closing ?
+The quick brown fox jumps over the lazy dog
+Error drawing slide preview : % s

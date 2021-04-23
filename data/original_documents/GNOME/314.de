@@ -1,0 +1,91 @@
+Wenn fuzzy , bitte das entsprechende Bild aktualisieren
+Wenn fuzzy , bitte das entsprechende Bild aktualisieren
+Wenn fuzzy , bitte das entsprechende Bild aktualisieren
+Wenn fuzzy , bitte das entsprechende Bild aktualisieren
+Wenn fuzzy , bitte das entsprechende Bild aktualisieren
+Sie können den Archivmanager , auch File Roller genannt , zum Erstellen , Betrachten , Verändern oder Entpacken von Archiven verwenden .
+Das vorliegende Handbuch ist Teil einer Reihe von GNOME-Handbüchern , die unter der GFDL verteilt werden . Wenn Sie dieses Handbuch separat verteilen möchten , können Sie dies tun , indem Sie dem Handbuch eine Kopie der Lizenz , wie in Abschnitt 6 der Lizenz beschrieben , hinzufügen .
+Bei vielen der von Firmen zur Unterscheidung ihrer Produkte und Dienstleistungen verwendeten Namen handelt es sich um Marken . An den Stellen , an denen derartige Namen in einer GNOME-Dokumentation vorkommen und wenn die Mitglieder des GNOME-Dokumentationsprojekts über diese Marken informiert wurden , sind die Namen in Großbuchstaben oder mit großen Anfangsbuchstaben geschrieben .
+DAS DOKUMENT WIRD » WIE VORLIEGEND « GELIEFERT , OHNE JEGLICHE GEWÄHRLEISTUNG , WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND , EINSCHLIESSLICH , ABER NICHT BESCHRÄNKT AUF , GEWÄHRLEISTUNGEN , DASS DAS DOKUMENT ODER EINE MODIFIZIERTE VERSION DES DOKUMENTS FREI VON HANDELSÜBLICHEN FEHLERN UND FÜR EINEN BESTIMMTEN ZWECK GEEIGNET IST UND KEINE RECHTE DRITTER VERLETZT . JEGLICHES RISIKO IN BEZUG AUF DIE QUALITÄT , GENAUIGKEIT UND LEISTUNG DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS TRAGEN SIE . SOLLTE SICH EIN DOKUMENT ODER EINE MODIFIZIERTE VERSION DAVON IN IRGENDEINER WEISE ALS FEHLERHAFT ERWEISEN , TRAGEN SIE ( NICHT DER URSPRÜNGLICHE VERFASSER , AUTOR ODER EIN MITWIRKENDER ) DIE KOSTEN FÜR JEGLICHE ERFORDERLICHE SERVICE- , REPARATUR- UND KORREKTURMASSNAHMEN : DIESE BESCHRÄNKUNG DER GEWÄHRLEISTUNG IST WESENTLICHER BESTANDTEIL DIESER LIZENZ . JEDE VERWENDUNG EINES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS UNTERLIEGT DIESER BESCHRÄNKUNG ; UND
+UNTER KEINEN UMSTÄNDEN UND GEMÄSS KEINER RECHTSLEHRE , WEDER AUFGRUND VON UNERLAUBTEN HANDLUNGEN ( EINSCHLIESSLICH FAHRLÄSSIGKEIT ) , VERTRÄGEN ODER SONSTIGEM , KANN DER AUTOR , DER URSPRÜNGLICHE VERFASSER , EIN MITWIRKENDER ODER EIN VERTEILER DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS ODER EIN LIEFERANT EINER DIESER PARTEIEN VON EINER PERSON FÜR DIREKTE , INDIREKTE , BESONDERE , ZUFÄLLIGE ODER ALS FOLGE AUFGETRETENE SCHÄDEN IRGENDEINER ART , EINSCHLIESSLICH , ABER NICHT BESCHRÄNKT AUF , SCHÄDEN DURCH GESCHÄFTSWERTVERLUSTE , ARBEITSAUSFÄLLE , COMPUTERAUSFÄLLE ODER -FUNKTIONSSTÖRUNGEN ODER JEGLICHE ANDERE SCHÄDEN ODER VERLUSTE , DIE DURCH ODER IM ZUSAMMENHANG MIT DER VERWENDUNG DES DOKUMENTS ODER EINER MODIFIZIERTEN VERSION DES DOKUMENTS ENTSTANDEN SIND , SELBST WENN DIESE PARTEI ÜBER MÖGLICHE SCHÄDEN INFORMIERT WORDEN SEIN SOLLTE , HAFTBAR GEMACHT WERDEN .
+In diesem Handbuch wird Version 2.26.0 des Archivmanagers beschrieben .
+bzip2 gzip lzip lzop compress rzip datei.txt.gz datei.txt gzip
+Im Anzeigebereich sehen Sie den Inhalt des Archivs .
+In diesem Handbuch wird die Arbeitsweise über die Menüleiste beschrieben .
+Wählen Sie das zu öffnende Archiv aus .
+den Archivnamen in der Titelleiste des Fensters
+die Gesamtanzahl der Dateien und Ordner ( Objekte ) im Archiv sowie die Größe des unkomprimierten Archivs in der Statusleiste
+Entscheiden Sie , wo im Archiv Sie die Dateien hinzufügen möchten , und öffnen Sie dann den Ort im Archiv .
+Bearbeiten Dateien hinzufügen Dateien hinzufügen Dateien hinzufügen
+So fügen Sie einen Ordner in ein Archiv ein
+Wählen Sie den hinzuzufügenden Ordner aus .
+So wandeln Sie ein Archiv in ein anderes Format um
+Gehen Sie wie folgt vor , um ein Archiv in ein anderes Format umzuwandeln und in eine neue Datei zu speichern :
+Der Inhalt eines Archivs kann auf verschiedene Arten geändert werden .
+Aus Sicherheitsgründen kann es sich anbieten , die Dateien , die Sie in ein Archiv einfügen möchten , zu verschlüsseln .
+Wenn das Archivformat Verschlüsselung unterstützt , können Sie ein Passwort angeben , um hinzuzufügende Dateien zu verschlüsseln .
+Gegenwärtig unterstützen nur die Archivformate 7-ZIP , ZIP , RAR und ARJ die Verschlüsselung .
+Gehen Sie wie folgt vor , um ein Passwort für die Verschlüsselung festzulegen :
+So benennen Sie eine Datei in einem Archiv um
+Gehen Sie wie folgt vor , um eine Datei in einem Archiv umzubenennen :
+Wählen Sie die umzubennende Datei aus .
+Gehen Sie wie folgt vor , um Dateien in einem Archiv zu kopieren :
+Wählen Sie die zu kopierenden Dateien aus .
+Öffnen Sie den Ordner , in den die Dateien kopiert werden sollen .
+Gehen Sie wie folgt vor , um Dateien in einem Archiv zu verschieben :
+Wählen Sie die zu verschiebenden Dateien aus .
+Öffnen Sie den Ordner , in den die Dateien verschoben werden sollen .
+Gehen Sie wie folgt vor , um Dateien aus einem Archiv zu löschen :
+Wählen Sie die zu löschenden Dateien aus .
+Wählen Sie eine der folgenden Löschoptionen aus :
+Löschen aller Dateien aus dem Archiv .
+Löschen der ausgewählten Dateien aus dem Archiv .
+So verändern Sie eine Datei aus einem Archiv
+Bearbeiten Sie die in Schritt 1 geöffnete Datei , und speichern Sie die Änderungen .
+So verändern Sie eine Datei in einem Archiv mit einer benutzerdefinierten Anwendung
+Die Position des Archivs im Dateisystem .
+Das Datum und die Uhrzeit der letzten Änderung des Archivs .
+Die Größe des unkomprimierten Archivinhalts . Diese Information finden Sie auch in der Statusleiste .
+Der Kompressionsgrad ist ein Wert , der verwendet wird , um die Reduktion der Datengröße zu beschreiben . Eine Kompressionsrate von 5 bedeutet zum Beispiel , dass das komprimierte Archiv 1/ 5 der Größe der Originaldaten hat .
+Die Anzahl der Dateien im Archiv .
+Der Name der Datei oder des Ordners im Archiv .
+So zeigen Sie eine Datei aus einem Archiv an
+So prüfen Sie die Integrität eines Archivs
+Es könnte unmöglich sein , eine beschädigte Datei zu entpacken , was zum Datenverlust führt . Aus diesem Grund sollten Sie die Integrität des Archivs prüfen , bevor Sie die Originaldateien löschen .
+Nicht alle Archivtypen unterstützen die Integritätsprüfung . Die folgenden Archivtypen können auf Integrität getestet werden : 7-Zip , RAR , ZIP , ACE , ARJ und Zoo .
+Um die Integrität eines Archivs zu prüfen , dessen Format die Integritätsprüfung nicht unterstützt , entpacken Sie alle Dateien aus dem Archiv und prüfen , ob diese Aktion erfolgreich war .
+Zeigt das Symbol , mit dem Sie zum zuvor besuchten Ort gehen können .
+Klicken Sie auf diesen Knopf , um zum zuvor besuchten Ort zu gehen .
+Zeigt das Symbol , mit dem Sie zum als nächstes besuchten Ort gehen können .
+Klicken Sie auf diesen Knopf , um zum als nächstes besuchten Ort zu gehen .
+Zeigt das Symbol , mit dem Sie eine Ebene nach oben in der Ordnerhierarchie gehen können .
+Klicken Sie auf diesen Knopf , um eine Ebene nach oben in der Ordnerhierarchie zu gehen .
+Zeigt das Symbol , mit dem Sie zur obersten Ebene des Ordnerhierarchie innerhalb des Archivs gehen können .
+Klicken Sie auf diesen Knopf , um zur obersten Ebene der Ordnerhierarchie innerhalb des Archivs zu gehen .
+Dieses Textfeld zeigt den vollständigen Pfadnamen des aktuell angezeigten Ordners innerhalb des Archivs an .
+Die Dateiliste lässt sich nach Namen , Größe , Typ , Änderungsdatum oder Ordner sortieren .
+Um die Sortierreihenfolge anzugeben , klicken Sie auf die Überschrift der jeweiligen Spalte .
+Um die Sortierreihenfolge umzukehren , klicken Sie nochmals auf die Überschrift der jeweiligen Spalte .
+Mit dem Dateimanager lassen sich Dateien in ein Archiv einfügen oder Dateien aus einem Archiv entpacken
+So fügen Sie mit dem Dateimanager Dateien in ein Archiv ein
+Führen Sie die folgenden Schritte aus , um Dateien mit dem Dateimanager in ein Archiv einzufügen :
+Klicken Sie in einem Dateimanager-Fenster mit der rechten Maustaste auf die Dateien oder Ordner .
+Wählen Sie in der Einblendliste den Archivtyp aus .
+So entpacken Sie mit dem Dateimanager Dateien aus einem Archiv
+Führen Sie die folgenden Schritte aus , um Dateien mit dem Dateimanager aus einem Archiv zu entpacken :
+Klicken Sie im Dateimanager-Fenster mit der rechten Maustaste auf das Archiv .
+Geben Sie das Passwort ein , das bei der Verschlüsselung des Archivs verwendet werden soll . Falls kein Passwort angegeben wird , wird das Archiv nicht verschlüsselt .
+Falls diese Option ausgewählt ist , wird das Passwort bereits für die Anzeige der Liste der im Archiv enthaltenen Dateien benötigt , anderenfalls ist das Passwort nur für das Entpacken der Dateien aus dem Archiv erforderlich . Diese Option ist nur verfügbar , wenn ein Passwort angegeben wurde .
+Wählen Sie diese Option , um das Archiv in mehrere Dateien der angegebenen Größe zu teilen .
+Nur 7-Zip-Archive und RAR-Archive werden von dieser Funktion unterstützt .
+Nur hinzufügen , falls neuer Archivmanager backup.tar.gz
+Wählen Sie diese Option aus , um alle mit dem Muster übereinstimmenden Dateien aus dem aktuellen Ordner und seinen Unterordnern einzufügen .
+Dabei muss nicht der Name des Unterordners , sondern der Dateiname mit dem Muster übereinstimmen .
+Mit dieser Option werden Dateien aus Ordnern , die nur symbolische Links darstellen , ausgelassen . Symbolische Links sind Zeiger auf oder Verknüpfungen zu anderen Ordnern .
+Klicken Sie auf diesen Knopf , um die aktuelle Auswahl von Hinzufügeoptionen auf die Standardwerte zurückzusetzen .
+Wählen Sie die zu entpackenden Dateien aus :
+Mit dieser Option wird beim Entpacken der angegebenen Dateien deren Ordnerhierarchie beibehalten .
+Ordner neu erstellen Archivmanager / tmp/ doc
+Ordner neu erstellen Archivmanager Archivmanager / tmp
+Mit dieser Option werden Dateien im Zielordner , deren Namen mit den Namen der ausgewählten Dateien übereinstimmen , überschrieben .
+Keine älteren Dateien entpacken Vorhandene Dateien ersetzen Archivmanager

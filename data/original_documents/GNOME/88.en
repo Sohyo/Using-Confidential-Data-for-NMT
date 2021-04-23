@@ -1,0 +1,8 @@
+A simple application which can scan either specific folders ( local or remote ) or volumes and give a graphical representation including each directory size or percentage .
+A list of URIs for partitions to be excluded from scanning .
+Which type of chart should be displayed .
+A graphical tool to analyze disk usage .
+Failed to move file to the trash
+Could not scan folder " % s "
+Could not scan some of the folders contained in " % s "
+" % s " is not a valid folder

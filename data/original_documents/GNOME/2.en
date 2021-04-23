@@ -1,0 +1,17 @@
+This manual describes version 0.1.5 of Accerciser .
+The menu bar contains commands for managing plugins , managing and using bookmarks , refreshing the accessible tree view , and accessing this help system .
+The accessible tree view allows to view all of the accessibles starting at the desktop level . Selecting an accessible makes it available for further inspection using the loaded plugins .
+You can drag plugins to or from this area just like the right plugin view .
+Accerciser View Single plugin view Control t Accerciser
+Select an accessible through the tree view .
+Use the tree view to navigate the hierarchy of accessible objects rooted at desktop . Unfolding a tree node reveals its immediate children while folding it hides them . Each node shows an icon for its associated application or widget role and its accessible name , if available . The second column lists how many nodes will be shown if the item is unfolded .
+Bookmarks to accessibles in Accerciser are defined by an application name and a " path " in the application 's internal accessible hierarchy to the bookmarked accessible . When the target application is in a different state ( ie. multiple top level frames ) the path might not be correct .
+This plugin displays information about the available interfaces for the selected tree view accessible . Unsupported interfaces are grayed out . Various instruments for viewing and controlling an interface are available under each expander .
+Interfaces that are supported by the selected accessible are shown as sensitive .
+This plugin monitors the selected types of events from the selected tree view accessible , from the selected tree view application , or the entire desktop .
+The bottom part of the event monitor window allows you to pick the type and source of events .
+IPython Tab Enter acc t = acc.queryText ( )
+This plugin shows the interfaces , methods , and attributes supported by the accessible selected in the tree view .
+Control Alt a Accerciser Control Alt t
+This plugin checks applications for accessibility problems and generates a report including the severity and description of the problems . The report links errors to documentation about how to remedy common problems . The plugin is extensible with test schemas that define rules for validation .
+Redistribution and use in source and binary forms , with or without modification , are permitted under the terms of the BSD License .

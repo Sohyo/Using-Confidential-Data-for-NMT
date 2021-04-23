@@ -1,0 +1,52 @@
+Conduit ist eine Anwendung zum Abgleich von Daten
+Dieses Handbuch beschreibt Version 1.0 von Conduit
+In jeder nur denkbaren Kombination wird Conduit auf korrekte Datenumwandlung und korrekten Datenabgleich achten .
+Melanie möchte einen Ordner auf Ihrem Arbeitsplatz-Rechner und Ihrem Laptop auf dem gleichen Stand halten
+Paul möchte seine Evolution-Kontakte mit den Kontakten in seinem Mobiltelefon abgleichen
+Stefan möchte seine GNOME-Einstellungen auf seinen zwei Computern immer auf dem gleichen Stand halten
+Peter möchte auf seinem Server abgelegte Fotos auf einem externen Sicherungsmedium speichern ( USB-Festplatte / FTP-Server )
+Das Ziel von Conduit ist es , den Abgleich der Daten so nahtlos wie möglich zu gestalten , sei es von einem anderen Gerät oder einer entfernten Website .
+Es mag manchmal den Anschein haben , dass Conduit überaus kompliziert ist . Jedoch war eines der Ziele beim Oberflächendesign , die Anwendung so simpel und intuitiv wie möglich zu gestalten . Allerdings ist Conduit viel mächtiger , als es das simple Design vermuten lässt . Diese Dokumentation beschreibt alle Einstellungsoptionen für Gruppen und Datenquellen . Im Folgenden werden einige Beispiele für Dinge gezeigt , die abgeglichen werden können :
+Ein zweiter Laptop , auf dem ebenfalls GNOME läuft
+Es ist ohnehin schwer genug , Informationen bloß auf der Arbeitsfläche zu organisieren , und dann auch noch synchron auf den oben aufgelisteten Diensten oder Geräten zu halten .
+Unser Ziel für Conduit ist es , den GNOME-Benutzern zu ermöglichen , Informationen auf dem gleichen Stand zu halten , ohne Rücksicht darauf , um welche Art von Information es sich handelt . Conduit soll einfach funktionieren .
+Conduit basiert auf einigen grundlegenden Konzepten , die man vor Beginn verstehen sollte . Das Wissen über diese Konzepte wird Sie Dinge entdecken lassen , von denen Sie nie gedacht hätten , dass ein Datenabgleich möglich ist . Beispielsweise das Hochladen von Fotos direkt von Ihrem Mobiltelefon zum Bilderdienst Picasa !
+Die Menüs Datei , Bearbeiten und Hilfe bieten Aktionen , die auf alle Gruppen angewendet werden . Für weitere Informationen über den Inhalt dieser Menüs , siehe unten .
+Listet an der linken Seite des Fensters alle Datenquellen auf , die auf Ihrem System gefunden wurden und verwendet werden können .
+Die Conduit-Einstellungen erreichen Sie über das Bearbeiten-Menü . Jede im Einstellungsdialog vorgenommene Änderung wird auf alle Datenabgleichsgruppen und Conduit-Aktionen angewendet .
+In diesem Reiter werden die globalen Conduit-Einstellungen angepasst . Es gibt sechs globale Einstellungen :
+Weist Conduit an , beim Beenden der Anwendung alle konfigurierten Datenquellen und Gruppen zu speichern .
+Zeigt das Benachrichtigungssymbol im Benachrichtigungsfeld . Dieses Symbol wird animiert , während ein Datenabgleich stattfindet .
+Weist Conduit an , das Anwendungsfenster ins Benachrichtigungsfeld zu minimieren anstatt ins Panel .
+Für den Fall , dass eine Datenquelle eine Anmeldung erfordert , öffnet Conduit den eingebauten Webbrowser , falls diese Option aktiviert ist .
+Dieser Reiter zeigt eine Liste der gegenwärtig installierten Datenquellen
+Dieser Reiter listet die Datenumwandlungen auf , zu denen Conduit in der Lage ist .
+Dies ist eine Liste von UIDs , die Conduit verwendet , um den Datenabgleich der Daten aus verschiedenen Quellen korrekt zu handhaben . Hier haben Sie die Möglichkeit , die Datenbank-Zuordnung zu löschen .
+Beim Anmelden auf einer Datenquellen-Website angezeigtes Fenster
+Conduit stellt den Datenabgleich grafisch dar . Sobald Datenquellen zum Ansichtsfenster hinzugefügt werden , werden sie in so genannten Gruppen angeordnet . Eine Gruppe ist eine Ansammlung von Anbietern , welche Daten austauschen . Im unten stehenden Bild sehen Sie folgende Teile :
+Eine Datenquelle zum Abgleichen in zwei Richtungen , dessen Status anzeigt , dass er bereit zum Datenabgleich ist .
+Eine Gruppe , die zwei Datenquellen in Form von Ordnern enthält . Der Pfeil hat zwei Spitzen , was ein Zweiwege-Datenabgleich für diese Gruppe anzeigt . Das bedeutet , dass die Daten in zwei Richtungen fließen , wobei beide Ordner die gleichen Informationen enthalten werden , sobald der Datenabgleich beendet ist .
+Ein zweiter Datenquellen-Ordner . Nach Konvention sind Datenquellen auf der rechten Seite einer Gruppe Datenempfänger . Bei einem Einweg-Datenabgleich können die Daten nur in dieser Richtung fließen .
+Ein Facebook- und Picasa-Datendienst zum Übertragen von Bildern auf deren Seiten . Beachten Sie , dass die Gruppe drei Datenquellen enthält und der Pfeil so verändert wurde , dass die Daten nur in einer Richtung fließen . Das bedeutet , dass Bilder aus F-Spot zu Facebook und Picasa übertragen werden .
+Dieser Abschnitt beschreibt die zum Datenabgleich zweier Datenquellen auszuführenden Schritte . Das gegebene Beispiel beschreibt den Datenabgleich zweier Ordner , aber die Konzepte sind auf jeden möglichen Fall anwendbar . Weitere Informationen über spezifische Einstellungen finden Sie in den entsprechenden Abschnitten der Dokumentation .
+Die obere Gruppe stellt einen Zweiwege-Datenabgleich zweier Ordner dar .
+Die untere Gruppe stellt einen Einweg-Datenabgleich von Bildern dar , von F-Spot zu Facebook und den Picasa-Webalben .
+Legen Sie drei Ordner mit den Name Ordner1 , Ordner2 und Ordner3 auf Ihrer Arbeitsfläche an . Ziehen Sie eine Datei Ihrer Wahl in den Ordner1 .
+Ziehen Sie aus dem Datenquellen-Teilfenster eine Ordner-Datenquelle auf die linke Seite des Ansichtsteilfensters . Das wird die Datenquelle als Ausgangspunkt des Datenabgleichs .
+Ziehen Sie eine weitere Datenquelle aus dem linken Teilfenster in das Ansichtsteilfenster , diesmal jedoch neben die Ordner1-Datenquelle . Dies sollte einen Pfeil erzeugen , der Ordner1 und Ordner2 verbindet .
+Ort des Ordners folder2 Name des Ordners Schritt 4
+Der Datenabgleich kann entweder durch Rechtsklick und dann Auswahl von Datenabgleich oder über das Datei-Menü gestartet werden . Sobald der Datenabgleich beendet ist , können Sie die Datei , welche Sie im Ordner1 platziert haben , in Ordner2 sehen .
+Beispiel 2 : Exportieren von Bildern zu verschiedenen Zielen
+Ziehen Sie eine Datenquelle aus dem Datenquellen-Teilfenster auf eine freie Stelle des Ansichtsteilfensters . Eine neue Gruppe wird erstellt , welche zunächst nur die Datenquelle F-Spot zeigt .
+Ziehen Sie die Datenquellen Facebook und Picasa auf die Gruppe , welche eben erstellt wurde .
+Ändern Sie die Einstellungen für die Datenquellen , indem Sie darauf zweimal klicken .
+Alle Abgleichvorgänge arbeiten genauso wie hier beschrieben . Die einzigen Unterschiede sind die abgeglichenen Daten und die verwendeten Datenquellen . Sie folgen jedoch immer diesen Arbeitsschritten :
+Fügen Sie Datenquellen zu einer neuen Gruppe oder einer bereits existierenden Gruppe hinzu .
+Konfigurieren Sie eine Gruppe , legen Sie eine Konfliktlösung fest , usw.
+Gleichen Sie die Datenquellen auf Wunsch ab .
+Wenn Sie zu Hause zwei Computer haben , können Sie Conduit zum direkten Abgleichen von Daten zwischen diesen beiden Computern verwenden , ohne dass zuvor irgendwo Daten gespeichert werden müssen . Die nachfolgenden Schritte zeigen , wie Tomboy-Notizen auf zwei Computern abgeglichen werden können , nennen wir sie nzjrs-desktop und nzjrs-laptop . Der folgende Schlüssel wird dabei helfen , die Einstellungsprozedur zu erklären .
+Obwohl der unten stehende Prozess den Abgleich von Tomboy-Notizen beschreibt , kann er leicht angepasst werden , um alle Arten von Daten zwischen Computern auszutauschen , einschließlich Kontakten , Kalendereinträgen und Fotos von F-Spot .
+Nach einer kurzen Verzögerung führt das zur Erstellung einer neuen Kategorie auf dem zweiten Computer . Die Kategorie übernimmt den Namen des ersten Computers , in diesem Fall » nzjrs-desktop « , und beinhaltet alle Datenquellen , die zum Datenabgleich zur Verfügung stehen .
+Zum Schluss starten Sie auf dem zweiten Computer wie gewohnt den Datenabgleich .
+Ihre Tomboy-Notizen sollten nun zwischen den beiden Computern abgeglichen sein .
+Aus Sicherheits- und Geschwindigkeitsgründen ist es nicht empfehlenswert , große Dateien zwischen zwei Computern über das Netzwerk abzugleichen . Wir hoffen , dass wir diese Einschränkung in Zukunft beseitigen können .

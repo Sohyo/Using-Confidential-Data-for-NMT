@@ -1,0 +1,51 @@
+Nicht erkannte Version der Desktop-Datei » %s «
+Anwendung akzeptiert keine Dokumente auf der Befehlszeile
+Dokument-URIs können nicht an eine Desktop-Datei vom Typ » Link « übergeben werden
+_Wählen Sie die Dateien aus , die aktualisiert werden sollen :
+Das ausgewählte Archiv im aktuellen Ort entpacken
+Ein komprimiertes Archiv mit den ausgewählten Objekten erstellen
+Sie müssen einen Namen für das Archiv angeben
+Sie haben nicht die erforderlichen Zugriffsrechte , um in diesem Ordner Archive anzulegen
+Das alte Archiv konnte nicht gelöscht werden .
+File Roller ist freie Software . Sie können es unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder verändern , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung von File Roller erfolgt in der Hoffnung , dass es Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizite Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit File Roller erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin St , Fifth Floor , Boston , MA 02110 , USA .
+Copyright © 2001-2007 Free Software Foundation , Inc.
+Die Dateien konnten nicht zum Archiv hinzugefügt werden
+Sie haben nicht die erforderlichen Zugriffsrechte , um Dateien im Ordner » %s « zu lesen
+Ordner ausschließen , die symbolische Ver_knüpfungen sind
+Geben Sie das Passwort für das Archiv » %s « ein .
+Der Name » %s « ist ungültig , da er folgende Zeichen nicht enthalten darf : %s %s
+Sie haben nicht die erforderlichen Zugriffsrechte , um im Zielordner Archive anzulegen .
+Der Zielordner » %s « existiert nicht . Soll er angelegt werden ?
+Der Zielordner konnte nicht angelegt werden : %s .
+Das Archiv existiert bereits . Soll es überschrieben werden ?
+Sie haben nicht die erforderlichen Zugriffsrechte , um Archive im Ordner » %s « zu entpacken
+Soll die Datei » %s « im Archiv » %s « aktualisiert werden ?
+Sollen die Dateien im Archiv » %s « aktualisiert werden ?
+Sie haben nicht die erforderlichen Zugriffsrechte .
+Ein Archiv kann nicht zu sich selbst hinzugefügt werden
+Der Teil » %s « konnte nicht gefunden werden
+Der Ordner » %s « konnte nicht angezeigt werden
+Beim Entpacken der Dateien ist ein Fehler aufgetreten .
+» %s « konnte nicht geöffnet werden
+Beim Laden des Archivs ist ein Fehler aufgetreten .
+Beim Löschen von Dateien aus dem Archiv ist ein Fehler aufgetreten .
+Beim Hinzufügen von Dateien zum Archiv ist ein Fehler aufgetreten .
+Beim Testen des Archivs ist ein Fehler aufgetreten .
+Beim Speichern des Archivs ist ein Fehler aufgetreten .
+Soll diese Datei zum momentan geöffneten Archiv hinzugefügt oder als neues Archiv geöffnet werden ?
+Soll ein neues Archiv mit diesen Dateien erstellt werden ?
+Das Archiv » %s « konnte nicht gespeichert werden
+Der neue Name entspricht dem alten Namen .
+Es existiert bereits ein Ordner namens » %s « . %s
+Es existiert bereits eine Datei namens » %s « . %s
+Tar , compress-komprimiert ( .tar . Z )
+Dateien zum angegebenen Archiv hinzufügen und das Programm beenden
+Dateien zu einem anzugebenden Archiv hinzufügen und das Programm beenden
+Archive im angegebenen Ordner entpacken und das Programm beenden
+Archive in einem anzugebenden Zielordner entpacken und das Programm beenden
+Inhalt der Archive im Archivordner entpacken und das Programm beenden
+Für die » --add « und » --extract«-Befehle zu verwendender Vorgabeordner
+Die Ausgabe des zuletzt ausgeführten Befehls anzeigen
+Das momentan geöffnete Archiv unter einem anderen Namen speichern

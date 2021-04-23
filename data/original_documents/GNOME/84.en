@@ -1,0 +1,6 @@
+A list of URIs for partitions to be excluded from scanning .
+Which type of chart should be displayed .
+The maximum depth drawn in the chart from the root
+A graphical tool to analyze disk usage .
+Could not scan folder " % s " or some of the folders it contains .
+" % s " is not a valid folder

@@ -1,0 +1,27 @@
+Launch Dasher Game & Demo mode !
+Mixture model ( PPM / dictionary )
+Language model adapts as you write .
+Use this control to adjust the relative sizes of the letter boxes . Note that selecting high values will slow your writing speed .
+Scan time in menu mode ( 0 to not scan )
+Draw guides on screen to show area into which a click will zoom
+Curve lines to follow the non-linearity of the view transform
+Percentage by which to automatically increase speed
+Time after which to automatically increase speed ( secs )
+Percentage by which to decrease speed upon reverse
+Scan time ( each direction ) , in ms
+Lag before user actually pushes button ( ms )
+boolean value must be specified as ' true ' or ' false ' .
+unknown option , use " --help-options " for more information .
+Dasher socket input : failed to launch reader thread .
+Print socket-related debugging information to console :
+Double-click is opposite up / down — triple to reverse
+Offset for outer ( second ) button
+Tolerance for inaccurate timing of button pushes ( in ms )
+Two-push Dynamic Mode ( New One Button )
+Warning : unable to set speech parameters
+option setting is missing " = " .
+Do you want to save your changes to % s ? Your changes will be lost if you don 't save them .
+Do you want to save your changes ? Your changes will be lost if you don 't save them .
+Are you sure you wish to quit ?
+Dasher is a predictive text entry application
+Application style ( traditional , direct , compose or fullscreen )

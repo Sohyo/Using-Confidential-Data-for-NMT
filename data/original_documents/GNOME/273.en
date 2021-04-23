@@ -1,0 +1,105 @@
+How to customize the author , color , style or icon of an annotation .
+Right click on the annotation icon in the document .
+The annotation properties will be applied to the note for which you made the changes only . Each note can have a different set of properties .
+Can I permanently change the default annotation properties ?
+Annotations can only be added to PDF files .
+Annotations can only be added to PDF files . If your file is of a format other than PDF , the option to add annotations will be greyed out ( disabled ) .
+How to create and customize annotations .
+Click on the icon to add a text annotation .
+You can resize the note by clicking and holding the left mouse button on one of the bottom corners of the note , and moving it around .
+Save a copy of an annotated PDF
+You can use annotations like bookmarks .
+How and where to report problems .
+This is a bug tracking system where users and developers can file details about bugs , crashes and request enhancements .
+File a Bug Core evince bug writing guidelines browse
+Your report will be given an ID number , and its status will be updated as it is being dealt with .
+You can open multiple files by typing the filenames after the evince command , separating the filenames by a space :
+Opening a document at a specific page
+You can convert a document to PDF by " printing " it to a file .
+You can convert documents of the following format types into PDF format :
+Device Independent file format ( .dvi )
+You can convert a document to PostScript .
+You can convert documents of the following format types to PostScript files :
+Tagged Image File Format ( .tiff , .tif )
+You can convert a document to SVG by " printing " it to a file .
+You can convert documents of the following format types to SVG files :
+Type the numbers of the pages in this order : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7 , 2
+Layout Two-side Short Edge ( Flip )
+Once the pages have printed , take the paper with page 2 on it , place it back in the printer , taking care to orient it correctly ( page 1 will be printed on the other side ) .
+It is easier to print a 12-page booklet . You may wish to add 2 blank pages to your PDF document to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 11 , 2 , 1
+Layout Two-side Short Edge ( Flip )
+Type the numbers of the remaining pages in this order : 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+It is easier to print a 12-page booklet . You may wish to add a blank page to your PDF document to make it 12-pages . To do so , you can :
+Type the numbers of the pages in this order : 12 , 1 , 2 , 11 , 10 , 3 , 4 , 9 , 8 , 5 , 6 , 7
+Once the page has printed , take the paper and place it back in the printer , taking care to orient it correctly ( page 2 will be printed on the other side ) .
+Once page 3 has printed , place the paper back in the printer taking care to orient it correctly ( pages 4 and 13 will be printed on the other side ) .
+It is easier to print a 16-page booklet . You may wish to add 3 blank pages to your PDF document to make it 16-pages . To do so , you can :
+Type the numbers of the pages in this order : 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9 , 2
+It is easier to print a 16-page booklet . You may wish to add 2 blank pages to your PDF document to make it 16-pages . To do so , you can :
+It is easier to print a 16-page booklet . You may wish to add a blank page to your PDF document to make it 16-pages . To do so , you can :
+16 , 1 , 2 , 15 , 14 , 3 , 4 , 13 , 12 , 5 , 6 , 11 , 10 , 7 , 8 , 9
+It is easier to print a 4-page booklet . You may wish to add a blank page to your PDF document to make it 4-pages . To do so , you can :
+Type the numbers of the pages in this order : 4 , 1 , 2 , 3
+Once page 3 has printed , place the paper back in the printer ( taking care to orient it correctly ( pages 4 and 9 will be printed on the other side ) .
+It is easier to print a 8-page booklet . You may wish to add 3 blank pages to your PDF document to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 6 , 3 , 4 , 5 , 2
+It is easier to print a 8-page booklet . You may wish to add 2 blank pages to your PDF document to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 7 , 2 , 1
+Type the numbers of the remaining pages in this order : 6 , 3 , 4 , 5
+It is easier to print a 8-page booklet . You may wish to add a blank page to your PDF document to make it 8-pages . To do so , you can :
+Type the numbers of the pages in this order : 8 , 1 , 2 , 7 , 6 , 3 , 4 , 5
+Once page 3 has printed , place the paper back in the printer taking care to orient it correctly ( pages 4 and 9 will be printed on the other side ) .
+It is easier to print a 12-page booklet . You may wish to add 3 blank pages to your PDF document to make it 12-pages . To do so , you can :
+Print a booklet over 16 pages .
+If the number of pages in your PDF document is not a multiple of 4 , you should add the appropriate number of blank pages ( 1,2 or 3 ) to make it a multiple of 4 . To do so , you can :
+n , 1 , 2 , n-1 , n-2 , 3 , 4 , n-3 , n-4 , 5 , 6 , n-5 , n-6 , 7 , 8 , n-7 , n-8 , 9 , 10 , n-9 , n-10 , 11 , 12 , n-11 ...
+... until you have typed n-number of pages .
+Can I edit documents in the document viewer ?
+Find a word or phrase in a document .
+Type the word or phrase you want to look for and a search will start automatically .
+To hide the search bar , click anywhere in the document .
+Only PDF documents are searchable . Some PDF documents are not searchable because their text is encoded in the document as an image .
+PDF , PostScript and many others are .
+Other Image Files ( .gif , .jpeg , .png )
+In some Linux distributions , not all formats are supported by default , so you might not be able to view all the formats listed above .
+You can make a selection in a scrollable list box by clicking on the list box and scrolling to your choice with your mouse .
+Make sure you save the form , otherwise all of the information you entered will be lost .
+After you have filled it out , you may wish to save your form in one of two ways :
+To save a copy that can be edited in the future ( form remains interactive ) :
+To save a copy that can no longer be edited ( for example , to e-mail the form or submit it on-line ) :
+Copies of encrypted files can 't be saved or printed .
+Inverting the colors can make it easier to read some text .
+Doing this can make it easier to read text , especially in the case of certain kinds of visual impairment .
+This work is distributed under a CreativeCommons Attribution-Share Alike 3.0 Unported license .
+To copy , distribute and transmit the work .
+You must attribute the work in the manner specified by the author or licensor ( but not in any way that suggests that they endorse you or your use of the work ) .
+If you alter , transform , or build upon this work , you may distribute the resulting work only under the same , similar or a compatible license .
+Creative Commons Attribution-Share Alike 3.0 United States License
+As a special exception , the copyright holders give you permission to copy , modify , and distribute the example code contained in this document under the terms of your choosing , without restriction .
+You can move around each page of a document by any of the following methods :
+Scrolling up and down using the mouse wheel . To move around a page just by moving the mouse :
+Move the mouse pointer towards the bottom of the window to scroll down ; it will scroll faster depending on how far down the window you go .
+To stop autoscrolling , click anywhere in the document .
+Using the up and down arrow keys of your keyboard .
+Dragging the page around with your mouse , as if you are grabbing it . To do this :
+Move the mouse pointer over the page and hold down the middle mouse button to drag it around .
+If you don 't have a middle mouse button , hold down the left and right mouse buttons at the same time , then drag .
+You can move between pages of a document using one of the following methods :
+To go to a specific page :
+If you want to go to the beginning or the end of the document :
+You can move between pages by clicking on them in the side pane .
+Most documents don 't use this feature , so you won 't be able to view their index in the side pane .
+Alternatively , you can do one of the following :
+select desired zoom percentage from the drop down menu above the window .
+You can use the whole of your screen to view the document :
+The author may have put printing restrictions on the document .
+A document might not print because of :
+There are many reasons why your printer might not be working . For example , it could be out of paper or ink , or unplugged or damaged .
+To check if your printer is printing correctly :
+Click on your printer in the list .
+Why can 't I open a file ?
+You can open a document using any one of the following ways :
+If a Document View window is already open you can :
+These passwords are set by the person who created the document .
+The presentation will be displayed full screen .

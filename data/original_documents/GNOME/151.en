@@ -1,0 +1,21 @@
+Drag and Drop a Data Provider on the Canvas
+Add Another Data Provider to the Group to Synchronize it
+Launch without GUI . [ default : % default ]
+Save dataprovider configuration to FILE . [ default : % default ]
+Iconify on startup . [ default : % default ]
+Run with the specified UI . [ default : % default ]
+Only load modules in the named files . [ default : load all modules ]
+Do not load modules in the named files . [ default : load all modules ]
+Explicitly set internal Conduit settings ( keys ) to the given values for this session . [ default : do not set ]
+Enable loading of unfinished or unsupported dataproviders . [ default : % default ]
+Generate more debugging information . [ default : % default ]
+Generate less debugging information . [ default : % default ]
+Generate no debugging information . [ default : % default ]
+Drag a Data Provider here to continue
+Synchronization in progress . Do you want to cancel it ?
+All folders require a descriptive name . To name a folder simply click on it
+Please start F-Spot or activate the D-Bus Extension
+Synchronizes files / folders to a N800 device
+Sync bookmarks to local places / files
+Sync bookmarks to remote places / files
+Disabling Shotwell module , unable to open sqlite3 data source

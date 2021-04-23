@@ -1,0 +1,150 @@
+Nach Schwarzweiß mit Steuerungsmöglichkeit umwandeln . Erfordert Mono 2.2 .
+Diese Erweiterung ermöglicht es , Ihre Fotos auf eine CD zu brennen .
+Diese Erweiterung ermöglicht es , Ihre Fotos nach Flickr und 23hq zu exportieren .
+Diese Erweiterung ermöglicht es , Ihre Fotos als HTML-Galerien , Original-Galerien oder in einen Ordner zu exportieren .
+Diese Erweiterung ermöglicht es , Ihre Fotos in eine PHP-Gallery ( http:/ /gallery.menalto.com ) zu exportieren .
+Diese Erweiterung ermöglicht es , Ihre Fotos nach PicasaWeb zu exportieren .
+Diese Erweiterung ermöglicht es , Ihre Fotos nach SmugMug zu exportieren .
+Diese Erweiterung ermöglicht es , Ihre Fotos nach Tabblo zu exportieren .
+NICHT STABIL - Bitte stellen Sie sicher , dass Sie eine Sicherungskopie von photos.db vor einem Test dieser Erweiterung erstellen . Diese Erweiterung ermöglicht es , den Basispfad Ihrer Fotos zu ändern . Es ist sehr praktisch z.B. Ihre Fotos von ~/ Photos nach / OurPhotos zu verschieben . Stellen Sie lediglich sicher , dass SqLite die Änderungen für einige Stunden umsetzen kann , nachdem f-spot den Abschluß gemeldet hat . Es wird nur der Pfad zu Ihren Fotos im Foto-Ordner geändert .
+Das Bild in UFRaw entwickeln und das Ergebnis als neue Version speichern\ \ Hinweis : Erfordert ufraw 0.13 oder eine CVS-Version neuer als vom 6.9.2007 ! ! !
+Fotos für andere Leute im gleichen Netzwerk mittels Web-Browser freigeben
+Eine andere Datenbank in die Hauptdatenbank zusammenführen
+Foto-Mosaike mit MetaPixel erstellen ( http:/ /www.complang.tuwien.ac.at/ schani/ metapixel/ )
+Fotowand mit PictureTile von Jamie Zawinski erstellen ( http:/ /www.jwz.org/ picturetile/ )
+RAW+Jpeg als mehrfache Versionen des selben Fotos vereinen
+Pfad zu eigener gtkrc zur Anpassung des Erscheinungsbildes von F-Spot .
+Die Breite , die für das Hauptfenster verwendet werden soll .
+Die Höhe , die für das Hauptfenster verwendet werden soll .
+Größe der Markierungssymbole in der Seitenleiste .
+Die Ausrichtung des Filmstreifens , wenn angezeigt .
+Die Größe der Seitenleiste im Hauptfenster .
+Die Größe ( Breite ) der Seitenleiste im Hauptfenster .
+Die Breite , die für den Import-Dialog verwendet werden soll .
+Die Höhe , die für den Import-Dialog verwendet werden soll .
+Die Breite , die für das Fenster des Bildbetrachters verwendet werden soll .
+Die Höhe , die für das Fenster des Bildbetrachters verwendet werden soll .
+Die X-Position des Fensters des Bildbetrachters .
+Die Y-Position des Fensters des Bildbetrachters .
+Die Werkzeugleiste im Fenster des Fotobetrachters zeigen .
+Den Dateinamen des aktuellen Fotos als Fenstertitel des Betrachters verwenden .
+Sie können wählen , wie transparente Bereiche eines Bildes dargestellt werden . Diese Einstellung hat keinen Effekt auf Fotos , aber eine Einstellung auf ein Schachbrettmuster ( CHECK_PATTERN ) oder eine frei wählbare Farbe ( CUSTOM_COLOR ) kann bei der Betrachtung von Symbolen und anderen Bildern mit transparenten Bereichen nützlich sein .
+Die für die transparenten Bereiche zu verwendende Farbe .
+Wenn die Option zur Transparenz gewählt ist , dann wird die hier ausgewählte Farbe als Transparenzfarbe beim Betrachten von Bildern verwendet .
+Foto » { 0 } « wird hochgeladen
+Keine Fotos gefunden , die mit { 0 } übereinstimmen
+Die Markierung » { 0 } « wird bei keinem Foto genutzt . Versuchen Sie , die Markierung zu einigen Fotos hinzuzufügen oder wählen Sie eine andere Markierung im F-Spot-Einstellungsdialog .
+Die Markierung , nach der F-Spot gesucht hat , existiert nicht . Versuchen Sie eine andere Markierung im F-Spot-Einstellungsdialog .
+Bitte warten Sie , während die Datenbank Ihrer F-Spot Galerie aktualisiert wird . Dies kann einige Zeit dauern .
+12,5 x 17,5 ( L , 2L )
+Wählen Sie den Bereich zum Zuschneiden aus .
+Wählen Sie die Augen , die korrigiert werden sollen .
+{ 0 } von { 1 }
+Diese Aktion wird die gewählten Markierungen und alle Untermarkierungen zu einer einzigen Markierung zusammenführen .
+Keine Berechtigung zum Löschen der Datei:{1}{0 }
+Ein Fehler des Typs { 0 } ist beim Löschen der Datei aufgetreten:{2}{1 }
+Wenn Fotos aus dem F-Spot-Katalog entfernt werden , gehen alle Markierungsinformationen verloren . Die Fotos bleiben jedoch auf dem Rechner erhalten und können wieder in F-Spot importiert werden .
+Die Markierung » { 0 } « löschen ?
+Die { 0 } ausgewählten Markierungen löschen ?
+Markierungen können nicht gelöscht werden , wenn sie weitere Markierungen beinhalten . Bitte löschen Sie zuerst die Markierungen unterhalb von » { 0 } « .
+Bearbeitet in { 1 } ( { 0 } )
+Diese Art von Foto konnte nicht gedreht werden
+Foto » { 0 } « wird gedreht
+Beim Versuch » { 1 } « zu drehen , wurde der Fehler » { 0 } « empfangen
+Bild » { 0 } « wird exportiert
+Ein Fehler ist beim Bearbeiten von » { 0 } « aufgetreten : { 1 }
+Fotos mit Markierung » { 0 } « hinzufügen
+Fotos mit Markierung » { 0 } « ausschließen
+Markierungen hier einfügen , um nach ihnen zu suchen
+Alle Fotos um { 0 } verschieben
+Die Ausnahme » { 0 } « wurde empfangen . Das Bild { 1 } kann nicht gespeichert werden .
+Symbol für Markierung { 0 } bearbeiten
+» { 0 } « kann nicht als Symbol für die Markierung geladen werden
+Foto { 0 } von { 1 }
+Verwenden Sie diese Option auf eigenes Risiko !
+Fotos werden importiert : { 0 } von { 1 }
+Nach Fotos wird gesucht ( Sie können auf » Importieren « klicken , um fortzusetzen )
+Einige Dateien konnten nicht importiert werden . Sie könnten beschädigt sein oder das Speichermedium könnte fehlerhaft sein , auf dem sie sich befinden .
+Ein Fehler trat beim Laden der Foto-Datenbank auf . Die alte Datenbank wurde nach » { 0 } « verschoben und eine neue Datenbank wurde erstellt .
+Symbol für diese Mark_ierung bei erster Benutzung erstellen
+Abbrechen , aktuelle Zeitlinie nicht ändern .
+Nur Fotos innerhalb dieser Daten werden angezeigt .
+Anzahl der Fotos in den ausgewählten Importen :
+Nur Fotos darstellen , die in den angegebenen Importen enthalten sind .
+Markierungen und Beschreibungen von Fotos hinterlegen :
+Erstellen Sie stattdessen XMP-Dateien zu den Bildern .
+Dieses Werkzeug benötigt eine aktive Auswahl . Bitte wählen Sie einen Bereich des Fotos aus und versuchen Sie es danach erneut .
+Die Ausnahme » { 0 } « wurde empfangen . Beachten Sie , dass RAW-Dateien vor der Bearbeitung erst in JPEG-Dateien umgewandelt werden müssen .
+Auf { 0 } zwischen { 1 } und { 2 }
+Zwischen { 0 } und { 1 }
+Das Foto » { 0 } « ist nicht vorhanden
+Soll die Version » { 0 } « wirklich gelöscht werden ?
+Dadurch wird die Version gelöscht und die entsprechende Datei vom Datenträger gelöscht .
+Soll die Version » { 0 } « wirklich von » { 1 } « abgetrennt werden ?
+Dadurch erscheint die Version als eigenständiges Foto in der Bibliothek . Um diesen Vorgang rückgängig zu machen , ziehen Sie das neue Foto an die Ausgangsposition zurück .
+Dadurch erscheinen die Fotos als einzelnes Bild in der Bibliothek . Im » Foto«-Menü können Sie die Versionen voneinander trennen .
+Fehler empfangen : » { 0 } «
+Bild » { 0 } « wird aktualisiert
+Originalgröße ( eventuell sehr große Dateigröße )
+Eine Mail mit den ausgewählten Fotos ( eventuell verkleinert ) angehängt erstellen
+Aktivieren Sie dies , um die Interpolation in vergrößerten Fotos zu erlauben . Zur Betrachtung von Fotos sollte die Interpolation nicht deaktiviert werden , für die Bearbeitung von Symbolen dagegen kann die Deaktivierung nützlich sein .
+Sie können wählen , wie transparente Bereiche eines Bildes dargestellt werden . Diese Einstellung hat keinen Effekt auf Fotos , aber eine Einstellung auf ein Schachbrettmuster oder eine frei wählbare Farbe kann bei der Betrachtung von Symbolen und anderen Bildern mit transparenten Bereichen nützlich sein .
+Papiergröße : { 0 } x { 1 } mm
+Wählen Sie den Bereich zum Ausschwärzen aus .
+Wählen Sie den Bereich zum Verpixeln aus .
+Übertragung des Bilds » { 0 } « auf CD
+Es existieren schon Objekte , die gespeichert werden müssen
+F-Spot startet nun Ihren Browser , so dass Sie die gerade gewählten Zugriffsrechte aktualisieren können . Sobald Sie von Facebook dazu geführt werden , zu dieser Anwendung zurückzukehren , klicken Sie auf » OK « .
+Facebook erlaubt nur { 0 } Fotos per Album . Bitte verkleinern Sie Ihre Auswahl und versuchen Sie es erneut .
+Bitte geben Sie den Namen des Albums an oder wählen Sie ein existierendes .
+Beim Anlegen des neuen Album ist ein Fehler aufgetreten . { 0 }
+Hochladen des Bildes » { 0 } « ( { 1 } von { 2 } )
+Fehler beim Hochladen zu Facebook : { 0 }
+F-Spot wird nun Ihren Browser starten , so dass Sie sich bei Facebook anmelden können . Sobald Sie von Facebook dazu geführt werden , zu dieser Anwendung zurückzukehren , klicken Sie auf » OK « .
+Es gab ein Problem beim Anmelden in Facebook . Überprüfen Sie Ihre Daten und versuchen Sie es erneut .
+Sitzung ist gestartet , Benutzerinformationen werden geholt
+Sitzung ist gestartet , Freundesliste wird geholt
+Sitzung ist gestartet , Details zu Freunden werden geholt
+Sitzung ist gestartet , Fotoalben werden geholt
+{ 0 } { 1 } ist bei Facebook angemeldet
+Beim Herunterladen Ihrer Informationen von Facebook trat ein Fehler auf . Facebook antwortete : { 0 }
+Kehren Sie zu diesem Fenster zurück , nachdem Sie die Legitimierung auf { 0 } durchgeführt haben , und klicken Sie auf den » Legitimierung vervollständigen«-Knopf unten
+Willkommen { 0 } , Sie sind nun mit { 1 } verbunden .
+{ 0 } von Ihrer monatlichen Quota von { 1 } in Benutzung
+Warte auf Antwort { 0 } von { 1 }
+Hochladen des Bilds » { 0 } «
+Fehler beim Hochladen von { 0 } : { 1 }
+Die Anmeldung bei { 0 } ist fehlgeschlagen . Stellen Sie sicher , dass Sie sich in der Internet-Browser-Oberfläche { 0 } legitimiert haben .
+F-Spot benötigt Ihre Legitimierung , um Fotos zu Ihrem { 0}-Benutzerkonto hochzuladen . Bitte klicken Sie auf den » Legitimieren«-Knopf , um einen Browser zu öffnen und F-Spot die benötigte Legitimierung zu geben .
+Die Fotos nach dem Hochladen im Browser an_zeigen
+» { 0 } « wird exportiert
+Fehler beim Kopieren von » { 0 } « in die Galerie:{2}{1 }
+Übertragung nach » { 0 } «
+_Galerie unter Verwendung von » Original « anlegen
+Der folgende Fehler trat beim Anmelden auf : { 0 }
+Eine Galerie mit diesem Namen existiert bereits
+In Ihren registrierten Galerien ist dieser Name bereits vorhanden . Bitte wählen Sie einen eindeutigen Namen .
+Verbindung nicht möglich zur Galerie mit unbekannter Version . Bitte überprüfen Sie , ob Sie das Remote-Plugin 1.0.8 oder eine neuere Version benutzen .
+Der Name der Galerie enthält ein ungültiges Zeichen . Nur Buchstaben , Zahlen , - und _ sind zulässig
+Der folgende Fehler trat beim Versuch auf , die gewünschte Aktion auszuführen : { 0 } ( { 1 } )
+Fehler beim Hochladen des Bildes » { 0 } « in die Galerie : { 1 }
+Überprüfen Sie bitte , ob die Einstellungen für diese Galerie korrekt sind .
+Das _Album nach dem Hochladen im Browser öffnen
+Der folgende Fehler trat beim Versuch auf , ein neues Album zu erstellen : { 0 }
+{ 0 } von ca. { 1 }
+Fehler beim Hochladen zur Galerie : { 0 }
+Verfügbarer Platz : { 0 } , { 1 } % benutzt von { 2 }
+Das ausgewählte Album hat ein Limit von { 0 } Bildern , dieses würde erreicht mit der aktuellen Auswahl von { 1 } Bildern
+F-Spot-Markierungen können Ihnen dabei helfen , den Exportstatus Ihrer Fotos zu verfolgen . Beispiel : Verwenden Sie eine bestimmte Markierung für Fotos , die Sie exportieren wollen , und eine weitere für jene Fotos , die bereits exportiert wurden . So können Sie F-Spot anweisen , diese Markierungen automatisch wie gewünscht zu ersetzen .
+Dieses Werkzeug benötigt eine aktive Auswahl . Bitte wählen Sie ein oder mehrere Fotos aus und versuchen Sie es danach erneut
+Bereite Foto » { 0 } « vor
+Den Basispfad ( die Adresse ) ändern in
+Die Web-Galerie scheint jetzt offline zu sein
+Galerie : { 0 } , Fotos : { 1 } , Letzter Betrachter : { 3 }
+Wenn die Galerie aktiv ist , wird oben die Adresse angezeigt , mit der Sie auf einem anderen Rechner auf die freigegebenen Fotos zugreifen können .
+Die Galerie bleibt aktiv , bis Sie sie entweder deaktivieren oder F-Spot schließen . Stellen Sie sicher , dass lokale Betrachter den HTTP-Proxy umgehen .
+Die ausgewählte Datei ist eine ungültige oder nicht unterstützte Datenbank . Ausnahmefehler : » { 0 } « .
+Bilder lokal kopieren oder sie an ihrem Ort belassen . Wenn Sie letzteres wählen , stellen Sie sicher , dass der Speicherort für f-spot erreichbar ist .
+Die Bilder in ihrem ursprünglichen Ordner belassen
+Wählen Sie , was aus der gewählten Datenbank importiert werden soll . » Nur neue Rollen « ist die intelligente Option , die das erneute Importieren von bereits früher importierten Bildern vermeidet . » Eine einzelne Rolle importieren « welche Rolle Sie zusammenführen möchte . » Alles « wird alles importieren und Duplikate erstellen , falls Sie von dieser Datenbank bereits früher importiert haben .
+Wählen Sie den Ordner , in dem sich die zu importierende Datenbank befindet

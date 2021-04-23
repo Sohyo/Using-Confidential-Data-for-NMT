@@ -1,0 +1,52 @@
+Conduit is a program that synchronizes things
+This manual describes version 1.0 of Conduit
+Any combination you can imagine , Conduit will take care of the conversion and synchronization .
+Nellie wants to keep a directory on his laptop and his desktop in sync
+Paul wants to keep his evolution contacts in sync with his mobile phone
+Steve wants to keep his gnome preferences in sync between his two computers
+Pete wants to have photos saved to his server to be pushed to an external back up ( usb hard drive / off-site ftp )
+Conduit 's goals are to synchronize your data as seamlessly as possible , be it from remote device or remote websites . It is about extending your life as you see it needs to be , no longer constrained by data , devices or formats . Conduit enables you to take your data where you want when you want . All of your mobile devices could be synchronized automatically by Conduit . Home file back-ups to a remote server ? Synced automatically .
+It may sometimes seem that Conduit is overly complicated , one of the design goals has always been to make the interface as simple and intuitive as possible . However Conduit is much more powerful then the simplistic design may lead on . This documentation will describe all the configuration options for groups and data providers , while the following gives some examples of items you may wish to synchronize ;
+A second laptop , also running GNOME
+Its hard enough keeping your information organized when limited to the desktop , let alone the added burden of keeping your information in sync with any of the other services or devices listed above .
+Our goal for Conduit is to allow GNOME users to keep their information in sync . Irrespective of the type , irrespective of the way in which that information is stored . Conduit should just work .
+Conduit has a few basic concepts worth understanding before you begin . Knowing these concepts will help you discover things that you never knew you could keep in sync , for example , uploading photos right from your mobile phone to Picasa !
+The file , edit and help menus store operations which apply to all groups . For more information on the contents of these menus , see below .
+Located on the left hand side of the window , lists all of the data providers that are detected and ready for use on your system .
+The Conduit preferences is accessed from the Edit menu . Any setting or change that you make within the preferences menu affect all of your sync groups and basic Conduit operations .
+The configuration tab is where all of Conduit 's global settings are configured . There are six global settings :
+Instructs Conduit that all configured dataproviders and groups should be saved when the application exits .
+Shows a status icon in the notification area . This icon animates to indicate a sync is in progress .
+Instructs Conduit to minimize to the notification area instead of to the panel .
+When a data provider requires that you log onto a website , this option tells Conduit to use its own web browser to do so .
+This tab shows a list of the data providers that are currently installed .
+This tab lists the data conversions that Conduit is capable of performing .
+This is a list of the UID that Conduit uses to maintain accurate sync data from different sources . Here you have the option to clear the mapping database .
+The window shown when logging into data provider websites
+Conduit represents the things your want to synchronize graphically . When data providers get added to the canvas , they get arranged into so called groups . A group is a collection of data providers that share data . In the figure below you will see the following parts
+A data provider for synchronizing two way whose status indicates that it is ready to be synchronized .
+A group containing two folder dataproviders . The arrow has two ends , indicating that the two dataproviders will undergo a two way synchronization , that is data will flow in both directions , and both folders will contain the same information once the sync finishes .
+A second folder data provider . By convention , data providers that lie on the right side of groups are called data sinks . This is because during a one way sync , data can only flow into them .
+A Facebook and Picasa data provider for uploading images to those sites . Notice that that the group has three data providers , and the arrow has changed to indicate that data will flow in only one direction , that is images will be uploaded from F-Spot to Facebook and Picasa .
+This section describes the steps required to synchronize two data providers . The example given illustrates how to synchronize two folders but the concepts are applicable to anything you wish to synchronize . If you need more information on specific settings please refer to the corresponding section of the documentation .
+The top group depicts a two way synchronization of two folders
+The bottom group depicts a one way sync of images , from F-Spot to Facebook , and to the Picasa web albums .
+On your desktop create three folders named folder1 , folder2 , and folder3 . Drag a file of your choice into folder1 .
+From the data provider pane , drag the folder data provider and drop it on the left hand side of the canvas pane . This will be the data source that we are going to sync from .
+Drag another folder data provider from the pane on the left . This time drop it adjacent to the folder1 dataprovider . This should result in an arrow connecting it to folder1 being created .
+Folder Location folder2 Folder Name # 4
+Synchronize the two folders by right clicking on them and selecting sync , or from the File menu . Once the sync is finished you should see the file that you placed in folder1 on your desktop within folder2 .
+Example 2 : Exporting Images to Multiple Destinations
+Drag a F-Spot data provider from the data provider pane and drop it onto an empty spot on the canvas . A new group containing just the F-Spot data provider will be created .
+Drag Facebook and Picasa data providers into the Group that was just created .
+Configure the data providers by double clicking on them .
+All sync operations work exactly like this . The only difference is the data you are syncing and the providers you are using . You always follow the same sequence of steps ,
+Add dataproviders to create a new group , or to an existing group .
+Configure the group , selecting what should happen on conflict , etc .
+Synchronize the dataproviders as you wish .
+If you have two computers at home , Conduit can be used to synchronize the data between them , directly , without first having to store the data somewhere else first . The steps below will illustrate how to synchronize Tomboy notes on two computers , called nzjrs-desktop and nzjrs-laptop . The following key will be used to help explain the setup procedure .
+The process below , although describing Tomboy note synchronization , could be suitably modified to synchronize all sorts of data between two computers , including Contacts , Calendar information , and even F-Spot photos .
+After a short delay , this will result in a new category being created on the second computer . The category will take the name of the first computer , nzjrs-desktop in my case , and it shall contain any dataproviders currently available for synchronization .
+Finally , on the second computer , start the sync in the normal manner .
+Your tomboy notes should now be synchronized between the two computers .
+Due to performance and security reasons , we do not recommend using the network sync feature to synchronize large files between two computers . We hope to address this limitation in the future .

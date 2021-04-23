@@ -1,0 +1,23 @@
+Server , username and domain name cannot be empty . Please fill them with correct values .
+Error fetching changes from the server .
+Could not create thread for populating cache
+Support for modifying single instances of a recurring appointment is not yet implemented . No change was made to the appointment on the server .
+Updating local summary cache for new messages in % s
+Retrieving message IDs from server for % s
+Removing deleted messages from cache in % s
+This message is not available in offline mode .
+Fetching summary information for new messages in % s
+Cannot get message : % s % s
+Cannot get message % s : % s
+Cannot append message to folder ' % s '
+Could not load summary for % s
+C _ heck for new messages in all folders
+_ Apply filters to new messages in Inbox on this server
+Only check for Junk messag _ es in the Inbox folder
+For accessing Microsoft Exchange / OpenChange servers using MAPI
+This option will connect to the Openchange server using a plaintext password .
+% s Please enter the MAPI password for % s @ % s
+Cannot create MAPI folders in offline mode .
+Cannot rename MAPI default folder ' % s '
+Cannot rename MAPI folder ' % s '
+Folder list not available in offline mode .

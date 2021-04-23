@@ -1,0 +1,90 @@
+http:/ /www.google.de/ search ? q=%samp ; ie=UTF-8amp ; oe=UTF-8
+Zeichenketten für Schlüsselworte suchen , die in die URL-Leiste eingegeben worden sind .
+Zeichenkette , welche als User Agent genutzt wird , um den Browser für die Internetserver zu identifizieren .
+Wenn Dateien nicht durch den Browser geöffnet werden können , werden diese automatisch in den Download-Ordner heruntergeladen und mit der geeigneten Anwendung geöffnet .
+Neue Fensteranfragen als Reiter anstatt als ein neues Fenster öffnen
+Legt fest , ob Passwörter von Webseiten gespeichert und ausgefüllt werden .
+Keine zusätzliche Anwendung benutzen , um den Quelltext der Seite zu betrachten .
+Legt fest , ob die letzte Sitzung automatisch wiederhergestellt wird
+Legt fest , wie Sitzungen während der Wiederherstellung beim Starten zu definieren sind . Erlaubte Werte sind » always « ( der vorherige Status der Anwendung wird immer wiederhergestellt ) , » crashed « ( die Sitzung wird nur bei einem Absturzes der Anwendung wiederhergestellt ) und » never « ( die Startseite wird immer angezeigt ) .
+Laden von Reitern verzögern , die bei der Sitzungswiederherstellung nicht sofort sichtbar sind
+Wenn diese Option aktiviert ist , werden Reiter bei der Sitzungswiederherstellung nicht sofort geladen , sondern erst , wenn der Benutzer in einen dieser Reiter wechselt .
+Stil der Werkzeugleiste . Erlaubte Werte sind » « ( den GNOME Standardstil nutzen ) , » both « ( Text und Symbole ) , » both-horiz « ( Texte neben Symbole ) , » icons « und » text « .
+[ Veraltet ] Diese Einstellung ist veraltet , nutzen Sie » tabs-bar-visibility-policy « stattdessen .
+Das Download-Fenster verstecken oder zeigen . Falls es versteckt ist , wird eine Meldung gezeigt , wenn neue Downloads gestartet worden sind .
+Legt fest , ob die Reiterleiste angezeigt wird . Mögliche Werte sind » always « ( die Reiterleiste wird immer angezeigt ) , » more-than-one « ( die Reiterleiste wird nur angezeigt , wenn dort zwei oder mehr Reiter sind ) und » never « ( die Reiterleiste wird nie angezeigt ) .
+Ein Wert , der genutzt wird , um die Arbeitsflächenschriftart Sans-Serif zu überschreiben , wenn use-gnome-fonts eingestellt ist .
+Ein Wert , der genutzt wird , um die Arbeitsflächenschriftart Serif zu überschreiben , wenn use-gnome-fonts eingestellt ist .
+Ein Wert , der genutzt wird , um die Arbeitsflächenschriftart Monospace zu überschreiben , wenn use-gnome-fonts eingestellt ist .
+Eigene Farben statt von der Seite angefragte Farben benutzen .
+Eigene Schriftarten statt von der Seite angefragte Schriftarten benutzen .
+Eine benutzerdefinierte CSS-Datei nutzen , um das CSS der Webseiten zu verändern .
+Jeden in editierbare Flächen eingegeben Text prüfen .
+Standardzeichenkodierung . Akzeptierte Werte sind die , die von WebKitGTK+ verstanden werden .
+Größe des Zwischenspeichers , in MB .
+Einstellung , ob Cookies akzeptiert werden . Mögliche Werte sind » anywhere « , » current site « und » nowhere « .
+Einstellung , ob Bildanimationen angezeigt werden . Mögliche Werte sind » normal « , » einmal « und » deaktiviert « .
+Neuen Seiten erlauben , neue Fenster mit JavaScript zu öffnen ( wenn JavaScript aktiviert ) .
+Legt fest , ob die Unterstützung für WebGL-Kontexte aktiviert wird .
+Legt fest , ob die Unterstützung für WebAudio-Kontexte aktiviert wird .
+Legt fest , ob Webseiten angezeigt wird , dass Sie nicht verfolgt werden möchten . Bitte beachten Sie , dass die Webseitenbetreiber nicht gezwungen sind , dieser Einstellung zu folgen .
+Legt fest , ob eingebettete Werbung innerhalb von Webseiten geblockt werden soll .
+Der Pfad des Ordners , wo die heruntergeladenen Dateien gespeichert werden sollen ; oder » Downloads « , um den voreingestellten Download-Ordner zu nutzen , oder » Schreibtisch « , um den Schreibtisch-Ordner zu nutzen .
+Legt fest , ob die Titelspalte im Verlaufsfenster angezeigt wird .
+Legt fest , ob die Adressspalte im Verlaufsfenster angezeigt wird .
+Legt fest , ob de Datum-Zeit Spalte im Verlaufsfenster angezeigt wird .
+Legt fest , ob die Titelspalte im Lesezeichenfenster angezeigt wird .
+Legt fest , ob die Datum-Zeit Spalte im Lesezeichenfenster angezeigt wird .
+Epiphany kann im Moment nicht verwendet werden , da die Initialisierung gescheitert ist .
+Ups ! Es war nicht möglich , diese Webseite zu laden
+%s %s Sie könnte vorübergehend nicht erreichbar sein oder zu einer neuen Adresse umgezogen sein . Falls das Problem weiterhin besteht , sollten Sie Ihre Internetverbindung überprüfen .
+Diese Seite könnte verursacht haben , dass der Webbrowser unerwartet beendet wurde
+Diese Seite wurde geladen , als der Webbrowser unerwartet beendet wurde . %s
+Ups ! Etwas ging schief beim Anzeigen von %s
+Etwas ging beim Anzeigen dieser Seite schief . Bitte laden Sie sie neu oder besuchen Sie eine andere Seite , um fortzusetzen .
+Temporärer Ordner konnte nicht in » %s « angelegt werden .
+Die Datei » %s « existiert , bitte entfernen Sie sie von dort .
+Ordner » %s « konnte nicht angelegt werden .
+Ordner » %s « ist nicht beschreibbar
+Sie haben nicht die nötigen Zugriffsrechte , um in diesem Ordner Dateien zu erstellen .
+Vorhandene Datei » %s « kann nicht überschrieben werden
+Eine Datei mit diesem Namen ist bereits vorhanden . Beim Überschreiben dieser Datei geht ihr Inhalt verloren .
+Hilfe konnte nicht angezeigt werden : %s
+Passwörter der vorhergehenden Version ( Gecko ) sind mit einem Master-Passwort gesperrt . Wenn Epiphany sie importieren soll , dann geben Sie bitte das Master-Passwort unten ein .
+Epiphany 3.6 lehnt diesen Ordner ab und versucht diese Konfiguration nach ~/ .config/ epiphany zu migrieren .
+Bestimmt das Profil , wo der Migrator ausgeführt werden sollte
+%-d . %b %-H:%Mfriendly timeFeb 12 1997
+Das Zertifikat stimmt nicht mit der erwarteten Identität überein
+Die Aktivierungszeit des Zertifikats liegt in der Zukunft
+Die Identität dieser Webseite wurde nicht bestätigt
+Ziehen Sie dieses Symbol und legen Sie es ab , um einen Verweis zu dieser Seite zu erstellen
+Das gewählte Lesezeichen in einem neuen Fenster öffnen
+Das gewählte Lesezeichen in einem neuen Reiter öffnen
+Die Eigenschaften des gewählten Lesezeichens anzeigen / bearbeiten
+Lesezeichen aus einem anderen Browser oder einer Lesezeichendatei importieren
+Soll das Thema » %s « gelöscht werden ?
+Das Löschen dieses Themas hat zur Folge , dass alle in ihm enthaltenen Lesezeichen unzugeordnet sein werden , sofern sie zu keinem anderen Thema gehören . Die Lesezeichen werden nicht gelöscht .
+Die Lesezeichen von » %s « konnten nicht importiert werden , da die Datei beschädigt ist oder ihr Format nicht unterstützt wird .
+Lesezeichen in diesem Thema in neuen Reitern öffnen
+Zum Beispiel nicht von Werbekunden dieser Seite
+_Webseiten anzeigen , dass Sie nicht verfolgt werden möchten
+Den gewählten Chronik-Verweis in einem neuen Fenster öffnen
+Den gewählten Chronik-Verweis in einem neuen Reiter öffnen
+Das Leeren der Browser-Chronik sorgt dafür , dass alle Verweise in der Chronik dauerhaft gelöscht werden .
+Einen neuen Reiter in einem bestehenden Fenster öffnen
+Der Webbrowser konnte nicht gestartet werden : %s
+Einige Änderungen an Formularelementen wurden nicht übertragen
+Falls Sie das Dokument dennoch schließen , gehen diese Informationen verloren .
+In diesem Fenster gibt es aktive Downloads
+Falls Sie dieses Fenster schließen , werden die Downloads abgebrochen
+Wählen Sie die persönlichen Daten , die gelöscht werden sollen
+Sie sind im Begriff , persönliche Daten über Ihre besuchten Webseiten zu löschen . Überprüfen Sie die Art der zu löschenden Informationen , bevor Sie fortfahren :
+Eine Web-Anwendung dieses namens » %s « existiert bereits . Wollen Sie sie ersetzen ?
+Eine Anwendung mit diesem Namen ist bereits vorhanden . Beim Überschreiben geht ihr Inhalt verloren .
+Die Anwendung » %s « ist bereit zur Benutzung
+Die Anwendung » %s « konnte nicht erzeugt werden
+Der Webbrowser ist freie Software . Sie können ihn unter den Bedingungen der GNU General Public License , wie von der Free Software Foundation veröffentlicht , weitergeben und/ oder modifizieren , entweder gemäß Version 2 der Lizenz oder ( nach Ihrer Option ) jeder späteren Version .
+Die Veröffentlichung des Webbrowsers erfolgt in der Hoffnung , dass er Ihnen von Nutzen sein wird , aber OHNE IRGENDEINE GARANTIE , sogar ohne die implizierte Garantie der MARKTREIFE oder der VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK . Details finden Sie in der GNU General Public License .
+Sie sollten ein Exemplar der GNU General Public License zusammen mit dem Webbrowser erhalten haben . Falls nicht , schreiben Sie an die Free Software Foundation , Inc. , 51 Franklin Street , Fifth Floor , Boston , MA 02110-1301 , USA .
+Ein einfacher , klarer , wunderschöner Blick auf das Internet . Basierend auf WebKit %d.%d.%d
+Durch Drücken von F7 schalten Sie den Caret-Modus ein oder aus . Dieses Funktionsmerkmal platziert einen beweglichen Cursor in Webseiten , den Sie mit der Tastatur steuern können . Wollen Sie den Caret-Modus einschalten ?
