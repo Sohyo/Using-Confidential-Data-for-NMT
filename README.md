@@ -1,6 +1,6 @@
 # Using Confidential Data for NMT Domain Adaptation
 
- 
+This is the page for the datasets used for the paper _Using Confidential Data for NMT Domain Adaptation_.
 All the original parallel corpora are from [OPUS](https://opus.nlpl.eu/).
 
 We chose **EMEA**, **GNOME** and **JRC-Acquis** domains for German to English. 
@@ -23,7 +23,9 @@ We chose **EMEA**, **GNOME** and **JRC-Acquis** domains for German to English.
     - All documents are named sequentially from the number 1.
     - Currently, JRC is not online but it will be uploaded soon.
 
+
 ### Statistics of datasets
+
 
 - Full sentence datasets
 
