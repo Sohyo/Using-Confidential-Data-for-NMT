@@ -6,7 +6,6 @@ All the original parallel corpora are from [OPUS](https://opus.nlpl.eu/).
 We chose **EMEA**, **GNOME** and **JRC-Acquis** domains for German to English. 
 
 
-##
 
 ## Description of datasets
 
