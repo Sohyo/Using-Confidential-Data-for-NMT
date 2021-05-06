@@ -39,4 +39,4 @@ Test | 2k
 ## References/Credits
 Please cite the following paper if you use the code and of course thanks for that!
 
-* Sohyung Kim S., Bisazza A., Turkmen F., **Using Confidential Data for Domain Adaptation of Neural Machine Translation**, Third Workshop on Privacy in Natural Language Processing (PrivateNLP) 2021, Colocated with NAACL 2021  (To Appear).
+* Sohyung K., Bisazza A., Turkmen F., **Using Confidential Data for Domain Adaptation of Neural Machine Translation**, Third Workshop on Privacy in Natural Language Processing (PrivateNLP) 2021, Colocated with NAACL 2021  (To Appear).
